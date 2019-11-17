@@ -19,6 +19,10 @@
   </url>
   
   <url>
+    <loc>https://miry1919.github.io/hugosite/</loc>
+  </url>
+  
+  <url>
     <loc>https://miry1919.github.io/hugosite/podcast/</loc>
   </url>
   
@@ -28,10 +32,6 @@
   
   <url>
     <loc>https://miry1919.github.io/hugosite/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://miry1919.github.io/hugosite/</loc>
   </url>
   
 </urlset>
