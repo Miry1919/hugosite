@@ -1,5 +1,39 @@
 baseURL = "https://miry1919.github.io/hugosite/"
 publishDir = "docs"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Welcome"
 theme = "minimal"
+
+[params]
+    accent = "red"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway"
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 2
+
+[[menu.main]]
+    url = "/post/"
+    name = "Posts"
+    weight = 3
+
+[[menu.main]]
+    url = "/podcast/"
+    name = "Podcast"
+    weight = 4
+
+[[menu.icon]]
+    url = "https://twitter.com/Miry1919/"
+    name = "twitter"
+    weight = 1
