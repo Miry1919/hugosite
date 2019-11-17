@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://miry1919.github.io/hugosite/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/</loc>
   </url>
   
@@ -20,6 +16,10 @@
   
   <url>
     <loc>https://miry1919.github.io/hugosite/</loc>
+  </url>
+  
+  <url>
+    <loc>https://miry1919.github.io/hugosite/about/</loc>
   </url>
   
   <url>
