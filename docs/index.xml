@@ -6,9 +6,19 @@
     <description>Recent content in Home on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 17 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://miry1919.github.io/hugosite/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Il sito è finalmente online</title>
+      <link>https://miry1919.github.io/hugosite/post/sito-online/</link>
+      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://miry1919.github.io/hugosite/post/sito-online/</guid>
+      <description>Da molto tempo volevo crearne uno. Poi mi sono decisa.  </description>
+    </item>
     
     <item>
       <title>About</title>
@@ -17,15 +27,6 @@
       
       <guid>https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/</guid>
       <description>Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again. Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.</description>
-    </item>
-    
-    <item>
-      <title>Il sito è finalmente online</title>
-      <link>https://miry1919.github.io/hugosite/post/sito-online/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://miry1919.github.io/hugosite/post/sito-online/</guid>
-      <description>Da molto tempo volevo crearne uno. Poi mi sono decisa.  </description>
     </item>
     
     <item>
