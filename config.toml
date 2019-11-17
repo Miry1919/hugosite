@@ -30,7 +30,7 @@ theme = "minimal"
 
 [[menu.main]]
     url = "/podcast/"
-    name = "Podcast"
+    name = "Podcasts"
     weight = 4
 
 [[menu.icon]]
