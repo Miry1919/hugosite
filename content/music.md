@@ -1,6 +1,6 @@
 ---
-title: Music ♪
-date: 2019-11-18
+title: Music
+description: ♪
 ---
 <div align="center">
 Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultimi anni:
