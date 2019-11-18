@@ -12,6 +12,4 @@ description: Chi?
   Qui scriverò e parlerò di ciò che anima la mia vita. Non so quanto mi riuscirà. Sarai tu, caro lettore o caro ascoltatore, a giudicare.
 
   Sappi che faccio tutto con passione.
-  
-  ✎
 </div>
