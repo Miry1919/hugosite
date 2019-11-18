@@ -32,6 +32,11 @@ theme = "minimal"
     url = "/podcast/"
     name = "Podcasts"
     weight = 4
+    
+[[menu.main]]
+    url = "/music/"
+    name = "Music"
+    weight = 5
 
 [[menu.icon]]
     url = "https://twitter.com/Miry1919/"
