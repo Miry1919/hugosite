@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://miry1919.github.io/hugosite/podcast/easyapple/</loc>
-    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+    <loc>https://miry1919.github.io/hugosite/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://miry1919.github.io/hugosite/</loc>
+    <loc>https://miry1919.github.io/hugosite/post/le-parole/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://miry1919.github.io/hugosite/post/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://miry1919.github.io/hugosite/podcast/easyapple/</loc>
     <lastmod>2019-11-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -19,11 +29,6 @@
   
   <url>
     <loc>https://miry1919.github.io/hugosite/podcast/</loc>
-    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://miry1919.github.io/hugosite/post/</loc>
     <lastmod>2019-11-17T00:00:00+00:00</lastmod>
   </url>
   
