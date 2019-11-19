@@ -14,4 +14,4 @@ description: Chi?
   Sappi che faccio tutto con passione.
 </div>
 
-![](/docs/ME.jpeg)
+![ME](/images/ME.jpeg)
