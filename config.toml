@@ -34,9 +34,15 @@ theme = "minimal"
     weight = 4
     
 [[menu.main]]
+    url = "/book/"
+    name = "Books"
+    weight = 5
+
+    
+[[menu.main]]
     url = "/music/"
     name = "Music"
-    weight = 5
+    weight = 6
 
 [[menu.icon]]
     url = "https://twitter.com/Miry1919/"
