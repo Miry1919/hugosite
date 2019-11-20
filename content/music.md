@@ -1,6 +1,6 @@
 ---
 title: Music
-description: ♪
+description: ♫
 ---
 <div align="center">
 Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultimi anni:
