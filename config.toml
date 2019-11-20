@@ -9,7 +9,7 @@ theme = "minimal"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway"
-    highlight = true
+    highlight = false
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
@@ -34,7 +34,7 @@ theme = "minimal"
     weight = 4
     
 [[menu.main]]
-    url = "/book/"
+    url = "/books/"
     name = "Books"
     weight = 5
 
