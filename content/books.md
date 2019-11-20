@@ -1,6 +1,6 @@
 ---
 title: Books
-description: ≡
+description: ¶
 ---
 
 ### <div align="center">Sto leggendo</div>
