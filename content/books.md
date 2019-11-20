@@ -3,18 +3,18 @@ title: Books
 description: ¶
 ---
 
-### <span style="color:red"><div align="center">Sto leggendo</div></span>
+#### <span style="color:red">Sto leggendo</span>
 * Lezioni di letteratura — Vladimir Nabokov
 * Ready to Run: Unlocking Your Potential to Run Naturally — Kelly Starrett
 
-### <div align="center">Leggerò a breve</div>
+#### <div align="center">Leggerò a breve</div>
 * Modernità Liquida — Zygmunt Bauman
 * #Humanless. L'algoritmo egoista — Massimo Chiriatti
 * Indistractable: How to Control Your Attention and Choose Your Life — Nir Eyal
 * Deskbound: Standing Up to a Sitting World — Kelly Starrett
 
 
-### <div align="center">Ho letto e consiglio</div>
+#### <div align="center">Ho letto e consiglio</div>
 * La metafisica — Aristotele
 * Il lungo racconto dell'origine. I grandi miti e le teorie con cui l'umanità ha spiegato l'universo — Margherita Hack
 * L'arte di correre — Haruki Murakami
