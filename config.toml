@@ -9,9 +9,6 @@ theme = "minimal"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway"
-    highlight = false
-    highlightStyle = "default"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 [[menu.main]]
     url = "/"

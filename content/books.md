@@ -3,7 +3,7 @@ title: Books
 description: ¶
 ---
 
-### <div align="center">Sto leggendo</div>
+### <span style="color:red"><div align="center">Sto leggendo</div></span>
 * Lezioni di letteratura — Vladimir Nabokov
 * Ready to Run: Unlocking Your Potential to Run Naturally — Kelly Starrett
 
