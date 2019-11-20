@@ -4,45 +4,44 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* Lezioni di letteratura — Vladimir Nabokov
-* Ready to Run: Unlocking Your Potential to Run Naturally — Kelly Starrett
+* _Lezioni di letteratura_ — Vladimir Nabokov
+* _Ready to Run: Unlocking Your Potential to Run Naturally_ — Kelly Starrett
 
 #### <span style="color:red">Leggerò a breve</span>
-* Modernità Liquida — Zygmunt Bauman
-* #Humanless. L'algoritmo egoista — Massimo Chiriatti
-* Indistractable: How to Control Your Attention and Choose Your Life — Nir Eyal
-* Deskbound: Standing Up to a Sitting World — Kelly Starrett
-
+* _Modernità Liquida_ — Zygmunt Bauman
+* _#Humanless. L'algoritmo egoista_ — Massimo Chiriatti
+* _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
+* _Deskbound: Standing Up to a Sitting World_ — Kelly Starrett
 
 #### <span style="color:red">Ho letto e consiglio</span>
-* La metafisica — Aristotele
-* Il lungo racconto dell'origine. I grandi miti e le teorie con cui l'umanità ha spiegato l'universo — Margherita Hack
-* L'arte di correre — Haruki Murakami
-* L'arte di essere fragili. Come Leopardi può salvarti la vita — Alessandro D'Avenia
-* La paranza dei bambini — Roberto Saviano
-* Piccole donne — Louisa May Alcott
-* L'amica geniale (volume primo) — Elena Ferrante
-* Dal big bang ai buchi neri. Breve storia del tempo — Stephen W. Hawking
-* Pesciolino — Lisa Brennan-Jobs
-* Diario di un'apprendista astronauta — Samantha Cristoforetti
-* Ci sono luoghi al mondo dove più che le regole è importante la gentilezza. Articoli per i giornali — Carlo Rovelli
-* La banalità del male. Eichmann a Gerusalemme — Hannah Arendt
-* Guida galattica per gli autostoppisti. Il ciclo completo — Douglas Adams
-* Racconti di Pietroburgo — Nikolaj Gogol'
-* Flatlandia — Edwin A. Abbott
-* Il Maestro e Margherita — Michail Bulgakov
-* La morte mi è vicina — Colin Dexter
-* Discorso sul metodo — Cartesio
-* Questione di virgole. Punteggiare rapido e accorto — Leonardo G. Luccone
-* Se tremi sull'orlo. Lettere a un cercatore di sé — Henry David Thoreau
-* L'uomo artigiano — Richard Sennet
-* Il processo — Franz Kafka
-* Quiet: Il potere degli introversi in un mondo che non sa smettere di parlare — Susan Cain
-* La fattoria degli animali — George Orwell
-* Cecità — José Saramago
-* Ciò che inferno non è — Alessandro D'Avenia
-* 1984 — George Orwell
-* I fratelli Karamazov — Fëdor Dostoevskij
-* A piedi nudi su Marte. Viaggio nel sistema solare interno: 4 pianeti, 3 lune e una stella coi fiocchi — Adrian Fartade
-* Tecnologie Radicali. Il progetto della vita quotidiana — Adam Greenfield
-* La storia — Elsa Morante
+* _La metafisica_ — Aristotele
+* _Il lungo racconto dell'origine. I grandi miti e le teorie con cui l'umanità ha spiegato l'universo_ — Margherita Hack
+* _L'arte di correre_ — Haruki Murakami
+* _L'arte di essere fragili. Come Leopardi può salvarti la vita_ — Alessandro D'Avenia
+* _La paranza dei bambini_ — Roberto Saviano
+* _Piccole donne_ — Louisa May Alcott
+* _L'amica geniale (volume primo)_ — Elena Ferrante
+* _Dal big bang ai buchi neri. Breve storia del tempo_ — Stephen W. Hawking
+* _Pesciolino_ — Lisa Brennan-Jobs
+* _Diario di un'apprendista astronauta_ — Samantha Cristoforetti
+* _Ci sono luoghi al mondo dove più che le regole è importante la gentilezza. Articoli per i giornali_ — Carlo Rovelli
+* _La banalità del male. Eichmann a Gerusalemme_ — Hannah Arendt
+* _Guida galattica per gli autostoppisti. Il ciclo completo_ — Douglas Adams
+* _Racconti di Pietroburgo_ — Nikolaj Gogol'
+* _Flatlandia_ — Edwin A. Abbott
+* _Il Maestro e Margherita_ — Michail Bulgakov
+* _La morte mi è vicina_ — Colin Dexter
+* _Discorso sul metodo_ — Cartesio
+* _Questione di virgole. Punteggiare rapido e accorto_ — Leonardo G. Luccone
+* _Se tremi sull'orlo. Lettere a un cercatore di sé_ — Henry David Thoreau
+* _L'uomo artigiano_ — Richard Sennet
+* _Il processo_ — Franz Kafka
+* _Quiet: Il potere degli introversi in un mondo che non sa smettere di parlare_ — Susan Cain
+* _La fattoria degli animali_ — George Orwell
+* _Cecità_ — José Saramago
+* _Ciò che inferno non è_ — Alessandro D'Avenia
+* _1984_ — George Orwell
+* _I fratelli Karamazov_ — Fëdor Dostoevskij
+* _A piedi nudi su Marte. Viaggio nel sistema solare interno: 4 pianeti, 3 lune e una stella coi fiocchi_ — Adrian Fartade
+* _Tecnologie Radicali. Il progetto della vita quotidiana_ — Adam Greenfield
+* _La storia_ — Elsa Morante
