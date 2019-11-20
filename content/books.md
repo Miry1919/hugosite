@@ -2,8 +2,19 @@
 title: Books
 description: ≡
 ---
-### _<div align="center">Che consiglio</div>_
 
+### <div align="center">Sto leggendo</div>
+* Lezioni di letteratura — Vladimir Nabokov
+* Ready to Run: Unlocking Your Potential to Run Naturally — Kelly Starrett
+
+### <div align="center">Leggerò a breve</div>
+* Modernità Liquida — Zygmunt Bauman
+* #Humanless. L'algoritmo egoista — Massimo Chiriatti
+* Indistractable: How to Control Your Attention and Choose Your Life — Nir Eyal
+* Deskbound: Standing Up to a Sitting World — Kelly Starrett
+
+
+### <div align="center">Ho letto e consiglio</div>
 * La metafisica — Aristotele
 * Il lungo racconto dell'origine. I grandi miti e le teorie con cui l'umanità ha spiegato l'universo — Margherita Hack
 * L'arte di correre — Haruki Murakami
@@ -35,13 +46,3 @@ description: ≡
 * A piedi nudi su Marte. Viaggio nel sistema solare interno: 4 pianeti, 3 lune e una stella coi fiocchi — Adrian Fartade
 * Tecnologie Radicali. Il progetto della vita quotidiana — Adam Greenfield
 * La storia — Elsa Morante
-
-### _<div align="center">Che sto leggendo</div>_
-* Lezioni di letteratura — Vladimir Nabokov
-* Ready to Run: Unlocking Your Potential to Run Naturally — Kelly Starrett
-
-### _<div align="center">Che leggerò a breve</div>_
-* Modernità Liquida — Zygmunt Bauman
-* #Humanless. L'algoritmo egoista — Massimo Chiriatti
-* Indistractable: How to Control Your Attention and Choose Your Life — Nir Eyal
-* Deskbound: Standing Up to a Sitting World — Kelly Starrett
