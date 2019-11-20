@@ -10,5 +10,14 @@
 	<atom:link href="https://miry1919.github.io/hugosite/book/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Books</title>
+      <link>https://miry1919.github.io/hugosite/book/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://miry1919.github.io/hugosite/book/books/</guid>
+      <description>Consigliati: * La metafisica — Aristotele * Il lungo racconto dell&amp;rsquo;origine. I grandi miti e le teorie con cui l&amp;rsquo;umanità ha spiegato l&amp;rsquo;universo — Margherita Hack * L&amp;rsquo;arte di correre — Haruki Murakami * L&amp;rsquo;arte di essere fragili. Come Leopardi può salvarti la vita — Alessandro D&amp;rsquo;Avenia * La paranza dei bambini — Roberto Saviano * Piccole donne — Louisa May Alcott * L&amp;rsquo;amica geniale (volume primo) — Elena Ferrante * Dal big bang ai buchi neri.</description>
+    </item>
+    
   </channel>
 </rss>
