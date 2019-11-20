@@ -2,8 +2,8 @@
 title: Books
 description: ≡
 ---
+### _<div align="center">Che consiglio</div>_
 
-Consigliati:
 * La metafisica — Aristotele
 * Il lungo racconto dell'origine. I grandi miti e le teorie con cui l'umanità ha spiegato l'universo — Margherita Hack
 * L'arte di correre — Haruki Murakami
@@ -36,11 +36,11 @@ Consigliati:
 * Tecnologie Radicali. Il progetto della vita quotidiana — Adam Greenfield
 * La storia — Elsa Morante
 
-Sto leggendo:
+### _<div align="center">Che sto leggendo</div>_
 * Lezioni di letteratura — Vladimir Nabokov
 * Ready to Run: Unlocking Your Potential to Run Naturally — Kelly Starrett
 
-Leggerò:
+### _<div align="center">Che leggerò a breve</div>_
 * Modernità Liquida — Zygmunt Bauman
 * #Humanless. L'algoritmo egoista — Massimo Chiriatti
 * Indistractable: How to Control Your Attention and Choose Your Life — Nir Eyal
