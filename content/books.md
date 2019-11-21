@@ -7,11 +7,15 @@ description: ¶
 * _Lezioni di letteratura_ — Vladimir Nabokov
 * _Ready to Run: Unlocking Your Potential to Run Naturally_ — Kelly Starrett
 
+&nbsp;
+
 #### <span style="color:red">Leggerò a breve</span>
 * _Modernità Liquida_ — Zygmunt Bauman
 * _#Humanless. L'algoritmo egoista_ — Massimo Chiriatti
 * _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
 * _Deskbound: Standing Up to a Sitting World_ — Kelly Starrett
+
+&nbsp;
 
 #### <span style="color:red">Ho letto e consiglio</span>
 * _La metafisica_ — Aristotele
@@ -46,5 +50,6 @@ description: ¶
 * _Tecnologie Radicali. Il progetto della vita quotidiana_ — Adam Greenfield
 * _La storia_ — Elsa Morante
 
+&nbsp;
 
 Non ho incluso i libri letti come compito per la scuola. Perché, secondo me, si comincia ad amare la lettura, quando si decide per conto proprio di scoprirla scegliendo quali libri leggere.
