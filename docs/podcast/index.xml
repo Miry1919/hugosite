@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Podcasts on Hello</title>
-    <link>https://miry1919.github.io/hugosite/podcast/</link>
+    <link>https://miriananovella.github.io/hugosite/podcast/</link>
     <description>Recent content in Podcasts on Hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://miry1919.github.io/hugosite/podcast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://miriananovella.github.io/hugosite/podcast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>EasyApple</title>
-      <link>https://miry1919.github.io/hugosite/podcast/easyapple/</link>
+      <link>https://miriananovella.github.io/hugosite/podcast/easyapple/</link>
       <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/podcast/easyapple/</guid>
+      <guid>https://miriananovella.github.io/hugosite/podcast/easyapple/</guid>
       <description>Sono stata ospite due volte in questo bellissimo podcast. Vi lascio le due puntate qui sotto.   16/05/2014 12/04/2019  </description>
     </item>
     
     <item>
       <title>Tenero Gheriglio</title>
-      <link>https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/</link>
+      <link>https://miriananovella.github.io/hugosite/podcast/tenero-gheriglio/</link>
       <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/</guid>
+      <guid>https://miriananovella.github.io/hugosite/podcast/tenero-gheriglio/</guid>
       <description>C&#39;è un podcast dietro le quinte: arriverà nel 2020. Forse questo non sarà il suo titolo definitivo.  </description>
     </item>
     
