@@ -48,6 +48,7 @@ description: ¶
 * _I fratelli Karamazov_ — Fëdor Dostoevskij
 * _A piedi nudi su Marte. Viaggio nel sistema solare interno: 4 pianeti, 3 lune e una stella coi fiocchi_ — Adrian Fartade
 * _Tecnologie Radicali. Il progetto della vita quotidiana_ — Adam Greenfield
+*_The One Device: The Secret History of the iPhone_ — Brian Merchant
 * _La storia_ — Elsa Morante
 
 &nbsp;
