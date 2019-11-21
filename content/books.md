@@ -45,3 +45,5 @@ description: ¶
 * _A piedi nudi su Marte. Viaggio nel sistema solare interno: 4 pianeti, 3 lune e una stella coi fiocchi_ — Adrian Fartade
 * _Tecnologie Radicali. Il progetto della vita quotidiana_ — Adam Greenfield
 * _La storia_ — Elsa Morante
+
+Non ho incluso i libri letti come compito per la scuola. Perché, secondo me, si comincia ad amare la lettura, quando si decide per conto proprio di scoprirla scegliendo quali libri leggere.
