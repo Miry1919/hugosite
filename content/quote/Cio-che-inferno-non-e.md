@@ -36,8 +36,11 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
-«Impariamo tutto. Ci insegnano tutto. Invece l'amore, che è la cosa più importante e la più difficile, nessuno ce lo insegna. Eppure se non lo impari resti un analfabeta a vita. (WA) Pag. 154
-Ogni insegnante è il potenziale bellico più pericoloso di uno Stato, fusione capace di innescare reazioni atomiche insospettate.»
+«Impariamo tutto. Ci insegnano tutto. Invece l'amore, che è la cosa più importante e la più difficile, nessuno ce lo insegna. Eppure se non lo impari resti un analfabeta a vita.»
+
+&nbsp;
+
+«Ogni insegnante è il potenziale bellico più pericoloso di uno Stato, fusione capace di innescare reazioni atomiche insospettate.»
 
 &nbsp;
 
