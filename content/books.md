@@ -48,7 +48,7 @@ description: ¶
 * _I fratelli Karamazov_ — Fëdor Dostoevskij
 * _A piedi nudi su Marte. Viaggio nel sistema solare interno: 4 pianeti, 3 lune e una stella coi fiocchi_ — Adrian Fartade ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/a-piedi-nudi-su-marte/)
 * _Tecnologie Radicali. Il progetto della vita quotidiana_ — Adam Greenfield ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/tecnologie-radicali/)
-*_The One Device: The Secret History of the iPhone_ — Brian Merchant ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/the-one-device/)
+* _The One Device: The Secret History of the iPhone_ — Brian Merchant ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/the-one-device/)
 * _La storia_ — Elsa Morante
 
 &nbsp;
