@@ -94,7 +94,7 @@ a:hover {
 
 .navbar-icon {
     font-size: 125%;
-    display: inline-block !important;
+    display: inline !important;
 }
 
 /* Colored borders at top/bottom of page */
