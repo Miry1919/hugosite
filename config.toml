@@ -36,9 +36,14 @@ theme = "minimal"
     weight = 5
     
 [[menu.main]]
+    url = "/quote/"
+    name = "Quotes"
+    weight = 6
+    
+[[menu.main]]
     url = "/music/"
     name = "Music"
-    weight = 6
+    weight = 7
 
 [[menu.icon]]
     url = "https://twitter.com/Miry1919/"

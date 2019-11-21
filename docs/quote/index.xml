@@ -1,52 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Hello</title>
-    <link>https://miry1919.github.io/hugosite/</link>
-    <description>Recent content in Home on Hello</description>
+    <title>Quotes on Hello</title>
+    <link>https://miry1919.github.io/hugosite/quote/</link>
+    <description>Recent content in Quotes on Hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://miry1919.github.io/hugosite/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://miry1919.github.io/hugosite/quote/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Le parole scritte non faranno troppo rumore</title>
-      <link>https://miry1919.github.io/hugosite/post/le-parole/</link>
-      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://miry1919.github.io/hugosite/post/le-parole/</guid>
-      <description>È venuto il momento di decidere cosa vuole diventare questo sito. Ma sai che c&#39;è? C&#39;è che non è necessario. Voglio per una volta lasciare che la creatività prenda il sopravvento. Posterò ogni tanto, quando sentirò che le parole scritte avranno bisogno del loro piccolo spazio nell&#39;infinito universo di internet. Staranno lì buone e fiere del loro intrinseco significato. Non faranno troppo rumore. Non avranno fame di popolarità. L&#39;immagine non avrà importanza per loro.</description>
-    </item>
-    
-    <item>
-      <title>EasyApple</title>
-      <link>https://miry1919.github.io/hugosite/podcast/easyapple/</link>
-      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://miry1919.github.io/hugosite/podcast/easyapple/</guid>
-      <description>Sono stata ospite due volte in questo bellissimo podcast. Vi lascio le due puntate qui sotto.   16/05/2014 12/04/2019  </description>
-    </item>
-    
-    <item>
-      <title>Il sito è finalmente online</title>
-      <link>https://miry1919.github.io/hugosite/post/sito-online/</link>
-      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://miry1919.github.io/hugosite/post/sito-online/</guid>
-      <description>Da molto tempo volevo crearne uno tutto mio. Poi finalmente mi sono decisa.  &amp;nbsp;
-✎  </description>
-    </item>
-    
-    <item>
-      <title>Tenero Gheriglio</title>
-      <link>https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/</link>
-      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/</guid>
-      <description>C&#39;è un podcast dietro le quinte: arriverà nel 2020. Forse questo non sarà il suo titolo definitivo.  </description>
-    </item>
     
     <item>
       <title>A piedi nudi su Marte</title>
@@ -55,17 +17,6 @@
       
       <guid>https://miry1919.github.io/hugosite/quote/a-piedi-nudi-su-marte/</guid>
       <description>«Avevamo così poche certezze sulla natura di questo pianeta che la sonda aveva persino un sistema in sughero per galleggiare in un eventuale lago o mare. E invece Venere si dimostrò un inferno. Entrando nell&amp;rsquo;atmosfera, la sonda raggiunse una temperatura di 11000 °C sul suo scudo termico, faticando tantissimo a mantenere l&amp;rsquo;elettronica interna a una temperatura di circa -8 °C. La decelerazione subita arrivò a 300 G e la discesa durò 93 minuti.</description>
-    </item>
-    
-    <item>
-      <title>Books</title>
-      <link>https://miry1919.github.io/hugosite/books/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://miry1919.github.io/hugosite/books/</guid>
-      <description>Sto leggendo  Lezioni di letteratura — Vladimir Nabokov Ready to Run: Unlocking Your Potential to Run Naturally — Kelly Starrett  &amp;nbsp;
-Leggerò a breve  Modernità Liquida — Zygmunt Bauman #Humanless. L&amp;rsquo;algoritmo egoista — Massimo Chiriatti Indistractable: How to Control Your Attention and Choose Your Life — Nir Eyal Deskbound: Standing Up to a Sitting World — Kelly Starrett  &amp;nbsp;
-Ho letto e consiglio  La metafisica — Aristotele Il lungo racconto dell&amp;rsquo;origine.</description>
     </item>
     
     <item>
@@ -103,26 +54,6 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L&amp;r
 «Fare un buon lavoro significa avere curiosità per ciò che è ambiguo, andarci a fondo e imparare dall&amp;rsquo;ambiguità.»
 &amp;nbsp;
 «La delega paterna quale era vissuta nelle botteghe artigiane di ottocento anni fa non è del resto un fenomeno del tutto estraneo alla nostra esperienza.</description>
-    </item>
-    
-    <item>
-      <title>Miriana Novella</title>
-      <link>https://miry1919.github.io/hugosite/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://miry1919.github.io/hugosite/about/</guid>
-      <description>Studio Ingegneria Informatica al Politecnico di Milano. Sono una sportiva e cerco di mangiare nel modo più salutare possibile. Mi piace leggere. La musica non deve mai mancare nelle mie giornate; nemmeno i podcast. Qui scriverò e parlerò di ciò che anima la mia vita. Non so quanto mi riuscirà. Sarai tu, caro lettore o caro ascoltatore, a giudicare. Sappi che faccio tutto con passione.  </description>
-    </item>
-    
-    <item>
-      <title>Music</title>
-      <link>https://miry1919.github.io/hugosite/music/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://miry1919.github.io/hugosite/music/</guid>
-      <description> Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultimi anni:
- 2015-2016 2016-2017 2017-2018 2019 Background  &amp;nbsp;
-Aggiunte di recente  Io ti penso — Nyvinne Say — Dutchkid Hide the Hurt — Macy Gray Creature — iris just one night — Caro Everywhere I Go — Sleeping At Last Meant to Stay Hid — SYML Too Proud — Broods Nessuno — Lelio Morra Girasoli — Emanuele Aloia  </description>
     </item>
     
     <item>
