@@ -11,7 +11,7 @@ theme = "minimal"
     font = "Raleway"
 
 [[menu.main]]
-    url = "/home/"
+    url = "/"
     name = "Home"
     weight = 1
 
