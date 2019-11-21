@@ -29,6 +29,7 @@ Resta perciò fedele alla tua natura. Se il tuo stile è quello di fare le cose 
 &nbsp;
 
 «Read the Footnotes» «Leggi bene le clausole scritte in piccolo.»
+&nbsp;
 — Seth Klarman
 
 &nbsp;
@@ -42,19 +43,23 @@ Resta perciò fedele alla tua natura. Se il tuo stile è quello di fare le cose 
 &nbsp;
 
 «Certe persone sono sicure di qualsiasi cosa più di quanto io lo sia di una cosa qualsiasi.»
+&nbsp;
 — Robert Rubin, In an Uncertain World
 
 &nbsp;
 
 «Con la delicatezza si può scuotere il mondo.»
+&nbsp;
 — Mahatma Gandhi
 
 &nbsp;
 
 «Lʼincontro tra due personalità è come il contatto fra due sostanze chimiche: se cʼè reazione, entrambe si trasformano.»
+&nbsp;
 — Carl G. Jung
 
 &nbsp;
 
 «La nostra cultura ha fatto della vita da estroversi lʼunica virtù. A forza di scoraggiare il viaggio interiore e la ricerca di un centro, abbiamo finito per perderlo, il nostro centro. E ora dobbiamo metterci di nuovo a cercarlo.»
+&nbsp;
 — Anaïs Nin

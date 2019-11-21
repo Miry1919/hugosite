@@ -3,6 +3,7 @@ title: The One Device
 description: Brian Merchant
 ---
 «The hope is that, in not too many years, human brains and computing machines will be coupled together very tightly and that the resulting partnership will think as no human brain has ever thought.»
+&nbsp;
 — J. C. R. Licklider, 1950
 
 &nbsp;
@@ -16,6 +17,7 @@ description: Brian Merchant
 &nbsp;
 
 «Flight represented the pinnacle of human achievement. To raise a heavier-than-air vehicle into the sky was a technological marvel, the fulfillment of a centuries-old dream.»
+&nbsp;
 — David Nye
 
 &nbsp;
