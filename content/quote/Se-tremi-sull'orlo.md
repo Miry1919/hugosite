@@ -2,7 +2,6 @@
 title: Se tremi sull'orlo
 description: Henry David Thoreau
 ---
-<div align="center">
 «Inseguite la vostra vita, non perdetela di vista, giratele continuamente intorno come fa un cane col calesse del suo padrone. Fate ciò che amate. Sappiate qual è il vostro osso: rosicchiatelo, seppellitelo, dissotterratelo, e rosicchiatelo ancora.»
 &nbsp;
 «Sia che un uomo passi la giornata nell'estasi o nello sconforto, egli deve compiere qualche opera che lo testimoni, proprio come la carne e le ossa testimoniano di lui.
@@ -27,4 +26,3 @@ Dopo una lunga giornata di cammino con esso, piantalo in un posto incavato, mett
 Inaspettatamente, in virtù di certi pensieri immortali, sarai ricompensato.»
 &nbsp;
 «Se vuoi essere saggio, impara la scienza e poi dimenticala.»
-</div>

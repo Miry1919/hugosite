@@ -2,7 +2,6 @@
 title: L'uomo artigiano
 description: Richard Sennett
 ---
-<div align="center">
 «Nella vita ce la si può cavare benissimo senza dedizione. L'artigiano è la figura rappresentativa di una specifica condizione umana: quella del mettere un impegno personale nelle cose che si fanno.»
 &nbsp;
 «Quando la testa e la mano divorziano, è la testa a soffrirne.»
@@ -27,4 +26,3 @@ La bottega artigiana medievale era una famiglia tenuta insieme più dal rispetto
 Non è unʼesperienza tanto strana; la conosciamo tutti, si chiama ritmo. Il ritmo è iscritto nelle pulsazioni del cuore umano.»
 &nbsp;
 «Conosciamo tutti il detto di Eraclito: “Nessun uomo può entrare due volte nello stesso fiume”, perché non sarà lo stesso fiume e lʼuomo stesso sarà cambiato. Lʼuomo artigiano, tuttavia, non lo interpreterà nel senso che la vita sia puro fluire. Ma piuttosto come uno stimolo a ripensare il modo di fare le cose, di fronte alla necessità di ripararle; e gli attrezzi imperfetti o difficili potrebbero rivelarsi assai utili in quellʼopera di rinnovamento.»
-</div>

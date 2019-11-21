@@ -2,7 +2,6 @@
 title: Quiet
 description: Susan Cain
 ---
-<div align="center">
 «Per fare carriera dobbiamo autopromuoverci senza ritegno.»
 &nbsp;
 «Dobbiamo forse diventare talmente capaci nel presentarci agli altri da riuscire a mentire senza che nessuno se ne accorga? Dobbiamo imparare a esercitare la voce, i gesti e il linguaggio del corpo come attori tanto da poter raccontare - da poter vendere - qualsiasi panzana?»
@@ -36,5 +35,3 @@ Resta perciò fedele alla tua natura. Se il tuo stile è quello di fare le cose 
 &nbsp;
 «La nostra cultura ha fatto della vita da estroversi lʼunica virtù. A forza di scoraggiare il viaggio interiore e la ricerca di un centro, abbiamo finito per perderlo, il nostro centro. E ora dobbiamo metterci di nuovo a cercarlo.»
 — Anaïs Nin
-</div>
-

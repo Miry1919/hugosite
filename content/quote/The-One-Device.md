@@ -2,7 +2,6 @@
 title: The One Device
 description: Brian Merchant
 ---
-<div align="center">
 «The hope is that, in not too many years, human brains and computing machines will be coupled together very tightly and that the resulting partnership will think as no human brain has ever thought.»
 — J. C. R. Licklider, 1950
 &nbsp;
@@ -18,4 +17,3 @@ description: Brian Merchant
 [...]
 &nbsp;
 Computer were human once, and they always would be, to a certain extent. Because that someting better is surely inching along with the help of hundreds of thousands of dicoverers, engineers, laborers, designers, scientists, dealmakers, reserchers, and miners.»
-</div>

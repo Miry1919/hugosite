@@ -2,7 +2,6 @@
 title: Ciò che inferno non è
 description: Alessandro D'Avenia
 ---
-<div align="center">
 «È finita. Mezzogiorno è l'unico istante degno di memoria dell'ultimo giorno di scuola. La campanella suona come le trombe del giudizio. L'estate, che i ragazzi vorrebbero eterna, li afferra. Li ammalia. Li rapisce. E li disperde.
 &nbsp;
 [...]
@@ -32,4 +31,3 @@ Forse più che attraversare il mare è duro restare e resistere a terra, senza r
 Oggi le persone pensano di essere più libere perché hanno milioni di scelte possibili, ma la libertà non è tanto avere più scelte, quanto piuttosto scegliere la verità.»
 &nbsp;
 «Il giorno del compleanno si festeggia il fatto che non siamo immortali. A vent'anni - qualcuno dice - hai ancora la faccia che ti hanno dato, ma a cinquanta hai quella che ti sei meritato.»
-</div>
