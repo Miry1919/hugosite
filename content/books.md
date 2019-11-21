@@ -37,18 +37,18 @@ description: ¶
 * _La morte mi è vicina_ — Colin Dexter
 * _Discorso sul metodo_ — Cartesio
 * _Questione di virgole. Punteggiare rapido e accorto_ — Leonardo G. Luccone
-* _Se tremi sull'orlo. Lettere a un cercatore di sé_ — Henry David Thoreau
-* _L'uomo artigiano_ — Richard Sennet
+* _Se tremi sull'orlo. Lettere a un cercatore di sé_ — Henry David Thoreau ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/se-tremi-sullorlo/)
+* _L'uomo artigiano_ — Richard Sennet ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/luomo-artigiano/)
 * _Il processo_ — Franz Kafka
-* _Quiet: Il potere degli introversi in un mondo che non sa smettere di parlare_ — Susan Cain
+* _Quiet: Il potere degli introversi in un mondo che non sa smettere di parlare_ — Susan Cain ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/quiet/)
 * _La fattoria degli animali_ — George Orwell
-* _Cecità_ — José Saramago
-* _Ciò che inferno non è_ — Alessandro D'Avenia
+* _Cecità_ — José Saramago ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/cecita/)
+* _Ciò che inferno non è_ — Alessandro D'Avenia ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/cio-che-inferno-non-e/)
 * _1984_ — George Orwell
 * _I fratelli Karamazov_ — Fëdor Dostoevskij
-* _A piedi nudi su Marte. Viaggio nel sistema solare interno: 4 pianeti, 3 lune e una stella coi fiocchi_ — Adrian Fartade
-* _Tecnologie Radicali. Il progetto della vita quotidiana_ — Adam Greenfield
-*_The One Device: The Secret History of the iPhone_ — Brian Merchant
+* _A piedi nudi su Marte. Viaggio nel sistema solare interno: 4 pianeti, 3 lune e una stella coi fiocchi_ — Adrian Fartade ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/a-piedi-nudi-su-marte/)
+* _Tecnologie Radicali. Il progetto della vita quotidiana_ — Adam Greenfield ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/tecnologie-radicali/)
+*_The One Device: The Secret History of the iPhone_ — Brian Merchant ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/the-one-device/)
 * _La storia_ — Elsa Morante
 
 &nbsp;
