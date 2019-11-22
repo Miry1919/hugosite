@@ -25,6 +25,8 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Nessuno_ — Lelio Morra
 * _Girasoli_ — Emanuele Aloia
 
+&nbsp;
+
 #### <span style="color:red">Album da scoprire</span>
 * _Everyday Life_ — Coldplay
 * _Diari aperti (Segreti Svelati)_ — Elisa
