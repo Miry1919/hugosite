@@ -30,4 +30,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 #### <span style="color:red">Album da ascoltare</span>
 * _Everyday Life_ — Coldplay
 
-###### <span style="color:red">_"Without music life would be a mistake"_ — Friedrich Nietzsche</span>
+&nbsp;
+
+##### <span style="color:red">_"Without music life would be a mistake"_ — Friedrich Nietzsche</span>
