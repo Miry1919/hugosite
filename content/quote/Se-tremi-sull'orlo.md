@@ -6,6 +6,10 @@ description: Henry David Thoreau
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «Sia che un uomo passi la giornata nell'estasi o nello sconforto, egli deve compiere qualche opera che lo testimoni, proprio come la carne e le ossa testimoniano di lui.
 Noi siamo superiori alla gioia che proviamo.
 &nbsp;
@@ -14,6 +18,10 @@ Noi siamo superiori alla gioia che proviamo.
 &nbsp;
 
 Rendete tragico il vostro fallimento con la stessa serietà e costanza dei vostri sforzi, e allora esso non sarà diverso dal successo. Dimostrate che è l'inevitabile destino dei mortali se potete.»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 
@@ -36,6 +44,10 @@ Dopo una lunga giornata di cammino con esso, piantalo in un posto incavato, mett
 &nbsp;
 
 Inaspettatamente, in virtù di certi pensieri immortali, sarai ricompensato.»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 

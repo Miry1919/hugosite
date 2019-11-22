@@ -9,7 +9,15 @@ description: Brian Merchant
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «We aren't great at conceiving of technologies, products, even works of art as intensely multifaceted, sometimes generationally collaborative, efforts that they tend to be. Our brains don't tidily compute such ecosystemic narratives. We want eureka moments and justified millionaires, not touched pioneers and intangible endings.»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 
@@ -17,10 +25,18 @@ description: Brian Merchant
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «Flight represented the pinnacle of human achievement. To raise a heavier-than-air vehicle into the sky was a technological marvel, the fulfillment of a centuries-old dream.»
 &nbsp;
 
 — David Nye
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 

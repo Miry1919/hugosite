@@ -12,7 +12,15 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «La cosa più strana è che io uso le parole per ancorarmi, e poi sono proprio loro a spingermi verso l'ignoto, come mappe mute da riempire di luoghi, perché ogni parola detta con precisione apre uno spazio attorno, come il molo di un porto.»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 
@@ -20,7 +28,15 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «Ci sono posti dove l'inferno non può arrivare, neanche all'inferno.»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 
@@ -28,7 +44,15 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «L'inferno è perdere anche la libertà di amare.»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 
@@ -36,7 +60,15 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «Impariamo tutto. Ci insegnano tutto. Invece l'amore, che è la cosa più importante e la più difficile, nessuno ce lo insegna. Eppure se non lo impari resti un analfabeta a vita.»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 
@@ -44,7 +76,15 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «L'inferno è tutte le volte che decidi di non amare o non puoi amare.»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 
@@ -52,7 +92,15 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «Forse più che attraversare il mare è duro restare e resistere a terra, senza rinunciare alla vastità che il mare ti ha ficcato nel cuore.»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 
@@ -60,7 +108,15 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «Oggi le persone pensano di essere più libere perché hanno milioni di scelte possibili, ma la libertà non è tanto avere più scelte, quanto piuttosto scegliere la verità.»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 

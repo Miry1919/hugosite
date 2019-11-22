@@ -7,6 +7,10 @@ description: Adam Greenfield
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «Si può insegnare abbastanza in fretta ad un algoritmo a riconoscere un tavolo, sulla base delle sue caratteristiche e dei modi con cui si mette in relazione con gli altri contenuti del mondo. Potrebbe essere in grado di identificare, con gradi sempre maggiori di precisione, un veicolo, un’automobile, un’automobile della polizia, un’automobile della polizia di New York. Questo è abbastanza facile, ma come si fa a insegnargli a riconoscere la povertà?
 &nbsp;
 
@@ -14,6 +18,10 @@ description: Adam Greenfield
 &nbsp;
 
 Noi possiamo definirci come lavoratori, o scozzesi irlandesi, sikh, di San Diego o repubblicani, ma per un algoritmo di apprendimento nessuna di queste categorie significa nulla, se non forse come contrassegno dei comportamenti umani ai quali si possono collegare.»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 

@@ -6,7 +6,15 @@ description: Adrian Fartade
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «Quelli che avvertite però sulla vostra pelle, o vedete intorno a voi come luce, sono fotoni partiti dal Sole decine e centinaia di migliaia di anni prima. La luce che oggi vi permette di vedere il mondo intorno a voi è partita dal nucleo del Sole quando i vostri antenati erano ancora nella Preistoria e sulla Terra dominavano i mammut!»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 

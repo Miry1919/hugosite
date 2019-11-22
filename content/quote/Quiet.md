@@ -6,7 +6,15 @@ description: Susan Cain
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «Dobbiamo forse diventare talmente capaci nel presentarci agli altri da riuscire a mentire senza che nessuno se ne accorga? Dobbiamo imparare a esercitare la voce, i gesti e il linguaggio del corpo come attori tanto da poter raccontare - da poter vendere - qualsiasi panzana?»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 
@@ -17,7 +25,14 @@ description: Susan Cain
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «I genitori di bambini altamente reattivi devono considerarsi molto fortunati, mi ha detto Belsky. “Il tempo e lʼimpegno profusi daranno i loro frutti. Anziché vedere i propri figli come vulnerabili alle avversità, i genitori dovrebbero considerarli malleabili, nel bene e nel male.”»
+
+&nbsp;
+###### <span style="color:red">✄</span>
 
 &nbsp;
 
@@ -25,8 +40,16 @@ description: Susan Cain
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «Se sei un introverso, trova il flusso servendoti delle tue qualità. Hai la costanza e la tenacia per risolvere problemi complessi, la lucidità per evitare i tranelli in cui altri cadono più facilmente. Godi di una relativa libertà dalle lusinghe di gratificazioni superficiali come il denaro e lo status sociale. Anzi, la parte più difficile potrebbe essere quella di sfruttare appieno tutti i tuoi molteplici talenti. Potresti essere talmente impegnato a mostrarti come un estroverso entusiasta e sensibile alla ricompensa da sottovalutare i tuoi doni naturali o da sentirti incompreso da chi ti circonda. Ma quando sei concentrato su un progetto a cui tieni, molto probabilmente sai benissimo che la tua energia non ha limiti.
 Resta perciò fedele alla tua natura. Se il tuo stile è quello di fare le cose in modo lento e assiduo, non lasciare che gli altri ti spingano ad accelerare. Se ti piace la profondità, non costringerti a tornare in superficie per riprendere fiato. Se il multitasking non fa per te e preferisci invece dedicarti a un solo compito per volta, segui la tua indole. La relativa insensibilità alla ricompensa ti concede lʼinestimabile potere di andare per la tua strada. Sta a te, poi, dare a questa indipendenza uno sbocco positivo.»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 
@@ -37,11 +60,23 @@ Resta perciò fedele alla tua natura. Se il tuo stile è quello di fare le cose 
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «Warren Buffet: “Mi sembra di stare sdraiato,” dice della sua carriera di investitore, “e di avere davanti il soffitto della Cappella Sistina. E io dipingo, dipingo... Certo, mi fa piacere se qualcuno apprezza, ma rimane pur sempre la mia opera, e se qualcun altro mi suggerisce di usare più rosso e meno azzurro, la cosa mi lascia del tutto indifferente. È il mio dipinto, e non mi interessa come viene venduto dagli altri. La cosa forse più straordinaria è che resterà comunque incompiuto”.»
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «Se il vostro bambino preferisce lavorare in autonomia e socializzare uno a uno, non dovete preoccuparvi per lui; è solo che la sua modalità non combacia con il modello prevalente. La scuola dovrebbe avere come obiettivo quello di preparare i bambini alla vita, ma troppo spesso i bambini vanno preparati ad arrivare sani e salvi alla fine della giornata di scuola.»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 
@@ -52,6 +87,10 @@ Resta perciò fedele alla tua natura. Se il tuo stile è quello di fare le cose 
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «Con la delicatezza si può scuotere il mondo.»
 &nbsp;
 
@@ -59,10 +98,18 @@ Resta perciò fedele alla tua natura. Se il tuo stile è quello di fare le cose 
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «Lʼincontro tra due personalità è come il contatto fra due sostanze chimiche: se cʼè reazione, entrambe si trasformano.»
 &nbsp;
 
 — Carl G. Jung
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 

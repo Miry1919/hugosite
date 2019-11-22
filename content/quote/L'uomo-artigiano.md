@@ -6,11 +6,23 @@ description: Richard Sennett
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «Quando la testa e la mano divorziano, è la testa a soffrirne.»
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «Fare un buon lavoro significa avere curiosità per ciò che è ambiguo, andarci a fondo e imparare dall'ambiguità.»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 
@@ -19,7 +31,15 @@ La bottega artigiana medievale era una famiglia tenuta insieme più dal rispetto
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «La conoscenza è un processo addizionale, cumulativo; si costruisce nel tempo, salendo sulle spalle dei grandi che ci hanno preceduto, come, al circo, nelle piramidi umane degli acrobati.»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 
@@ -27,11 +47,23 @@ La bottega artigiana medievale era una famiglia tenuta insieme più dal rispetto
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «Il valore simbolico di un oggetto è inseparabile dalla coscienza della sua condizione materiale; i suoi creatori hanno pensato i due aspetti insieme.»
 
 &nbsp;
 
+###### <span style="color:red">✄</span>
+
+&nbsp;
+
 «Per arrivare al fine prefissato, il processo lavorativo deve fare qualcosa che alla mente ben ordinata ripugna, e cioè sostare temporaneamente nel disordine: mosse false, false partenze, vicoli ciechi. Anzi, nella tecnica come nellʼarte, lʼartigiano che esplora non si limita a imbattersi nel disordine; lo crea volontariamente perché lo considera un mezzo per comprendere i procedimenti del suo lavoro.»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 
@@ -42,6 +74,10 @@ La bottega artigiana medievale era una famiglia tenuta insieme più dal rispetto
 &nbsp;
 
 Non è unʼesperienza tanto strana; la conosciamo tutti, si chiama ritmo. Il ritmo è iscritto nelle pulsazioni del cuore umano.»
+
+&nbsp;
+
+###### <span style="color:red">✄</span>
 
 &nbsp;
 
