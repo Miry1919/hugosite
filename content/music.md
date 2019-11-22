@@ -32,4 +32,5 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 
 &nbsp;
 
-##### <span style="color:red">_"Without music life would be a mistake"_ — Friedrich Nietzsche</span>
+##### <span style="color:red">_"Without music life would be a mistake"_
+— Friedrich Nietzsche</span>

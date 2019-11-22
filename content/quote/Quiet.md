@@ -11,6 +11,8 @@ description: Susan Cain
 &nbsp;
 
 *Leadership Development for the Gifted and Talented*
+&nbsp;
+
 «Mentre gli estroversi tendono a conquistarsi la leadership in ambiti pubblici, gli introversi tendono a ottenerla in campi teorici ed estetici. Celebri leader introversi come Charles Darwin, Marie Curie, Patrick White e Arthur Boyd, che hanno creato dal nulla nuovi campi del pensiero o trasformato il sapere preesistente, hanno trascorso lunghi periodi della loro vita in solitudine. La leadership, quindi, non è solo quella relativa ai contesti sociali ma è un concetto applicabile anche a situazioni più solitarie come lʼintroduzione di nuove tecniche artistiche, la creazione di nuove filosofie, la scrittura di libri profondi e complessi, il raggiungimento di traguardi scientifici.»
 
 &nbsp;
@@ -30,6 +32,7 @@ Resta perciò fedele alla tua natura. Se il tuo stile è quello di fare le cose 
 
 «Read the Footnotes» «Leggi bene le clausole scritte in piccolo.»
 &nbsp;
+
 — Seth Klarman
 
 &nbsp;
@@ -44,22 +47,26 @@ Resta perciò fedele alla tua natura. Se il tuo stile è quello di fare le cose 
 
 «Certe persone sono sicure di qualsiasi cosa più di quanto io lo sia di una cosa qualsiasi.»
 &nbsp;
+
 — Robert Rubin, In an Uncertain World
 
 &nbsp;
 
 «Con la delicatezza si può scuotere il mondo.»
 &nbsp;
+
 — Mahatma Gandhi
 
 &nbsp;
 
 «Lʼincontro tra due personalità è come il contatto fra due sostanze chimiche: se cʼè reazione, entrambe si trasformano.»
 &nbsp;
+
 — Carl G. Jung
 
 &nbsp;
 
 «La nostra cultura ha fatto della vita da estroversi lʼunica virtù. A forza di scoraggiare il viaggio interiore e la ricerca di un centro, abbiamo finito per perderlo, il nostro centro. E ora dobbiamo metterci di nuovo a cercarlo.»
 &nbsp;
+
 — Anaïs Nin
