@@ -55,3 +55,10 @@ description: ¶
 &nbsp;
 
 Non ho incluso i libri letti come compito per la scuola. Perché, secondo me, si comincia ad amare la lettura, quando si decide per conto proprio di scoprirla scegliendo quali libri leggere.
+
+&nbsp;
+
+##### <span style="color:red">_“Leggere è viaggiare senza la seccatura dei bagagli”_</span>
+&nbsp;
+
+##### <span style="color:red">— Emilio Salgari</span>
