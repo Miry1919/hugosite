@@ -6,7 +6,7 @@ description: Adrian Fartade
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -14,7 +14,7 @@ description: Adrian Fartade
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 

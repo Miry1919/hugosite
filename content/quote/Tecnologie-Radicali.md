@@ -7,7 +7,7 @@ description: Adam Greenfield
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -21,7 +21,7 @@ Noi possiamo definirci come lavoratori, o scozzesi irlandesi, sikh, di San Diego
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 

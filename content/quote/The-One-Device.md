@@ -9,7 +9,7 @@ description: Brian Merchant
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -17,7 +17,7 @@ description: Brian Merchant
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -25,7 +25,7 @@ description: Brian Merchant
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -36,7 +36,7 @@ description: Brian Merchant
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 

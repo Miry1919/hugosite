@@ -6,7 +6,7 @@ description: Henry David Thoreau
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -21,7 +21,7 @@ Rendete tragico il vostro fallimento con la stessa serietà e costanza dei vostr
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -47,7 +47,7 @@ Inaspettatamente, in virtù di certi pensieri immortali, sarai ricompensato.»
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 

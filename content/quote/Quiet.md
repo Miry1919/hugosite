@@ -6,7 +6,7 @@ description: Susan Cain
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -14,7 +14,7 @@ description: Susan Cain
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -25,14 +25,15 @@ description: Susan Cain
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
 «I genitori di bambini altamente reattivi devono considerarsi molto fortunati, mi ha detto Belsky. “Il tempo e lʼimpegno profusi daranno i loro frutti. Anziché vedere i propri figli come vulnerabili alle avversità, i genitori dovrebbero considerarli malleabili, nel bene e nel male.”»
 
 &nbsp;
-###### <span style="color:red">✄</span>
+
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -40,7 +41,7 @@ description: Susan Cain
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -49,7 +50,7 @@ Resta perciò fedele alla tua natura. Se il tuo stile è quello di fare le cose 
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -60,7 +61,7 @@ Resta perciò fedele alla tua natura. Se il tuo stile è quello di fare le cose 
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -68,7 +69,7 @@ Resta perciò fedele alla tua natura. Se il tuo stile è quello di fare le cose 
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -76,7 +77,7 @@ Resta perciò fedele alla tua natura. Se il tuo stile è quello di fare le cose 
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -87,7 +88,7 @@ Resta perciò fedele alla tua natura. Se il tuo stile è quello di fare le cose 
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -98,7 +99,7 @@ Resta perciò fedele alla tua natura. Se il tuo stile è quello di fare le cose 
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -109,7 +110,7 @@ Resta perciò fedele alla tua natura. Se il tuo stile è quello di fare le cose 
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 

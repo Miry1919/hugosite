@@ -12,7 +12,7 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -20,7 +20,7 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -28,7 +28,7 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -36,7 +36,7 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -44,7 +44,7 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -52,7 +52,7 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -60,7 +60,7 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -68,7 +68,7 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -76,7 +76,7 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -84,7 +84,7 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -92,7 +92,7 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -100,7 +100,7 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -108,7 +108,7 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -116,7 +116,7 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L'ho sc
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 

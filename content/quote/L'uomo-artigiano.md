@@ -6,7 +6,7 @@ description: Richard Sennett
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -14,7 +14,7 @@ description: Richard Sennett
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -22,7 +22,7 @@ description: Richard Sennett
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -31,7 +31,7 @@ La bottega artigiana medievale era una famiglia tenuta insieme più dal rispetto
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -39,7 +39,7 @@ La bottega artigiana medievale era una famiglia tenuta insieme più dal rispetto
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -47,7 +47,7 @@ La bottega artigiana medievale era una famiglia tenuta insieme più dal rispetto
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -55,7 +55,7 @@ La bottega artigiana medievale era una famiglia tenuta insieme più dal rispetto
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -63,7 +63,7 @@ La bottega artigiana medievale era una famiglia tenuta insieme più dal rispetto
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -77,7 +77,7 @@ Non è unʼesperienza tanto strana; la conosciamo tutti, si chiama ritmo. Il rit
 
 &nbsp;
 
-###### <span style="color:red">✄</span>
+<span style="color:red">✄</span>
 
 &nbsp;
 
