@@ -13,5 +13,3 @@ description: Chi?
 
   Sappi che faccio tutto con passione.
 </div>
-
-<img class="special-img-class" src="/img/ME.jpeg" />
