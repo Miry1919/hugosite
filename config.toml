@@ -3,6 +3,7 @@ publishDir = "docs"
 languageCode = "en-us"
 title = "Hello"
 theme = "minimal"
+canonifyURLs = true
 
 [params]
     accent = "red"
