@@ -13,3 +13,9 @@ description: Chi?
 
   Sappi che faccio tutto con passione.
 </div>
+
+&nbsp;
+
+<div align="center">
+❀
+</div>
