@@ -4,10 +4,15 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Lezioni di letteratura_ — Vladimir Nabokov
 * _Ready to Run: Unlocking Your Potential to Run Naturally_ — Kelly Starrett
 
 &nbsp;
+
+#### <span style="color:red">In pausa</span>
+* _Lezioni di letteratura_ — Vladimir Nabokov
+
+&nbsp;
+
 
 #### <span style="color:red">Leggerò a breve</span>
 * _L'universo elegante. Superstringhe, dimensioni nascoste e la ricerca della teoria ultima_ — Brian Greene
