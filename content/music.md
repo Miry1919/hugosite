@@ -23,10 +23,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Creature_ — iris
 * _just one night_ — Caro
 * _Everywhere I Go_ — Sleeping At Last
-* _Meant to Stay Hid_ — SYML
-* _Too Proud_ — Broods
-* _Nessuno_ — Lelio Morra
-* _Girasoli_ — Emanuele Aloia
 
 &nbsp;
 
