@@ -19,5 +19,3 @@ description: Chi?
 <div align="center">
 ❀
 </div>
-
-![me](me.jpeg)
