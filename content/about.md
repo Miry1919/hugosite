@@ -19,3 +19,7 @@ description: Chi?
 <div align="center">
 ❀
 </div>
+
+<figure>
+  <img src="/me.jpeg" alt="me">
+</figure>

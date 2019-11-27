@@ -106,7 +106,3 @@ a:hover {
 footer {
     border-bottom: var(--border-width) solid var(--accent);
 }
-
-<figure>
-  <img src="/me.jpeg" alt="me">
-</figure>
