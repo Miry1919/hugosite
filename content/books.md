@@ -6,6 +6,11 @@ description: ¶
 #### <span style="color:red">Sto leggendo</span>
 * _Ready to Run: Unlocking Your Potential to Run Naturally_ — Kelly Starrett
 * _L'universo elegante. Superstringhe, dimensioni nascoste e la ricerca della teoria ultima_ — Brian Greene
+
+&nbsp;
+
+#### <span style="color:red">A sprazzi</span>
+
 * _Poems by Emily Dickinson_ — Emily Dickinson
 
 &nbsp;
@@ -14,7 +19,6 @@ description: ¶
 * _Lezioni di letteratura_ — Vladimir Nabokov
 
 &nbsp;
-
 
 #### <span style="color:red">Leggerò a breve</span>
 * _Modernità Liquida_ — Zygmunt Bauman
