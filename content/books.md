@@ -6,6 +6,7 @@ description: ¶
 #### <span style="color:red">Sto leggendo</span>
 * _Ready to Run: Unlocking Your Potential to Run Naturally_ — Kelly Starrett
 * _L'universo elegante. Superstringhe, dimensioni nascoste e la ricerca della teoria ultima_ — Brian Greene
+* _Poems by Emily Dickinson_ — Emily Dickinson
 
 &nbsp;
 
