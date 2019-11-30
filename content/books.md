@@ -25,6 +25,7 @@ description: ¶
 * _#Humanless. L'algoritmo egoista_ — Massimo Chiriatti
 * _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
 * _Deskbound: Standing Up to a Sitting World_ — Kelly Starrett
+* _Pensieri lenti e veloci_ — Daniel Kahneman
 
 &nbsp;
 
