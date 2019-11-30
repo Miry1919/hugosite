@@ -28,7 +28,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Hide the Hurt_ — Macy Gray
 * _Creature_ — iris
 * _just one night_ — Caro
-* _Everywhere I Go_ — Sleeping At Last
 
 &nbsp;
 
