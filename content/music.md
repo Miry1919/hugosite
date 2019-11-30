@@ -14,6 +14,11 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 
 #### <span style="color:red">Aggiunte di recente</span>
 
+* _The City_ — Grace VanderWaal
+* _Nice to Meet Ya_ — Niall Horan
+* _Problems_ — ARIZONA
+* _Feelings_ — Lauv
+* _Too Good_ — Kedam
 * _Fear of the Water_ — SYML
 * _Symmetry_ — SYML
 * _If the World Was Ending_ — JP Saxe (feat. Julia Michaels)
