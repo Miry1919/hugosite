@@ -8,7 +8,7 @@ La terza stagione della serie 'The Crown' meritava la mia attenzione. Mi è piac
 &nbsp;
 
 Quindi, siamo al punto in cui la regina Elisabetta e il marito, il principe Filippo, conversano riguardo l'intervista che lui ha appena sottoposto ai tre uomini del momento, a coloro che da poco erano andati e tornati dalla luna nella missione Apollo 11 (16-24 Luglio 1969): Neil Armstrong, Buzz Aldrin e Michael Collins. Voleva assolutamente avere l'occasione di condurre quest'intervista, ma si aspettava andasse diversamente.
-<div align="center">
+</div>
 
 &nbsp;
 
@@ -53,7 +53,6 @@ Quindi, siamo al punto in cui la regina Elisabetta e il marito, il principe Fili
 &nbsp;
 
 [Philip] Good job there were no little green men. They could be forgiven for thinking, "If that's all planet Earth has got to offer, let's give the place a miss."
-
 
 &nbsp;
 
