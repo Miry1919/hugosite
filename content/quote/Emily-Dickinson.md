@@ -2,7 +2,6 @@
 title: "Poems"
 description: "Emily Dickinson"
 ---
-<div align="center">
 «“Nature” is what we see—
 &nbsp;
 
@@ -40,6 +39,10 @@ To her Simplicity.»
 
 &nbsp;
 
+<span style="color:red">✄</span>
+
+&nbsp;
+
 «I’m nobody! Who are you?
 &nbsp;
 
@@ -65,10 +68,18 @@ To an admiring bog!»
 
 &nbsp;
 
+<span style="color:red">✄</span>
+
+&nbsp;
+
 «Success is counted sweetest
 &nbsp;
 
 By those who ne’er succeed.»
+
+&nbsp;
+
+<span style="color:red">✄</span>
 
 &nbsp;
 
@@ -82,4 +93,3 @@ But microscopes are prudent
 &nbsp;
 
 In an emergency!»
-</div>
