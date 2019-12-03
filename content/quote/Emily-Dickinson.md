@@ -2,6 +2,7 @@
 title: "Poems"
 description: "Emily Dickinson"
 ---
+<div align="center">
 «“Nature” is what we see—
 &nbsp;
 
@@ -81,3 +82,4 @@ But microscopes are prudent
 &nbsp;
 
 In an emergency!»
+</div>

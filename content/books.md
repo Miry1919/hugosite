@@ -11,7 +11,7 @@ description: ¶
 
 #### <span style="color:red">A sprazzi</span>
 
-* _Poems_ — Emily Dickinson
+* _Poems_ — Emily Dickinson ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/emily-dickinson/)
 
 &nbsp;
 
