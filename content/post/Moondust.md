@@ -2,7 +2,7 @@
 title: "Moondust"
 date: 2019-12-03
 ---
-La terza stagione della serie 'The Crown' meritava la mia attenzione. Mi è piaciuta tutta; il settimo episodio ‘Moondust’ mi ha colpito particolarmente. Ha toccato delle idee che già giravano nell'universo del mio cervello, e che però, ancora, non avevano trovato la loro strada per palesarsi. Riporto qui il loro dialogo, senza commentarlo; lascerò spazio al lettore.
+La terza stagione della serie 'The Crown' meritava la mia attenzione. Mi è piaciuta tutta; il settimo episodio ‘Moondust’ mi ha colpito particolarmente. Ha toccato delle idee che già giravano nell'universo del mio cervello, e che però, ancora, non avevano trovato la loro strada per palesarsi. Riporto qui il dialogo chiave, senza commentarlo; per lasciare spazio al lettore.
 
 &nbsp;
 
