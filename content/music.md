@@ -23,11 +23,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Symmetry_ — SYML
 * _If the World Was Ending_ — JP Saxe (feat. Julia Michaels)
 * _everything i wanted_ — Billie Eilish
-* _Io ti penso_ — Nyvinne
-* _Say_ — Dutchkid
-* _Hide the Hurt_ — Macy Gray
-* _Creature_ — iris
-* _just one night_ — Caro
 
 &nbsp;
 
