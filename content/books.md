@@ -6,12 +6,7 @@ description: ¶
 #### <span style="color:red">Sto leggendo</span>
 * _Ready to Run: Unlocking Your Potential to Run Naturally_ — Kelly Starrett
 * _L'universo elegante. Superstringhe, dimensioni nascoste e la ricerca della teoria ultima_ — Brian Greene
-
-&nbsp;
-
-#### <span style="color:red">A sprazzi</span>
-
-* _Poems_ — Emily Dickinson ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/emily-dickinson/)
+* _Meglio essere felici_ — Zygmunt Bauman
 
 &nbsp;
 
@@ -62,6 +57,7 @@ description: ¶
 * _Tecnologie Radicali. Il progetto della vita quotidiana_ — Adam Greenfield ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/tecnologie-radicali/)
 * _The One Device: The Secret History of the iPhone_ — Brian Merchant ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/the-one-device/)
 * _La storia_ — Elsa Morante
+* _Poems_ — Emily Dickinson ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/emily-dickinson/)
 
 &nbsp;
 
