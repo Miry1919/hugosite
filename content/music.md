@@ -14,6 +14,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 
 #### <span style="color:red">Aggiunte di recente</span>
 
+* _Mystery_ — Tom Odell
 * _The City_ — Grace VanderWaal
 * _Nice to Meet Ya_ — Niall Horan
 * _Problems_ — ARIZONA
