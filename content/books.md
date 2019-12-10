@@ -9,11 +9,6 @@ description: ¶
 
 &nbsp;
 
-#### <span style="color:red">In pausa</span>
-* _Lezioni di letteratura_ — Vladimir Nabokov
-
-&nbsp;
-
 #### <span style="color:red">Leggerò a breve</span>
 * _Modernità Liquida_ — Zygmunt Bauman
 * _#Humanless. L'algoritmo egoista_ — Massimo Chiriatti
