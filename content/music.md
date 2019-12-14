@@ -22,10 +22,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Mystery_ — Tom Odell
 * _The City_ — Grace VanderWaal
 * _Nice to Meet Ya_ — Niall Horan
-* _Problems_ — ARIZONA
-* _Feelings_ — Lauv
-* _Too Good_ — Kedam
-* _Fear of the Water_ — SYML
 
 &nbsp;
 
