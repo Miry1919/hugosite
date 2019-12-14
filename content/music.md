@@ -14,6 +14,10 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 
 #### <span style="color:red">Aggiunte di recente</span>
 
+* _January_ — Millie Turner
+* _Don't Let Me Be Misunderstood_ — Valerie Broussard
+* _Lose You to Love Me_ — Selena Gomez
+* _Glass Bottles_ — Keane 
 * _Trading Places_ — Juke Ross
 * _Mystery_ — Tom Odell
 * _The City_ — Grace VanderWaal
