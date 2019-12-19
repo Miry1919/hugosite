@@ -5,7 +5,6 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Ready to Run: Unlocking Your Potential to Run Naturally_ — Kelly Starrett
-* _L'universo elegante. Superstringhe, dimensioni nascoste e la ricerca della teoria ultima_ — Brian Greene
 
 &nbsp;
 
@@ -53,6 +52,7 @@ description: ¶
 * _La storia_ — Elsa Morante
 * _Poems_ — Emily Dickinson ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/emily-dickinson/)
 * _Meglio essere felici_ — Zygmunt Bauman
+* _L'universo elegante. Superstringhe, dimensioni nascoste e la ricerca della teoria ultima_ — Brian Greene ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/luniverso-elegante/)
 
 &nbsp;
 
