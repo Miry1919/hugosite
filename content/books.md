@@ -10,8 +10,8 @@ description: ¶
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Modernità Liquida_ — Zygmunt Bauman
 * _#Humanless. L'algoritmo egoista_ — Massimo Chiriatti
+* _Modernità Liquida_ — Zygmunt Bauman
 * _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
 * _Pensieri lenti e veloci_ — Daniel Kahneman
 
