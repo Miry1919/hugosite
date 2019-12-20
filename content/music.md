@@ -14,6 +14,8 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 
 #### <span style="color:red">Aggiunte di recente</span>
 
+* _Per due che come noi_ — Brunori Sas
+* _Mind Is a Prison_ — Alec Benjamin 
 * _January_ — Millie Turner
 * _Don't Let Me Be Misunderstood_ — Valerie Broussard
 * _Lose You to Love Me_ — Selena Gomez
