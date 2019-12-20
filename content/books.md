@@ -4,6 +4,7 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
+* _Deskbound: Standing Up to a Sitting World_ — Kelly Starrett
 * _Ready to Run: Unlocking Your Potential to Run Naturally_ — Kelly Starrett
 
 &nbsp;
@@ -12,7 +13,6 @@ description: ¶
 * _Modernità Liquida_ — Zygmunt Bauman
 * _#Humanless. L'algoritmo egoista_ — Massimo Chiriatti
 * _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
-* _Deskbound: Standing Up to a Sitting World_ — Kelly Starrett
 * _Pensieri lenti e veloci_ — Daniel Kahneman
 
 &nbsp;
