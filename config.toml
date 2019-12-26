@@ -44,6 +44,11 @@ theme = "minimal"
     url = "/music/"
     name = "Music"
     weight = 7
+    
+ [[menu.main]]
+    url = "/sport/"
+    name = "Sport"
+    weight = 8
 
 [[menu.icon]]
     url = "https://twitter.com/Miry1919/"
