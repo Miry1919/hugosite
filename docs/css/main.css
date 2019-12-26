@@ -106,12 +106,3 @@ a:hover {
 footer {
     border-bottom: var(--border-width) solid var(--accent);
 }
-
-
-/* Nav bar height */
-
-.navbar-nav {
-     float: none!important;
-     margin-top: 7.5px;
-     height: 100vh;
-}
