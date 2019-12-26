@@ -110,6 +110,8 @@ footer {
 
 /* Nav bar height */
 
-.navbar-collapse {
-    max-height: 100% !important;
+.navbar-nav {
+     float: none!important;
+     margin-top: 7.5px;
+     height: 100vh;
 }
