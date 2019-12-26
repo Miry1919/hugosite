@@ -106,3 +106,10 @@ a:hover {
 footer {
     border-bottom: var(--border-width) solid var(--accent);
 }
+
+
+/* Nav bar height */
+
+.navbar-collapse {
+    height: 100vh;
+}
