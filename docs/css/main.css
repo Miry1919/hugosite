@@ -111,5 +111,5 @@ footer {
 /* Nav bar height */
 
 .navbar-collapse {
-    height: 100vh;
+    max-height: 100% !important;
 }
