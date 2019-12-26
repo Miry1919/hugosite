@@ -2,4 +2,4 @@
 title: Home
 ---
 
-### <p style="text-align: center;">Happy Christmas!</p>
+### <p style="text-align: center;">Good to see you!</p>
