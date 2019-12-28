@@ -3,13 +3,17 @@ title: Sport & Food
 description: ◐
 ---
 
-#### <span style="color:red">Sport</span>
+## <span style="color:red">Sport</span>
+
+&nbsp;
 
 #### <span style="color:red">Attività attuali</span>
 * _Palestra_
 * _Nuoto_
 
 Vado in palestra da circa tre anni. Nuoto da quando avevo tre anni. Mi divertono entrambe le attività, quindi avanti tutta!
+
+&nbsp;
 
 #### <span style="color:red">Attività in pausa</span>
 * _Corsa_
@@ -19,6 +23,6 @@ Penso sia lo sport che più mi rappresenta, da sola, per chilometri, scenario pe
 
 &nbsp;
 
-#### <span style="color:red">Food</span>
+## <span style="color:red">Food</span>
 
 L'alimentazione è obbligatoriamente integrata nella nostra vita. Saper mangiare dovrebbe essere una conoscenza fondamentale, una materia di studio in ogni scuola. Si eviterebbero molti problemi. Permette di stare bene.
