@@ -5,7 +5,6 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Deskbound: Standing Up to a Sitting World_ — Kelly Starrett
-* _Ready to Run: Unlocking Your Potential to Run Naturally_ — Kelly Starrett
 
 &nbsp;
 
@@ -54,6 +53,7 @@ description: ¶
 * _Poems_ — Emily Dickinson ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/emily-dickinson/)
 * _Meglio essere felici_ — Zygmunt Bauman
 * _L'universo elegante. Superstringhe, dimensioni nascoste e la ricerca della teoria ultima_ — Brian Greene ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/luniverso-elegante/)
+* _Ready to Run: Unlocking Your Potential to Run Naturally_ — Kelly Starrett ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/ready-to-run/)
 
 &nbsp;
 
