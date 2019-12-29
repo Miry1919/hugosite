@@ -12,8 +12,9 @@ description: ¶
 * _#Humanless. L'algoritmo egoista_ — Massimo Chiriatti
 * _Modernità Liquida_ — Zygmunt Bauman
 * _Click Here to Kill Everybody: Security and Survival in a Hyper-Connected World_ — Bruce Schneier
-* _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
 * _Pensieri lenti e veloci_ — Daniel Kahneman
+* _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
+* _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli
 
 &nbsp;
 
