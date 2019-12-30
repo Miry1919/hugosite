@@ -11,8 +11,8 @@ description: ¶
 
 #### <span style="color:red">Leggerò a breve</span>
 * _Click Here to Kill Everybody: Security and Survival in a Hyper-Connected World_ — Bruce Schneier
-* _Pensieri lenti e veloci_ — Daniel Kahneman
 * _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
+* _Pensieri lenti e veloci_ — Daniel Kahneman
 * _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli
 * _On the Plurality of Worlds_ — David Kellogg Lewis
 
