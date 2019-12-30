@@ -15,6 +15,7 @@ description: ¶
 * _Pensieri lenti e veloci_ — Daniel Kahneman
 * _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
 * _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli
+*_On the Plurality of Worlds_ — David Kellogg Lewis
 
 &nbsp;
 
