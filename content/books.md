@@ -4,13 +4,12 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Deskbound: Standing Up to a Sitting World_ — Kelly Starrett
+* _#Humanless. L'algoritmo egoista_ — Massimo Chiriatti
+* _Modernità Liquida_ — Zygmunt Bauman
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _#Humanless. L'algoritmo egoista_ — Massimo Chiriatti
-* _Modernità Liquida_ — Zygmunt Bauman
 * _Click Here to Kill Everybody: Security and Survival in a Hyper-Connected World_ — Bruce Schneier
 * _Pensieri lenti e veloci_ — Daniel Kahneman
 * _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
@@ -56,6 +55,7 @@ description: ¶
 * _Meglio essere felici_ — Zygmunt Bauman
 * _L'universo elegante. Superstringhe, dimensioni nascoste e la ricerca della teoria ultima_ — Brian Greene ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/luniverso-elegante/)
 * _Ready to Run: Unlocking Your Potential to Run Naturally_ — Kelly Starrett ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/ready-to-run/)
+* _Deskbound: Standing Up to a Sitting World_ — Kelly Starrett
 
 &nbsp;
 
