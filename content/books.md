@@ -4,7 +4,6 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _#Humanless. L'algoritmo egoista_ — Massimo Chiriatti
 * _Modernità Liquida_ — Zygmunt Bauman
 
 &nbsp;
@@ -56,6 +55,7 @@ description: ¶
 * _L'universo elegante. Superstringhe, dimensioni nascoste e la ricerca della teoria ultima_ — Brian Greene ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/luniverso-elegante/)
 * _Ready to Run: Unlocking Your Potential to Run Naturally_ — Kelly Starrett ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/ready-to-run/)
 * _Deskbound: Standing Up to a Sitting World_ — Kelly Starrett
+* _#Humanless. L'algoritmo egoista_ — Massimo Chiriatti
 
 &nbsp;
 
