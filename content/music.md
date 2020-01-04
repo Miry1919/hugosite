@@ -8,15 +8,19 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * [2016-2017](https://music.apple.com/it/playlist/my-2016-2017/pl.u-PDb40o6tJ9qVro)
 * [2017-2018](https://music.apple.com/it/playlist/my-2017-2018/pl.u-b3b8RKgC0qaz1d)
 * [2019](https://music.apple.com/it/playlist/my-2019/pl.u-b3b8Re4H0qaz1d)
+* [2020](https://music.apple.com/it/playlist/my-2020/pl.u-LdbqE1vt5e4m0R?l)
 * [Background](https://music.apple.com/it/playlist/background/pl.b05fb95eaae8419b8bc2201594355ee0?l=en)
 
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
-
-* _Tonight_ — LIE NING
-* _Per due che come noi_ — Brunori Sas
-* _Mind Is a Prison_ — Alec Benjamin
+* _Young Minds_ — Saavan
+* _Drunken Truth (feat. Andy Marsh)_ — Steve Void
+* _Deep Water_ — Lyves
+* _Sweet Harmony (feat. Nina Nesbitt)_ — Pete Tong & HERO
+* _If You Weren't You_ — Emily James
+* _Reason To Stay_ — Sody
+* _One of Us_ — Quinn Lewis
 
 &nbsp;
 
