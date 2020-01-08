@@ -25,6 +25,10 @@ Penso sia lo sport che più mi rappresenta, da sola, per chilometri, uno scenari
 
 &nbsp;
 
+<span style="color:red">Il mio sogno sarebbe quello di stare su un windsurf tutta la vita, ma questa è un'altra storia.</span>
+
+&nbsp;
+
 ### <span style="color:red">Food</span>
 
 L'alimentazione è obbligatoriamente integrata nella nostra vita. Saper mangiare dovrebbe essere una conoscenza fondamentale, una materia di studio in ogni scuola. Si eviterebbero molti problemi. Permette di stare bene.
