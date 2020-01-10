@@ -31,10 +31,6 @@ Penso sia lo sport che più mi rappresenta, da sola, per chilometri, uno scenari
 
 &nbsp;
 
-![windsurf](/post/images/windsurf.png)
-
-&nbsp;
-
 ### <span style="color:red">Food</span>
 
 L'alimentazione è obbligatoriamente integrata nella nostra vita. Saper mangiare dovrebbe essere una conoscenza fondamentale, una materia di studio in ogni scuola. Si eviterebbero molti problemi. Permette di stare bene.
