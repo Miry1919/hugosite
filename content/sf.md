@@ -29,7 +29,7 @@ Penso sia lo sport che più mi rappresenta, da sola, per chilometri, uno scenari
 
 <span style="color:red">Il mio sogno sarebbe quello di stare su un windsurf tutta la vita, ma questa è un'altra storia.</span>
 
-![](/static/Windsurf.jpg)
+![](/img/Windsurf.jpg)
 
 &nbsp;
 
