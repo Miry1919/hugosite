@@ -31,7 +31,7 @@ Penso sia lo sport che più mi rappresenta, da sola, per chilometri, uno scenari
 
 &nbsp;
 
-![](/post/images/windsurf.jpg)
+![](/post/images/windsurf.png)
 
 &nbsp;
 
