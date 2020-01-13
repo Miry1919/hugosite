@@ -14,6 +14,8 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Divenire_ — Ludovico Einaudi
+* _Mix 1992_ — Luca Carboni & Jovanotti
 * _HEY CHILD_ — X Ambassadors
 * _Young Minds_ — Saavan
 * _Drunken Truth (feat. Andy Marsh)_ — Steve Void
