@@ -6,16 +6,17 @@ description: ¶
 #### <span style="color:red">Sto leggendo</span>
 * _Modernità Liquida_ — Zygmunt Bauman
 * _Click Here to Kill Everybody: Security and Survival in a Hyper-Connected World_ — Bruce Schneier
+* _Storia del nuovo cognome. L'amica geniale (volume secondo)_ — Elena Ferrante
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Errore di sistema_ — Edward Snowden
 * _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
 * _Rebel Code: Linux and the Open Source Revolution_ — Glyn Moody
 * _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli
 * _Pensieri lenti e veloci_ — Daniel Kahneman
 * _On the Plurality of Worlds_ — David Kellogg Lewis
+* _Errore di sistema_ — Edward Snowden
 
 &nbsp;
 
