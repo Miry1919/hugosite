@@ -13,17 +13,10 @@ description: ◐
 
 #### <span style="color:red">Attività attuali</span>
 * _Palestra_
+* _Corsa_
 * _Nuoto_
 
-Vado in palestra da circa tre anni. Nuoto da quando avevo tre anni. Mi divertono entrambe le attività, quindi avanti tutta!
-
-&nbsp;
-
-#### <span style="color:red">Attività in pausa</span>
-* _Corsa_
-&nbsp;
-
-Penso sia lo sport che più mi rappresenta, da sola, per chilometri, uno scenario perfettamente masochistico. Ho dovuto fermarmi perché sono un tronco, ho poca flessibilità... Sto cercando di aggiustare con mobilità e stretching. Non vedo l'ora di ritornare a correre.
+Vado in palestra da circa tre anni. Nuoto da quando avevo tre anni. Ma penso che la corsa sia lo sport che più mi rappresenta, da sola, per chilometri, uno scenario perfettamente masochistico.
 
 &nbsp;
 

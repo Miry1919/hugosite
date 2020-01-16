@@ -14,16 +14,10 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Immobile_ — Alessandra Amoroso
+* _Per Una Notte O Per Sempre_ — Annalisa
 * _Divenire_ — Ludovico Einaudi
 * _Mix 1992_ — Luca Carboni & Jovanotti
-* _HEY CHILD_ — X Ambassadors
-* _Young Minds_ — Saavan
-* _Drunken Truth (feat. Andy Marsh)_ — Steve Void
-* _Deep Water_ — Lyves
-* _Sweet Harmony (feat. Nina Nesbitt)_ — Pete Tong & HERO
-* _If You Weren't You_ — Emily James
-* _Reason To Stay_ — Sody
-* _One of Us_ — Quinn Lewis
 
 &nbsp;
 
