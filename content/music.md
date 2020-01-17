@@ -14,7 +14,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
-* _Immobile_ — Alessandra Amoroso
+* _Stella Incantevole_ — Alessandra Amoroso
 * _Per Una Notte O Per Sempre_ — Annalisa
 * _Divenire_ — Ludovico Einaudi
 * _Mix 1992_ — Luca Carboni & Jovanotti
