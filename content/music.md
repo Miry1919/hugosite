@@ -14,7 +14,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
-* _Senza Riserva_ — Annalisax
+* _Senza Riserva_ — Annalisa
 * _Per Una Notte O Per Sempre_ — Annalisa
 * _Immobile_ — Alessandra Amoroso
 * _Stella Incantevole_ — Alessandra Amoroso
