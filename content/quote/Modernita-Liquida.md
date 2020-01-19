@@ -1,8 +1,10 @@
 ---
-title: "Modernita Liquida"
-description: "Zygmunt Bauman"
+title: Modernita Liquida
+description: Zygmunt Bauman
 ---
 «Il modo in cui si vive diventa una soluzione biografica a contraddizioni sistemiche.»
+&nbsp;
+
 — Ulrich Beck
 
 &nbsp;
@@ -12,6 +14,8 @@ description: "Zygmunt Bauman"
 &nbsp;
 
 «Ora, _qui_, per restare nello stesso posto devi correre più velocemente che puoi. Se poi vuoi arrivare da qualche parte, devi correre due volte ancora più veloce.»
+&nbsp;
+
 — Lewis Carroll
 
 &nbsp;
@@ -21,6 +25,8 @@ description: "Zygmunt Bauman"
 &nbsp;
 
 «Il mondo è una farsa per quelli che pensano, una tragedia per quelli che hanno sentimenti.»
+&nbsp;
+
 — Horace Walpole, 1769
 
 &nbsp;
