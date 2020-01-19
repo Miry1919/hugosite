@@ -4,7 +4,6 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Modernità Liquida_ — Zygmunt Bauman
 * _Click Here to Kill Everybody: Security and Survival in a Hyper-Connected World_ — Bruce Schneier
 * _Storia del nuovo cognome. L'amica geniale (volume secondo)_ — Elena Ferrante
 
@@ -59,6 +58,7 @@ description: ¶
 * _Ready to Run: Unlocking Your Potential to Run Naturally_ — Kelly Starrett ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/ready-to-run/)
 * _Deskbound: Standing Up to a Sitting World_ — Kelly Starrett
 * _#Humanless. L'algoritmo egoista_ — Massimo Chiriatti
+* _Modernità Liquida_ — Zygmunt Bauman ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/ready-to-run/)
 
 &nbsp;
 
