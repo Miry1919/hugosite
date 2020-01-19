@@ -1,5 +1,5 @@
 ---
-title: Modernita Liquida
+title: Modernità Liquida
 description: Zygmunt Bauman
 ---
 «Il modo in cui si vive diventa una soluzione biografica a contraddizioni sistemiche.»
