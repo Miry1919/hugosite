@@ -5,7 +5,6 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Click Here to Kill Everybody: Security and Survival in a Hyper-Connected World_ — Bruce Schneier
-* _Storia del nuovo cognome. L'amica geniale (volume secondo)_ — Elena Ferrante
 
 &nbsp;
 
@@ -59,6 +58,7 @@ description: ¶
 * _Deskbound: Standing Up to a Sitting World_ — Kelly Starrett
 * _#Humanless. L'algoritmo egoista_ — Massimo Chiriatti
 * _Modernità Liquida_ — Zygmunt Bauman ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/modernita-liquida/)
+* _Storia del nuovo cognome. L'amica geniale (volume secondo)_ — Elena Ferrante
 
 &nbsp;
 
