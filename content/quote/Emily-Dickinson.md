@@ -94,6 +94,12 @@ But microscopes are prudent
 
 In an emergency!»
 
+&nbsp;
+
+<span style="color:red">✄</span>
+
+&nbsp;
+
 «That Love is all there is,
 &nbsp;
 
