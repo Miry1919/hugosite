@@ -93,3 +93,14 @@ But microscopes are prudent
 &nbsp;
 
 In an emergency!»
+
+«That Love is all there is,
+&nbsp;
+
+Is all we know of Love;
+&nbsp;
+
+It is enough, the freight should be
+&nbsp;
+
+Proportioned to the groove.»
