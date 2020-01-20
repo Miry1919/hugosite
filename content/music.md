@@ -29,7 +29,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Album da ascoltare</span>
-*_Cip!_ — Brunori Sas
+* _Cip!_ — Brunori Sas
 
 &nbsp;
 
