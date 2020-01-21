@@ -5,6 +5,7 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Click Here to Kill Everybody: Security and Survival in a Hyper-Connected World_ — Bruce Schneier
+* _Errore di sistema_ — Edward Snowden
 
 &nbsp;
 
@@ -14,7 +15,6 @@ description: ¶
 * _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli
 * _Pensieri lenti e veloci_ — Daniel Kahneman
 * _On the Plurality of Worlds_ — David Kellogg Lewis
-* _Errore di sistema_ — Edward Snowden
 
 &nbsp;
 
