@@ -9,6 +9,16 @@ date: 2020-01-01
 
 &nbsp;
 
+<span style="color:red">Aggiornamento</span>
+&nbsp;
+
+Un punto extra:
+&nbsp;
+
+* comprare un <span style="color:red">Raspberry Pi</span> per usarlo con l'iPad Pro
+
+&nbsp;
+
 <div align="center">
   ✎
 </div>
