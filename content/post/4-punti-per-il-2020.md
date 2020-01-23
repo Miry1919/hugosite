@@ -12,7 +12,7 @@ date: 2020-01-01
 
 &nbsp;
 
-<span style="color:red">Aggiornamento (21•01•2020)</span>
+<span style="color:red">Aggiornamento (21•1•2020)</span>
 &nbsp;
 
 Un punto extra:
