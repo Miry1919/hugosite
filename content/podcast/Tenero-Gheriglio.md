@@ -1,8 +1,9 @@
 ---
 title: Tenero Gheriglio
-date: 2019-11-17
+date: 2020-1-23
 ---
 <div align="center">
-C'è un podcast dietro le quinte: arriverà nel 2020.
-Forse questo non sarà il suo titolo definitivo.
+
+Puntata #0 - [Introduzione](https://anchor.fm/miriana-novella7)
+
 </div>

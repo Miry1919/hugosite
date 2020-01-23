@@ -18,7 +18,7 @@ date: 2020-01-01
 Un punto extra:
 &nbsp;
 
-* comprare un <span style="color:red">Raspberry Pi</span> per usarlo con l'iPad Pro
+* comprare un <span style="color:red">Raspberry Pi</span> per usarlo con l'iPad
 
 &nbsp;
 
