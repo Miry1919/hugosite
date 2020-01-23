@@ -1,5 +1,6 @@
 ---
 title: EasyApple
+date: 2019-17-11
 ---
 <div align="center">
 Sono stata ospite due volte in questo bellissimo podcast. Vi lascio le due puntate qui sotto.
