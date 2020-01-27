@@ -2,7 +2,7 @@
 title: "«Tutta la vita è così: una volta ti pigli le mazzate, una volta i baci»"
 date: 2020-01-27
 ---
-♫ Se vuoi ricreare il clima in cui ho scritto il post metti <span style="text-decoration:underline">[questa](https://youtu.be/4J65-U3izN8)</span> in sottofondo.
+Se vuoi ricreare il clima in cui ho scritto il post metti <span style="text-decoration:underline">[questa canzone](https://youtu.be/4J65-U3izN8)</span> in sottofondo.
 
 &nbsp;
 
