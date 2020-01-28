@@ -4,7 +4,6 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Click Here to Kill Everybody: Security and Survival in a Hyper-Connected World_ — Bruce Schneier
 * _Errore di sistema_ — Edward Snowden
 
 &nbsp;
@@ -59,6 +58,7 @@ description: ¶
 * _#Humanless. L'algoritmo egoista_ — Massimo Chiriatti
 * _Modernità Liquida_ — Zygmunt Bauman ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/modernita-liquida/)
 * _Storia del nuovo cognome. L'amica geniale (volume secondo)_ — Elena Ferrante
+* _Click Here to Kill Everybody: Security and Survival in a Hyper-Connected World_ — Bruce Schneier ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/click-here-to-kill-everybody/)
 
 &nbsp;
 
