@@ -23,12 +23,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Fired Up_ — Grace Carter
 * _Fathers Son_ — Declan J Donovan
 * _Flags_ — SYML
-* _Senza Riserva_ — Annalisa
-* _Per Una Notte O Per Sempre_ — Annalisa
-* _Immobile_ — Alessandra Amoroso
-* _Stella Incantevole_ — Alessandra Amoroso
-* _Divenire_ — Ludovico Einaudi
-* _Mix 1992_ — Luca Carboni & Jovanotti
 
 &nbsp;
 
