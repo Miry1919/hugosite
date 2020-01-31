@@ -26,8 +26,10 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 
 &nbsp;
 
-#### <span style="color:red">Album da ascoltare</span>
+#### <span style="color:red">Ultimi album</span>
 * _Cip!_ — Brunori Sas
+* _Fine Line_ — Harry Styles
+* _Everyday Life_ — Coldplay
 
 &nbsp;
 
