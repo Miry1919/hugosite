@@ -14,6 +14,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _time of our lives_ — Christian French
 * _Falling_ — Phillip LaRue
 * _Wicked Game_ — Sophia Bel
 * _Sway_ — RHODES
