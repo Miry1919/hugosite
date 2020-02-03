@@ -3,7 +3,7 @@ title: Tenero Gheriglio
 date: 2020-02-03
 ---
 <div align="center">
-È il podcast che prima o poi avrei messo in piedi. <span style="text-decoration:underline">Ogni lunedì alle h. 19:00</span> compare una nuova puntata.
+È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata.
 </div>
 
 ---
