@@ -11,6 +11,4 @@ date: 2020-02-03
 
 * Puntata #1 (3•2•2020)
 
-    Nel primo reale tentativo di familiarizzazione col microfono, tra pezzi con l'aiuto di un gobbo fai da te e fasi a braccio, "rompiamo il guscio", parlando di fiducia, sicurezza e corsa.
-
 ---
