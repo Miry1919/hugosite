@@ -5,11 +5,11 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Errore di sistema_ — Edward Snowden
+* _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
 * _Rebel Code: Linux and the Open Source Revolution_ — Glyn Moody
 * _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli
 * _Pensieri lenti e veloci_ — Daniel Kahneman
