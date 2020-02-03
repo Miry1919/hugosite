@@ -5,7 +5,6 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Errore di sistema_ — Edward Snowden
-* _Einstein_ — Philipp Frank
 
 &nbsp;
 

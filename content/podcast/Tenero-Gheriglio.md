@@ -5,7 +5,7 @@ date: 2020-01-23
 È il podcast che prima o poi avrei messo in piedi.
 &nbsp;
 
-Ogni lunedì alle ore 19:00 esce una nuova puntata.
+Ogni lunedì alle h. 19:00 esce una nuova puntata.
 
 &nbsp;
 
