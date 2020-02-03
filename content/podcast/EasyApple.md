@@ -6,5 +6,12 @@ date: 2019-11-17
 Sono stata ospite due volte in questo bellissimo podcast. Vi lascio le due puntate qui sotto.
 </div>
 
-*  [16/05/2014](https://www.easypodcast.it/easyapple/168)
-*  [12/04/2019](https://www.easypodcast.it/easyapple/403)
+---
+
+#168 (16•5•2014) ☞[L'iPad a scuola](https://www.easypodcast.it/easyapple/168)
+
+---
+
+#403 (12•4•2019) ☞[A spasso nel tempo](https://www.easypodcast.it/easyapple/403)
+
+---
