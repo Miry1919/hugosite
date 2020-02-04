@@ -22,11 +22,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Wicked Game_ — Sophia Bel
 * _Sway_ — RHODES
 * _Across the Universe_ — Imaginary Future (feat. Kina Grannis)
-* _Blinding Lights_ — The Weeknd
-* _Control_ — Winona Oak
-* _Fired Up_ — Grace Carter
-* _Fathers Son_ — Declan J Donovan
-* _Flags_ — SYML
 
 &nbsp;
 
