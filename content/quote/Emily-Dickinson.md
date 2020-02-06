@@ -110,3 +110,33 @@ It is enough, the freight should be
 &nbsp;
 
 Proportioned to the groove.»
+
+&nbsp;
+
+<span style="color:red">✄</span>
+
+&nbsp;
+
+«For each ecstatic instant
+&nbsp;
+
+We must an anguish pay
+&nbsp;
+
+In keen and quivering ratio
+&nbsp;
+
+To the ecstasy.
+
+&nbsp;
+  
+For each beloved hour
+&nbsp;
+
+Sharp pittances of years,
+&nbsp;
+
+Bitter contested farthings
+&nbsp;
+
+And coffers heaped with tears.»
