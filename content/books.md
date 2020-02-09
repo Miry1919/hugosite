@@ -5,6 +5,8 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
+* _Lezioni di meraviglia_ — Andrea Colamedici, Maura Gancitano
+* _Potere alle parole_ — Vera Gheno
 
 &nbsp;
 
@@ -13,6 +15,8 @@ description: ¶
 * _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli
 * _Pensieri lenti e veloci_ — Daniel Kahneman
 * _On the Plurality of Worlds_ — David Kellogg Lewis
+* _Walden: Vita nel bosco_ — Henry David Thoreau
+* _La fatica più bella. Perché correre cambia la vita_ — Gastone Breccia
 
 &nbsp;
 

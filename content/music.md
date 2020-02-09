@@ -14,6 +14,8 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Vai bene così_ — Leo Gassmann
+* _Fai rumore_ — Diodato
 * _Drift Away_ — Dobie Gray
 * _I Say a Little Prayer_ — Aretha Franklin
 * _Won't Let You Go_ — Ben Cocks & Mo Brandis
