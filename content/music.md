@@ -22,10 +22,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Out of Love_ — Alessia Cara
 * _Just Fine_ — Em
 * _time of our lives_ — Christian French
-* _Falling_ — Phillip LaRue
-* _Wicked Game_ — Sophia Bel
-* _Sway_ — RHODES
-* _Across the Universe_ — Imaginary Future (feat. Kina Grannis)
 
 &nbsp;
 
