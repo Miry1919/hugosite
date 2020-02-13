@@ -1,5 +1,5 @@
 ---
-title: Lezioni Di Meraviglia
+title: Lezioni di meraviglia
 description: "Andrea Colamedici, Maura Gancitano"
 ---
 «Per meravigliarti davvero devi essere disposto a mettere costantemente in dubbio ogni cosa, altrimenti non puoi essere un cercatore che anela sinceramente alla verità, anche a costo che non sia bella.»
