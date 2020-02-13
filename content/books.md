@@ -5,7 +5,6 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
-* _Lezioni di meraviglia_ — Andrea Colamedici, Maura Gancitano
 * _Potere alle parole_ — Vera Gheno
 
 &nbsp;
@@ -63,6 +62,7 @@ description: ¶
 * _Storia del nuovo cognome. L'amica geniale (volume secondo)_ — Elena Ferrante
 * _Click Here to Kill Everybody: Security and Survival in a Hyper-Connected World_ — Bruce Schneier ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/click-here-to-kill-everybody/)
 * _Errore di sistema_ — Edward Snowden
+* _Lezioni di meraviglia_ — Andrea Colamedici, Maura Gancitano ☞[{Quotes}]()
 
 &nbsp;
 
