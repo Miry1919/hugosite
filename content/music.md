@@ -14,6 +14,8 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Andromeda_ — Elodie
+* _Viceversa_ — Francesco Gabbani
 * _Vai bene così_ — Leo Gassmann
 * _Fai rumore_ — Diodato
 * _Drift Away_ — Dobie Gray
