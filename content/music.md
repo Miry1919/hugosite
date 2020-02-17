@@ -23,10 +23,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Fai rumore_ — Diodato
 * _Drift Away_ — Dobie Gray
 * _I Say a Little Prayer_ — Aretha Franklin
-* _Won't Let You Go_ — Ben Cocks & Mo Brandis
-* _Out of Love_ — Alessia Cara
-* _Just Fine_ — Em
-* _time of our lives_ — Christian French
 
 &nbsp;
 
