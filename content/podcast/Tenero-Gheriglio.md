@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-02-10
+date: 2020-02-17
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata.
@@ -8,7 +8,15 @@ date: 2020-02-10
 
 ---
 
-* Puntata #2 (10•2•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #3 (17•2•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[1000 frammenti di insetti e 20 peli di roditori](https://anchor.fm/miriana-novella7/episodes/1000-frammenti-di-insetti-e-20-peli-di-roditori-easnkl)
+
+    L'unico modo per sapere cosa espongo nella terza puntata sarà quello di ascoltarla; questa volta non vi anticiperò nulla.
+    
+---
+
+* Puntata #2 (10•2•2020)
 
     ☞["Provate, cambiate, cambiate sempre le cose che fate"](https://anchor.fm/miriana-novella7/episodes/Provate--cambiate--cambiate-sempre-le-cose-che-fate-eampug)
     
