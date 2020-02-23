@@ -4,8 +4,8 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
 * _Rebel Code: Linux and the Open Source Revolution_ — Glyn Moody
+* _Silicio_ — Federico Faggin
 
 &nbsp;
 
@@ -65,6 +65,7 @@ description: ¶
 * _Errore di sistema_ — Edward Snowden
 * _Lezioni di meraviglia_ — Andrea Colamedici, Maura Gancitano ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/lezioni-di-meraviglia/)
 * _Potere alle parole_ — Vera Gheno
+* _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
 
 &nbsp;
 

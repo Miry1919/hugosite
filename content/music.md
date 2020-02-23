@@ -14,6 +14,10 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _How to Help_ — Harrison Storm
+* _Cipralex_ — Jack Peñate
+* _No Time To Die_ — Billie Eilish
+* _Pines_ — ferdinant.
 * _The Story of the Impossible_ — Peter von Poehl
 * _Stone_ — Jaymes Young
 * _Blank Space_ — RHODES
@@ -21,8 +25,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Viceversa_ — Francesco Gabbani
 * _Vai bene così_ — Leo Gassmann
 * _Fai rumore_ — Diodato
-* _Drift Away_ — Dobie Gray
-* _I Say a Little Prayer_ — Aretha Franklin
 
 &nbsp;
 
