@@ -12,7 +12,7 @@ date: 2020-02-24
     
     ☞[Tutto parte dal nostro cervello](https://anchor.fm/miriana-novella7/episodes/Tutto-parte-dal-nostro-cervello-eb1oku)
     
-   Come al solito ho corso e fatto follie; occasionalmente ho letto e preso appunti al mare.
+    Come al solito ho corso e fatto follie; occasionalmente ho letto e preso appunti al mare.
 
 ---
 
