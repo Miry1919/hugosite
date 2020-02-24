@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-02-17
+date: 2020-02-24
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata.
@@ -8,7 +8,15 @@ date: 2020-02-17
 
 ---
 
-* Puntata #3 (17•2•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #4 (24•2•2020) <span style="color:blue">⚡ New!</span>
+    
+    ☞[Tutto parte dal nostro cervello](https://anchor.fm/miriana-novella7/episodes/Tutto-parte-dal-nostro-cervello-eb1oku)
+    
+   Come al solito ho corso e fatto follie; occasionalmente ho letto e preso appunti al mare.
+
+---
+
+* Puntata #3 (17•2•2020)
 
     ☞[1000 frammenti di insetti e 20 peli di roditori](https://anchor.fm/miriana-novella7/episodes/1000-frammenti-di-insetti-e-20-peli-di-roditori-easnkl)
 
