@@ -14,6 +14,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Antidote_ — Kiso & Cosmos & Creature
 * _How to Help_ — Harrison Storm
 * _Cipralex_ — Jack Peñate
 * _No Time To Die_ — Billie Eilish
@@ -23,8 +24,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Blank Space_ — RHODES
 * _Andromeda_ — Elodie
 * _Viceversa_ — Francesco Gabbani
-* _Vai bene così_ — Leo Gassmann
-* _Fai rumore_ — Diodato
 
 &nbsp;
 
