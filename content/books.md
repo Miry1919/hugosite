@@ -5,12 +5,11 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Rebel Code: Linux and the Open Source Revolution_ — Glyn Moody
-* _Silicio_ — Federico Faggin
+* _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli
 * _Pensieri lenti e veloci_ — Daniel Kahneman
 * _On the Plurality of Worlds_ — David Kellogg Lewis
 * _Walden: Vita nel bosco_ — Henry David Thoreau
@@ -66,6 +65,7 @@ description: ¶
 * _Lezioni di meraviglia_ — Andrea Colamedici, Maura Gancitano ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/lezioni-di-meraviglia/)
 * _Potere alle parole_ — Vera Gheno
 * _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
+* _Silicio_ — Federico Faggin
 
 &nbsp;
 
