@@ -14,6 +14,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Jack & Jill_ — Broken Back
 * _Antidote_ — Kiso & Cosmos & Creature
 * _How to Help_ — Harrison Storm
 * _Cipralex_ — Jack Peñate
@@ -22,8 +23,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _The Story of the Impossible_ — Peter von Poehl
 * _Stone_ — Jaymes Young
 * _Blank Space_ — RHODES
-* _Andromeda_ — Elodie
-* _Viceversa_ — Francesco Gabbani
 
 &nbsp;
 
