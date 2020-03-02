@@ -14,6 +14,8 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _The Back of Your Hands_ — nimino feat. Ashe
+* _I Still Belong to You_ — Imaginary Future
 * _Jack & Jill_ — Broken Back
 * _Antidote_ — Kiso & Cosmos & Creature
 * _How to Help_ — Harrison Storm
@@ -21,8 +23,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _No Time To Die_ — Billie Eilish
 * _Pines_ — ferdinant.
 * _The Story of the Impossible_ — Peter von Poehl
-* _Stone_ — Jaymes Young
-* _Blank Space_ — RHODES
 
 &nbsp;
 
