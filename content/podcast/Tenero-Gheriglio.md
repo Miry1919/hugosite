@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-02-24
+date: 2020-03-02
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata.
@@ -8,7 +8,15 @@ date: 2020-02-24
 
 ---
 
-* Puntata #4 (24•2•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #5 (2•3•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Amore, disciplina, passione e coraggio](https://anchor.fm/miriana-novella7/episodes/Amore--disciplina--passione-e-coraggio-eb6kr4)
+    
+    Una giovane fulminata chiacchiera di abitudini alimentari (frutta secca, cioccolato, zucchero), consapevolezza (Federico Faggin), e produttività (www.bulletjournal.com).
+
+---
+
+* Puntata #4 (24•2•2020)
     
     ☞[Tutto parte dal nostro cervello](https://anchor.fm/miriana-novella7/episodes/Tutto-parte-dal-nostro-cervello-eb1oku)
     
