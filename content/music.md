@@ -26,13 +26,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 
 &nbsp;
 
-#### <span style="color:red">Ultimi album</span>
-* _Cip!_ — Brunori Sas
-* _Fine Line_ — Harry Styles
-* _Everyday Life_ — Coldplay
-
-&nbsp;
-
 ##### <span style="color:red">_" Without music life would be a mistake "_</span>
 
 ##### — Friedrich Nietzsche
