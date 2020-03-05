@@ -22,7 +22,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Cipralex_ — Jack Peñate
 * _No Time To Die_ — Billie Eilish
 * _Pines_ — ferdinant.
-* _The Story of the Impossible_ — Peter von Poehl
 
 &nbsp;
 
