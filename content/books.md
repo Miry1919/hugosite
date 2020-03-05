@@ -68,7 +68,7 @@ description: ¶
 
 &nbsp;
 
-#### <span style="color:red">In Pausa</span>
+#### <span style="color:red">In pausa</span>
 * _Lezioni di letteratura_ — Vladimir Nabokov
 * _Rebel Code: Linux and the Open Source Revolution_ — Glyn Moody
 
