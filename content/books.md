@@ -5,7 +5,7 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli
-* _Io, te e il mare_ — Marzia Sicignano
+
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
@@ -66,6 +66,7 @@ description: ¶
 * _Potere alle parole_ — Vera Gheno
 * _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
 * _Silicio_ — Federico Faggin
+* _Io, te e il mare_ — Marzia Sicignano
 
 &nbsp;
 
