@@ -5,7 +5,7 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli
-
+* _Io, te e il mare_ — Marzia Sicignano
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
@@ -15,6 +15,7 @@ description: ¶
 * _La fatica più bella. Perché correre cambia la vita_ — Gastone Breccia
 * _La rabbia e l'orgoglio_ — Oriana Fallaci
 * _Ogni cosa al suo posto_ — Oliver Sacks
+* _La solitudine dei numeri primi_ — Paolo Giordano
 
 &nbsp;
 
