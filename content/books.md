@@ -5,10 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli
+* _Sette tesi sulla magia della radio_ — Massimo Cirri
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
+* _Storia di una balena bianca raccontata da lei stessa_ — Luis Sepúlveda
 * _Pensieri lenti e veloci_ — Daniel Kahneman
 * _On the Plurality of Worlds_ — David Kellogg Lewis
 * _Walden: Vita nel bosco_ — Henry David Thoreau

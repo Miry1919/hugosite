@@ -22,10 +22,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _I Still Belong to You_ — Imaginary Future
 * _Jack & Jill_ — Broken Back
 * _Antidote_ — Kiso & Cosmos & Creature
-* _How to Help_ — Harrison Storm
-* _Cipralex_ — Jack Peñate
-* _No Time To Die_ — Billie Eilish
-* _Pines_ — ferdinant.
 
 &nbsp;
 

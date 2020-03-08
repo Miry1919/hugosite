@@ -2,6 +2,7 @@
 title: "Nessuno può capire chi sei"
 date: 2020-03-08
 ---
+<div align="center">
 Adesso che ho un posto dove scrivere, naturalmente non ho più nulla da esporre. Certo che invece, a voce, su Tenero Gheriglio, da più di un mese mi sto prendendo i miei bei spazi di riflessione, e sto cercando di farli diventare sempre più utili ed attraenti, senza dimenticarmi di mantenerli divertenti. La durata di al massimo 15 minuti a puntata sembra essere perfetta. Allora facciamo così, visto che non ho nulla di nuovo da scrivere, mi andrebbe di ripescare questo mio piccolo scritto dell’anno scorso, scritto che condivisi sui social network, quando questo sito ancora non esisteva. Tra l’altro, si ricollega alla Puntata #5 del podcast (ad oggi l’ultima). Se siete miei ascoltatori, coglierete subito il cioccolatoso collegamento.
 
 &nbsp;
@@ -16,6 +17,7 @@ Mi piace cambiare idea e fare cambiare idea su di me. Apprezzo l’aver capito c
 &nbsp;
 
 Ottimo, penso che tanto, per la cadenza della stesura di questi post, scriverò nuovamente qualcosa dopo Pasqua. Buona Pasqua!
+</div>
 
 &nbsp;
 
