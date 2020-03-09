@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-03-02
+date: 2020-03-09
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata.
@@ -8,7 +8,15 @@ date: 2020-03-02
 
 ---
 
-* Puntata #5 (2•3•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #6 (9•3•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Una tipa motivazionale](https://anchor.fm/miriana-novella7/episodes/Una-tipa-motivazionale-ebc9u5)
+    
+    Questa puntata è praticamente tutta a braccio. Sto ingranando? Sono più fluida? Ah giusto, questo non è il posto per i miei ragionamenti, ma per la descrizione: corsa, parchi, persone, passeggiate, coronavirus, riscoperta del digitale, amore, colore ("Cromorama" di Riccardo Falcinelli), scrivanie per lavorare in piedi, tristezza, dubbio, felicità, miele.
+
+---
+
+* Puntata #5 (2•3•2020)
 
     ☞[Amore, disciplina, passione e coraggio](https://anchor.fm/miriana-novella7/episodes/Amore--disciplina--passione-e-coraggio-eb6kr4)
     
