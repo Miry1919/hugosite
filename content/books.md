@@ -68,7 +68,7 @@ description: ¶
 * _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
 * _Silicio_ — Federico Faggin
 * _Io, te e il mare_ — Marzia Sicignano
-* _Storia di una balena bianca raccontata da lei stessa_ — Luis Sepúlveda ☞[{Quotes}]()
+* _Storia di una balena bianca raccontata da lei stessa_ — Luis Sepúlveda ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/storia-di-una-balena-bianca-raccontata-da-lei-stessa/)
 
 &nbsp;
 
