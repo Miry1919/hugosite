@@ -5,7 +5,6 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli
-* _Storia di una balena bianca raccontata da lei stessa_ — Luis Sepúlveda
 * _Sette tesi sulla magia della radio_ — Massimo Cirri
 
 &nbsp;
@@ -69,6 +68,7 @@ description: ¶
 * _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
 * _Silicio_ — Federico Faggin
 * _Io, te e il mare_ — Marzia Sicignano
+* _Storia di una balena bianca raccontata da lei stessa_ — Luis Sepúlveda ☞[{Quotes}]()
 
 &nbsp;
 
