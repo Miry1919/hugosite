@@ -5,7 +5,6 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli
-* _Sette tesi sulla magia della radio_ — Massimo Cirri
 
 &nbsp;
 
@@ -69,13 +68,13 @@ description: ¶
 * _Silicio_ — Federico Faggin
 * _Io, te e il mare_ — Marzia Sicignano
 * _Storia di una balena bianca raccontata da lei stessa_ — Luis Sepúlveda ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/storia-di-una-balena-bianca-raccontata-da-lei-stessa/)
+* _Sette tesi sulla magia della radio_ — Massimo Cirri
 
 &nbsp;
 
 #### <span style="color:red">In pausa</span>
 * _Lezioni di letteratura_ — Vladimir Nabokov
 * _Rebel Code: Linux and the Open Source Revolution_ — Glyn Moody
-
 
 &nbsp;
 
