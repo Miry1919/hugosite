@@ -14,14 +14,14 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Hypochondriac_ — Fenne Lily
+* _When Things Break Apart_ — DANIEL SAINT BLACK
+* _The First One_ — Caro & James Droll
+* _crowded room_ — Christian French
+* _Rare_ — Selena Gomez
+* _Kings & Queens_ — Ava Max
 * _Ooh Ahh (My Life Be Like)_ — Grits
 * _House Key_ — Scott Helman
-* _When Was the Last Time?_ — Ryhs Lewis
-* _I Can't Help_ — Shoffy
-* _Alone, Pt. II_ — Alan Walker & Ava Max
-* _Girl Named Surrender_ — Phillip LaRue
-* _The Back of Your Hands_ — nimino feat. Ashe
-* _I Still Belong to You_ — Imaginary Future
 
 &nbsp;
 
