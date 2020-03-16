@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-03-09
+date: 2020-03-16
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata.
@@ -8,7 +8,15 @@ date: 2020-03-09
 
 ---
 
-* Puntata #6 (9•3•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #7 (16•3•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Urla e pianti, sconforto, fame di latte, voglia di qualcosa che non c'è](https://anchor.fm/miriana-novella7/episodes/Urla-e-pianti--sconforto--fame-di-latte--voglia-di-qualcosa-che-non-c-ebi479)
+    
+    Da casa parliamo di palestra a casa, didattica online — intramezzi divertenti — corteggiamenti involontari, fraintendimenti. Sempre da casa analizziamo il libro "Sette tesi sulla magia della radio" di Massimo Cirri.
+
+---
+
+* Puntata #6 (9•3•2020)
 
     ☞[Una tipa motivazionale](https://anchor.fm/miriana-novella7/episodes/Una-tipa-motivazionale-ebc9u5)
     
