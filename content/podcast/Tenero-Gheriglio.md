@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-03-16
+date: 2020-03-23
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata.
@@ -8,7 +8,15 @@ date: 2020-03-16
 
 ---
 
-* Puntata #7 (16•3•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #8 (23•3•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[E ogni tanto appendermi come un pipistrello](https://anchor.fm/miriana-novella7/episodes/E-ogni-tanto-appendermi-come-un-pipistrello-ebqijr)
+   
+    La primavera e Animal Crossing (New Horizons) sono arrivati, ma la scrivania nuova no. Pare sia anche arrivato il momento di salvare in qualche modo i miei ultimi tre anni di concorsi e pazzia, e quello di parlare di introversione ed estroversione snocciolando il libro "Quiet" di Susan Cain.
+
+---
+
+* Puntata #7 (16•3•2020)
 
     ☞[Urla e pianti, sconforto, fame di latte, voglia di qualcosa che non c'è](https://anchor.fm/miriana-novella7/episodes/Urla-e-pianti--sconforto--fame-di-latte--voglia-di-qualcosa-che-non-c-ebi479)
     
