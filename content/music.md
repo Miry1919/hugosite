@@ -14,6 +14,8 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Dance Monkey_ — Tones And I
+* _Per essere felici_ — Marina Rei
 * _Hypochondriac_ — Fenne Lily
 * _When Things Break Apart_ — DANIEL SAINT BLACK
 * _The First One_ — Caro & James Droll
