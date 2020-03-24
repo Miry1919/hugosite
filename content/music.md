@@ -14,16 +14,14 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Daylight_ — Jome
+* _New York_ — Refs
+* _Love's a Waste_ — Sody
+* _You & I_ — Harrison Storm
+* _Old Soul_— Saint Motel
+* _Too Much_ — Reece
 * _Dance Monkey_ — Tones And I
 * _Per essere felici_ — Marina Rei
-* _Hypochondriac_ — Fenne Lily
-* _When Things Break Apart_ — DANIEL SAINT BLACK
-* _The First One_ — Caro & James Droll
-* _crowded room_ — Christian French
-* _Rare_ — Selena Gomez
-* _Kings & Queens_ — Ava Max
-* _Ooh Ahh (My Life Be Like)_ — Grits
-* _House Key_ — Scott Helman
 
 &nbsp;
 
