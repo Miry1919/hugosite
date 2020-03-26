@@ -14,11 +14,11 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Diamonds_ — Josef Salvat
 * _Daylight_ — Jome
 * _New York_ — Refs
 * _Love's a Waste_ — Sody
 * _You & I_ — Harrison Storm
-* _Old Soul_ — Saint Motel
 * _Too Much_ — Reece
 * _Dance Monkey_ — Tones And I
 * _Per essere felici_ — Marina Rei
