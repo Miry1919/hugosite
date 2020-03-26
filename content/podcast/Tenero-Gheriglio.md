@@ -11,8 +11,8 @@ date: 2020-03-23
 
 Ascoltalo:
 
-* su Youtube tramite la seguente [playlist sempre aggiornata](https://www.youtube.com/playlist?list=PLG8qHQG7k8Jrgo8WEqYS9WsbaY6kDRhyv)
-* nel tuo podcast player preferito cliccando sui link presenti nella pagina attuale
+* su Youtube tramite la seguente [playlist](https://www.youtube.com/playlist?list=PLG8qHQG7k8Jrgo8WEqYS9WsbaY6kDRhyv) sempre aggiornata
+* nel tuo podcast player preferito cliccando sui link presenti qui sotto
 
 ---
 ---
