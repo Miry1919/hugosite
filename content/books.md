@@ -5,7 +5,6 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli
-* _Madame Bovary_ — Gustave Flaubert
 
 &nbsp;
 
