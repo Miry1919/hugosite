@@ -7,6 +7,15 @@ date: 2020-03-23
 </div>
 
 ---
+---
+
+Ascoltalo:
+
+* su Youtube tramite la seguente [playlist sempre aggiornata](https://www.youtube.com/playlist?list=PLG8qHQG7k8Jrgo8WEqYS9WsbaY6kDRhyv)
+* nel tuo podcast player preferito cliccando sui link presenti nella pagina attuale
+
+---
+---
 
 * Puntata #8 (23•3•2020) <span style="color:blue">⚡ New!</span>
 
