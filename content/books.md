@@ -5,12 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli
+* _On the Plurality of Worlds_ — David Kellogg Lewis
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 * _Pensieri lenti e veloci_ — Daniel Kahneman
-* _On the Plurality of Worlds_ — David Kellogg Lewis
 * _Walden: Vita nel bosco_ — Henry David Thoreau
 * _La fatica più bella. Perché correre cambia la vita_ — Gastone Breccia
 * _La rabbia e l'orgoglio_ — Oriana Fallaci
