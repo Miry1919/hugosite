@@ -4,7 +4,6 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli
 * _On the Plurality of Worlds_ — David Kellogg Lewis
 
 &nbsp;
@@ -69,6 +68,7 @@ description: ¶
 * _Io, te e il mare_ — Marzia Sicignano
 * _Storia di una balena bianca raccontata da lei stessa_ — Luis Sepúlveda ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/storia-di-una-balena-bianca-raccontata-da-lei-stessa/)
 * _Sette tesi sulla magia della radio_ — Massimo Cirri
+* _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/cromorama/)
 
 &nbsp;
 
