@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-03-23
+date: 2020-03-30
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi.
@@ -21,7 +21,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #8 (23•3•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #9 (30•3•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞["Ma dove li hai conosciuti questi?"](https://anchor.fm/miriana-novella7/episodes/Ma-dove-li-hai-conosciuti-questi-ec3vdk)
+    
+    Nella nona puntata vi spiego come tutto è iniziato e perché potete ascoltarmi. Inoltre vi racconto quali podcast ascolto.
+
+---
+
+* Puntata #8 (23•3•2020)
 
     ☞[E ogni tanto appendermi come un pipistrello](https://anchor.fm/miriana-novella7/episodes/E-ogni-tanto-appendermi-come-un-pipistrello-ebqijr)
    
