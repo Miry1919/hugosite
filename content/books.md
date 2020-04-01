@@ -5,11 +5,11 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _On the Plurality of Worlds_ — David Kellogg Lewis
+* _Pensieri lenti e veloci_ — Daniel Kahneman
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Pensieri lenti e veloci_ — Daniel Kahneman
 * _Walden: Vita nel bosco_ — Henry David Thoreau
 * _La fatica più bella. Perché correre cambia la vita_ — Gastone Breccia
 * _La rabbia e l'orgoglio_ — Oriana Fallaci
