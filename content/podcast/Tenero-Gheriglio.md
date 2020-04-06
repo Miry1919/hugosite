@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-03-30
+date: 2020-04-06
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi.
@@ -21,7 +21,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #9 (30•3•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #10 (6•4•2020) <span style="color:blue">⚡ New!</span>
+
+☞[Non si sarebbe vista la fatica](https://anchor.fm/miriana-novella7/episodes/Non-si-sarebbe-vista-la-fatica-eceofh)
+
+Nella prima puntata “doppia cifra” parlo del sonno; e poi di psicologia, intuizioni, associazioni, ragionamenti e giudizi, tramite il libro “Pensieri lenti e veloci” di Daniel Kahneman.
+
+---
+
+* Puntata #9 (30•3•2020)
 
     ☞["Ma dove li hai conosciuti questi?"](https://anchor.fm/miriana-novella7/episodes/Ma-dove-li-hai-conosciuti-questi-ec3vdk)
     
