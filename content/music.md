@@ -14,6 +14,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Up Where We Belong_ — Joe Cocker & Jennifer Warnes
 * _The Story_ — Conan Gray
 * _Banlieue_ — Nyv
 * _Colour In Your Heart_ — Roo Panes
