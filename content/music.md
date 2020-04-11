@@ -14,6 +14,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Fireside_ — Phillip LaRue
 * _Abbi cura di te_ — Levante
 * _Nel mio secondo cuore_ — Paola Turci
 * _Sempre e per sempre_ — Francesco De Gregori
@@ -22,12 +23,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Banlieue_ — Nyv
 * _Colour In Your Heart_ — Roo Panes
 * _This Shouldn't Work_ — RHODES
-* _Diamonds_ — Josef Salvat
-* _Daylight_ — Jome
-* _New York_ — Refs
-* _Love's a Waste_ — Sody
-* _You & I_ — Harrison Storm
-* _Too Much_ — Reece
 
 &nbsp;
 
