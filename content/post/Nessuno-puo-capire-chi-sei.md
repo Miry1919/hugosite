@@ -28,5 +28,15 @@ Ottimo, penso che, vista la cadenza nella stesura di questi post, scriverò nuov
 &nbsp;
 
 <div align="center">
+<span style="color:red">Aggiornamento (12•4•2020)</span>
+</div>
+
+<div align="center">
+Finalmente per questa Pasqua abbiamo trovato l'uovo di cioccolato all'85% di cacao.
+</div>
+
+&nbsp;
+
+<div align="center">
   ✎
 </div>
