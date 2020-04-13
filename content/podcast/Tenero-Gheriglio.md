@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-04-06
+date: 2020-04-13
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi.
@@ -8,6 +8,10 @@ date: 2020-04-06
 
 <div align="center">
 Ogni lunedì alle h. 19:00 esce una nuova puntata.
+</div>
+
+<div align="center">
+Anche in quelli festivi.
 </div>
 
 ---
@@ -21,7 +25,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #10 (6•4•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #11 (13•4•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Una colazione che pare un pranzo](https://anchor.fm/miriana-novella7/episodes/Una-colazione-che-pare-un-pranzo-ecnna9)
+
+    Nella puntata festiva di Pasquetta non blatero di banali picnic o gite fuori porta, ma chiacchiero del rapporto tra concentrazione e movimento, della pratica del camminare pensando, dell'atto di correre ascoltando; inoltre espongo come ho iniziato ad interessarmi di alimentazione, esplicitando qualche linea guida ed evitando i picchi glicemici.
+
+---
+
+* Puntata #10 (6•4•2020)
 
     ☞[Non si sarebbe vista la fatica](https://anchor.fm/miriana-novella7/episodes/Non-si-sarebbe-vista-la-fatica-eceofh)
 
