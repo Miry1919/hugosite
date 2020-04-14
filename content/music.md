@@ -14,6 +14,10 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Non me ne frega niente_ — Levante
+* _Running to Stand Still_ — Kodaline
+* _Bright Side_ — Johnny Stimson
+* _It Must Have Been Love_ — Roxette
 * _Fireside_ — Phillip LaRue
 * _Abbi cura di te_ — Levante
 * _Nel mio secondo cuore_ — Paola Turci

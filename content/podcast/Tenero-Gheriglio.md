@@ -11,7 +11,7 @@ Ogni lunedì alle h. 19:00 esce una nuova puntata.
 </div>
 
 <div align="center">
-Anche in quelli festivi.
+Anche quelli festivi.
 </div>
 
 ---
