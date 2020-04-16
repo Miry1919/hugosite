@@ -6,12 +6,11 @@ description: ¶
 #### <span style="color:red">Sto leggendo</span>
 * _On the Plurality of Worlds_ — David Kellogg Lewis
 * _Pensieri lenti e veloci_ — Daniel Kahneman
-* _Ascoltare gli alberi_ — Henry David Thoreau
+* _Walden: Vita nei boschi_ — Henry David Thoreau
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Walden: Vita nel bosco_ — Henry David Thoreau
 * _La fatica più bella. Perché correre cambia la vita_ — Gastone Breccia
 * _La rabbia e l'orgoglio_ — Oriana Fallaci
 * _Ogni cosa al suo posto_ — Oliver Sacks
@@ -70,6 +69,7 @@ description: ¶
 * _Storia di una balena bianca raccontata da lei stessa_ — Luis Sepúlveda ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/storia-di-una-balena-bianca-raccontata-da-lei-stessa/)
 * _Sette tesi sulla magia della radio_ — Massimo Cirri
 * _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/cromorama/)
+* _Ascoltare gli alberi_ — Henry David Thoreau
 
 &nbsp;
 
