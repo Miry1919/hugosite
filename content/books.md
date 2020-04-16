@@ -6,6 +6,7 @@ description: ¶
 #### <span style="color:red">Sto leggendo</span>
 * _On the Plurality of Worlds_ — David Kellogg Lewis
 * _Pensieri lenti e veloci_ — Daniel Kahneman
+* _Ascoltare gli alberi_ — Henry David Thoreau
 
 &nbsp;
 
