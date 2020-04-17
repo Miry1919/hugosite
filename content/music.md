@@ -14,6 +14,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Crystallize_ — Lindsey Stirling
 * _Non me ne frega niente_ — Levante
 * _Running to Stand Still_ — Kodaline
 * _Bright Side_ — Johnny Stimson
@@ -22,11 +23,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Abbi cura di te_ — Levante
 * _Nel mio secondo cuore_ — Paola Turci
 * _Sempre e per sempre_ — Francesco De Gregori
-* _Up Where We Belong_ — Joe Cocker & Jennifer Warnes
-* _The Story_ — Conan Gray
-* _Banlieue_ — Nyv
-* _Colour In Your Heart_ — Roo Panes
-* _This Shouldn't Work_ — RHODES
 
 &nbsp;
 
