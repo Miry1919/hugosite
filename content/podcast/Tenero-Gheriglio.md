@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-04-13
+date: 2020-04-20
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi.
@@ -25,7 +25,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #11 (13•4•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #12 (20•4•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Quanta potenza ha il silenzio?](https://anchor.fm/miriana-novella7/episodes/Quanta-potenza-ha-il-silenzio-ed01gj)
+
+    Dopo i soliti follow-ups lascio la parola a un ospite illustre, e poi, parlo dei benefici di alberi e piante; infine leggo alcuni passi del libro "Ascoltare gli alberi" di Henry David Thoreau.
+
+---
+
+* Puntata #11 (13•4•2020)
 
     ☞[Una colazione che pare un pranzo](https://anchor.fm/miriana-novella7/episodes/Una-colazione-che-pare-un-pranzo-ecnna9)
 

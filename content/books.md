@@ -60,14 +60,14 @@ description: ¶
 * _Modernità Liquida_ — Zygmunt Bauman ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/modernita-liquida/)
 * _Storia del nuovo cognome. L'amica geniale (volume secondo)_ — Elena Ferrante
 * _Click Here to Kill Everybody: Security and Survival in a Hyper-Connected World_ — Bruce Schneier ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/click-here-to-kill-everybody/)
-* _Errore di sistema_ — Edward Snowden
+* _Errore di sistema_ — Edward Snowden ☞[{Podcast}](https://anchor.fm/miriana-novella7/episodes/Provate--cambiate--cambiate-sempre-le-cose-che-fate-eampug)
 * _Lezioni di meraviglia_ — Andrea Colamedici, Maura Gancitano ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/lezioni-di-meraviglia/)
 * _Potere alle parole_ — Vera Gheno
 * _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
-* _Silicio_ — Federico Faggin
+* _Silicio_ — Federico Faggin ☞[{Podcast}](https://anchor.fm/miriana-novella7/episodes/Amore--disciplina--passione-e-coraggio-eb6kr4)
 * _Io, te e il mare_ — Marzia Sicignano
 * _Storia di una balena bianca raccontata da lei stessa_ — Luis Sepúlveda ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/storia-di-una-balena-bianca-raccontata-da-lei-stessa/)
-* _Sette tesi sulla magia della radio_ — Massimo Cirri
+* _Sette tesi sulla magia della radio_ — Massimo Cirri ☞[{Podcast}](https://anchor.fm/miriana-novella7/episodes/Urla-e-pianti--sconforto--fame-di-latte--voglia-di-qualcosa-che-non-c-ebi479)
 * _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/cromorama/)
 * _Ascoltare gli alberi_ — Henry David Thoreau
 
