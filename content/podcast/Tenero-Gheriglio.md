@@ -3,15 +3,7 @@ title: Tenero Gheriglio
 date: 2020-04-20
 ---
 <div align="center">
-È il podcast che prima o poi avrei messo in piedi.
-</div>
-
-<div align="center">
-Ogni lunedì alle h. 19:00 esce una nuova puntata.
-</div>
-
-<div align="center">
-Anche quelli festivi.
+È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
 </div>
 
 ---
