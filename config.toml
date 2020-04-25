@@ -1,14 +1,14 @@
 baseURL = "https://miry1919.github.io/hugosite/"
 publishDir = "docs"
 languageCode = "en-us"
-title = "Hello"
+title = "hello"
 theme = "minimal"
 
 [params]
     accent = "red"
     showBorder = true
     backgroundColor = "white"
-    font = "Raleway"
+    font = "Georgia"
 
 [[menu.main]]
     url = "/"
