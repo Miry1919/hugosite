@@ -8,8 +8,7 @@ theme = "minimal"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
-    font = "Georgia"
-    font_size = 13
+    font = "Charter"
 
 [[menu.main]]
     url = "/"
