@@ -3,15 +3,15 @@ title: Sport & Food
 description: ◐
 ---
 
-##### <span style="text-decoration:underline">Questa pagina è ancora in via di definizione</span>
+#### <span style="text-decoration:underline">Questa pagina è ancora in via di definizione</span>
 
 &nbsp;
 
-### <span style="color:red">Sport</span>
+## <span style="color:red">Sport</span>
 
 &nbsp;
 
-#### <span style="color:red">Attività attuali</span>
+### <span style="color:red">Attività attuali</span>
 * _Palestra_ <span style="color:red">a casa per coronavirus</span>
 * _Corsa_ <span style="color:red">in pausa per coronavirus</span>
 * _Nuoto_ <span style="color:red">in pausa per coronavirus</span>
@@ -24,6 +24,6 @@ Vado in palestra da circa tre anni. Nuoto da quando avevo tre anni. Ma penso che
 
 &nbsp;
 
-### <span style="color:red">Food</span>
+## <span style="color:red">Food</span>
 
 L'alimentazione è obbligatoriamente integrata nella nostra vita. Saper mangiare dovrebbe essere una conoscenza fondamentale, una materia di studio in ogni scuola. Si eviterebbero molti problemi. Permette di stare bene.
