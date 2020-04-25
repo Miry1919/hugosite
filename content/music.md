@@ -14,15 +14,15 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Trouble_ — The Franklin Electric
+* _Level of Concern_ — twenty one pilots
+* _parking lot view_ — almost monday
+* _It's a Small World_ — Sleeping At Last
 * _Crystallize_ — Lindsey Stirling
 * _Non me ne frega niente_ — Levante
 * _Running to Stand Still_ — Kodaline
 * _Bright Side_ — Johnny Stimson
 * _It Must Have Been Love_ — Roxette
-* _Fireside_ — Phillip LaRue
-* _Abbi cura di te_ — Levante
-* _Nel mio secondo cuore_ — Paola Turci
-* _Sempre e per sempre_ — Francesco De Gregori
 
 &nbsp;
 
