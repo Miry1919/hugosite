@@ -9,6 +9,7 @@ theme = "minimal"
     showBorder = true
     backgroundColor = "white"
     font = "Georgia"
+    font_size = 13
 
 [[menu.main]]
     url = "/"
