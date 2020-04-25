@@ -13,7 +13,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 
 &nbsp;
 
-#### <span style="color:red">Aggiunte di recente</span>
+##### <span style="color:red">Aggiunte di recente</span>
 * _Trouble_ — The Franklin Electric
 * _Level of Concern_ — twenty one pilots
 * _parking lot view_ — almost monday
@@ -26,11 +26,11 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 
 &nbsp;
 
-#### <span style="color:red">Ultimi album</span>
+##### <span style="color:red">Ultimi album</span>
 * _FEAT (Stato di Natura)_ — Francesca Michielin
 
 &nbsp;
 
-##### <span style="color:red">_" Without music life would be a mistake "_</span>
+###### <span style="color:red">_" Without music life would be a mistake "_</span>
 
-##### — Friedrich Nietzsche
+###### — Friedrich Nietzsche

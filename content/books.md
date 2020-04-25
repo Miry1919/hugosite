@@ -3,14 +3,14 @@ title: Books
 description: ¶
 ---
 
-### <span style="color:red">Sto leggendo</span>
+#### <span style="color:red">Sto leggendo</span>
 * _On the Plurality of Worlds_ — David Kellogg Lewis
 * _Pensieri lenti e veloci_ — Daniel Kahneman
 * _Walden: Vita nei boschi_ — Henry David Thoreau
 
 &nbsp;
 
-### <span style="color:red">Leggerò a breve</span>
+#### <span style="color:red">Leggerò a breve</span>
 * _La fatica più bella. Perché correre cambia la vita_ — Gastone Breccia
 * _La rabbia e l'orgoglio_ — Oriana Fallaci
 * _Ogni cosa al suo posto_ — Oliver Sacks
@@ -18,7 +18,7 @@ description: ¶
 
 &nbsp;
 
-### <span style="color:red">Ho letto e consiglio</span>
+#### <span style="color:red">Ho letto e consiglio</span>
 * _La metafisica_ — Aristotele
 * _Il lungo racconto dell'origine. I grandi miti e le teorie con cui l'umanità ha spiegato l'universo_ — Margherita Hack
 * _L'arte di correre_ — Haruki Murakami
@@ -73,7 +73,7 @@ description: ¶
 
 &nbsp;
 
-### <span style="color:red">In pausa</span>
+#### <span style="color:red">In pausa</span>
 * _Lezioni di letteratura_ — Vladimir Nabokov
 * _Rebel Code: Linux and the Open Source Revolution_ — Glyn Moody
 
@@ -83,6 +83,6 @@ Non ho incluso i libri letti come compito per la scuola. Perché, secondo me, si
 
 &nbsp;
 
-#### <span style="color:red">_" Leggere è viaggiare senza la seccatura dei bagagli "_</span>
+##### <span style="color:red">_" Leggere è viaggiare senza la seccatura dei bagagli "_</span>
 
-#### — Emilio Salgari
+##### — Emilio Salgari
