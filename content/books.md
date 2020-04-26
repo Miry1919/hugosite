@@ -83,6 +83,6 @@ Non ho incluso i libri letti come compito per la scuola. Perché, secondo me, si
 
 &nbsp;
 
-#### <span style="color:red">_" Leggere è viaggiare senza la seccatura dei bagagli "_</span>
+#### <span style="color:red">_Leggere è viaggiare senza la seccatura dei bagagli_</span>
 
 #### — Emilio Salgari
