@@ -69,7 +69,7 @@ description: ¶
 * _Storia di una balena bianca raccontata da lei stessa_ — Luis Sepúlveda ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/storia-di-una-balena-bianca-raccontata-da-lei-stessa/)
 * _Sette tesi sulla magia della radio_ — Massimo Cirri ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Urla-e-pianti--sconforto--fame-di-latte--voglia-di-qualcosa-che-non-c-ebi479)
 * _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/cromorama/)
-* _Ascoltare gli alberi_ — Henry David Thoreau
+* _Ascoltare gli alberi_ — Henry David Thoreau ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Quanta-potenza-ha-il-silenzio-ed01gj)
 
 &nbsp;
 
