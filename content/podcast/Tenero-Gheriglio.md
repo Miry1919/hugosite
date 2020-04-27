@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-04-20
+date: 2020-04-27
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #12 (20•4•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #13 (27•4•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Giustificazioni che rigirano la faccenda](https://anchor.fm/miriana-novella7/episodes/Giustificazioni-che-rigirano-la-faccenda-edamju)
+
+    Puntata registrata tardi, ma uscita nei tempi. Argomenti: recap della situazione, conferenza "Emozioni, interazioni e linguaggi nell'attuale contesto di emergenza", video "È sufficiente ascoltare il proprio corpo?", bisogni e desideri.
+
+---
+
+* Puntata #12 (20•4•2020)
 
     ☞[Quanta potenza ha il silenzio?](https://anchor.fm/miriana-novella7/episodes/Quanta-potenza-ha-il-silenzio-ed01gj)
 
