@@ -11,7 +11,7 @@ description: ¶
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Voglio correre: Allenamento e alimentazione: come diventare più veloci, più resistenti, più magri_ — Enrico Arcelli
+* _Voglio correre. Allenamento e alimentazione: come diventare più veloci, più resistenti, più magri_ — Enrico Arcelli
 * _La fatica più bella. Perché correre cambia la vita_ — Gastone Breccia
 * _La rabbia e l'orgoglio_ — Oriana Fallaci
 * _Ogni cosa al suo posto_ — Oliver Sacks
