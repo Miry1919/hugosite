@@ -14,15 +14,14 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Love You Sober_ — RHODES
+* _One Night_ — James Quick
+* _Young Souls_ — Broken Back
 * _Trouble_ — The Franklin Electric
 * _Level of Concern_ — twenty one pilots
 * _parking lot view_ — almost monday
 * _It's a Small World_ — Sleeping At Last
 * _Crystallize_ — Lindsey Stirling
-* _Non me ne frega niente_ — Levante
-* _Running to Stand Still_ — Kodaline
-* _Bright Side_ — Johnny Stimson
-* _It Must Have Been Love_ — Roxette
 
 &nbsp;
 
