@@ -5,7 +5,6 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _On the Plurality of Worlds_ — David Kellogg Lewis
-* _Pensieri lenti e veloci_ — Daniel Kahneman
 * _Walden: Vita nei boschi_ — Henry David Thoreau
 
 &nbsp;
@@ -71,6 +70,7 @@ description: ¶
 * _Sette tesi sulla magia della radio_ — Massimo Cirri ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Urla-e-pianti--sconforto--fame-di-latte--voglia-di-qualcosa-che-non-c-ebi479)
 * _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/cromorama/)
 * _Ascoltare gli alberi_ — Henry David Thoreau ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Quanta-potenza-ha-il-silenzio-ed01gj)
+* _Pensieri lenti e veloci_ — Daniel Kahneman ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/pensieri-lenti-e-veloci/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Non-si-sarebbe-vista-la-fatica-eceofh)
 
 &nbsp;
 
