@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-04-27
+date: 2020-05-4
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #13 (27•4•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #14 (4•5•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Goditi il tuo viaggio](https://anchor.fm/miriana-novella7/episodes/Goditi-il-tuo-viaggio-edin68)
+
+    Una puntata "giro di boa", più breve delle ultime, super pazza, contenente linguaggi strani, effetti speciali, e un esperimento: "Giornate Coronavirusiche".
+
+---
+
+* Puntata #13 (27•4•2020)
 
     ☞[Giustificazioni che rigirano la faccenda](https://anchor.fm/miriana-novella7/episodes/Giustificazioni-che-rigirano-la-faccenda-edamju)
 
