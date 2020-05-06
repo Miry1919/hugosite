@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Podcasts on hello</title>
-    <link>https://miry1919.github.io/hugosite/podcast/</link>
+    <link>https://www.hellowebsite.it/podcast/</link>
     <description>Recent content in Podcasts on hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://miry1919.github.io/hugosite/podcast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.hellowebsite.it/podcast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tenero Gheriglio</title>
-      <link>https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/</link>
+      <link>https://www.hellowebsite.it/podcast/tenero-gheriglio/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/</guid>
+      <guid>https://www.hellowebsite.it/podcast/tenero-gheriglio/</guid>
       <description>È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.  Ascoltalo:
  su YouTube tramite la playlist sempre aggiornata con tutte le puntate nel tuo podcast player preferito cliccando sui link presenti qui sotto   Puntata #14 (4•5•2020) ⚡ New!
 ☞Goditi il tuo viaggio
@@ -25,10 +25,10 @@ Una puntata &amp;ldquo;giro di boa&amp;rdquo;, più breve delle ultime, super pa
     
     <item>
       <title>EasyApple</title>
-      <link>https://miry1919.github.io/hugosite/podcast/easyapple/</link>
+      <link>https://www.hellowebsite.it/podcast/easyapple/</link>
       <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/podcast/easyapple/</guid>
+      <guid>https://www.hellowebsite.it/podcast/easyapple/</guid>
       <description>Sono stata ospite due volte in questo bellissimo podcast. Vi lascio le due puntate qui sotto.  #168 (16•5•2014) ☞L&amp;rsquo;iPad a scuola
 #403 (12•4•2019) ☞A spasso nel tempo</description>
     </item>
