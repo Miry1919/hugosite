@@ -11,6 +11,7 @@ description: ¶
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
+* _Storia di una gabbianella e del gatto che le insegnò a volare_ — Luis Sepúlveda
 * _La rabbia e l'orgoglio_ — Oriana Fallaci
 * _Ogni cosa al suo posto_ — Oliver Sacks
 * _La solitudine dei numeri primi_ — Paolo Giordano

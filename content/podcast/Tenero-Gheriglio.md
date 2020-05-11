@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-05-04
+date: 2020-05-11
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #14 (4•5•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #15 (11•5•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Inspira e butta fuori le bolle](https://anchor.fm/miriana-novella7/episodes/Inspira-e-butta-fuori-le-bolle-edtlgd)
+
+    Quindicesima puntata: hellowebsite.it – Magic Keyboard per iPad Pro 11" – corsa, respirazione e moderazione: libri "Voglio correre" (Enrico Arcelli) e "La fatica più bella" (Gastone Breccia).
+
+---
+
+* Puntata #14 (4•5•2020)
 
     ☞[Goditi il tuo viaggio](https://anchor.fm/miriana-novella7/episodes/Goditi-il-tuo-viaggio-edin68)
 
