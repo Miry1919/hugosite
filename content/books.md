@@ -4,14 +4,13 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _On the Plurality of Worlds_ — David Kellogg Lewis
 * _Walden: Vita nei boschi_ — Henry David Thoreau
+* _Voglio correre. Allenamento e alimentazione: come diventare più veloci, più resistenti, più magri_ — Enrico Arcelli
+* _La fatica più bella. Perché correre cambia la vita_ — Gastone Breccia
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Voglio correre. Allenamento e alimentazione: come diventare più veloci, più resistenti, più magri_ — Enrico Arcelli
-* _La fatica più bella. Perché correre cambia la vita_ — Gastone Breccia
 * _La rabbia e l'orgoglio_ — Oriana Fallaci
 * _Ogni cosa al suo posto_ — Oliver Sacks
 * _La solitudine dei numeri primi_ — Paolo Giordano
@@ -77,6 +76,7 @@ description: ¶
 #### <span style="color:red">In pausa</span>
 * _Lezioni di letteratura_ — Vladimir Nabokov
 * _Rebel Code: Linux and the Open Source Revolution_ — Glyn Moody
+* _On the Plurality of Worlds_ — David Kellogg Lewis
 
 &nbsp;
 
