@@ -17,6 +17,14 @@ Ascoltalo:
 ---
 ---
 
+* Puntata #16 (18•5•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Parecchie vite parallele](https://anchor.fm/miriana-novella7/episodes/Parecchie-vite-parallele-ee7nke)
+
+    Addio cari ventidue anni. Vi saluto con una puntata dedicata al "Maggio dei libri", in cui promuovo la lettura sfruttando il libro appena concluso: "Walden" di Henry David Thoreau.
+    
+---
+
 * Puntata #15 (11•5•2020) <span style="color:blue">⚡ New!</span>
 
     ☞[Inspira e butta fuori le bolle](https://anchor.fm/miriana-novella7/episodes/Inspira-e-butta-fuori-le-bolle-edtlgd)
