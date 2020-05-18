@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-05-11
+date: 2020-05-18
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -25,7 +25,7 @@ Ascoltalo:
     
 ---
 
-* Puntata #15 (11•5•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #15 (11•5•2020)
 
     ☞[Inspira e butta fuori le bolle](https://anchor.fm/miriana-novella7/episodes/Inspira-e-butta-fuori-le-bolle-edtlgd)
 
