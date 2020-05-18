@@ -70,7 +70,12 @@ description: ¶
 * _Cromorama. Come il colore ha cambiato il nostro sguardo_ — Riccardo Falcinelli ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/cromorama/)
 * _Ascoltare gli alberi_ — Henry David Thoreau ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Quanta-potenza-ha-il-silenzio-ed01gj)
 * _Pensieri lenti e veloci_ — Daniel Kahneman ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/pensieri-lenti-e-veloci/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Non-si-sarebbe-vista-la-fatica-eceofh)
-* _Walden: Vita nei boschi_ — Henry David Thoreau ☞[{Quotes}]() & ☞[{Podcasts}]()
+* _Walden: Vita nei boschi_ — Henry David Thoreau ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/walden/) & ☞[{Podcasts}](
+* Puntata #16 (18•5•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Parecchie vite parallele](https://anchor.fm/miriana-novella7/episodes/Parecchie-vite-parallele-ee7nke)
+
+    Addio cari ventidue anni. Vi saluto con una puntata dedicata al "Maggio dei libri", in cui promuovo la lettura sfruttando il libro appena concluso: "Walden" di Henry David Thoreau.)
 
 &nbsp;
 
