@@ -34,7 +34,7 @@ description: Henry David Thoreau
 
 &nbsp;
 
-«Mi sembrò che per un motivo simile gli￼ uomini restano nella loro attuale condizione inferiore e primitiva; ma se sentissero l'influsso della primavera delle primavere a scuoterli, ascenderebbero necessariamente a una vita superiore, più eterea.»
+«Mi sembrò che per un motivo simile gli uomini restano nella loro attuale condizione inferiore e primitiva; ma se sentissero l'influsso della primavera delle primavere a scuoterli, ascenderebbero necessariamente a una vita superiore, più eterea.»
 
 &nbsp;
 
