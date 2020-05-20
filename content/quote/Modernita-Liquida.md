@@ -41,7 +41,7 @@ description: Zygmunt Bauman
 [...]
 &nbsp;
 
-La domanda "Cosa posso fare?" ha finito col dominare qualsiasi azione, schiacciando e spazzando via la domanda "Come fare al meglio ciò che devo o dovrei fare comunque?"»
+La domanda "Cosa posso fare?" ha finito col dominare qualsiasi azione, schiacciando e spazzando via la domanda "Come fare al meglio ciò che devo o dovrei fare comunque?”»
 
 &nbsp;
 
