@@ -10,7 +10,7 @@ description: Andrea Colamedici, Maura Gancitano
 
 &nbsp;
 
-«La nostra cultura associa l'amore all'abbandono e alla perdita di coscienza. Al contrario, l'amore è un esercizio di attenzione costante, il tentativo di mantenere un livello di coscienza superiore. L'amore, inteso come rapporto consapevole con l'Altro, non è abominevole come lo specchio￼ perché non è una riproduzione né la falsificazione di qualcosa. È un riconoscimento tra diversi, e il portare avanti questo riconoscimento e questa diversità. È un esercizio di attenzione. L'amore visto come _abbandono_ è puro addormentarsi; al contrario l'amore come esercizio di attenzione – che implica desiderio, spinta, rapporto erotico nel senso di tentativo di raggiungimento di qualcosa che sfugge continuamente – significa entrare in relazione con la conoscenza.»￼￼
+«La nostra cultura associa l'amore all'abbandono e alla perdita di coscienza. Al contrario, l'amore è un esercizio di attenzione costante, il tentativo di mantenere un livello di coscienza superiore. L'amore, inteso come rapporto consapevole con l'Altro, non è abominevole come lo specchio perché non è una riproduzione né la falsificazione di qualcosa. È un riconoscimento tra diversi, e il portare avanti questo riconoscimento e questa diversità. È un esercizio di attenzione. L'amore visto come _abbandono_ è puro addormentarsi; al contrario l'amore come esercizio di attenzione – che implica desiderio, spinta, rapporto erotico nel senso di tentativo di raggiungimento di qualcosa che sfugge continuamente – significa entrare in relazione con la conoscenza.»￼￼
 
 &nbsp;
 
@@ -34,7 +34,7 @@ description: Andrea Colamedici, Maura Gancitano
 
 &nbsp;
 
-«Essere assenti non significa essere inesistenti: implica piuttosto il trovarsi altrove. In una società che obbliga alla presenza, essere assenti è un atto rivoluzionario. La domanda che si apre, di conseguenza, è: siamo spinti a essere presenti _a cosa_? Al nostro mondo emotivo, all'altro, all'empatia?￼»
+«Essere assenti non significa essere inesistenti: implica piuttosto il trovarsi altrove. In una società che obbliga alla presenza, essere assenti è un atto rivoluzionario. La domanda che si apre, di conseguenza, è: siamo spinti a essere presenti _a cosa_? Al nostro mondo emotivo, all'altro, all'empatia?»
 
 &nbsp;
 
