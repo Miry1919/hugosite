@@ -17,11 +17,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Saved My Life_ — Sia
 * _Some Say_ — Nea
 * _Broken_ — OTR & Au/Ra
-* _Fiori di Chernobyl_ — Mr.Rain
-* _Love You Sober_ — RHODES
-* _One Night_ — James Quick
-* _Young Souls_ — Broken Back
-* _Trouble_ — The Franklin Electric
 
 &nbsp;
 
