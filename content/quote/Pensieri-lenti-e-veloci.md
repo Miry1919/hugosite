@@ -18,7 +18,7 @@ description: Daniel Kahneman
 
 &nbsp;
 
-«L'intelligenza non è solo la capacità di ragionare: è anche la capacità di trovare materiale pertinente nella memoria e di usare l'attenzione quando occorre farlo.￼»
+«L'intelligenza non è solo la capacità di ragionare: è anche la capacità di trovare materiale pertinente nella memoria e di usare l'attenzione quando occorre farlo.»
 
 &nbsp;
 

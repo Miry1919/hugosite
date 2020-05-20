@@ -10,7 +10,7 @@ description: Andrea Colamedici, Maura Gancitano
 
 &nbsp;
 
-«La nostra cultura associa l'amore all'abbandono e alla perdita di coscienza. Al contrario, l'amore è un esercizio di attenzione costante, il tentativo di mantenere un livello di coscienza superiore. L'amore, inteso come rapporto consapevole con l'Altro, non è abominevole come lo specchio￼ perché non è una riproduzione né la falsificazione di qualcosa.￼ È un riconoscimento tra diversi, e il portare avanti questo riconoscimento e questa diversità. È un esercizio di attenzione. L'amore visto come _abbandono_ è puro addormentarsi; al contrario l'amore come esercizio di attenzione – che implica desiderio, spinta, rapporto erotico nel senso di tentativo di raggiungimento di qualcosa che sfugge continuamente – significa entrare in relazione con la conoscenza.»￼￼
+«La nostra cultura associa l'amore all'abbandono e alla perdita di coscienza. Al contrario, l'amore è un esercizio di attenzione costante, il tentativo di mantenere un livello di coscienza superiore. L'amore, inteso come rapporto consapevole con l'Altro, non è abominevole come lo specchio￼ perché non è una riproduzione né la falsificazione di qualcosa. È un riconoscimento tra diversi, e il portare avanti questo riconoscimento e questa diversità. È un esercizio di attenzione. L'amore visto come _abbandono_ è puro addormentarsi; al contrario l'amore come esercizio di attenzione – che implica desiderio, spinta, rapporto erotico nel senso di tentativo di raggiungimento di qualcosa che sfugge continuamente – significa entrare in relazione con la conoscenza.»￼￼
 
 &nbsp;
 
@@ -86,7 +86,7 @@ Bisogna lasciare splendere le parole, non obbligarle a essere soltanto la loro s
 
 &nbsp;
 
-«Chi fuoriesce dagli schemi per _troppa bellezza_ è spesso costretto a fingersi normale, ordinario, _comprensibile_. La civiltà pretende di comprendere tutti, di prendere ogni individuo dentro di sé.￼ Ma per alcuni è semplicemente impossibile: sono i casi che, a ben vedere, salvano quotidianamente l'umanità.￼￼»
+«Chi fuoriesce dagli schemi per _troppa bellezza_ è spesso costretto a fingersi normale, ordinario, _comprensibile_. La civiltà pretende di comprendere tutti, di prendere ogni individuo dentro di sé.￼ Ma per alcuni è semplicemente impossibile: sono i casi che, a ben vedere, salvano quotidianamente l'umanità.»
 
 &nbsp;
 
@@ -102,4 +102,4 @@ Bisogna lasciare splendere le parole, non obbligarle a essere soltanto la loro s
 
 &nbsp;
 
-«Isolandoci, oggi rischiamo di chiuderci e di sottrarci la ricchezza della meraviglia dell'Altro. La meraviglia, forse, è come la felicità: è vera solo se condivisa.￼￼»
+«Isolandoci, oggi rischiamo di chiuderci e di sottrarci la ricchezza della meraviglia dell'Altro. La meraviglia, forse, è come la felicità: è vera solo se condivisa.»
