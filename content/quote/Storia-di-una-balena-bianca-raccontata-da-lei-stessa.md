@@ -38,5 +38,4 @@ Sulle murate delle due imbarcazioni apparvero bocche nere che cominciarono a spu
 
 &nbsp;
 
-«Vidi tante volte le quattro balene vecchie trasportare corpi sull'isola, e tante volte affrontai in mare aperto i balenieri per allontanarli dal canale. Fui colpito da altri arpioni, ma per fortuna nessuno mi provocò alcun danno, tranne il dolore a cui imparai a resistere e che accettai come il prezzo da pagare per respingere al largo i balenieri, determinati a uccidermi.￼
-Mi stupiva l'insistenza, la testardaggine degli uomini, volevo sapere da dove venivano e in quale luogo dell'oceano o della terraferma ce n'erano tanti, e se la loro cupidigia si sarebbe mai saziata.»
+«Vidi tante volte le quattro balene vecchie trasportare corpi sull'isola, e tante volte affrontai in mare aperto i balenieri per allontanarli dal canale. Fui colpito da altri arpioni, ma per fortuna nessuno mi provocò alcun danno, tranne il dolore a cui imparai a resistere e che accettai come il prezzo da pagare per respingere al largo i balenieri, determinati a uccidermi.￼ Mi stupiva l'insistenza, la testardaggine degli uomini, volevo sapere da dove venivano e in quale luogo dell'oceano o della terraferma ce n'erano tanti, e se la loro cupidigia si sarebbe mai saziata.»

@@ -44,7 +44,7 @@ Ma Aristotele non si ferma qui e sostiene che tra i due poli del buio e della lu
 
 &nbsp;
 
-«Per quanto si possa suggerire che la contrapposizione fra rosso e nero sia più marcata e seducente di quella fra verde e beige, si può avere ragione novantanove volte su cento, eppure ci sarà sempre l'occasione in cui un verde col beige si rivelerà formidabile e perfetto.￼ È il gioco del talento e della sensibilità. Nella costruzione del colore non conta allora l'armonia,￼ quanto avere una storia da raccontare.»
+«Per quanto si possa suggerire che la contrapposizione fra rosso e nero sia più marcata e seducente di quella fra verde e beige, si può avere ragione novantanove volte su cento, eppure ci sarà sempre l'occasione in cui un verde col beige si rivelerà formidabile e perfetto. È il gioco del talento e della sensibilità. Nella costruzione del colore non conta allora l'armonia, quanto avere una storia da raccontare.»
 
 &nbsp;
 
