@@ -86,7 +86,7 @@ Bisogna lasciare splendere le parole, non obbligarle a essere soltanto la loro s
 
 &nbsp;
 
-«Chi fuoriesce dagli schemi per _troppa bellezza_ è spesso costretto a fingersi normale, ordinario, _comprensibile_. La civiltà pretende di comprendere tutti, di prendere ogni individuo dentro di sé.￼ Ma per alcuni è semplicemente impossibile: sono i casi che, a ben vedere, salvano quotidianamente l'umanità.»
+«Chi fuoriesce dagli schemi per _troppa bellezza_ è spesso costretto a fingersi normale, ordinario, _comprensibile_. La civiltà pretende di comprendere tutti, di prendere ogni individuo dentro di sé. Ma per alcuni è semplicemente impossibile: sono i casi che, a ben vedere, salvano quotidianamente l'umanità.»
 
 &nbsp;
 
