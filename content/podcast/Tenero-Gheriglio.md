@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-05-18
+date: 2020-05-25
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #16 (18•5•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #17 (25•5•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[No, aspetta, te la metto io](https://anchor.fm/miriana-novella7/episodes/No--aspetta--te-la-metto-io-eehsto)
+
+    Un imprevedibile e classico "minestrone", registrato (cotto) nel giorno del Geek Pride Day in 15 minuti e 27 secondi, tra asciugamani, pellicole protettive e vetri temperati, mascherine, biciclette e uccellini amplificati. Compito per lunedì prossimo: ferro, colesterolo e trigliceridi.
+
+---
+
+* Puntata #16 (18•5•2020)
 
     ☞[Parecchie vite parallele](https://anchor.fm/miriana-novella7/episodes/Parecchie-vite-parallele-ee7nke)
 
