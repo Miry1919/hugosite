@@ -14,12 +14,11 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Nucleare_ — Arisa & Manupuma
 * _Fiction_ — Kygo feat. Tom Odell
 * _The Butterfly Effect_ — Before You Exit
 * _Together_ — Sia
 * _Saved My Life_ — Sia
-* _Some Say_ — Nea
-* _Broken_ — OTR & Au/Ra
 
 &nbsp;
 
