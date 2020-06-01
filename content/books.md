@@ -70,7 +70,7 @@ description: ¶
 * _Pensieri lenti e veloci_ — Daniel Kahneman ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/pensieri-lenti-e-veloci/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Non-si-sarebbe-vista-la-fatica-eceofh)
 * _Walden: Vita nei boschi_ — Henry David Thoreau ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/walden/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Parecchie-vite-parallele-ee7nke)
 * _Storia di una gabbianella e del gatto che le insegnò a volare_ — Luis Sepúlveda
-* _La fatica più bella. Perché correre cambia la vita_ — Gastone Breccia
+* _La fatica più bella. Perché correre cambia la vita_ — Gastone Breccia ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/la-fatica-piu-bella/)  & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/La-vita-non--mai-semplice-e-non-ci-sono-scorciatoie-ees23p)
 
 &nbsp;
 
