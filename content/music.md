@@ -14,6 +14,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Never Been In Love_ — Gatlin
 * _Nucleare_ — Arisa & Manupuma
 * _Fiction_ — Kygo feat. Tom Odell
 * _The Butterfly Effect_ — Before You Exit
@@ -23,7 +24,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Ultimi album</span>
-* _FEAT (Stato di Natura)_ — Francesca Michielin
+* _Golden Hour_ — Kygo
 
 &nbsp;
 
