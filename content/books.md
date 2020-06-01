@@ -5,12 +5,11 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Voglio correre. Allenamento e alimentazione: come diventare più veloci, più resistenti, più magri_ — Enrico Arcelli
-* _La fatica più bella. Perché correre cambia la vita_ — Gastone Breccia
+* _La rabbia e l'orgoglio_ — Oriana Fallaci
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _La rabbia e l'orgoglio_ — Oriana Fallaci
 * _Ogni cosa al suo posto_ — Oliver Sacks
 * _La solitudine dei numeri primi_ — Paolo Giordano
 
@@ -71,6 +70,7 @@ description: ¶
 * _Pensieri lenti e veloci_ — Daniel Kahneman ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/pensieri-lenti-e-veloci/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Non-si-sarebbe-vista-la-fatica-eceofh)
 * _Walden: Vita nei boschi_ — Henry David Thoreau ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/walden/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Parecchie-vite-parallele-ee7nke)
 * _Storia di una gabbianella e del gatto che le insegnò a volare_ — Luis Sepúlveda
+* _La fatica più bella. Perché correre cambia la vita_ — Gastone Breccia
 
 &nbsp;
 
