@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-05-25
+date: 2020-06-01
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #17 (25•5•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #18 (1•6•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞["La vita non è mai semplice e non ci sono scorciatoie"](https://anchor.fm/miriana-novella7/episodes/La-vita-non--mai-semplice-e-non-ci-sono-scorciatoie-ees23p)
+
+    Aiutata dal libro "La fatica più bella" di Gastone Breccia descrivo un gesto atletico eccezionale: la maratona. Poi, come preannunciato, parlo di una storia che collega ferro, colesterolo e trigliceridi, e dell'importanza delle analisi del sangue.
+
+---
+
+* Puntata #17 (25•5•2020)
 
     ☞[No, aspetta, te la metto io](https://anchor.fm/miriana-novella7/episodes/No--aspetta--te-la-metto-io-eehsto)
 
