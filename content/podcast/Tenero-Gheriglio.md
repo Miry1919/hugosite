@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-06-01
+date: 2020-06-08
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #18 (1•6•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #19 (8•6•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[È quello che accade e nient'altro](https://anchor.fm/miriana-novella7/episodes/quello-che-accade-e-nientaltro-ef5bll)
+
+    La 19° è una puntata speciale, senza scaletta, ma piena di umanità, in cui, con metodi hacker e qualche insulto a me stessa, ragiono su alcune esperienze di vita, prendendo coscienza, acquisendo consapevolezza. Libri e progetti in coda.
+
+---
+
+* Puntata #18 (1•6•2020)
 
     ☞["La vita non è mai semplice e non ci sono scorciatoie"](https://anchor.fm/miriana-novella7/episodes/La-vita-non--mai-semplice-e-non-ci-sono-scorciatoie-ees23p)
 
