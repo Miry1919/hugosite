@@ -21,7 +21,7 @@ Ascoltalo:
 
     ☞[È quello che accade e nient'altro](https://anchor.fm/miriana-novella7/episodes/quello-che-accade-e-nientaltro-ef5bll)
 
-    La 19° è una puntata speciale, senza scaletta, ma piena di umanità, in cui, con metodi hacker e qualche insulto a me stessa, ragiono su alcune esperienze di vita, prendendo coscienza, acquisendo consapevolezza. Libri e progetti in coda.
+    La 19ª è una puntata speciale, senza scaletta, ma piena di umanità, in cui, con metodi hacker e qualche insulto a me stessa, ragiono su alcune esperienze di vita, prendendo coscienza, acquisendo consapevolezza. Libri e progetti in coda.
 
 ---
 
