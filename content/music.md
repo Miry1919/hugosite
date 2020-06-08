@@ -14,12 +14,14 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Weekend_ — Emily Wu
+* _Door No.2_ — Destiny Rogers
+* _Paper House_ — Grant Knoche
+* _Good People_ — Rhys Lewis
+* _Better Days - Giorni Migliori_ — OneRepublic & Negramaro
+* _WORTH SAVING_ — Jassie Reyez
 * _Never Been In Love_ — Gatlin
 * _Nucleare_ — Arisa & Manupuma
-* _Fiction_ — Kygo feat. Tom Odell
-* _The Butterfly Effect_ — Before You Exit
-* _Together_ — Sia
-* _Saved My Life_ — Sia
 
 &nbsp;
 

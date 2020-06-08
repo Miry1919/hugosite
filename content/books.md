@@ -5,11 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Voglio correre. Allenamento e alimentazione: come diventare più veloci, più resistenti, più magri_ — Enrico Arcelli
-* _La rabbia e l'orgoglio_ — Oriana Fallaci
+* _Runningsofia. Filosofia della corsa_ — Claudio Bagnasco
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
+* _Wittgenstein. Il dovere del genio_ — Ray Monk
 * _Ogni cosa al suo posto_ — Oliver Sacks
 * _La solitudine dei numeri primi_ — Paolo Giordano
 
@@ -71,6 +72,7 @@ description: ¶
 * _Walden: Vita nei boschi_ — Henry David Thoreau ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/walden/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Parecchie-vite-parallele-ee7nke)
 * _Storia di una gabbianella e del gatto che le insegnò a volare_ — Luis Sepúlveda
 * _La fatica più bella. Perché correre cambia la vita_ — Gastone Breccia ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/la-fatica-piu-bella/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/La-vita-non--mai-semplice-e-non-ci-sono-scorciatoie-ees23p)
+* _La rabbia e l'orgoglio_ — Oriana Fallaci
 
 &nbsp;
 
