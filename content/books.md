@@ -10,9 +10,9 @@ description: ¶
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Wittgenstein. Il dovere del genio_ — Ray Monk
 * _Ogni cosa al suo posto_ — Oliver Sacks
 * _La solitudine dei numeri primi_ — Paolo Giordano
+* _Wittgenstein. Il dovere del genio_ — Ray Monk
 
 &nbsp;
 
