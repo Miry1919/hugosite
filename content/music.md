@@ -14,6 +14,9 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Big Girls Cry_ — Sia
+* _Day Too Soon_ — Sia
+* _Clap Your Hand_ — Sia
 * _Weekend_ — Emily Wu
 * _Door No.2_ — Destiny Rogers
 * _Paper House_ — Grant Knoche
