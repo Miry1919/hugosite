@@ -12,7 +12,6 @@ date: 2020-06-14
 *quaderno 1)*
 
 * Cinematica del punto materiale
-
     * Sistema di riferimento
     * Punto materiale
     * Equazioni parametriche del moto
@@ -31,7 +30,7 @@ date: 2020-06-14
     * Componenti del vettore posizione
 * Velocità vettoriale
     * Vettore spostamento
-    * Velocità istantanea vettoriale
+    * Velocità istantanea vettoriale  
 * Accelerazione vettoriale
     * Accelerazione vettoriale media
     * Accelerazione istantanea
@@ -39,7 +38,7 @@ date: 2020-06-14
     * Cerchio osculatore
 * Moto rettilineo
     * Moto uniformemente accelerato
-    * Moto parabolico
+    * Moto parabolico   
 * Moto circolare
     * Velocità angolare
 * Moto circolare uniforme
@@ -47,7 +46,7 @@ date: 2020-06-14
     * Frequenza
 * Moto periodico (con periodo T)
 * Moto circolare uniforme
-    * Moto uniformemente accelerato
+    * Moto uniformemente accelerato   
 * Moto armonico semplice
 * Moto piano in coordinate polari
 * Dinamica del punto materiale
@@ -56,7 +55,7 @@ date: 2020-06-14
     * Inerzia
     * Sistema di riferimento inerziale
     * Principio d'inerzia
-    * Principio galileiano di relatività
+    * Principio galileiano di relatività 
 * Massa
 * Principio di conservazione della quantità di moto
     * Quantità di moto totale
@@ -76,10 +75,10 @@ date: 2020-06-14
     * Forza peso
     * Densità di un corpo
         * Densità media
-        * Densità puntuale
+        * Densità puntuale      
 * Peso specifico
     * Peso specifico medio
-    * Peso specifico puntuale
+    * Peso specifico puntuale 
 * Reazione vincolare
     * Vincolo liscio
     * Vincolo scabro
@@ -88,7 +87,7 @@ date: 2020-06-14
 * Pendolo semplice
 * Forze di attrito
     * Viscoso
-    * Radente
+    * Radente 
 * Attrito statico
     * Coefficiente di attrito statico
 * Attrito dinamico
@@ -98,16 +97,18 @@ date: 2020-06-14
 * Modello semiclassico generazione di armoniche di ordine elevato
 * Lavoro ed Energia
 * Energia cinetica
-    * Teorema delle forze vive
+    * Teorema delle forze vive   
 * Esempi di forze conservative
     * Forza costante
     * Forza elastica
     * Forze centrali a simmetria sferica
 * Campi di forze conservative
-*quaderno 2)*
     * Operatore nabla
     * Proprietà locale
     * Rotore di un vettore
+    
+*quaderno 2)*
+
 * Campo conservativo se
 * Forze non conservative
 * Conservazione energia meccanica
@@ -203,83 +204,85 @@ date: 2020-06-14
     * Riassunto
         * Traslazione
         * Rotazione
-    * Elementi di meccanica dei fluidi
-    * Statica dei fluidi
-    * Pressione
-    * Teorema di isotropia delle pressioni
-    * Statica dei fluidi pesanti
-    * Caso di campo G coincidente col campo gravitazionale
-    * Legge di Stevino
-    * Legge di Pascal
-    * Principio di Pascal
-        * Pressa idraulica
-    * Principio di Archimede
-        * Fluido in moto traslatorio accelerato
-        * Fluido in rotazione
-    * Il metodo termodinamico
-        * Metodo termodinamico
-        * Sistema termodinamico
-        * Sistemi idrostatici
-    * Equilibrio termico
-    * Equilibrio termodinamico
-    * Principio zero e temperatura
-        * Principio zero
-        * Termometro a gas perfetto
-    * Trasformazioni termodinamiche
-    * Trasformazioni termiche notevoli
-        * Termostati - serbatoi di calore
+* Elementi di meccanica dei fluidi
+* Statica dei fluidi
+* Pressione
+* Teorema di isotropia delle pressioni
+* Statica dei fluidi pesanti
+* Caso di campo G coincidente col campo gravitazionale
+* Legge di Stevino
+* Legge di Pascal
+* Principio di Pascal
+    * Pressa idraulica
+* Principio di Archimede
+    * Fluido in moto traslatorio accelerato
+    * Fluido in rotazione
+* Il metodo termodinamico
+    * Metodo termodinamico
+    * Sistema termodinamico
+    * Sistemi idrostatici
+* Equilibrio termico
+* Equilibrio termodinamico
+* Principio zero e temperatura
+    * Principio zero
+    * Termometro a gas perfetto
+* Trasformazioni termodinamiche
+* Trasformazioni termiche notevoli
+    * Termostati - serbatoi di calore
+* Equazione di stato dei gas perfetti
+* Gas ideale
+* Legge di Boyle
+* Legge di Charles (1ª legge di Gay-Lussac)
+* 2ª legge di Gay-Lussac
     * Equazione di stato dei gas perfetti
-    * Gas ideale
-    * Legge di Boyle
-    * Legge di Charles (1ª legge di Gay-Lussac)
-    * 2ª legge di Gay-Lussac
-        * Equazione di stato dei gas perfetti
-    * Lavoro termodinamico
-    * Lavoro dei gas ideali
-    * Trasformazione politropica
-    * Definizione calorimetrica del calore
-    * Lavoro adiabatico ed energia interna
-        * Energia interna
-    * Primo principio e calore
-        * Generalizzazione del primo principio
-        * Interpretazione cinematica del primo principio
+* Lavoro termodinamico
+* Lavoro dei gas ideali
+* Trasformazione politropica
+* Definizione calorimetrica del calore
+* Lavoro adiabatico ed energia interna
+    * Energia interna
+* Primo principio e calore
+    * Generalizzazione del primo principio
+    * Interpretazione cinematica del primo principio
+* Capacità termica
     * Capacità termica
-        * Capacità termica
-        * Calore specifico
-        * Calore specifico molare
-    * Temperatura di equilibrio fra due corpi
-        * Sistemi idrostatici
-    * Legge di Dulong-Petit
-    * Calore latente (fusione o evaporazione)
-        * Proprietà dei gas ideali: energia interna
-    * Esperimento di Joule
-    * Relazione di Mayer
-    * Trasformazioni adiabatiche quasi-statiche
-    * Calore specifico per le politropiche
-    * Conversione di Q in L e viceversa
-    *quaderno 4)*
-    * Secondo principio della termodinamica formulazione di Kelvin (- Planck)
-    * Enunciato di Clausius del 2° principio
-        * Ciclo reversibile
-    * Teorema di Carnot
-        * Temperatura termodinamica assoluta
-    * Terzo principio della termodinamica
-    * Ciclo di Carnot di un gas ideale
-    * Teorema di Clausius
-        * Espressione generale del teorema di Clausius
-    * Entropia
-    * ∆S e trasformazioni irreversibili
-    * Legge dell'andamento dell'entropia
-    * Entropia di un solido o di un liquido
-        * Diagrammi T-S
-    * Entropia gas perfetti
-    * Entropia e rendimento
-    * Espansione libera di un gas
-        * Diffusione di due gas inerti diversi
-        * Passaggio di calore da un corpo caldo a uno freddo
-    * Entropia e disordine
-        * Costante di Boltzmann
+    * Calore specifico
+    * Calore specifico molare
+* Temperatura di equilibrio fra due corpi
+    * Sistemi idrostatici
+* Legge di Dulong-Petit
+* Calore latente (fusione o evaporazione)
+    * Proprietà dei gas ideali: energia interna
+* Esperimento di Joule
+* Relazione di Mayer
+* Trasformazioni adiabatiche quasi-statiche
+* Calore specifico per le politropiche
+* Conversione di Q in L e viceversa
 
+*quaderno 4)*
+
+* Secondo principio della termodinamica formulazione di Kelvin (- Planck)
+* Enunciato di Clausius del 2° principio
+    * Ciclo reversibile
+* Teorema di Carnot
+* Temperatura termodinamica assoluta
+* Terzo principio della termodinamica
+* Ciclo di Carnot di un gas ideale
+* Teorema di Clausius
+    * Espressione generale del teorema di Clausius
+* Entropia
+* ∆S e trasformazioni irreversibili
+* Legge dell'andamento dell'entropia
+* Entropia di un solido o di un liquido
+    * Diagrammi T-S
+* Entropia gas perfetti
+* Entropia e rendimento
+* Espansione libera di un gas
+    * Diffusione di due gas inerti diversi
+    * Passaggio di calore da un corpo caldo a uno freddo
+* Entropia e disordine
+    * Costante di Boltzmann
+    
 &nbsp;
 
 <div align="center">
