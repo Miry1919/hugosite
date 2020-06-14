@@ -5,7 +5,6 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Voglio correre. Allenamento e alimentazione: come diventare più veloci, più resistenti, più magri_ — Enrico Arcelli
-* _Runningsofia. Filosofia della corsa_ — Claudio Bagnasco
 
 &nbsp;
 
@@ -73,6 +72,7 @@ description: ¶
 * _Storia di una gabbianella e del gatto che le insegnò a volare_ — Luis Sepúlveda
 * _La fatica più bella. Perché correre cambia la vita_ — Gastone Breccia ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/la-fatica-piu-bella/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/La-vita-non--mai-semplice-e-non-ci-sono-scorciatoie-ees23p)
 * _La rabbia e l'orgoglio_ — Oriana Fallaci
+* _Runningsofia. Filosofia della corsa_ — Claudio Bagnasco
 
 &nbsp;
 

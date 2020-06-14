@@ -23,8 +23,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Good People_ — Rhys Lewis
 * _Better Days - Giorni Migliori_ — OneRepublic & Negramaro
 * _WORTH SAVING_ — Jassie Reyez
-* _Never Been In Love_ — Gatlin
-* _Nucleare_ — Arisa & Manupuma
 
 &nbsp;
 
