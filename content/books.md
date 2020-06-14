@@ -12,6 +12,8 @@ description: ¶
 * _Ogni cosa al suo posto_ — Oliver Sacks
 * _La solitudine dei numeri primi_ — Paolo Giordano
 * _Wittgenstein. Il dovere del genio_ — Ray Monk
+* _Verde Brillante. Sensibilità e intelligenza del mondo vegetale_ — Stefano Mancuso, Alessandra Viola
+* _Psicomagia. Una terapia panica_ — Alejandro Jodorowsky
 
 &nbsp;
 
@@ -25,6 +27,10 @@ description: ¶
 * _L'amica geniale (volume primo)_ — Elena Ferrante
 * _Dal big bang ai buchi neri. Breve storia del tempo_ — Stephen W. Hawking
 * _Pesciolino_ — Lisa Brennan-Jobs
+&nbsp;
+
+<span style="color:red">*2019 (dal primo all'ultimo)*</span>
+
 * _Diario di un'apprendista astronauta_ — Samantha Cristoforetti
 * _Ci sono luoghi al mondo dove più che le regole è importante la gentilezza. Articoli per i giornali_ — Carlo Rovelli
 * _La banalità del male. Eichmann a Gerusalemme_ — Hannah Arendt
@@ -53,6 +59,10 @@ description: ¶
 * _L'universo elegante. Superstringhe, dimensioni nascoste e la ricerca della teoria ultima_ — Brian Greene ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/luniverso-elegante/)
 * _Ready to Run: Unlocking Your Potential to Run Naturally_ — Kelly Starrett ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/ready-to-run/)
 * _Deskbound: Standing Up to a Sitting World_ — Kelly Starrett
+&nbsp;
+
+<span style="color:red">*2020 (dal primo all'ultimo)*</span>
+
 * _#Humanless. L'algoritmo egoista_ — Massimo Chiriatti
 * _Modernità Liquida_ — Zygmunt Bauman ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/modernita-liquida/)
 * _Storia del nuovo cognome. L'amica geniale (volume secondo)_ — Elena Ferrante
