@@ -171,8 +171,6 @@ date: 2020-06-14
         * Esempio di urto perfettamente anelastico (pendolo balistico)
         * Pendolo con asta rigida (urto perfettamente anelastico)
 
----
-
 #### <span style="text-decoration:underline">Modulo 2</span>
 *quaderno 3)*
 
