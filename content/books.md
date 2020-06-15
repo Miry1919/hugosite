@@ -5,6 +5,7 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Voglio correre. Allenamento e alimentazione: come diventare più veloci, più resistenti, più magri_ — Enrico Arcelli
+* _Verde Brillante. Sensibilità e intelligenza del mondo vegetale_ — Stefano Mancuso, Alessandra Viola
 
 &nbsp;
 
@@ -12,7 +13,6 @@ description: ¶
 * _Ogni cosa al suo posto_ — Oliver Sacks
 * _La solitudine dei numeri primi_ — Paolo Giordano
 * _Wittgenstein. Il dovere del genio_ — Ray Monk
-* _Verde Brillante. Sensibilità e intelligenza del mondo vegetale_ — Stefano Mancuso, Alessandra Viola
 * _Psicomagia. Una terapia panica_ — Alejandro Jodorowsky
 
 &nbsp;
