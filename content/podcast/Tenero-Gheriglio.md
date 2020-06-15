@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-06-08
+date: 2020-06-15
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,17 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #19 (8•6•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #20 (15•6•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Una coccinellina piccolina sulla gamba](https://anchor.fm/miriana-novella7/episodes/Una-coccinellina-piccolina-sulla-gamba-eff0to)
+
+    Nella puntata 20 parlo di come studiare e apprendere, immergendoci, continuando a ricordare ciò che abbiamo imparato, e mettendoci alla prova, interrogandoci. Poi, tra le altre cose, vi leggo alcune massime sull'alimentazione prese dal libro "Runningsofia" di Claudio Bagnasco.
+
+    "Miriana's hello" è il mio nuovo canale Telegram: [https://t.me/miry1919](https://t.me/miry1919)
+
+---
+
+* Puntata #19 (8•6•2020)
 
     ☞[È quello che accade e nient'altro](https://anchor.fm/miriana-novella7/episodes/quello-che-accade-e-nientaltro-ef5bll)
 
