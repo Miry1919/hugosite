@@ -14,6 +14,10 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Summertime_ — Orville Peck
+* _Always Yours_ — BANNERS
+* _The Lake_ — Galantis & Wrabel
+* _Tangerine Skies_ — Declan J Donovan
 * _Big Girls Cry_ — Sia
 * _Day Too Soon_ — Sia
 * _Clap Your Hands_ — Sia
