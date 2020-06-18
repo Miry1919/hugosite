@@ -20,6 +20,10 @@ Vado in palestra da circa tre anni. Nuoto da quando avevo tre anni. Ma penso che
 
 &nbsp;
 
+La corsa ti porta in una conversazione silenziosa con il mondo, ti porta in strada, e in strada non può che succedere di tutto.
+
+&nbsp;
+
 <span style="color:red">Il mio sogno sarebbe quello di stare su un windsurf tutta la vita, ma questa è un'altra storia.</span>
 
 &nbsp;
