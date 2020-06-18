@@ -16,9 +16,9 @@ description: ◐
 * _Palestra_ <span style="color:red">a casa per coronavirus</span>
 * _Nuoto_ <span style="color:red">in pausa per coronavirus</span>
 
-Vado in palestra da circa tre anni. Nuoto da quando avevo tre anni. Ma penso che la corsa sia lo sport che più mi rappresenta, da sola, per chilometri, uno scenario perfettamente masochistico.
-
 &nbsp;
+
+Vado in palestra da circa tre anni. Nuoto da quando avevo tre anni. Ma penso che la corsa sia lo sport che più mi rappresenta, da sola, per chilometri, uno scenario perfettamente masochistico.
 
 La corsa ti porta in una conversazione silenziosa con il mondo, ti porta in strada, e in strada non può che succedere di tutto.
 
