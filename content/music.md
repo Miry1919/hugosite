@@ -14,6 +14,8 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Beggin_ (Original Version) — Madcon
+* _Snow (Hey Oh)_ — Red Hot Chili Peppers
 * _Summertime_ — Orville Peck
 * _Always Yours_ — BANNERS
 * _The Lake_ — Galantis & Wrabel

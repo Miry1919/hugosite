@@ -70,7 +70,7 @@ description: ¶
 * _Errore di sistema_ — Edward Snowden ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Provate--cambiate--cambiate-sempre-le-cose-che-fate-eampug)
 * _Lezioni di meraviglia_ — Andrea Colamedici, Maura Gancitano ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/lezioni-di-meraviglia/)
 * _Potere alle parole_ — Vera Gheno
-* _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal
+* _Indistractable: How to Control Your Attention and Choose Your Life_ — Nir Eyal ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Tutto-parte-dal-nostro-cervello-eb1oku)
 * _Silicio_ — Federico Faggin ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Amore--disciplina--passione-e-coraggio-eb6kr4)
 * _Io, te e il mare_ — Marzia Sicignano
 * _Storia di una balena bianca raccontata da lei stessa_ — Luis Sepúlveda ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/storia-di-una-balena-bianca-raccontata-da-lei-stessa/)
