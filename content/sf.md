@@ -3,11 +3,36 @@ title: Sport & Food
 description: ◐
 ---
 
-#### <span style="text-decoration:underline">Questa pagina è ancora in via di definizione</span>
+### <span style="color:red">Sport</span>
+---
+&nbsp;
+
+#### <span style="color:red">Tabella degli allenamenti</span> <span style="color:blue">⚡ New!</span>
 
 &nbsp;
 
-### <span style="color:red">Sport</span>
+| Attività                  | Data                         | Passo                        | Chilometri    |
+|:---------------------|:-----------------------|:-------------------------|:--------------|
+| **sostenuta** ---   | **allenamento** --- |  **minuti al km** ---  |  **percorsi**|
+| Corsa*                    | 20•06•2020              |  8'20"                         |  10,74          |
+| Corsa*                    | 18•06•2020              |  7'42"                         |  8,81            |
+| Corsa*                    | 16•06•2020              |  7'52"                         |  8,04            |
+| Corsa*                    | 14•06•2020              |  7'50"                         |  7,55            |
+| Corsa*                    | 12•06•2020              |  8'17"                         |  10,49          |
+| Corsa*                    | 10•06•2020              |  8'14"                         |  11,41          |
+| Corsa*                    | 06•06•2020              |  8'37"                         |  11,52          |
+| Corsa*                    | 02•06•2020              |  8'20"                         |  10,59          |
+| Corsa*                    | 31•05•2020              |  7'09"                         |  11,09          |
+| Corsa*                    | 27•05•2020              |  8'26"                         |  10,49          |
+| Corsa*                    | 24•05•2020              |  8'26"                         |  12,02          |
+| Corsa*                    | 20•05•2020              |  8'31"                         |  11,70          |
+| Corsa*                    | 14•05•2020              |  8'55"                         |  10,27          |
+| Corsa*                    | 10•05•2020              |  9'03"                         |  10,05          |
+| Corsa*                    | 07•05•2020              |  8'51"                         |  10,31          |
+
+&nbsp;
+
+Corsa* <span style="text-decoration:underline">sta per</span> Corsa e Camminata
 
 &nbsp;
 
@@ -26,8 +51,11 @@ La corsa ti porta in una conversazione silenziosa con il mondo, ti porta in stra
 
 <span style="color:red">Il mio sogno sarebbe quello di stare su un windsurf tutta la vita, ma questa è un'altra storia.</span>
 
+---
 &nbsp;
 
 ### <span style="color:red">Food</span>
-
+---
 L'alimentazione è obbligatoriamente integrata nella nostra vita. Saper mangiare dovrebbe essere una conoscenza fondamentale, una materia di studio in ogni scuola. Si eviterebbero molti problemi. Permette di stare bene.
+
+---
