@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-06-15
+date: 2020-06-22
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #20 (15•6•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #21 (22•6•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Non capiamo perché ci fa soffrire così](https://anchor.fm/miriana-novella7/episodes/Non-capiamo-perch-ci-fa-soffrire-cos-efnop8)
+
+    A causa della WWDC torno a registrare di domenica. E di cosa parlo, parlo del progettino col Raspberry Pi (vedi canale YouTube "Tech Craft"), del libro "Verde brillante" di Stefano Mancuso e Alessandra Viola, e ovviamente anche di altro.
+
+---
+
+* Puntata #20 (15•6•2020)
 
     ☞[Una coccinellina piccolina sulla gamba](https://anchor.fm/miriana-novella7/episodes/Una-coccinellina-piccolina-sulla-gamba-eff0to)
 

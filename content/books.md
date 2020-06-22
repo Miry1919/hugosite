@@ -82,7 +82,7 @@ description: ¶
 * _La fatica più bella. Perché correre cambia la vita_ — Gastone Breccia ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/la-fatica-piu-bella/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/La-vita-non--mai-semplice-e-non-ci-sono-scorciatoie-ees23p)
 * _La rabbia e l'orgoglio_ — Oriana Fallaci
 * _Runningsofia. Filosofia della corsa_ — Claudio Bagnasco
-* _Verde Brillante. Sensibilità e intelligenza del mondo vegetale_ — Stefano Mancuso, Alessandra Viola
+* _Verde Brillante. Sensibilità e intelligenza del mondo vegetale_ — Stefano Mancuso, Alessandra Viola ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Non-capiamo-perch-ci-fa-soffrire-cos-efnop8)
 
 &nbsp;
 
