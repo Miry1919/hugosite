@@ -45,7 +45,7 @@ date: 2020-06-14
     * Periodo
     * Frequenza
 * Moto periodico (con periodo T)
-* Moto circolare uniforme
+* Moto circolare non uniforme
     * Moto uniformemente accelerato   
 * Moto armonico semplice
 * Moto piano in coordinate polari
