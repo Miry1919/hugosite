@@ -261,6 +261,8 @@ date: 2020-06-14
 * Conversione di Q in L e viceversa
 * Secondo principio della termodinamica formulazione di Kelvin (- Planck)
 * Enunciato di Clausius del 2° principio
+* Equivalenza tra gli enunciati di Kelvin e Clausius (dimostrazione)
+* Trasformazioni reversibili e 2° principio
     * Ciclo reversibile
 * Teorema di Carnot
 * Temperatura termodinamica assoluta
@@ -275,6 +277,7 @@ date: 2020-06-14
     * Diagrammi T-S
 * Entropia gas perfetti
 * Entropia e rendimento
+* Principio aumento entropia e rendimento
 * Espansione libera di un gas
     * Diffusione di due gas inerti diversi
     * Passaggio di calore da un corpo caldo a uno freddo

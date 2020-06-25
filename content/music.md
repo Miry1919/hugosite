@@ -20,20 +20,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Always Yours_ — BANNERS
 * _The Lake_ — Galantis & Wrabel
 * _Tangerine Skies_ — Declan J Donovan
-* _Big Girls Cry_ — Sia
-* _Day Too Soon_ — Sia
-* _Clap Your Hands_ — Sia
-* _Weekend_ — Emily Wu
-* _Door No.2_ — Destiny Rogers
-* _Paper House_ — Grant Knoche
-* _Good People_ — Rhys Lewis
-* _Better Days - Giorni Migliori_ — OneRepublic & Negramaro
-* _WORTH SAVING_ — Jassie Reyez
-
-&nbsp;
-
-#### <span style="color:red">Ultimi album</span>
-* _Golden Hour_ — Kygo
 
 &nbsp;
 
