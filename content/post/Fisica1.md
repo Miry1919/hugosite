@@ -255,10 +255,10 @@ date: 2020-06-14
 * Relazione di Mayer
 * Trasformazioni adiabatiche quasi-statiche
 * Calore specifico per le politropiche
-* Conversione di Q in L e viceversa
 
 *quaderno 4)*
 
+* Conversione di Q in L e viceversa
 * Secondo principio della termodinamica formulazione di Kelvin (- Planck)
 * Enunciato di Clausius del 2° principio
     * Ciclo reversibile
