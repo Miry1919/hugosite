@@ -14,6 +14,15 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _i think too much_ — Christian French
+* _I'm Fine_ — James Quick
+* _Leap Of Faith_ — Christopher
+* _Commando_ — Julie Bergan
+* _Love For The Lonely_ — Jasmine Thompson
+* _Wait No More_ — Scott Helman
+* _I'm Not OK_ — RHODES
+* _Ur So Fu**kIng cOol_ — Tones And I
+* _9.3_ — Mr.Rain
 * _Beggin_ (Original Version) — Madcon
 * _Snow (Hey Oh)_ — Red Hot Chili Peppers
 * _Summertime_ — Orville Peck
