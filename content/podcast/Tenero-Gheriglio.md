@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-06-22
+date: 2020-06-29
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #21 (22•6•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #22 (29•6•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Da buona persona informata sui fatti](https://anchor.fm/miriana-novella7/episodes/Da-buona-persona-informata-sui-fatti-eg2t86)
+
+    Nella seconda puntata palindroma parlo di palestra all'aperto, di concerti per piante, dell'iPod touch (2019) appena acquistato, e di alcune delle novità presentate alla Worldwide Developers Conference (WWDC 2020).
+
+---
+
+* Puntata #21 (22•6•2020)
 
     ☞[Non capiamo perché ci fa soffrire così](https://anchor.fm/miriana-novella7/episodes/Non-capiamo-perch-ci-fa-soffrire-cos-efnop8)
 
