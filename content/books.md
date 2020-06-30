@@ -4,12 +4,11 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Voglio correre. Allenamento e alimentazione: come diventare più veloci, più resistenti, più magri_ — Enrico Arcelli
+* _Ogni cosa al suo posto_ — Oliver Sacks
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Ogni cosa al suo posto_ — Oliver Sacks
 * _La solitudine dei numeri primi_ — Paolo Giordano
 * _Wittgenstein. Il dovere del genio_ — Ray Monk
 * _Psicomagia. Una terapia panica_ — Alejandro Jodorowsky
@@ -90,6 +89,7 @@ description: ¶
 * _Lezioni di letteratura_ — Vladimir Nabokov
 * _Rebel Code: Linux and the Open Source Revolution_ — Glyn Moody
 * _On the Plurality of Worlds_ — David Kellogg Lewis
+* _Voglio correre. Allenamento e alimentazione: come diventare più veloci, più resistenti, più magri_ — Enrico Arcelli
 
 &nbsp;
 
