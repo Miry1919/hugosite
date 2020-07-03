@@ -14,6 +14,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Per un milione_ — BoomDaBash
 * _i think too much_ — Christian French
 * _I'm Fine_ — James Quick
 * _Leap Of Faith_ — Christopher
@@ -23,12 +24,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _I'm Not OK_ — RHODES
 * _Ur So Fu**kIng cOol_ — Tones And I
 * _9.3_ — Mr.Rain
-* _Beggin_ (Original Version) — Madcon
-* _Snow (Hey Oh)_ — Red Hot Chili Peppers
-* _Summertime_ — Orville Peck
-* _Always Yours_ — BANNERS
-* _The Lake_ — Galantis & Wrabel
-* _Tangerine Skies_ — Declan J Donovan
 
 &nbsp;
 

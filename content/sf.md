@@ -11,6 +11,7 @@ description: ◐
 | Attività                    | Data                    | Passo                         | Chilometri                 |
 |:----------------------|:--------------------|:-------------------------|:------------------------|
 | **sosten.** ---        | **allenam.** ---   |  **al km** ---               |  **percorsi tot.** --- |
+| Corsa*                    | 03/07/20              |  7'32"                         |  8,07                         |
 | Corsa*                    | 01/07/20              |  7'59"                         |  7,47                         |
 | Corsa*                    | 28/06/20              |  7'57"                         |  8,87                         |
 | Corsa*                    | 26/06/20              |  7'44"                         |  8,70                         |
@@ -40,7 +41,7 @@ Corsa* <span style="text-decoration:underline">sta per</span> Corsa e Camminata
 
 #### <span style="color:red">Attività attuali</span>
 * _Corsa_
-* _Palestra_ <span style="color:red">a casa per coronavirus</span>
+* _Palestra_ <span style="color:red">all'aperto per coronavirus</span>
 * _Nuoto_ <span style="color:red">in pausa per coronavirus</span>
 
 &nbsp;
