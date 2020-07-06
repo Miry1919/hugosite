@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-06-29
+date: 2020-07-06
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #22 (29•6•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #23 (6•7•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Più divertita di tutti gli altri giorni](https://anchor.fm/miriana-novella7/episodes/Pi-divertita-di-tutti-gli-altri-giorni-egcod8)
+
+    "Giornate Semi-Coronavirusiche".
+
+---
+
+* Puntata #22 (29•6•2020)
 
     ☞[Da buona persona informata sui fatti](https://anchor.fm/miriana-novella7/episodes/Da-buona-persona-informata-sui-fatti-eg2t86)
 
