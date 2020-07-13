@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-07-06
+date: 2020-07-13
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #23 (6•7•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #24 (13•7•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Un po' di brio nella conversazione](https://anchor.fm/miriana-novella7/episodes/Un-po-di-brio-nella-conversazione-egmih4)
+
+    Nella puntata 24 (smaltita la fatica) entriamo nel mondo della scrittura, della punteggiatura e delle emoji, in compagnia di Stephen King e Giacomo Leopardi, tramite il libro di Claudio Giunta "Come non scrivere"; finale con qualche curiosità alimentare e sportiva.
+
+---
+
+* Puntata #23 (6•7•2020)
 
     ☞[Più divertita di tutti gli altri giorni](https://anchor.fm/miriana-novella7/episodes/Pi-divertita-di-tutti-gli-altri-giorni-egcod8)
 
