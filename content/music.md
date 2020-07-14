@@ -14,20 +14,13 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Something Unreal_ — The Script
+* _Be Kind_ — Marshmello & Halsey
 * _Oxygen_ — Winona Oak & Robin Schulz
 * _Sirene_ — Levante
 * _Hold Me Close_ — Georgia Ku
 * _Thousand Faces_ — Don Diablo & Andy Grammer
 * _Per un milione_ — BoomDaBash
-* _i think too much_ — Christian French
-* _I'm Fine_ — James Quick
-* _Leap Of Faith_ — Christopher
-* _Commando_ — Julie Bergan
-* _Love For The Lonely_ — Jasmine Thompson
-* _Wait No More_ — Scott Helman
-* _I'm Not OK_ — RHODES
-* _Ur So Fu**kIng cOol_ — Tones And I
-* _9.3_ — Mr.Rain
 
 &nbsp;
 
