@@ -10,6 +10,7 @@ description: ¶
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
+* _Primo, non curare chi è normale. Contro l'invenzione delle malattie_ — Allen Frances
 * _La solitudine dei numeri primi_ — Paolo Giordano
 * _Wittgenstein. Il dovere del genio_ — Ray Monk
 * _Psicomagia. Una terapia panica_ — Alejandro Jodorowsky
