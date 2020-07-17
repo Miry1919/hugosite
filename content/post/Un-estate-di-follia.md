@@ -6,7 +6,7 @@ Sto leggendo "Ogni cosa al suo posto" di Oliver Sacks. "Un'estate di follia" è 
 
 &nbsp;
 
-«L'insorgere della mania è improvviso ed esplosivo: Sally, la figlia quindicenne, ha trascorso alcune settimane in uno stato di esaltazione, ascoltando Glenn Gould nelle Variazioni di Goldberg e facendo le ore piccole a meditare su un volume di sonetti di Shakespeare.
+«L'insorgere della mania è improvviso ed esplosivo: Sally, la figlia quindicenne, ha trascorso alcune settimane in uno stato di esaltazione, ascoltando Glenn Gould nelle *Variazioni Goldberg* e facendo le ore piccole a meditare su un volume di sonetti di Shakespeare.
 
 [...]
 &nbsp;
@@ -63,7 +63,7 @@ Dopo la sua estate di follia, Sally riesce a tornare a scuola, ansiosa ma determ
 
 &nbsp;
 
-A breve leggerò "Primo, non curare chi è normale" di Allen Frances. Dopodiché il tutto finirà in una puntata podcast. Per ora ho voluto lasciarvi immaginare cosa può aver vissuto Sally, cosa possono aver vissuto i suoi cari, come repentinamente la vita possa stravolgersi a causa di un potente e inaspettato squilibrio chimico nel nostro cervello. Alla prossima!
+A breve leggerò "Primo, non curare chi è normale" di Allen Frances. Dopodiché il tutto finirà in una puntata di Tenero Gheriglio (podcast). Per ora ho voluto lasciarvi immaginare cosa può aver vissuto Sally, cosa possono aver vissuto i suoi cari, come repentinamente la vita possa stravolgersi a causa di un potente e inaspettato squilibrio chimico nel nostro cervello. Alla prossima!
 
 &nbsp;
 
