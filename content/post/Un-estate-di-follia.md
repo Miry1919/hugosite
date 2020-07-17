@@ -59,7 +59,7 @@ In ospedale i tentativi di *capire* Sally sono relativamente pochi: la sua mania
 &nbsp;
 
 Alla fine, il ritorno di Sally dal climax della mania è improvviso quasi quanto l'ascesa che ce l'aveva portata sette settimane prima [...] È come se avessimo vissuto in una favola per tutta l'estate. Una ragazza bellissima è trasformata in una pietra comatosa, o in un demonio. Le strappano le persone care, il linguaggio, tutto ciò che era suo. Poi l'incantesimo si spezza e lei si risveglia.
-Dopo la sua estate di follia, Sally riesce a tornare a scuola, ansiosa ma determinata a riapproprirsi della sua vita.»
+Dopo la sua estate di follia, Sally riesce a tornare a scuola, ansiosa ma determinata a riappropriarsi della sua vita.»
 
 &nbsp;
 
