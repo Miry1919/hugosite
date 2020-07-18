@@ -5,7 +5,6 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Ogni cosa al suo posto_ — Oliver Sacks
-* _Come non scrivere: Consigli ed esempi da seguire, trappole e scemenze da evitare quando si scrive in italiano_ — Claudio Giunta ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Un-po-di-brio-nella-conversazione-egmih4)
 
 &nbsp;
 
@@ -84,6 +83,7 @@ description: ¶
 * _La rabbia e l'orgoglio_ — Oriana Fallaci
 * _Runningsofia. Filosofia della corsa_ — Claudio Bagnasco
 * _Verde Brillante. Sensibilità e intelligenza del mondo vegetale_ — Stefano Mancuso, Alessandra Viola ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Non-capiamo-perch-ci-fa-soffrire-cos-efnop8)
+* _Come non scrivere: Consigli ed esempi da seguire, trappole e scemenze da evitare quando si scrive in italiano_ — Claudio Giunta ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Un-po-di-brio-nella-conversazione-egmih4)
 
 &nbsp;
 
