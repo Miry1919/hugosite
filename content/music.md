@@ -14,6 +14,9 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Moving On_ — Aquilo
+* _Better Break My Heart_ — Rhys
+* _Don't Look Back in Anger_ — FELIX SANDMAN
 * _Home_ — LIE NING
 * _Something Unreal_ — The Script
 * _Be Kind_ — Marshmello & Halsey
