@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-07-13
+date: 2020-07-20
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #24 (13•7•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #25 (20•7•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Se ci si impegna si può fare, ma si può fare solo se ci si impegna](https://anchor.fm/miriana-novella7/episodes/Se-ci-si-impegna-si-pu-fare--ma-si-pu-fare-solo-se-ci-si-impegna-egvqup)
+
+    Saper scrivere bene serve? E la calligrafia, ci rappresenta? Nella puntata 25 capiamo se saper scrivere è un'abilità importante, e se tramite la grafologia è possibile studiare e capire la personalità di una persona. Poi, passando attraverso altre curiosità, arriviamo a parlare del post ["Un'estate di follia"](https://miry1919.github.io/hugosite/post/un-estate-di-follia/) ☜
+
+---
+
+* Puntata #24 (13•7•2020)
 
     ☞[Un po' di brio nella conversazione](https://anchor.fm/miriana-novella7/episodes/Un-po-di-brio-nella-conversazione-egmih4)
 
