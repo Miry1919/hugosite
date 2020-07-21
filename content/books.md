@@ -4,13 +4,12 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Ogni cosa al suo posto_ — Oliver Sacks
+* _Primo, non curare chi è normale. Contro l'invenzione delle malattie_ — Allen Frances
+* _La solitudine dei numeri primi_ — Paolo Giordano
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Primo, non curare chi è normale. Contro l'invenzione delle malattie_ — Allen Frances
-* _La solitudine dei numeri primi_ — Paolo Giordano
 * _Wittgenstein. Il dovere del genio_ — Ray Monk
 * _Psicomagia. Una terapia panica_ — Alejandro Jodorowsky
 
@@ -84,6 +83,7 @@ description: ¶
 * _Runningsofia. Filosofia della corsa_ — Claudio Bagnasco
 * _Verde Brillante. Sensibilità e intelligenza del mondo vegetale_ — Stefano Mancuso, Alessandra Viola ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Non-capiamo-perch-ci-fa-soffrire-cos-efnop8)
 * _Come non scrivere: Consigli ed esempi da seguire, trappole e scemenze da evitare quando si scrive in italiano_ — Claudio Giunta ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Un-po-di-brio-nella-conversazione-egmih4)
+* _Ogni cosa al suo posto_ — Oliver Sacks ☞[{Posts}](https://miry1919.github.io/hugosite/post/un-estate-di-follia/)
 
 &nbsp;
 
