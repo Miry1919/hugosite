@@ -14,6 +14,8 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Take Me Apart_ — SYML
+* _Happiest Year_ — Jaymes Young
 * _Moving On_ — Aquilo
 * _Better Break My Heart_ — Rhys
 * _Don't Look Back in Anger_ — FELIX SANDMAN
@@ -22,9 +24,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Be Kind_ — Marshmello & Halsey
 * _Oxygen_ — Winona Oak & Robin Schulz
 * _Sirene_ — Levante
-* _Hold Me Close_ — Georgia Ku
-* _Thousand Faces_ — Don Diablo & Andy Grammer
-* _Per un milione_ — BoomDaBash
 
 &nbsp;
 
