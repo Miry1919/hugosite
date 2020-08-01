@@ -14,16 +14,14 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _And It Breaks My Heart_ — LÉON
+* _The One That You Love_ — LP
+* _Pensa_ — Fabrizio Moro
 * _Take Me Apart_ — SYML
 * _Happiest Year_ — Jaymes Young
 * _Moving On_ — Aquilo
 * _Better Break My Heart_ — Rhys
 * _Don't Look Back in Anger_ — FELIX SANDMAN
-* _Home_ — LIE NING
-* _Something Unreal_ — The Script
-* _Be Kind_ — Marshmello & Halsey
-* _Oxygen_ — Winona Oak & Robin Schulz
-* _Sirene_ — Levante
 
 &nbsp;
 
