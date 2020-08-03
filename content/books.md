@@ -12,6 +12,7 @@ description: ¶
 #### <span style="color:red">Leggerò a breve</span>
 * _Wittgenstein. Il dovere del genio_ — Ray Monk
 * _Psicomagia. Una terapia panica_ — Alejandro Jodorowsky
+* _Moby Dick_ — Herman Melville
 
 &nbsp;
 
