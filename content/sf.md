@@ -47,7 +47,6 @@ description: ◐
 | Corsa*                    | 14/05/20              |  8'55"                         |  10,27                       |
 | Corsa*                    | 10/05/20              |  9'03"                         |  10,05                       |
 | Corsa*                    | 07/05/20              |  8'51"                         |  10,31                       |
-
 &nbsp;
 
 Corsa* <span style="text-decoration:underline">sta per</span> Corsa e Camminata
