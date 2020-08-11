@@ -11,6 +11,7 @@ description: ◐
 | Attività                    | Data                    | Passo                         | Chilometri                 |
 |:----------------------|:--------------------|:-------------------------|:------------------------|
 | **sosten.** ---        | **allenam.** ---   |  **al km** ---               |  **percorsi tot.** --- |
+| Nuoto                     | 11/08/20              |  –                                |  allo sfinimento         |
 | Corsa*                    | 09/08/20              |  7'23"                         |  7,51                         |
 | Corsa*                    | 07/08/20              |  7'39"                         |  8,12                         |
 | Corsa*                    | 04/08/20              |  7'38"                         |  8,04                         |
@@ -55,8 +56,8 @@ Corsa* <span style="text-decoration:underline">sta per</span> Corsa e Camminata
 
 #### <span style="color:red">Attività attuali</span>
 * _Corsa_
+* _Nuoto_
 * _Palestra_ <span style="color:red">all'aperto per coronavirus</span>
-* _Nuoto_ <span style="color:red">in pausa per coronavirus</span>
 
 &nbsp;
 
