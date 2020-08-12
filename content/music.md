@@ -14,6 +14,13 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _No One Could Ever Loved Me Like You Do_ — 
+* _Boys Don't Cry_ — Dillistone & ferdinant.
+* _Preach_ — Saint Motel
+* _Heat Up_ — Giant Rooks
+* _Sword from the Stone_ — Passenger
+* _my future_ — Billie Eilish
+* _The Dark_ — SYML
 * _Anche Se Non Trovi Le Parole_ — Elisa
 * _And It Breaks My Heart_ — LÉON
 * _The One That You Love_ — LP
