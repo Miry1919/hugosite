@@ -10,7 +10,7 @@ description: ◐
 
 | Attività                    | Data                    | Passo                         | Chilometri/Durata     |
 |:----------------------|:--------------------|:-------------------------|:------------------------|
-| **sosten.** ---        | **allenam.** ---   |  **al km** ---               |  **totali/e** ---          |
+| **sosten.** ---        | **allenam.** ---   |  **al km** ---               |  **totali/totale** ---  |
 | Nuoto                     | 17/08/20              |  –                                |  2 h.                          |
 | Corsa*                    | 15/08/20              |  6'46"                         |  8,11                         |
 | Nuoto                     | 11/08/20              |  –                                |  allo sfinimento         |
