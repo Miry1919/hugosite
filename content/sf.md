@@ -8,7 +8,7 @@ description: ◐
 
 #### <span style="color:red">Tabella degli allenamenti</span>
 
-| Attività                    | Data                    | Passo                         | km/minuti                       |
+| Attività                    | Data                    | Passo                         | km/min                           |
 |:----------------------|:--------------------|:-------------------------|:----------------------------|
 | **sosten.** ---        | **allenam.** ---   |  **al km** ---               |  **totali** ---                   |
 | Nuoto                     | 17/08/20              |  –                                |  120 min.                        |
