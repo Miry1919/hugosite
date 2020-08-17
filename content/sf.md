@@ -8,9 +8,10 @@ description: ◐
 
 #### <span style="color:red">Tabella degli allenamenti</span>
 
-| Attività                    | Data                    | Passo                         | Chilometri                 |
+| Attività                    | Data                    | Passo                         | Chilometri/Durata     |
 |:----------------------|:--------------------|:-------------------------|:------------------------|
-| **sosten.** ---        | **allenam.** ---   |  **al km** ---               |  **percorsi tot.** --- |
+| **sosten.** ---        | **allenam.** ---   |  **al km** ---               |  **totali/e** ---          |
+| Nuoto                     | 17/08/20              |  –                                |  2 h.                          |
 | Corsa*                    | 15/08/20              |  6'46"                         |  8,11                         |
 | Nuoto                     | 11/08/20              |  –                                |  allo sfinimento         |
 | Corsa*                    | 09/08/20              |  7'23"                         |  7,51                         |
