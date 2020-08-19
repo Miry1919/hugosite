@@ -14,6 +14,18 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Never Enough_ — TWO LANES
+* _BACK FOR ME_ — Reece
+* _Be There for You_ — Gavin Haley
+* _One Night_ — Gunnar Gehl
+* _hurt so bad_ — Cian Ducrot
+* _Who's Laughing Now_ — Ava Max
+* _Down from Here_ — Sloane
+* _Falling Asleep at the Weel_ — Holly Humberstone
+* _Say It Again_ — Griff
+* _Lighthouse_ — Georgia Ku
+* _In a Stranger's Arms_ — LÉON
+* _Velvet Hollywood_ — DANIEL SAINT BLACK
 * _Belive_ — Ben & Tim
 * _No One Could Ever Loved Me Like You Do_ — Imaginary Future
 * _Boys Don't Cry_ — Dillistone & ferdinant.
@@ -22,10 +34,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Sword from the Stone_ — Passenger
 * _my future_ — Billie Eilish
 * _The Dark_ — SYML
-* _Anche Se Non Trovi Le Parole_ — Elisa
-* _And It Breaks My Heart_ — LÉON
-* _The One That You Love_ — LP
-* _Pensa_ — Fabrizio Moro
 
 &nbsp;
 
