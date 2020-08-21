@@ -13,14 +13,14 @@ date: 2020-07-27
 <div align="center">
 Nel frattempo guarda il mio video su YouTube
 </div>
-<div align="center">☞[Cubo di Rubik 7x7x7 vs Miriana](https://www.youtube.com/watch?v=XomnfZlOJ9Y&feature=youtu.be) <span style="color:blue">⚡ New!</span>
-</div>
+<div align="center">☞[Cubo di Rubik 7x7x7 vs Miriana](https://www.youtube.com/watch?v=XomnfZlOJ9Y&feature=youtu.be)</div>
+#### <div align="center"> <span style="color:blue">⚡ New!</span> </div>
 ---
 ---
 
 Ascoltalo:
 
-* su YouTube tramite la ☞[playlist](https://www.youtube.com/playlist?list=PLG8qHQG7k8Jrgo8WEqYS9WsbaY6kDRhyv) sempre aggiornata con tutte le puntate
+* su YouTube tramite la <span style="text-decoration:underline">[playlist](https://www.youtube.com/playlist?list=PLG8qHQG7k8Jrgo8WEqYS9WsbaY6kDRhyv)</span> sempre aggiornata con tutte le puntate
 * nel tuo podcast player preferito cliccando sui link presenti qui sotto
 
 ---
