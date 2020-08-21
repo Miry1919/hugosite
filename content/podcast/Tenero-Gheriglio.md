@@ -9,6 +9,10 @@ date: 2020-07-27
 <div align="center">
 <span style="color:red">Tutto il mese di agosto non ci saranno nuove puntate di Tenero Gheriglio. Ci risentiamo di nuovo ogni settimana da lunedì 7 settembre 2020.</span>
 </div>
+
+<div align="center">
+Nel frattempo guarda il mio video su YouTube ☞[Cubo di Rubik 7x7x7 vs Miriana](https://www.youtube.com/watch?v=XomnfZlOJ9Y&feature=youtu.be)
+</div>
 ---
 ---
 

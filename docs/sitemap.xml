@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://miry1919.github.io/hugosite/post/cubo-di-rubik-7/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://miry1919.github.io/hugosite/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://miry1919.github.io/hugosite/post/</loc>
+    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -15,11 +25,6 @@
   <url>
     <loc>https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://miry1919.github.io/hugosite/post/</loc>
-    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
