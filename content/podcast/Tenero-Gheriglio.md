@@ -11,20 +11,22 @@ date: 2020-07-27
 </div>
 
 <div align="center">
-Nel frattempo guarda il mio video su YouTube ☞[Cubo di Rubik 7x7x7 vs Miriana](https://www.youtube.com/watch?v=XomnfZlOJ9Y&feature=youtu.be)
+Nel frattempo guarda il mio video su YouTube
+</div>
+<div align="center">☞[Cubo di Rubik 7x7x7 vs Miriana](https://www.youtube.com/watch?v=XomnfZlOJ9Y&feature=youtu.be) <span style="color:blue">⚡ New!</span>
 </div>
 ---
 ---
 
 Ascoltalo:
 
-* su YouTube tramite la [playlist](https://www.youtube.com/playlist?list=PLG8qHQG7k8Jrgo8WEqYS9WsbaY6kDRhyv) sempre aggiornata con tutte le puntate
+* su YouTube tramite la ☞[playlist](https://www.youtube.com/playlist?list=PLG8qHQG7k8Jrgo8WEqYS9WsbaY6kDRhyv) sempre aggiornata con tutte le puntate
 * nel tuo podcast player preferito cliccando sui link presenti qui sotto
 
 ---
 ---
 
-* Puntata #26 (27•7•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #26 (27•7•2020)
 
     ☞[Non cambierà la conduttrice](https://anchor.fm/miriana-novella7/episodes/Non-cambier-la-conduttrice-eh8jlf)
 
