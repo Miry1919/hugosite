@@ -11,6 +11,7 @@ description: ◐
 | Attività                    | Data                    | Passo                         | km/min                           |
 |:----------------------|:--------------------|:-------------------------|:----------------------------|
 | **sosten.** ---        | **allenam.** ---   | **al km** ---                | **percorsi/totali** ---     |
+| Nuoto                     | 21/08/20              |  –                                |  tuffi tuffi tuffi                  |
 | Corsa*                    | 19/08/20              |  6'51"                         |  7,70 km                         |
 | Nuoto                     | 17/08/20              |  –                                |  120 min.                        |
 | Corsa*                    | 15/08/20              |  6'46"                         |  8,11 km                         |
