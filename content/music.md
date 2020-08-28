@@ -14,6 +14,8 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Vattene amore_ — Mietta & Amedeo Minghi
+* _I Want You Close_ — By The Coast
 * _Never Enough_ — TWO LANES
 * _BACK FOR ME_ — Reece
 * _Be There for You_ — Gavin Haley
@@ -24,16 +26,6 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Falling Asleep at the Weel_ — Holly Humberstone
 * _Say It Again_ — Griff
 * _Lighthouse_ — Georgia Ku
-* _In a Stranger's Arms_ — LÉON
-* _Velvet Hollywood_ — DANIEL SAINT BLACK
-* _Belive_ — Ben & Tim
-* _No One Could Ever Loved Me Like You Do_ — Imaginary Future
-* _Boys Don't Cry_ — Dillistone & ferdinant.
-* _Preach_ — Saint Motel
-* _Heat Up_ — Giant Rooks
-* _Sword from the Stone_ — Passenger
-* _my future_ — Billie Eilish
-* _The Dark_ — SYML
 
 &nbsp;
 
