@@ -10,7 +10,7 @@ description: Allen Frances
 
 &nbsp;
 
-«Stiamo scivolando sempre più verso la medicalizzazione totale della normalità, perdendo di vista le nostre capacità di autoguarigione.￼»
+«Stiamo scivolando sempre più verso la medicalizzazione totale della normalità, perdendo di vista le nostre capacità di autoguarigione.»
 
 &nbsp;
 
@@ -18,7 +18,7 @@ description: Allen Frances
 
 &nbsp;
 
-«Ci siamo dimenticati della saggezza di Ippocrate: "Sapere che tipo di persona ha una determinata malattia conta più di sapere quale tipo di malattia ha quella persona"￼. Ovviamente il metodo migliore consiste nel prestare parecchia attenzione a entrambi gli aspetti.»
+«Ci siamo dimenticati della saggezza di Ippocrate: "Sapere che tipo di persona ha una determinata malattia conta più di sapere quale tipo di malattia ha quella persona". Ovviamente il metodo migliore consiste nel prestare parecchia attenzione a entrambi gli aspetti.»
 
 &nbsp;
 
