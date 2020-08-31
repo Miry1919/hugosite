@@ -62,14 +62,6 @@ Nessun ingegnere informatico avrebbe il coraggio (o la capacità) di creare una 
 
 &nbsp;
 
-Tutto cap. "L'eccesso di farmaci"
-
-&nbsp;
-
-<span style="color:red">✄</span>
-
-&nbsp;
-
 «I farmaci antipsicotici sono troppo pericolosi perché siano presi senza un motivo vero.»
 
 &nbsp;
