@@ -27,13 +27,11 @@ description: Allen Frances
 &nbsp;
 
 «Il corpo è il risultato miracoloso di milioni di compromessi.
-&nbsp;
 
 [...]
 &nbsp;
 
 Il cervello umano è la più grande espressione di omeostasi di questo mondo.
-&nbsp;
 
 [...]
 &nbsp;
