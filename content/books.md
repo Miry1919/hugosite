@@ -4,12 +4,11 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Primo, non curare chi è normale. Contro l'invenzione delle malattie_ — Allen Frances
+* _Wittgenstein. Il dovere del genio_ — Ray Monk
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Wittgenstein. Il dovere del genio_ — Ray Monk
 * _Psicomagia. Una terapia panica_ — Alejandro Jodorowsky
 * _Moby Dick_ — Herman Melville
 
@@ -85,6 +84,7 @@ description: ¶
 * _Come non scrivere: Consigli ed esempi da seguire, trappole e scemenze da evitare quando si scrive in italiano_ — Claudio Giunta ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Un-po-di-brio-nella-conversazione-egmih4)
 * _Ogni cosa al suo posto_ — Oliver Sacks ☞[{Posts}](https://miry1919.github.io/hugosite/post/un-estate-di-follia/)
 * _La solitudine dei numeri primi_ — Paolo Giordano
+* _Primo, non curare chi è normale. Contro l'invenzione delle malattie_ — Allen Frances
 
 &nbsp;
 
