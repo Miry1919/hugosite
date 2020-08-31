@@ -38,7 +38,7 @@ Il cervello umano è la più grande espressione di omeostasi di questo mondo.
 [...]
 &nbsp;
 
-Nessun ingegnere informatico avrebbe il coraggio (o la capacità) di creare una cosa così complessa – troppe cose potrebbero andare storte in corso d'opera. E, senza dubbio, succede che vadano storte. Ma il più delle volte la natura trova un modo di fornire una programmazione e un equilibrio capace di compensare gli squilibri.￼￼»
+Nessun ingegnere informatico avrebbe il coraggio (o la capacità) di creare una cosa così complessa – troppe cose potrebbero andare storte in corso d'opera. E, senza dubbio, succede che vadano storte. Ma il più delle volte la natura trova un modo di fornire una programmazione e un equilibrio capace di compensare gli squilibri.»
 
 &nbsp;
 
