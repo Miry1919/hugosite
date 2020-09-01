@@ -14,6 +14,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _To Be Human_ — Sia (feat. Labrinth)
 * _Vattene amore_ — Mietta & Amedeo Minghi
 * _I Want You Close_ — By The Coast
 * _Never Enough_ — TWO LANES
