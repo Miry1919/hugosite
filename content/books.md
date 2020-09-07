@@ -84,7 +84,7 @@ description: ¶
 * _Come non scrivere: Consigli ed esempi da seguire, trappole e scemenze da evitare quando si scrive in italiano_ — Claudio Giunta ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Un-po-di-brio-nella-conversazione-egmih4)
 * _Ogni cosa al suo posto_ — Oliver Sacks ☞[{Posts}](https://miry1919.github.io/hugosite/post/un-estate-di-follia/)
 * _La solitudine dei numeri primi_ — Paolo Giordano
-* _Primo, non curare chi è normale. Contro l'invenzione delle malattie_ — Allen Frances ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/primo-non-curare-chi-e-normale/)
+* _Primo, non curare chi è normale. Contro l'invenzione delle malattie_ — Allen Frances ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/primo-non-curare-chi-e-normale/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/E-allora-andiamo--partiamo-ej8j9l)
 
 &nbsp;
 

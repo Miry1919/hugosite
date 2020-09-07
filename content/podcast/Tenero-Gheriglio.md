@@ -1,20 +1,11 @@
 ---
 title: Tenero Gheriglio
-date: 2020-07-27
+date: 2020-09-07
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
 </div>
 
-<div align="center">
-<span style="color:red">Tutto il mese di agosto non ci saranno nuove puntate di Tenero Gheriglio. Ci risentiamo di nuovo ogni settimana da lunedì 7 settembre 2020.</span>
-</div>
-
-<div align="center">
-Nel frattempo guarda il mio video su YouTube
-</div>
-<div align="center">☞[Cubo di Rubik 7x7x7 vs Miriana](https://www.youtube.com/watch?v=XomnfZlOJ9Y&feature=youtu.be)</div>
-#### <div align="center"> <span style="color:blue">⚡ New!</span> </div>
 ---
 ---
 
@@ -24,6 +15,14 @@ Ascoltalo:
 * nel tuo podcast player preferito cliccando sui link presenti qui sotto
 
 ---
+---
+
+* Puntata #27 (7•9•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[E allora andiamo, partiamo](https://anchor.fm/miriana-novella7/episodes/E-allora-andiamo--partiamo-ej8j9l)
+    
+    Al rientro dalla pausa estiva parlo del post  ☞["Ho tradito i numeri con le parole"](https://miry1919.github.io/hugosite/post/ho-tradito-i-numeri-con-le-parole/), e dei libri letti ad agosto: "La solitudine dei numeri primi" di Paolo Giordano, "Primo, non curare chi è normale" di Allen Frances.
+
 ---
 
 * Puntata #26 (27•7•2020)
