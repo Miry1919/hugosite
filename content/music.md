@@ -14,19 +14,10 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _With Myself_ — Winona Oak
 * _To Be Human_ — Sia (feat. Labrinth)
 * _Vattene amore_ — Mietta & Amedeo Minghi
 * _I Want You Close_ — By The Coast
-* _Never Enough_ — TWO LANES
-* _BACK FOR ME_ — Reece
-* _Be There for You_ — Gavin Haley
-* _One Night_ — Gunnar Gehl
-* _hurt so bad_ — Cian Ducrot
-* _Who's Laughing Now_ — Ava Max
-* _Down from Here_ — Sloane
-* _Falling Asleep at the Weel_ — Holly Humberstone
-* _Say It Again_ — Griff
-* _Lighthouse_ — Georgia Ku
 
 &nbsp;
 
