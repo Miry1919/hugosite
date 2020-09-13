@@ -14,6 +14,9 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Shame_ — LIE NING
+* _Open Your Heart_ — Birdy
+* _Graffiti_ — Annalisa
 * _With Myself_ — Winona Oak
 * _To Be Human_ — Sia (feat. Labrinth)
 * _Vattene amore_ — Mietta & Amedeo Minghi
