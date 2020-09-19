@@ -52,7 +52,7 @@ Nessun ingegnere informatico avrebbe il coraggio (o la capacità) di creare una 
 
 &nbsp;
 
-«Il 7 per cento degli americani è a tutt'oggi dipendente da un farmaco psicotropo legale. L'abuso di farmaci da prescrizione è diventato un problema più grave del consumo illegale di droga. Non solo le aziende farmaceutiche riescono a scovare tutti i modi possibili e immaginabili di commercializzare nuove diagnosi￼, inducendo la gente a pensare di essere malata, ma lo fanno anche con notevole successo, anche se, a volte, non proprio legalmente. Sembra che i colossi farmaceutici si sentano al di sopra della legge. Quasi tutte le aziende hanno dovuto pagare multe enormi e anche danni penali come risarcimento per le loro strategie di vendita il legali.»
+«Il 7 per cento degli americani è a tutt'oggi dipendente da un farmaco psicotropo legale. L'abuso di farmaci da prescrizione è diventato un problema più grave del consumo illegale di droga. Non solo le aziende farmaceutiche riescono a scovare tutti i modi possibili e immaginabili di commercializzare nuove diagnosi, inducendo la gente a pensare di essere malata, ma lo fanno anche con notevole successo, anche se, a volte, non proprio legalmente. Sembra che i colossi farmaceutici si sentano al di sopra della legge. Quasi tutte le aziende hanno dovuto pagare multe enormi e anche danni penali come risarcimento per le loro strategie di vendita il legali.»
 
 &nbsp;
 
