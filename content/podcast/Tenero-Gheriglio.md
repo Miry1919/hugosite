@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-09-14
+date: 2020-09-21
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #28 (14•9•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #29 (21•9•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Avrò mangiato qualcosa di strano?](https://anchor.fm/miriana-novella7/episodes/Avr-mangiato-qualcosa-di-strano-ejva3m)
+    
+    Nella puntata 29 saliamo in metropolitana, viaggiamo con Mario, reimpariamo a camminare, per poi finire tra iPad, Apple Watch, Raspberry, e tra gli alimenti, scansando la perdita di nutrienti.
+    
+---
+
+* Puntata #28 (14•9•2020)
 
     ☞[Ho fatto windsurf](https://anchor.fm/miriana-novella7/episodes/Ho-fatto-windsurf-ejkdad)
     
