@@ -5,11 +5,11 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Wittgenstein. Il dovere del genio_ — Ray Monk
+* _Leggere, scrivere, argomentare. Prove ragionate di scrittura_ — Luca Serianni
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Leggere, scrivere, argomentare. Prove ragionate di scrittura_ — Luca Serianni
 * _Psicomagia. Una terapia panica_ — Alejandro Jodorowsky
 * _Moby Dick_ — Herman Melville
 
