@@ -22,6 +22,8 @@ Ascoltalo:
     ☞[Grazie all'amore](https://anchor.fm/miriana-novella7/episodes/Grazie-allamore-ek9qnj)
     
     Biografia "Wittgenstein, il dovere del genio" di Ray Monk.
+    
+---
 
 * Puntata #29 (21•9•2020)
 
