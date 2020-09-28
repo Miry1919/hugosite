@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-09-21
+date: 2020-09-28
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,13 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #29 (21•9•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #30 (28•9•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Grazie all'amore](https://anchor.fm/miriana-novella7/episodes/Grazie-allamore-ek9qnj)
+    
+    Biografia "Wittgenstein, il dovere del genio" di Ray Monk.
+
+* Puntata #29 (21•9•2020)
 
     ☞[Avrò mangiato qualcosa di strano?](https://anchor.fm/miriana-novella7/episodes/Avr-mangiato-qualcosa-di-strano-ejva3m)
     
