@@ -4,7 +4,6 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Wittgenstein. Il dovere del genio_ — Ray Monk
 * _Leggere, scrivere, argomentare. Prove ragionate di scrittura_ — Luca Serianni
 
 &nbsp;
@@ -86,7 +85,7 @@ description: ¶
 * _Ogni cosa al suo posto_ — Oliver Sacks ☞[{Posts}](https://miry1919.github.io/hugosite/post/un-estate-di-follia/)
 * _La solitudine dei numeri primi_ — Paolo Giordano
 * _Primo, non curare chi è normale. Contro l'invenzione delle malattie_ — Allen Frances ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/primo-non-curare-chi-e-normale/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/E-allora-andiamo--partiamo-ej8j9l)
-* _Wittgenstein. Il dovere del genio_ — Ray Monk ☞[{Quotes}]() & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Grazie-allamore-ek9qnj)
+* _Wittgenstein. Il dovere del genio_ — Ray Monk ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/wittgenstein/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Grazie-allamore-ek9qnj)
 
 &nbsp;
 
