@@ -34,9 +34,8 @@ Naturalmente Weininger sta parlando dell'amore platonico, anche perché lo ritie
 &nbsp;
 
 Russell consentì a Wittgenstein di abbracciare una simile scelta di vita appunto perché ravvisava in lui le qualità del genio. Fornirà in seguito questa descrizione di Wittgenstein:
-&nbsp;
-￼
-Era, forse, l'esempio più perfetto che io abbia mai conosciuto di un uomo di genio, così come lo si immagina per tradizione: appassionato profondo intenso e dominatore.￼»
+
+Era, forse, l'esempio più perfetto che io abbia mai conosciuto di un uomo di genio, così come lo si immagina per tradizione: appassionato profondo intenso e dominatore.»
 
 &nbsp;
 
