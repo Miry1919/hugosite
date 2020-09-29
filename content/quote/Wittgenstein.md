@@ -44,9 +44,15 @@ Era, forse, l'esempio più perfetto che io abbia mai conosciuto di un uomo di ge
 
 &nbsp;
 
-«A una "serata" in casa Russell, Wittgenstein prese a sostenere che lo studio della matematica affinava il gusto di una persona: "perché il buon gusto è un gusto dotato di sincerità e, pertanto, è favorito da tutto ciò che abitua a pensare in maniera aderente alla verità.”
+«A una "serata" in casa Russell, Wittgenstein prese a sostenere che lo studio della matematica affinava il gusto di una persona: "perché il buon gusto è un gusto dotato di sincerità e, pertanto, è favorito da tutto ciò che abitua a pensare in maniera aderente alla verità.”»
 
-«Questa liberazione, accompagnata dalla bellezza di un paesaggio addirittura ideale per quelle lunghe e solitarie passeggiate di cui aveva bisogno per distendersi e per meditare, suscitarono in lui una specie di euforia. Venne a trovarsi, insomma, in condizioni perfette per pensare, e fu forse l'unico periodo della sua vitain cui non ebbe dubbi sul fatto di trovarsi nel posto giusto a fare ciò che era giusto; tanto che non si può escludere che l'anno trascorso a Skjolden sia stato tra i più produttivi della sua intera vita. Anni dopo guardava a questo periodo come all'unico in cui aveva avuto dei pensieri assolutamente originali, arrivando a "creare nuovi movimenti del pensiero". "All'epoca il mio cervello era infuocato!" soleva ripetere.»
+&nbsp;
+
+<span style="color:red">✄</span>
+
+&nbsp;
+
+«Questa liberazione, accompagnata dalla bellezza di un paesaggio addirittura ideale per quelle lunghe e solitarie passeggiate di cui aveva bisogno per distendersi e per meditare, suscitarono in lui una specie di euforia. Venne a trovarsi, insomma, in condizioni perfette per pensare, e fu forse l'unico periodo della sua vita in cui non ebbe dubbi sul fatto di trovarsi nel posto giusto a fare ciò che era giusto; tanto che non si può escludere che l'anno trascorso a Skjolden sia stato tra i più produttivi della sua intera vita. Anni dopo guardava a questo periodo come all'unico in cui aveva avuto dei pensieri assolutamente originali, arrivando a "creare nuovi movimenti del pensiero". "All'epoca il mio cervello era infuocato!" soleva ripetere.»
 
 &nbsp;
 
