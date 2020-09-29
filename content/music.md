@@ -14,6 +14,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Courage to Change_ — Sia
 * _Who_ — Lxandra
 * _All in All in All_ — Jonas David
 * _Light Of Love_ — Florence + The Machine
