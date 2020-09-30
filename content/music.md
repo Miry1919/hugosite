@@ -10,10 +10,12 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * [2019](https://music.apple.com/it/playlist/my-2019/pl.u-b3b8Re4H0qaz1d)
 * [2020](https://music.apple.com/it/playlist/my-2020/pl.u-LdbqE1vt5e4m0R?l)
 * [Background](https://music.apple.com/it/playlist/background/pl.b05fb95eaae8419b8bc2201594355ee0?l=en)
+* [Her](https://music.apple.com/it/playlist/her/pl.u-Ldbqqeqt5e4m0R)
 
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Salvami_ — Gianna Nannini feat. Giorgia
 * _Courage to Change_ — Sia
 * _Who_ — Lxandra
 * _All in All in All_ — Jonas David
