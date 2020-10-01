@@ -5,12 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Leggere, scrivere, argomentare. Prove ragionate di scrittura_ — Luca Serianni
+* _Moby Dick_ — Herman Melville
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 * _Psicomagia. Una terapia panica_ — Alejandro Jodorowsky
-* _Moby Dick_ — Herman Melville
 
 &nbsp;
 
