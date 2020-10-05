@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-09-28
+date: 2020-10-05
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,19 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #30 (28•9•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #31 (5•10•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Oggi, come promesso, faccio anche il VideoPodcast](https://anchor.fm/miriana-novella7/episodes/Oggi--come-promesso--faccio-anche-il-VideoPodcast-ekirv1)
+    
+    Facciamo 31 con una puntata sia audio che video. {{< youtube nECevBwc1xM >}}
+    
+    Ridiamo insieme chiacchierando dei nuovi libri che ho iniziato a leggere, delle mie nuove scarpe da corsa, dell'abbonamento per la palestra, di Audible (audiolibri) e del Presidente della Repubblica.
+
+    Anna Marchesini (Il Trio) ☞["Il TG"](https://youtu.be/rTFNSaBQ7BM)
+    
+---
+
+* Puntata #30 (28•9•2020)
 
     ☞[Grazie all'amore](https://anchor.fm/miriana-novella7/episodes/Grazie-allamore-ek9qnj)
     
