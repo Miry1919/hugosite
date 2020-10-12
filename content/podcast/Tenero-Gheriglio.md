@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-10-05
+date: 2020-10-12
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,22 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #31 (5•10•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #32 (12•10•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Nella dolcezza più assoluta](https://anchor.fm/miriana-novella7/episodes/Nella-dolcezza-pi-assoluta-ekuo6n)
+    
+    Il Festival del Podcasting 2020 è stato fantastico, ve lo racconto. Meteo(rologia) dopo la sigla.
+
+    → https://festivaldelpodcasting.it
+
+    → [Andrea Ciraolo](https://m.youtube.com/channel/UCANtyg_73WZaOaQ5sCHOoLg)
+    → [Rossella Pivanti](https://rossellapivanti.it)
+    
+    Il video dell'intervento. {{< youtube tk8MKOHrULo >}}
+    
+---
+
+* Puntata #31 (5•10•2020)
 
     ☞[Oggi, come promesso, faccio anche il VideoPodcast](https://anchor.fm/miriana-novella7/episodes/Oggi--come-promesso--faccio-anche-il-VideoPodcast-ekirv1)
     
