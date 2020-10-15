@@ -72,7 +72,7 @@ Ascoltalo:
 
 * Puntata #27 (7•9•2020) 
 
-    ☞[E allora andiamo, partiamo](https://anchor.fm/miriana-novella7/episodes/E-allora-andiamo--partiamo-ej8j9l)
+    ☞["E allora andiamo, partiamo"](https://anchor.fm/miriana-novella7/episodes/E-allora-andiamo--partiamo-ej8j9l)
     
     Al rientro dalla pausa estiva parlo del post  ☞["Ho tradito i numeri con le parole"](https://miry1919.github.io/hugosite/post/ho-tradito-i-numeri-con-le-parole/), e dei libri letti ad agosto: "La solitudine dei numeri primi" di Paolo Giordano, "Primo, non curare chi è normale" di Allen Frances.
 
