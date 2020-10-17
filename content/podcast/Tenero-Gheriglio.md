@@ -90,7 +90,7 @@ Ascoltalo:
 
     ☞[Se ci si impegna si può fare, ma si può fare solo se ci si impegna](https://anchor.fm/miriana-novella7/episodes/Se-ci-si-impegna-si-pu-fare--ma-si-pu-fare-solo-se-ci-si-impegna-egvqup)
 
-    Saper scrivere bene serve? E la calligrafia ci rappresenta? Nella puntata 25 capiamo se saper scrivere è un'abilità importante, e se tramite la grafologia è possibile studiare e capire la personalità di una persona. Poi, passando attraverso altre curiosità, arriviamo a parlare del post ["Un'estate di follia"](https://miry1919.github.io/hugosite/post/un-estate-di-follia/) ☜
+    Saper scrivere bene serve? E la calligrafia ci rappresenta? Nella puntata 25 capiamo se saper scrivere è un'abilità importante, e se tramite la grafologia è possibile studiare e capire la personalità di una persona. Poi, passando attraverso altre curiosità, arriviamo a parlare del post ☞["Un'estate di follia"](https://miry1919.github.io/hugosite/post/un-estate-di-follia/)
 
 ---
 
