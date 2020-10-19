@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-10-12
+date: 2020-10-19
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #32 (12•10•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #33 (19•10•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Dica trentatré](https://anchor.fm/miriana-novella7/episodes/Dica-trentatr-el9f37)
+    
+    Nella 33ª puntata parlo di HomePod "grandi" e mini, per poi riagganciarmi meteorologicamente al finale della 32ª puntata.
+    
+---
+
+* Puntata #32 (12•10•2020)
 
     ☞[Nella dolcezza più assoluta](https://anchor.fm/miriana-novella7/episodes/Nella-dolcezza-pi-assoluta-ekuo6n)
     
