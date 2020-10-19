@@ -23,6 +23,14 @@ Ascoltalo:
     
     Nella 33ª puntata parlo di HomePod "grandi" e mini, per poi riagganciarmi meteorologicamente al finale della 32ª puntata.
     
+    * Puntata #34 (19•10•2020) <span style="color:blue">BONUS</span>
+    
+    ☞[Tania Cagnotto e Francesca Dallapè, intervista al Politecnico di Milano]()
+    
+    Sabato 17/10/2020 ho avuto il piacere di vedere Tania Cagnotto e Francesca Dallapè, intervistate da RDS in piazza Leonardo da Vinci (Milano).
+
+    Ho girato anche il video, lo trovi ☞[qui](https://youtu.be/xvEy4WBXzkU)
+    
 ---
 
 * Puntata #32 (12•10•2020)
