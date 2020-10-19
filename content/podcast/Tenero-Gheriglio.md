@@ -25,7 +25,7 @@ Ascoltalo:
     
     * Puntata #34 (19•10•2020) <span style="color:blue">BONUS</span>
     
-    ☞[Tania Cagnotto e Francesca Dallapè, intervista al Politecnico di Milano]()
+    ☞[Tania Cagnotto e Francesca Dallapè, intervista al Politecnico di Milano](https://anchor.fm/miriana-novella7/episodes/Tania-Cagnotto-e-Francesca-Dallap--intervista-al-Politecnico-di-Milano-el8t3o)
     
     Sabato 17/10/2020 ho avuto il piacere di vedere Tania Cagnotto e Francesca Dallapè, intervistate da RDS in piazza Leonardo da Vinci (Milano).
 
