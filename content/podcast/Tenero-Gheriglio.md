@@ -23,7 +23,7 @@ Ascoltalo:
     
     Nella 33ª puntata parlo di HomePod "grandi" e mini, per poi riagganciarmi meteorologicamente al finale della 32ª puntata.
     
-    * Puntata #34 (19•10•2020) <span style="color:blue">BONUS</span>
+* Puntata #34 (19•10•2020) <span style="color:blue">BONUS</span>
     
     ☞[Tania Cagnotto e Francesca Dallapè, intervista al Politecnico di Milano](https://anchor.fm/miriana-novella7/episodes/Tania-Cagnotto-e-Francesca-Dallap--intervista-al-Politecnico-di-Milano-el8t3o)
     
