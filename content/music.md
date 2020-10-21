@@ -15,6 +15,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _L'Amour Toujours_ — Sagi Rei
 * _Hypnotized_ — Purple Disco Machine & Sophie and the Giants
 * _Contatto_ — Negramaro
 * _Piano In The Sky_ — Winona Oak
