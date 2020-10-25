@@ -15,6 +15,8 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _High Hopes_ — Panic! At the Disco
+* _Let Me Love You Like a Woman_ — Lana del Rey
 * _L'Amour Toujours_ — Sagi Rei
 * _Hypnotized_ — Purple Disco Machine & Sophie and the Giants
 * _Contatto_ — Negramaro
