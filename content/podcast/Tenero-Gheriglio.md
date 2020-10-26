@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-10-19
+date: 2020-10-26
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,18 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #33 (19•10•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #35 (26•10•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Dovevo infilare il MacBook da qualche parte](https://anchor.fm/miriana-novella7/episodes/Dovevo-infilare-il-MacBook-da-qualche-parte-eljnro)
+    
+    Oggi trentacinquesima puntata, forse poco tecnica ma amichevole, in cui parlo di corse, libri, cuginanza, audiolibri, produttività, monitor, scrivanie, postazioni, ergonomia, sedie, code.
+
+    → Bullet Journal: https://gettingthingsdone.com
+    → GTD: https://gettingthingsdone.com
+    
+---
+
+* Puntata #33 (19•10•2020)
 
     ☞[Dica trentatré](https://anchor.fm/miriana-novella7/episodes/Dica-trentatr-el9f37)
     
