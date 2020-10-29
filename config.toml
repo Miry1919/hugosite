@@ -46,16 +46,21 @@ theme = "minimal"
     weight = 7
     
 [[menu.main]]
-url = "/sf/"
-name = "S & F"
-weight = 8
+    url = "/sf/"
+    name = "S & F"
+    weight = 8
 
 [[menu.icon]]
-url = "https://t.me/miry1919"
-name = "telegram"
-weight = 1
+    url = "https://www.instagram.com/miry_geek/"
+    name = "instagram"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://t.me/miry1919"
+    name = "telegram"
+    weight = 2
 
 [[menu.icon]]
     url = "https://twitter.com/Miry1919/"
     name = "twitter"
-    weight = 2
+    weight = 3
