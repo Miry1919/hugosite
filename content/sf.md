@@ -76,8 +76,8 @@ Corsa* <span style="text-decoration:underline">sta per</span> Corsa e Camminata
 
 #### <span style="color:red">Attività attuali</span>
 * _Corsa_
-* _Nuoto_
 * _Palestra_ <span style="color:red">all'aperto per coronavirus</span>
+* _Nuoto_ <span style="color:red">in pausa per coronavirus</span>
 
 &nbsp;
 
