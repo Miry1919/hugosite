@@ -5,11 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Moby Dick_ — Herman Melville
+* _Psicomagia. Una terapia panica_ — Alejandro Jodorowsky
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Psicomagia. Una terapia panica_ — Alejandro Jodorowsky
+Ci sto pensando.
 
 &nbsp;
 

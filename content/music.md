@@ -15,6 +15,8 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Just Asking_ — Aquilo
+* _Share That Love_ — Lukas Graham feat. G-Eazy
 * _High Hopes_ — Panic! At the Disco
 * _Let Me Love You Like a Woman_ — Lana Del Rey
 * _L'Amour Toujours_ — Sagi Rei
