@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-10-26
+date: 2020-11-02
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,8 +17,19 @@ Ascoltalo:
 ---
 ---
 
+* Puntata #36 (2•11•2020) <span style="color:blue">⚡ New!</span>
 
-* Puntata #35 (26•10•2020) <span style="color:blue">⚡ New!</span>
+    ☞["Molto spesso sono tecnica, però sono tanto eclettica"](https://anchor.fm/miriana-novella7/episodes/Molto-spesso-sono-tecnica--per-sono-tanto-eclettica-elu0ml)
+    
+    Nella puntata 36 parlo di scarpe e ciabatte, della "manovra" (bracing sequence) per riassestare la spina dorsale, di Leonardo da Vinci, di notifiche, di chat di gruppo; e in fondo il nuovo libro psicomagico per novembre.
+
+    → Fu**ing Genius pt. 6 (Leonardo da Vinci): https://storielibere.fm/fottuti-geni-leonardo-da-vinci/
+
+    Questo è il mio profilo Instagram: https://www.instagram.com/miry_geek/
+    
+---
+
+* Puntata #35 (26•10•2020)
 
     ☞[Dovevo infilare il MacBook da qualche parte](https://anchor.fm/miriana-novella7/episodes/Dovevo-infilare-il-MacBook-da-qualche-parte-eljnro)
     
