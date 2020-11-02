@@ -25,7 +25,7 @@ Ascoltalo:
 
     → Fu**ing Genius pt. 6 (Leonardo da Vinci): https://storielibere.fm/fottuti-geni-leonardo-da-vinci/
 
-    Questo è il mio profilo Instagram: https://www.instagram.com/miry_geek/
+    Questo è il mio profilo Instagram [@miry_geek](https://www.instagram.com/miry_geek/)
     
 ---
 
