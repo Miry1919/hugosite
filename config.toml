@@ -47,7 +47,7 @@ theme = "minimal"
     
 [[menu.main]]
     url = "/sf/"
-    name = "S & F"
+    name = "S&F"
     weight = 8
 
 [[menu.icon]]
