@@ -15,17 +15,21 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _You_ — Shoffy
+* _Paul's Boutique_ — Bluephox
+* _Down The Line_ — Amy Lilley
+* _I Know_ — Alessiah
+* _Can't Sleep_ — Kathleen
+* _Alive_ — NEEDTOBREATHE
+* _Venice_ — ohFrank
+* _Resilient_ — Katy Perry
+* _Silence_ — Giant Rooks
+* _One Piece_ — Gunnar Gehl
+* _If This Is It Now_ — Birdy
 * _Just Asking_ — Aquilo
 * _Share That Love_ — Lukas Graham feat. G-Eazy
 * _High Hopes_ — Panic! At the Disco
 * _Let Me Love You Like a Woman_ — Lana Del Rey
-* _L'Amour Toujours_ — Sagi Rei
-* _Hypnotized_ — Purple Disco Machine & Sophie and the Giants
-* _Contatto_ — Negramaro
-* _Piano In The Sky_ — Winona Oak
-* _Better Days_ — OneRepublic
-* _Salvami_ — Gianna Nannini feat. Giorgia
-* _Courage to Change_ — Sia
 
 &nbsp;
 
