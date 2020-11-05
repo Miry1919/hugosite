@@ -4,5 +4,10 @@ date: 2020-11-05
 ---
 
 <div align="center">
-È il podcast che uscirà a gennaio 2021. <span style="color:red">TRAILER</span> in arrivo il giorno di Natale (2020).
+È il podcast che uscirà a gennaio 2021. <span style="color:red">TRAILER</span> in arrivo il giorno di Natale.
+</div>
+
+
+<div align="center">
+Trovi la copertina [qui](https://www.instagram.com/p/CHNSRe7DOAg/).
 </div>
