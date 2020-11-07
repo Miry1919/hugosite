@@ -3,7 +3,7 @@ title: "Mi manchi enormemente e ti penso sempre"
 date: 2020-11-07
 ---
 
-Ne ho già parlato nella trentesima puntata <span style="color:red">"</span><span style="text-decoration:underline">[Grazie all'amore](https://anchor.fm/miriana-novella7/episodes/Grazie-allamore-ek9qnj)</span><span style="color:red">” </span> di Tenero Gheriglio, e l'ho riportato in alcune citazioni <span style="text-decoration:underline">[qui](https://miry1919.github.io/hugosite/quote/wittgenstein/)</span>. Ma dell'amore raccontato nella biografia di Ludwig Wittgenstein ho ancora alcuni passaggi meravigliosi da trascrivere.
+Ne ho già parlato nella trentesima puntata <span style="color:red">"</span><span style="text-decoration:underline">[Grazie all'amore](https://anchor.fm/miriana-novella7/episodes/Grazie-allamore-ek9qnj)</span><span style="color:red">” </span> di Tenero Gheriglio, e l'ho riportato in alcune citazioni <span style="text-decoration:underline">[qui](https://miry1919.github.io/hugosite/quote/wittgenstein/)</span>. Ma dell'amore raccontato nella biografia di Ludwig Wittgenstein scritta da Ray Monk ho ancora alcuni passaggi meravigliosi da trascrivere.
 
  Vi avevo già nominato Francis (Skinner) e Ben (Richards); trovo magnifiche le loro relazioni con Wittgenstein, non senza difetti, ma deliziose.
  
@@ -11,11 +11,11 @@ Ne ho già parlato nella trentesima puntata <span style="color:red">"</span><spa
  
  <span style="text-decoration:underline">Partirei con Francis Skinner.</span>
 
-(Purtroppo si sa che Wittgenstain si è disfatto di tutte le sue lettere indirizzate a Francis, ma abbiamo quelle di Francis e alcuni pensieri dal diario di Ludwig.)
+(Purtroppo si sa che Wittgenstein si è disfatto di tutte le sue lettere indirizzate a Francis, ma abbiamo quelle di Francis e alcuni pensieri dal diario di Ludwig.)
  
  &nbsp;
  
-Durante le vacanze natalizie del 1933 Skinner scrisse a Wittgenstain quasi tutti i giorni per dirgli quanto gli mancasse, quanto spesso lo pensasse e quanto ardesse dal desiderio di rivederlo. Ricordava inoltre con emozione gli ultimi momenti trascorsi assieme:
+Durante le vacanze natalizie del 1933 Skinner scrisse a Wittgenstein quasi tutti i giorni per dirgli quanto gli mancasse, quanto spesso lo pensasse e quanto ardesse dal desiderio di rivederlo. Ricordava inoltre con emozione gli ultimi momenti trascorsi assieme:
  
 Appena finito di agitare il mio fazzoletto per salutarti sono andato a fare una passeggiata per Folkstone e ho preso il treno delle 8.28 per rientrare a Londra. Ho pensato a te e a com'era stato meraviglioso quando ci siamo detti arrivederci. [...] Mi ha fatto molto piacere venirti a salutare al treno. Mi manchi enormemente e ti penso sempre.
 
