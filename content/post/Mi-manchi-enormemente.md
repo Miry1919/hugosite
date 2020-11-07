@@ -59,7 +59,7 @@ Penso molto a Francis ma sempre con rimorso per la mia mancanza d'amore; non con
 <span style="text-decoration:underline">Concluderei con Ben Richards.</span>
 
 
-Anche in amore, nonostante il grande bisogno che ne aveva, si sentì spesso incapace, timoroso. Timoroso, naturalmente, della perdita; sin troppo consapevole della caducità; impaurito dall'incertezza. Nel 1946 s'innamorò di Ben Richards, studente di medicina a Cambridge; e forse fu anche un sollievo constatare che, dopo tutto, era ancora capace d'amare. Ben Richards possedeva le qualità che intenerivano il cuore di Wittgenstein: incredibilmente mite, un po' mite, forse sottomesso, ma anche estremamente gentile, rispettoso dell'altro, sensibile.
+Anche in amore, nonostante il grande bisogno che ne aveva, si sentì spesso incapace, timoroso. Timoroso, naturalmente, della perdita; sin troppo consapevole della caducità; impaurito dall'incertezza. Nel 1946 s'innamorò di Ben Richards, studente di medicina a Cambridge; e forse fu anche un sollievo constatare che, dopo tutto, era ancora capace d'amare. Ben Richards possedeva le qualità che intenerivano il cuore di Wittgenstein: incredibilmente mite, un po' timido, forse sottomesso, ma anche estremamente gentile, rispettoso dell'altro, sensibile.
 Nella disperazione del mondo postbellico trovò motivo di consolazione nell'amore per Ben; anche se, nell'immediato, sembrò suscitargli solo maggiori preoccupazioni. Scriveva l'8 agosto 1946:
 
 Sono molto triste, molto spesso triste. Mi sento come se adesso fosse la fine della mia vita. [...] L'_unica cosa_ che l'amore per B. mi ha fatto è questa: ha cacciato nel retroscena le restanti piccole preoccupazioni relative alla mia posizione e al mio lavoro.
