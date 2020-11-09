@@ -24,8 +24,12 @@ Ascoltalo:
     Nella trentasettesima puntata parliamo di persone "multipotenziali", di solitudine, di pause e spazi, per poi finire tra Raspberry Pi 400, iPhone 12, 12 mini, Pro, Pro Max.
     
     Ho scritto ☞[questo](https://miry1919.github.io/hugosite/post/mi-manchi-enormemente/) nuovo post, ne riparlerò più avanti.
+    
+    &nbsp;
 
-    Questo è il mio nuovo podcast ☞[Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/)
+    Questo è il mio nuovo podcast
+    
+    ☞[Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/)
     
 ---
 
