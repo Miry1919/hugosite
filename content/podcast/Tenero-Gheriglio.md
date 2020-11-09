@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-11-02
+date: 2020-11-09
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,19 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #36 (2•11•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #37 (9•11•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Una hacker russa che cammina tra le case](https://anchor.fm/miriana-novella7/episodes/Una-hacker-russa-che-cammina-tra-le-case-em865q)
+    
+    Nella trentasettesima puntata parliamo di persone "multipotenziali", di solitudine, di pause e spazi, per poi finire tra Raspberry Pi 400, iPhone 12, 12 mini, Pro, Pro Max.
+    
+    Ho scritto ☞[questo](https://miry1919.github.io/hugosite/post/mi-manchi-enormemente/) nuovo post, ne riparlerò più avanti.
+
+    Questo è il mio nuovo podcast ☞[Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/)
+    
+---
+
+* Puntata #36 (2•11•2020)
 
     ☞["Molto spesso sono tecnica, però sono tanto eclettica"](https://anchor.fm/miriana-novella7/episodes/Molto-spesso-sono-tecnica--per-sono-tanto-eclettica-elu0ml)
     
