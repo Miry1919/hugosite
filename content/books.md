@@ -10,7 +10,7 @@ description: ¶
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-Ci sto pensando.
+* _Fame_ — Knut Hamsun
 
 &nbsp;
 
