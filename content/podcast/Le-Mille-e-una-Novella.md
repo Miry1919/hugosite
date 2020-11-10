@@ -9,3 +9,5 @@ date: 2020-11-05
 ---
 
 Trovi la copertina [qui](https://www.instagram.com/p/CHNSRe7DOAg/).
+
+Uscirà su [Spreaker](https://www.spreaker.com/user/13456442).
