@@ -15,6 +15,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Snowman_ — Sia
 * _You_ — Shoffy
 * _Paul's Boutique_ — Bluephox
 * _Down The Line_ — Amy Lilley
