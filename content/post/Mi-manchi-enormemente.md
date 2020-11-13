@@ -38,7 +38,7 @@ Francis non aveva una concezione weiningeriana dell'amore; non credeva che l'amo
 
 &nbsp;
 
-Fu nel corso di una di queste visite che Wittgenstein si recò da Kirk in preda a grandissimo turbamento per comunicargli che Francis era stato colpito da poliomelite e ricoverato in ospedale. Pochi giorni dopo, l'11 ottobre, Francis morì.
+[...] Fu nel corso di una di queste visite che Wittgenstein si recò da Kirk in preda a grandissimo turbamento per comunicargli che Francis era stato colpito da poliomelite e ricoverato in ospedale. Pochi giorni dopo, l'11 ottobre, Francis morì.
 In un primo momento Wittgenstein mantenne un atteggiamento molto controllato. Nelle lettere agli amici per informarli della morte di Skinner, il tono è molto composto. Scrive per esempio a Hutt:
 
 Caro Ro[w]land,
