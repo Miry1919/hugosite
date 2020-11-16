@@ -15,6 +15,8 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Running Around_ — j ember
+* _If I Go_ — Blakey
 * _Snowman_ — Sia
 * _You_ — Shoffy
 * _Paul's Boutique_ — Bluephox
