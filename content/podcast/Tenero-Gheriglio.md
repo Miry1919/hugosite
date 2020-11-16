@@ -23,7 +23,7 @@ Ascoltalo:
     
     Puntata 38. Niente VideoPodcast, sarà per la prossima volta, ma: sole che scalda le membra e l'anima, filosofie di vita, mondo esterno e mondo interno, il corpo come casa; iPhone, non in tasca, non nella fascia da braccio; HomePod mini, HomePod collegati e non collegati al Mac, macOS 11, Apple Silicon M1.
     
-* Puntata #39 (26•10•2020) <span style="color:blue">BONUS</span>
+* Puntata #39 (16•11•2020) <span style="color:blue">BONUS</span>
     
     ☞[Mi manchi enormemente e ti penso sempre]()
     
