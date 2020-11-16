@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-11-09
+date: 2020-11-16
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,21 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #37 (9•11•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #38 (16•11•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Può succedere di tutto fuori, ma io dentro sto bene](https://anchor.fm/miriana-novella7/episodes/Pu-succedere-di-tutto-fuori--ma-io-dentro-sto-bene-emi7a0)
+    
+    Puntata 38. Niente VideoPodcast, sarà per la prossima volta, ma: sole che scalda le membra e l'anima, filosofie di vita, mondo esterno e mondo interno, il corpo come casa; iPhone, non in tasca, non nella fascia da braccio; HomePod mini, HomePod collegati e non collegati al Mac, macOS 11, Apple Silicon M1.
+    
+* Puntata #39 (26•10•2020) <span style="color:blue">BONUS</span>
+    
+    ☞[Mi manchi enormemente e ti penso sempre]()
+    
+    Lettura del post ☞["Mi manchi enormemente e ti penso sempre"](https://miry1919.github.io/hugosite/post/mi-manchi-enormemente/)
+    
+---
+
+* Puntata #37 (9•11•2020)
 
     ☞[Una hacker russa che cammina tra le case](https://anchor.fm/miriana-novella7/episodes/Una-hacker-russa-che-cammina-tra-le-case-em865q)
     
