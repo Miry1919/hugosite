@@ -25,7 +25,7 @@ Ascoltalo:
     
 * Puntata #39 (16•11•2020) <span style="color:blue">BONUS</span>
     
-    ☞[Mi manchi enormemente e ti penso sempre]()
+    ☞[Mi manchi enormemente e ti penso sempre](https://anchor.fm/miriana-novella7/episodes/Mi-manchi-enormemente-e-ti-penso-sempre-emi9mo)
     
     Lettura del post ☞["Mi manchi enormemente e ti penso sempre"](https://miry1919.github.io/hugosite/post/mi-manchi-enormemente/)
     
