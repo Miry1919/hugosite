@@ -2,5 +2,5 @@
 title: Home
 ---
 ---
-#### <p style="text-align: center;">Welcome to hello website.</p>
-#### <p style="text-align: center;">Made with love in Milan, Italy.</p>
+#### <p style="text-align: center;">One year has passed.</p>
+#### <p style="text-align: center;">Happy birthday to me!</p>
