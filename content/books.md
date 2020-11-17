@@ -11,6 +11,12 @@ description: ¶
 
 #### <span style="color:red">Leggerò a breve</span>
 * _Fame_ — Knut Hamsun
+* _Madame Bovary_ — Gustave Flaubert
+* _I nostri antenati: Il visconte dimezzato - Il barone rampante - Il cavaliere inesistente_ — Italo Calvino
+* _Il tunnel_ — Ernesto Sabato
+* _Germinale_ — Émile Zola
+* _Il profumo_ — Patrick Süskind
+* _Il codice dell'anima. Carattere, vocazione, destino_ — James Hillman
 
 &nbsp;
 
