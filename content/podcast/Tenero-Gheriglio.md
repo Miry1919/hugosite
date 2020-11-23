@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-11-16
+date: 2020-11-23
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,21 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #38 (16•11•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #40 (23•11•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Nørvegese, Knt Hamsn](https://anchor.fm/miriana-novella7/episodes/Nrvegese--Knt-Hamsn-ems62b)
+    
+    [È domenica*** 22 novembre]
+
+    Descrizione non pervenuta.
+    Ascoltare per capire.
+    O vedere.
+
+{{< youtube MOwWDPTt7rk >}}
+    
+---
+
+* Puntata #38 (16•11•2020)
 
     ☞[Può succedere di tutto fuori, ma io dentro sto bene](https://anchor.fm/miriana-novella7/episodes/Pu-succedere-di-tutto-fuori--ma-io-dentro-sto-bene-emi7a0)
     
