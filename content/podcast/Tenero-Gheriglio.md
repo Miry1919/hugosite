@@ -27,7 +27,7 @@ Ascoltalo:
     Ascoltare per capire.
     O vedere.
 
-{{< youtube MOwWDPTt7rk >}}
+    {{< youtube MOwWDPTt7rk >}}
     
 ---
 
