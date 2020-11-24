@@ -22,7 +22,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _Lose My Way_ — Ane Brun & Dustin O'Halloran
 * _Hold On_ — Yola & The Highwomen
 * _Other Senses_ — Jenessa Andrea & Glasstempo
-* _Rich Kids_— FLØRE & Novaa
+* _Rich Kids_ — FLØRE & Novaa
 * _If I Ever Wanted_ — Myya's Diary & Snowd4y
 * _Don't Change You_ — Rock Mafia & Riz Khalifa
 * _She's Not You_ — Addict. & ZC3
