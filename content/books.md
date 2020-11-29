@@ -92,7 +92,7 @@ description: ¶
 * _Primo, non curare chi è normale. Contro l'invenzione delle malattie_ — Allen Frances ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/primo-non-curare-chi-e-normale/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/E-allora-andiamo--partiamo-ej8j9l)
 * _Wittgenstein. Il dovere del genio_ — Ray Monk ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/wittgenstein/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Grazie-allamore-ek9qnj)
 * _Leggere, scrivere, argomentare. Prove ragionate di scrittura_ — Luca Serianni
-* _Psicomagia. Una terapia panica_ — Alejandro Jodorowsky
+* _Psicomagia. Una terapia panica_ — Alejandro Jodorowsky ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/psicomagia/)
 
 &nbsp;
 
