@@ -80,4 +80,20 @@ Questo atteggiamento non impedisce che continui a lavorare su di me per poter di
 
 &nbsp;
 
+«Io chiamo l'immaginazione creatività. La base della vita. Se soffriamo è per mancanza di immaginazione, per mancanza di creatività.»
+
+&nbsp;
+
+<span style="color:red">✄</span>
+
+&nbsp;
+
+«Uno dei grandi problemi della creatività è la morale. Per sviluppare l'immaginazione, è necessario essere amorali. La morale incatena l'immaginario. Bisogna essere coraggiosi e prescindere da questo strumento.»
+
+&nbsp;
+
+<span style="color:red">✄</span>
+
+&nbsp;
+
 «Se non si persevera, non si è creatori. La creazione è, prima di tutto, volontà. La nostra azione creativa è un accumularsi di forza e di pazienza.»
