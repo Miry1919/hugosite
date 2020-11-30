@@ -4,12 +4,11 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Moby Dick_ — Herman Melville
+* _Fame_ — Knut Hamsun
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Fame_ — Knut Hamsun
 * _Madame Bovary_ — Gustave Flaubert
 * _I nostri antenati: Il visconte dimezzato - Il barone rampante - Il cavaliere inesistente_ — Italo Calvino
 * _Il tunnel_ — Ernesto Sabato
@@ -92,7 +91,7 @@ description: ¶
 * _Primo, non curare chi è normale. Contro l'invenzione delle malattie_ — Allen Frances ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/primo-non-curare-chi-e-normale/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/E-allora-andiamo--partiamo-ej8j9l)
 * _Wittgenstein. Il dovere del genio_ — Ray Monk ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/wittgenstein/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Grazie-allamore-ek9qnj)
 * _Leggere, scrivere, argomentare. Prove ragionate di scrittura_ — Luca Serianni
-* _Psicomagia. Una terapia panica_ — Alejandro Jodorowsky ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/psicomagia/)
+* _Psicomagia. Una terapia panica_ — Alejandro Jodorowsky ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/psicomagia/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Siamo-uniti-da-fili-segreti-en5o53)
 
 &nbsp;
 
@@ -101,6 +100,7 @@ description: ¶
 * _Rebel Code: Linux and the Open Source Revolution_ — Glyn Moody
 * _On the Plurality of Worlds_ — David Kellogg Lewis
 * _Voglio correre. Allenamento e alimentazione: come diventare più veloci, più resistenti, più magri_ — Enrico Arcelli
+* _Moby Dick_ — Herman Melville
 
 &nbsp;
 
