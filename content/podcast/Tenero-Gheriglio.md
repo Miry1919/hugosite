@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-11-23
+date: 2020-11-30
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #40 (23•11•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #41 (30•11•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Siamo uniti da fili segreti](https://anchor.fm/miriana-novella7/episodes/Siamo-uniti-da-fili-segreti-en5o53)
+
+    Libro "Psicomagia, una terapia panica" di Alejandro Jodorowsky.
+    
+---
+
+* Puntata #40 (23•11•2020)
 
     ☞[Nørvegese, Knt Hamsn](https://anchor.fm/miriana-novella7/episodes/Nrvegese--Knt-Hamsn-ems62b)
     

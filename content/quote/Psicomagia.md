@@ -34,7 +34,7 @@ description: Alejandro Jodorowsky
 
 &nbsp;
 
-«Se la finalità delle arti è creare opere, la finalità del teatro è cambiare direttamente le persone: se il teatro non è una scienza della vita, non può essere un'arte.»
+«Se la finalità delle altre arti è creare opere, la finalità del teatro è cambiare direttamente le persone: se il teatro non è una scienza della vita, non può essere un'arte.»
 
 &nbsp;
 
