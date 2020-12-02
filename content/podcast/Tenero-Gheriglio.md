@@ -23,7 +23,7 @@ Ascoltalo:
 
     Libro "Psicomagia, una terapia panica" di Alejandro Jodorowsky.
     
-    Un'estratto [qui](https://www.instagram.com/tv/CIS49oXDsbA/?igshid=18krvptwgy7oo).
+    Un estratto [qui](https://www.instagram.com/tv/CIS49oXDsbA/?igshid=18krvptwgy7oo).
     
 ---
 
