@@ -19,9 +19,11 @@ Ascoltalo:
 
 * Puntata #41 (30•11•2020) <span style="color:blue">⚡ New!</span>
 
-    ☞[Siamo uniti da fili segreti](https://anchor.fm/miriana-novella7/episodes/Siamo-uniti-da-fili-segreti-en5o53)
+    ☞[Siamo uniti da fili segreti (invisibili)](https://anchor.fm/miriana-novella7/episodes/Siamo-uniti-da-fili-segreti-en5o53)
 
     Libro "Psicomagia, una terapia panica" di Alejandro Jodorowsky.
+    
+    Un'estratto [qui](https://www.instagram.com/tv/CIS49oXDsbA/?igshid=18krvptwgy7oo).
     
 ---
 
