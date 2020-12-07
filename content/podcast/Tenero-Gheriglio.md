@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-11-30
+date: 2020-12-07
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,15 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #41 (30•11•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #42 (7•12•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[La risposta a tutto è un'altra](https://anchor.fm/miriana-novella7/episodes/La-risposta-a-tutto--unaltra-eng0if)
+
+    Puntata quarantadue (festiva) di Sant'Ambrogio. Sciate, domande, risposte, codici, asterischi (*), grafici, consapevolezze brutte, belle, medie: insomma il solito mix Tenero Gherigliano.
+    
+---
+
+* Puntata #41 (30•11•2020)
 
     ☞[Siamo uniti da fili segreti (invisibili)](https://anchor.fm/miriana-novella7/episodes/Siamo-uniti-da-fili-segreti-en5o53)
 
