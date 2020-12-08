@@ -4,7 +4,8 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Fame_ — Knut Hamsun
+Niente fino a gennaio.
+Sto preparando il nuovo podcast "Le Mille e una Novella".
 
 &nbsp;
 
@@ -92,6 +93,7 @@ description: ¶
 * _Wittgenstein. Il dovere del genio_ — Ray Monk ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/wittgenstein/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Grazie-allamore-ek9qnj)
 * _Leggere, scrivere, argomentare. Prove ragionate di scrittura_ — Luca Serianni
 * _Psicomagia. Una terapia panica_ — Alejandro Jodorowsky ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/psicomagia/) & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Siamo-uniti-da-fili-segreti-en5o53)
+* _Fame_ — Knut Hamsun
 
 &nbsp;
 
