@@ -6,7 +6,7 @@ description: ¶
 #### <span style="color:red">Sto leggendo</span>
 Niente fino a gennaio.
 
-Sto preparando il [nuovo podcast](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/).
+Sto preparando il <span style="text-decoration:underline">[nuovo podcast](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/)</span>.
 
 &nbsp;
 
