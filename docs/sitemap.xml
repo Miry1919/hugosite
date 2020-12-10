@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://miry1919.github.io/hugosite/post/5-punti-per-il-2021/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://miry1919.github.io/hugosite/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://miry1919.github.io/hugosite/post/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,11 +29,6 @@
   
   <url>
     <loc>https://miry1919.github.io/hugosite/post/mi-manchi-enormemente/</loc>
-    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://miry1919.github.io/hugosite/post/</loc>
     <lastmod>2020-11-07T00:00:00+00:00</lastmod>
   </url>
   
