@@ -1,9 +1,8 @@
 ---
 title: "5 punti per il 2021"
 date: 2021-01-01
-draft: true
 ---
-4 punti per il 2020:
+5 punti per il 2020:
 &nbsp;
 
 * conquistare quello che nel 2020 non ho conquistato
