@@ -15,6 +15,8 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _VENT'ANNI_ — Måneskin
+* _Give 'Em the Love_ J+1 feat. Dr Disrespect & Halifax
 * _Love You Better_ — Victoria Voss, BUSTGAARD & Marcus Hägg
 * _Like a Prayer_ — Galwaro, LIZOT & Gabry Ponte
 * _Lasting Lover_ — Sigala & James Arthur
