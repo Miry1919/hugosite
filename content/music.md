@@ -15,27 +15,8 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
-* _VENT'ANNI_ — Måneskin
+* _VENT 'ANNI_ — Måneskin
 * _Give 'Em the Love_ J+1 feat. Dr Disrespect & Halifax
-* _Love You Better_ — Victoria Voss, BUSTGAARD & Marcus Hägg
-* _Like a Prayer_ — Galwaro, LIZOT & Gabry Ponte
-* _Lasting Lover_ — Sigala & James Arthur
-* _Don't Say Goodbay_ — Alok & Ilkay Sencan feat. Tove Lo 
-* _Lose My Way_ — Ane Brun & Dustin O'Halloran
-* _Hold On_ — Yola & The Highwomen
-* _Other Senses_ — Jenessa Andrea & Glasstempo
-* _Rich Kids_ — FLØRE & Novaa
-* _If I Ever Wanted_ — Myya's Diary & Snowd4y
-* _Don't Change You_ — Rock Mafia & Riz Khalifa
-* _She's Not You_ — Addict. & ZC3
-* _Typical_ — Kidhimself & Canova
-* _Jump With You_ — Kai Stevens, Catchphrase & Kate Klein
-* _Every Time You Go Away_ — Lennon Stella & Kevin Garrett
-* _Minefields_ — Faouzia & John Legend
-* _Hey Boy_ — Sia
-* _Running Around_ — j ember
-* _If I Go_ — Blakey
-* _Snowman_ — Sia
 
 &nbsp;
 
