@@ -15,6 +15,12 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _My Head & My Heart_ — Ava Max
+* _Airplanes_ — ferdinant.
+* _Don't Hurt Me_ — Addict., REWiND & Achex
+* _Missing The Mark_ — Aquilo
+* _A Little While_ — DANIEL SAINT BLACK
+* _Blue Skies_ — Birdy
 * _VENT 'ANNI_ — Måneskin
 * _Give 'Em the Love_ J+1 feat. Dr Disrespect & Halifax
 
