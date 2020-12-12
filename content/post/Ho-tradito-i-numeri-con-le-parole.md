@@ -15,4 +15,4 @@ Tra pochissimo tutto si riappianerà, ricomincerò con le lezioni del PoliMi e i
 
 <div align="center">
   ✎
-  </div>
+</div>
