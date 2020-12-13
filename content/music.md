@@ -22,7 +22,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * _A Little While_ — DANIEL SAINT BLACK
 * _Blue Skies_ — Birdy
 * _VENT 'ANNI_ — Måneskin
-* _Give 'Em the Love_ J+1 feat. Dr Disrespect & Halifax
+* _Give 'Em the Love_ — J+1 feat. Dr Disrespect & Halifax
 
 &nbsp;
 
