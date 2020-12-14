@@ -24,7 +24,11 @@ Ascoltalo:
     Puntata 43 dalla Luna al Sahara. Parto dalla didattica online, passo attraverso il mondo militare, che è in conflitto con la vena artistica, la personalità, e arrivo a spiegare cosa rappresentano per me i libri, la scrittura, i film, le serie tv. Poi vi presento la mia nuova Apple TV 4K con HomePods e Dolbi Atmos. Infine meteorologia.
 
     → [Nuovo post](https://miry1919.github.io/hugosite/post/non-dimenticare-che-stai-facendo-un-sacco-di-fatica/)
+    
+    
     → [Post “Moondust”](https://miry1919.github.io/hugosite/post/moondust/)
+    
+    
     → [Articolo finale](https://www.huffingtonpost.it/2015/02/28/foresta-amazzonica-verde-grazie-al-deserto-del-sahara_n_6775326.html)
     
 ---
