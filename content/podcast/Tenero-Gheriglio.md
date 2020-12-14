@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-12-07
+date: 2020-12-14
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,19 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #42 (7•12•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #43 (14•12•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Avete capito se avete capito](https://anchor.fm/miriana-novella7/episodes/Avete-capito-se-avete-capito-enpv3j)
+
+    Puntata 43 dalla Luna al Sahara. Parto dalla didattica online, passo attraverso il mondo militare, che è in conflitto con la vena artistica, la personalità, e arrivo a spiegare cosa rappresentano per me i libri, la scrittura, i film, le serie tv. Poi vi presento la mia nuova Apple TV 4K con HomePods e Dolbi Atmos. Infine meteorologia.
+
+    → [Nuovo post](https://miry1919.github.io/hugosite/post/non-dimenticare-che-stai-facendo-un-sacco-di-fatica/)
+    → [Post “Moondust”](https://miry1919.github.io/hugosite/post/moondust/)
+    → [Articolo finale](https://www.huffingtonpost.it/2015/02/28/foresta-amazzonica-verde-grazie-al-deserto-del-sahara_n_6775326.html)
+    
+---
+
+* Puntata #42 (7•12•2020)
 
     ☞[La risposta a tutto è un'altra](https://anchor.fm/miriana-novella7/episodes/La-risposta-a-tutto--unaltra-eng0if)
 
