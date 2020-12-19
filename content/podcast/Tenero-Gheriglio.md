@@ -21,7 +21,7 @@ Ascoltalo:
 
     ☞[Avete capito se avete capito](https://anchor.fm/miriana-novella7/episodes/Avete-capito-se-avete-capito-enpv3j)
 
-    Puntata 43 dalla Luna al Sahara. Parto dalla didattica online, passo attraverso il mondo militare, che è in conflitto con la vena artistica, la personalità, e arrivo a spiegare cosa rappresentano per me i libri, la scrittura, i film, le serie tv. Poi vi presento la mia nuova Apple TV 4K con HomePods e Dolbi Atmos. Infine meteorologia.
+    Puntata 43 dalla Luna al Sahara. Parto dalla didattica online, passo attraverso il mondo militare, che è in conflitto con la vena artistica, la personalità, e arrivo a spiegare cosa rappresentano per me i libri, la scrittura, i film, le serie tv. Poi vi presento la mia nuova Apple TV 4K con HomePods e Dolby Atmos. Infine meteorologia.
 
     → [Nuovo post](https://miry1919.github.io/hugosite/post/non-dimenticare-che-stai-facendo-un-sacco-di-fatica/)
     &nbsp;
