@@ -15,6 +15,7 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _Hurt You Again_ — Niwel
 * _My Head & My Heart_ — Ava Max
 * _Airplanes_ — ferdinant.
 * _Don't Hurt Me_ — Addict., REWiND & Achex
