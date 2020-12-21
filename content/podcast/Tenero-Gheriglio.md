@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-12-14
+date: 2020-12-21
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
@@ -17,7 +17,23 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #43 (14•12•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #44 (21•12•2020) <span style="color:blue">⚡ New!</span>
+
+    ☞[Me la sono cavata anche con questa](https://anchor.fm/miriana-novella7/episodes/Me-la-sono-cavata-anche-con-questa-eo2kkg)
+
+    Nella puntata palindroma 44 vi leggo le ultime 100 parole scritte sul sito; poi vi parlo di nuovo della grandezza di Dolby Atmos, delle nuove AirPods Max, di libri arenati, di balene, di meditazione. In fondo tutti i dettagli della pausa invernale e del nuovo podcast che sta per uscire: ["Le Mille e una Novella"](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/).
+
+    → [100 words](https://miry1919.github.io/hugosite/post/camminare-sotto-la-pioggia-non-crea-assembramenti/)
+    &nbsp;
+    
+    → [Moby Dick](https://www.linkiesta.it/2019/01/letteratura-ragazzi-sepulveda-balena-bianca-moby-dick)
+    &nbsp;
+    
+    → [Meditation](https://youtu.be/gp3SPyGXKuo)
+    
+---
+
+* Puntata #43 (14•12•2020)
 
     ☞[Avete capito se avete capito](https://anchor.fm/miriana-novella7/episodes/Avete-capito-se-avete-capito-enpv3j)
 
