@@ -15,6 +15,23 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 &nbsp;
 
 #### <span style="color:red">Aggiunte di recente</span>
+* _In The Air Tonight_ — Alex Frew
+* _Brush Fire_ — Gracie Abrams
+* _r u ok_ — Tate McRae
+* _making bad decisions_ — Bea Miller
+* _14 Texts_ — Shoffy
+* _Gentle Wind of Gratitude_ — Ane Brun
+* _Immortal_ — Dillistone & LILI N
+* _As Time Goes By_ — Boy Destroy
+* _Lie Awake_ — Haux & Samuraii
+* _How Will I Know_ — La Lana & Guy Arthur
+* _Break Up Song_ — Anna Straker
+* _Back In the Summer_ — Emily James
+* _Run_ — Refs
+* _Top Of The World_ — Rock Mafia feat. Bipolar Sunshine
+* _With You_ — Harrison Storm
+* _I Need My Girl_ — Imaginary Future
+* _Falling Apart_ — LÉON
 * _Hurt You Again_ — Niwel
 * _My Head & My Heart_ — Ava Max
 * _Airplanes_ — ferdinant.
