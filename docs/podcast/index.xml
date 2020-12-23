@@ -6,10 +6,19 @@
     <description>Recent content in Podcasts on hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://miry1919.github.io/hugosite/podcast/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Le Mille e una Novella</title>
+      <link>https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/</guid>
+      <description>È il mio secondo podcast. Scrivo una storia, poi te la racconto e viaggiamo insieme. Sei pronto? Allora facci partire premendo play! Alla fine non saranno veramente 1001 storie, perché altrimenti finirei dopo 1001 settimane, cioè più di 19 anni... Appuntamento ogni venerdì alle h. 19:00.  Ascolta il TRAILER.</description>
+    </item>
     
     <item>
       <title>Tenero Gheriglio</title>
