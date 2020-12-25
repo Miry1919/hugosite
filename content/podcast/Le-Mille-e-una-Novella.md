@@ -1,6 +1,6 @@
 ---
 title: "Le Mille e una Novella"
-date: 2020-12-23
+date: 2020-12-25
 ---
 
 <div align="center">È il mio secondo podcast. Scrivo una storia, poi te la racconto e viaggiamo insieme. Appuntamento ogni venerdì alle h. 19:00.
