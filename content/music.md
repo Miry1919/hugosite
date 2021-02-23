@@ -9,7 +9,8 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * [2017-2018](https://music.apple.com/it/playlist/my-2017-2018/pl.u-b3b8RKgC0qaz1d)
 * [2019](https://music.apple.com/it/playlist/my-2019/pl.u-b3b8Re4H0qaz1d)
 * [2020](https://music.apple.com/it/playlist/my-2020/pl.u-LdbqE1vt5e4m0R?l)
-* [Background](https://music.apple.com/it/playlist/background/pl.b05fb95eaae8419b8bc2201594355ee0?l=en)
+* [2021](https://music.apple.com/it/playlist/my-2021/pl.u-ZmbllxWIZoBPk9?l)
+* [Background](https://music.apple.com/it/playlist/background/pl.b05fb95eaae8419b8bc2201594355ee0?l)
 * [Her](https://music.apple.com/it/playlist/her/pl.u-Ldbqqeqt5e4m0R) <span style="color:red">♡</span>
 
 &nbsp;
