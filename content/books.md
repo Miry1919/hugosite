@@ -20,6 +20,7 @@ description: ¶
 #### <span style="color:red">Ho letto e consiglio</span>
 
 <span style="color:red">*2021 (dal primo all'ultimo)*</span>
+
 * _I nostri antenati: Il visconte dimezzato - Il barone rampante - Il cavaliere inesistente_ — Italo Calvino
 * _Il tunnel_ — Ernesto Sabato
 * _Next Stop Rogoredo_ — Micaela Palmieri
