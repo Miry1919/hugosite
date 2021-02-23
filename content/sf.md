@@ -6,7 +6,7 @@ description: ◐
 ### <span style="color:red">Sport</span>
 ---
 
-#### <span style="color:red">Tabella degli allenamenti</span>
+#### <span style="color:red">Tabella degli allenamenti</span> <span style="color:blue">~ not updated</span>
 
 | Attività                    | Data                    | Passo                         | km/min                           |
 |:----------------------|:--------------------|:-------------------------|:----------------------------|
