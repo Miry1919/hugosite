@@ -3,7 +3,7 @@ title: Tenero Gheriglio
 date: 2020-12-21
 ---
 <div align="center">
-È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
+È il podcast che prima o poi avrei messo in piedi.
 </div>
 
 ---
@@ -17,7 +17,7 @@ Ascoltalo:
 ---
 ---
 
-* Puntata #44 (21•12•2020) <span style="color:blue">⚡ New!</span>
+* Puntata #44 (21•12•2020)
 
     ☞[Me la sono cavata anche con questa](https://anchor.fm/miriana-novella7/episodes/Me-la-sono-cavata-anche-con-questa-eo2kkg)
 
