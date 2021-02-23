@@ -3,7 +3,7 @@ title: "Le Mille e una Novella"
 date: 2020-12-25
 ---
 
-<div align="center">È il mio secondo podcast. Prima o poi avrò modo di farlo partire. </div>
+<div align="center">È il mio secondo podcast. Un giorno avrò modo di farlo partire. </div>
 
 ---
 
