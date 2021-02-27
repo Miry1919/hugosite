@@ -5,7 +5,6 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Non per me sola_  — Valeria Palumbo
-* _Carol_ — Patricia Highsmith
 
 &nbsp;
 
@@ -24,6 +23,7 @@ description: ¶
 * _I nostri antenati: Il visconte dimezzato - Il barone rampante - Il cavaliere inesistente_ — Italo Calvino
 * _Il tunnel_ — Ernesto Sabato
 * _Next Stop Rogoredo_ — Micaela Palmieri
+* _Carol_ — Patricia Highsmith
 &nbsp;
 
 <span style="color:red">*2020 (dal primo all'ultimo)*</span>
