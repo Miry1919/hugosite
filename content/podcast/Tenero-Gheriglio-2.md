@@ -4,7 +4,7 @@ description: Season 2, 2021
 date: 2021-02-28
 ---
 <div align="center">
-È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
+È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Mesi operativi: marzo - aprile - maggio - settembre - ottobre - novembre.
 </div>
 
 ---
@@ -12,7 +12,7 @@ date: 2021-02-28
 
 Ascoltalo:
 
-* su YouTube tramite la <span style="text-decoration:underline">[playlist](https://www.youtube.com/playlist?list=PLG8qHQG7k8Jrgo8WEqYS9WsbaY6kDRhyv)</span> sempre aggiornata con tutte le puntate
+* su YouTube tramite la <span style="text-decoration:underline">[playlist](https://youtube.com/playlist?list=PLG8qHQG7k8JqVa_Mvqm0fulqaofHLWUn5)</span> sempre aggiornata con tutte le puntate
 * nel tuo podcast player preferito cliccando sui link presenti qui sotto
 
 ---
