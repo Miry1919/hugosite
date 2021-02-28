@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-date: 2020-12-21
+description: Seazon 1
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi.
