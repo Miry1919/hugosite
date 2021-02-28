@@ -21,6 +21,10 @@ Ascoltalo:
 Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/).
 
 ---
-* Puntata #45 (1•3•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #45 (28•2•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞["L'amore, almeno in teoria, era una sorta di follia gioiosa"](https://anchor.fm/miriana-novella7/episodes/45--Lamore--almeno-in-teoria--era-una-sorta-di-follia-gioiosa-er74es)
+    
+    Che la seconda stagione abbia inizio! Vi spiego dove ero finita, e poi ripartiamo dai libri.
     
 ---
