@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-description: Season 2
+description: Season 2 — 2021
 date: 2021-02-28
 ---
 <div align="center">

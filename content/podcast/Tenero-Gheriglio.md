@@ -1,10 +1,10 @@
 ---
 title: Tenero Gheriglio
-description: Season 1
+description: Season 1 — 2020
 date: 2021-02-28
 ---
 <div align="center">
-È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
+È il podcast che prima o poi avrei messo in piedi. Nella pagina attuale trovi la stagione 1, invece la stagione 2 si trova qui.
 </div>
 
 ---
