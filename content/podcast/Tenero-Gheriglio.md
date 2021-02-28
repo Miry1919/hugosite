@@ -1,6 +1,6 @@
 ---
 title: Tenero Gheriglio
-description: Season 1 — 2020
+description: Season 1, 2020
 date: 2021-02-28
 ---
 <div align="center">
