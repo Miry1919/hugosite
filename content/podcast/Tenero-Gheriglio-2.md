@@ -1,5 +1,27 @@
 ---
-title: "Tenero Gheriglio"
-description: "Season 2"
+title: Tenero Gheriglio
+description: Season 2
 date: 2021-02-28
+---
+<div align="center">
+È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Anche quelli festivi.
+</div>
+
+---
+---
+
+Ascoltalo:
+
+* su YouTube tramite la <span style="text-decoration:underline">[playlist](https://www.youtube.com/playlist?list=PLG8qHQG7k8Jrgo8WEqYS9WsbaY6kDRhyv)</span> sempre aggiornata con tutte le puntate
+* nel tuo podcast player preferito cliccando sui link presenti qui sotto
+
+---
+---
+
+* Puntata #45 (1•2•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[]()
+    
+    description
+    
 ---
