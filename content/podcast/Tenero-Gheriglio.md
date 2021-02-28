@@ -1,6 +1,7 @@
 ---
 title: Tenero Gheriglio
-description: Seazon 1
+description: Season 1
+date: 2020-12-21
 ---
 <div align="center">
 È il podcast che prima o poi avrei messo in piedi.
