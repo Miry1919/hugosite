@@ -12,7 +12,7 @@ date: 2021-02-28
 
 Ascoltalo:
 
-* su YouTube tramite la <span style="text-decoration:underline">[playlist](https://youtube.com/playlist?list=PLG8qHQG7k8JqVa_Mvqm0fulqaofHLWUn5)</span> sempre aggiornata con tutte le puntate
+* su YouTube tramite la [playlist](https://youtube.com/playlist?list=PLG8qHQG7k8JqVa_Mvqm0fulqaofHLWUn5) sempre aggiornata con tutte le puntate
 * nel tuo podcast player preferito cliccando sui link presenti qui sotto
 
 ---
@@ -21,6 +21,6 @@ Ascoltalo:
 Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/).
 
 ---
-* Puntata #45 (1•2•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #45 (1•3•2021) <span style="color:blue">⚡ New!</span>
     
 ---

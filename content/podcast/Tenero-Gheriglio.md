@@ -12,7 +12,7 @@ date: 2021-02-28
 
 Ascoltalo:
 
-* su YouTube tramite la <span style="text-decoration:underline">[playlist](https://www.youtube.com/playlist?list=PLG8qHQG7k8Jrgo8WEqYS9WsbaY6kDRhyv)</span> sempre aggiornata con tutte le puntate
+* su YouTube tramite la [playlist](https://www.youtube.com/playlist?list=PLG8qHQG7k8Jrgo8WEqYS9WsbaY6kDRhyv) sempre aggiornata con tutte le puntate
 * nel tuo podcast player preferito cliccando sui link presenti qui sotto
 
 ---
