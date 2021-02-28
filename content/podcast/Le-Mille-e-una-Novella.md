@@ -4,7 +4,7 @@ description: Coming in 2022
 date: 2020-12-25
 ---
 
-<div align="center">È il mio secondo podcast. Un giorno (del 2022) avrò modo di farlo partire. </div>
+<div align="center">È il mio secondo podcast. Un giorno avrò modo di farlo partire. </div>
 
 ---
 
