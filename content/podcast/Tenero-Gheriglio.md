@@ -4,7 +4,7 @@ description: Season 1, 2020
 date: 2021-02-28
 ---
 <div align="center">
-È il podcast che prima o poi avrei messo in piedi. Nella pagina attuale trovi la stagione 1, invece la stagione 2 si trova qui.
+È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Mesi operativi: marzo, aprile, maggio, settembre, ottobre, novembre.
 </div>
 
 ---
@@ -18,6 +18,9 @@ Ascoltalo:
 ---
 ---
 
+Nella pagina attuale trovi la stagione 1, invece la stagione 2 la trovi [qui](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-2/).
+
+---
 * Puntata #44 (21•12•2020)
 
     ☞[Me la sono cavata anche con questa](https://anchor.fm/miriana-novella7/episodes/Me-la-sono-cavata-anche-con-questa-eo2kkg)
