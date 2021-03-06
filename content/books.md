@@ -10,8 +10,8 @@ description: ¶
 
 #### <span style="color:red">Leggerò a breve</span>
 * _Madame Bovary_ — Gustave Flaubert
-* _Germinale_ — Émile Zola
 * _Il codice dell'anima. Carattere, vocazione, destino_ — James Hillman
+* _Germinale_ — Émile Zola
 
 &nbsp;
 
