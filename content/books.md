@@ -4,14 +4,13 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Non per me sola_  — Valeria Palumbo
+* _Il profumo_ — Patrick Süskind
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 * _Madame Bovary_ — Gustave Flaubert
 * _Germinale_ — Émile Zola
-* _Il profumo_ — Patrick Süskind
 * _Il codice dell'anima. Carattere, vocazione, destino_ — James Hillman
 
 &nbsp;
@@ -24,6 +23,7 @@ description: ¶
 * _Il tunnel_ — Ernesto Sabato
 * _Next Stop Rogoredo_ — Micaela Palmieri
 * _Carol_ — Patricia Highsmith
+* _Non per me sola_  — Valeria Palumbo
 &nbsp;
 
 <span style="color:red">*2020 (dal primo all'ultimo)*</span>
