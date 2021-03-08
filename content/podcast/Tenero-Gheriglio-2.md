@@ -21,7 +21,19 @@ Ascoltalo:
 Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/).
 
 ---
-* Puntata #45 (28•2•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #46 (8•3•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[Sembro un'addetta dell'Apple Store](https://anchor.fm/miriana-novella7/episodes/46--Sembro-unaddetta-dellApple-Store-ersaeh)
+    
+    Oggi, come non promesso, VideoPodcast n° 3: {{< youtube SJpAH2WeJU >}}
+
+    Parliamo finalmente del MagSafe Wallet, delle custodie che ho usato per l'iPhone X, dell'HomePod mini (suona molto bene), della disavventura con lo storage del MacBook.
+
+    Ecco il video per scaricare il programma OmniDiskSweeper, per analizzare e gestire bene lo storage del Mac: https://www.youtube.com/watch?v=aBiXCNRdiGA
+    
+---
+
+* Puntata #45 (28•2•2021)
 
     ☞["L'amore, almeno in teoria, era una sorta di follia gioiosa"](https://anchor.fm/miriana-novella7/episodes/45--Lamore--almeno-in-teoria--era-una-sorta-di-follia-gioiosa-er74es)
     
