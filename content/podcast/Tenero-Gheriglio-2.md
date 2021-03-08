@@ -27,7 +27,7 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
     
     Oggi, come non promesso, VideoPodcast n° 3
     
-    {{< youtube SJpAH2WeJU >}}
+
 
     Parliamo finalmente del MagSafe Wallet, delle custodie che ho usato per l'iPhone X, dell'HomePod mini (suona molto bene), della disavventura con lo storage del MacBook.
 
