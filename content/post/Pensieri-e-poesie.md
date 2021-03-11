@@ -2,7 +2,7 @@
 title: "Pensieri e Poesie"
 date: 2021-03-11
 ---
-<div align="center">Vorrei trascrivere qui alcuni pensieri e alcune poesie che ho scritto negli ultimi tempi.</div>
+<div align="center">Vorrei trascrivere qui alcuni pensieri e alcune poesie scritti negli ultimi tempi.</div>
 
 ---
 
