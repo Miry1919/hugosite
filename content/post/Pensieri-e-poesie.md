@@ -107,7 +107,7 @@ Non ascolterò tutti attentamente;
 
 Perché niente di quello che dicono,
 
-Ha un valore se non provato su me:
+Ha un valore se non provato su me;
 
 Facendo quello che nel profondo sento.
 
@@ -173,7 +173,7 @@ Da tenere di sicurezza,
 
 Il piccione non capisce.
 
-È come un mito pesce,
+È come un mite pesce,
 
 Che muto va avanti
 
