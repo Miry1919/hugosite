@@ -6,38 +6,32 @@ date: 2021-03-11
 
 ---
 
-#### <span style="color:red">*Pensieri*</span>
+*Non sono quindi il giorno, la ricorrenza, o una temporanea infatuazione – piccola goccia ben differente dal lungo temporale del mio amore – a spingermi a dirle che penso a lei ogni istante della mia vita, e non c'è vita migliore di questa.*
+
+<span style="color:red">*— 8 marzo 2021*</span>
+
+---
+
+*Sono in un mare di agitazione, tutto affonda: ogni pensiero precedente, anche vacillante, sparisce; il caos è invece attraente, mi chiama e vince. Cerco la pace ma non c'è, è sparita, è scappata con la scarsa certezza che avevo, ora si accinge a impossessarsi della mia anima inquieta. Poi l'agitazione spietata sale, prende potere e si siede su tutto ciò che trova, prepotente. Rimango sotto, schiacciata, da qualcosa di impalpabile ma asfissiante. Perdo tutta la visione su ciò che era, e si spegne anche l'ultima luce che prima scorgevo davanti a me.*
+
+<span style="color:red">*— 19 gennaio 2021*</span>
+
+---
+
+*E poi ci sono quei giorni in cui ti chiedi se l'affetto profondo unito al desiderio è amore oppure qualcos'altro.*
 &nbsp;
 
-Non sono quindi il giorno, la ricorrenza, o una temporanea infatuazione – piccola goccia ben differente dal lungo temporale del mio amore – a spingermi a dirle che penso a lei ogni istante della mia vita, e non c'è vita migliore di questa.
+*Fino a farti venire il mal di testa, e le lacrime, e il mal di testa alle lacrime.*
 
-*— 8 marzo 2021*
-
----
-
-Sono in un mare di agitazione, tutto affonda: ogni pensiero precedente, anche vacillante, sparisce; il caos è invece attraente, mi chiama e vince. Cerco la pace ma non c'è, è sparita, è scappata con la scarsa certezza che avevo, ora si accinge a impossessarsi della mia anima inquieta. Poi l'agitazione spietata sale, prende potere e si siede su tutto ciò che trova, prepotente. Rimango sotto, schiacciata, da qualcosa di impalpabile ma asfissiante. Perdo tutta la visione su ciò che era, e si spegne anche l'ultima luce che prima scorgevo davanti a me.
-
-*— 19 gennaio 2021*
+<span style="color:red">*— 16 gennaio 2021*</span>
 
 ---
 
-E poi ci sono quei giorni in cui ti chiedi se l'affetto profondo unito al desiderio è amore oppure qualcos'altro.
-&nbsp;
+*Secondo me la normalità non esiste; sono il mondo, la vita che continuano a modificare le loro caratteristiche e i loro problemi.*
 
-Fino a farti venire il mal di testa, e le lacrime, e il mal di testa alle lacrime.
-
-*— 16 gennaio 2021*
+<span style="color:red">*— 6 gennaio 2021*</span>
 
 ---
-
-Secondo me la normalità non esiste; sono il mondo, la vita che continuano a modificare le loro caratteristiche e i loro problemi.
-
-*— 6 gennaio 2021*
-
----
-
-#### <span style="color:red">*Poesie*</span>
-&nbsp;
 
 <span style="text-decoration:underline">L'acqua è più meritocratica della terra</span>
 
@@ -59,7 +53,7 @@ Anche se non sai camminare.
 
 &nbsp;
 
-*— 6 febbraio 2021*
+<span style="color:red">*— 6 febbraio 2021*</span>
 
 ---
 
@@ -87,7 +81,7 @@ Infine scomparirà
 
 &nbsp;
 
-*— 1 gennaio 2021*
+<span style="color:red">*— 1 gennaio 2021*</span>
 
 ---
 
@@ -119,7 +113,7 @@ Facendo quello che nel profondo sento.
 
 &nbsp;
 
-*— 19 novembre 2020*
+<span style="color:red">*— 19 novembre 2020*</span>
 
 ---
 
@@ -151,7 +145,7 @@ E natura meravigliosa
 
 &nbsp;
 
-*— 29 agosto 2020*
+<span style="color:red">*— 29 agosto 2020*</span>
 
 ---
 
@@ -193,7 +187,7 @@ Mentre l'uomo l'osserva.
 
 &nbsp;
 
-*— 17 aprile 2020*
+<span style="color:red">*— 17 aprile 2020*</span>
 
 ---
 
