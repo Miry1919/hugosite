@@ -12,27 +12,6 @@ date: 2021-03-11
 
 ---
 
-*Sono in un mare di agitazione, tutto affonda: ogni pensiero precedente, anche vacillante, sparisce; il caos è invece attraente, mi chiama e vince. Cerco la pace ma non c'è, è sparita, è scappata con la scarsa certezza che avevo, ora si accinge a impossessarsi della mia anima inquieta. Poi l'agitazione spietata sale, prende potere e si siede su tutto ciò che trova, prepotente. Rimango sotto, schiacciata, da qualcosa di impalpabile ma asfissiante. Perdo tutta la visione su ciò che era, e si spegne anche l'ultima luce che prima scorgevo davanti a me.*
-
-<span style="color:red">*— 19 gennaio 2021*</span>
-
----
-
-*E poi ci sono quei giorni in cui ti chiedi se l'affetto profondo unito al desiderio è amore oppure qualcos'altro.*
-&nbsp;
-
-*Fino a farti venire il mal di testa, e le lacrime, e il mal di testa alle lacrime.*
-
-<span style="color:red">*— 16 gennaio 2021*</span>
-
----
-
-*Secondo me la normalità non esiste; sono il mondo, la vita che continuano a modificare le loro caratteristiche e i loro problemi.*
-
-<span style="color:red">*— 6 gennaio 2021*</span>
-
----
-
 <span style="text-decoration:underline">L'acqua è più meritocratica della terra</span>
 
 &nbsp;
@@ -54,6 +33,27 @@ Anche se non sai camminare.
 &nbsp;
 
 <span style="color:red">*— 6 febbraio 2021*</span>
+
+---
+
+*Sono in un mare di agitazione, tutto affonda: ogni pensiero precedente, anche vacillante, sparisce; il caos è invece attraente, mi chiama e vince. Cerco la pace ma non c'è, è sparita, è scappata con la scarsa certezza che avevo, ora si accinge a impossessarsi della mia anima inquieta. Poi l'agitazione spietata sale, prende potere e si siede su tutto ciò che trova, prepotente. Rimango sotto, schiacciata, da qualcosa di impalpabile ma asfissiante. Perdo tutta la visione su ciò che era, e si spegne anche l'ultima luce che prima scorgevo davanti a me.*
+
+<span style="color:red">*— 19 gennaio 2021*</span>
+
+---
+
+*E poi ci sono quei giorni in cui ti chiedi se l'affetto profondo unito al desiderio è amore oppure qualcos'altro.*
+&nbsp;
+
+*Fino a farti venire il mal di testa, e le lacrime, e il mal di testa alle lacrime.*
+
+<span style="color:red">*— 16 gennaio 2021*</span>
+
+---
+
+*Secondo me la normalità non esiste; sono il mondo, la vita che continuano a modificare le loro caratteristiche e i loro problemi.*
+
+<span style="color:red">*— 6 gennaio 2021*</span>
 
 ---
 
