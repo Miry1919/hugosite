@@ -21,7 +21,18 @@ Ascoltalo:
 Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/).
 
 ---
-* Puntata #46 (8•3•2021) <span style="color:blue">⚡ New!</span>
+
+* Puntata #47 (15•3•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[Il mio sogno sarebbe quello di automatizzare](https://anchor.fm/miriana-novella7/episodes/47--Il-mio-sogno-sarebbe-quello-di-automatizzare-eshbhv)
+    
+    Puntata 47: Game Boy 1989, Tetris, Nintendo Game & Watch e videogiochi online; corsa, parchi, cemento, freddo, buio e colpi d'aria; lampade, configurazioni, ☞[ScreenBar BenQ](https://amzn.to/38zMSvQ), lampadine Philips Hue, tapparelle e automazioni; HomePod originale (fuori produzione), HomePod mini, chip U1, Bose QuietComfort 25, AirPods e stress; nuovo ☞[post](https://miry1919.github.io/hugosite/post/pensieri-e-poesie/) sul sito, pensieri, poesie ed ermetismo.
+
+    Ecco il programma ☞[Monitor Control](https://github.com/MonitorControl/MonitorControl) per regolare la luminosità del monitor esterno direttamente dalla tastiera.
+    
+---
+
+* Puntata #46 (8•3•2021)
 
     ☞[Sembro un'addetta dell'Apple Store](https://anchor.fm/miriana-novella7/episodes/46--Sembro-unaddetta-dellApple-Store-ersaeh)
     
