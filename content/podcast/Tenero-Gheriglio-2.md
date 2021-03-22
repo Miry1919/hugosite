@@ -22,7 +22,15 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #47 (15•3•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #48 (22•3•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[Non ci sono i pezzi di ricambio!](https://anchor.fm/miriana-novella7/episodes/48--Non-ci-sono-i-pezzi-di-ricambio-et4uni)
+    
+    Nella quarantottesima puntata parlo di sveglie, di sveglie biologiche, del sonno, del tracciamento del sonno, di Apple Watch, di corsa, dei benefici da cercare, dei rischi da evitare, di lucette intermittenti, di macchine non proprio gentili, di riscaldamento, di stretching, di organizzazione settimanale, di nutrizionisti, di alimentazione, del concept di ☞[Apple Kitchen](https://9to5mac.com/2021/02/08/concept-apple-kitchen-would-be-a-natural-extension-of-the-companys-health-initiatives/) di 9to5 Mac. Finale col libro ☞["Non per me sola"](https://amzn.to/3s7qTEf) di Valeria Palumbo.
+    
+---
+
+* Puntata #47 (15•3•2021)
 
     ☞[Il mio sogno sarebbe quello di automatizzare](https://anchor.fm/miriana-novella7/episodes/47--Il-mio-sogno-sarebbe-quello-di-automatizzare-eshbhv)
     
