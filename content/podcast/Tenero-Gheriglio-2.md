@@ -29,6 +29,8 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
     Dopo essere stata troppo dura con me stessa, nella puntata quarantanove riottengo gran parte della mia dignità parlando di gambe, braccia, spalle e addome. Poi vi spiego cosa sta succedendo con i miei iPad Pro 11" e 12.9" del 2018 (ne riparlerò approfonditamente), e mi confesso svelandovi l'acquisto delle AirPods Max su eBay (a meno di €500). Parte finale libri e citazioni.
 
     Libri trattati con link sponsorizzati per supportare Tenero Gheriglio:
+    &nbsp;
+    
     → [Il codice dell'anima](https://amzn.to/2PjS68e)
     &nbsp;
     
