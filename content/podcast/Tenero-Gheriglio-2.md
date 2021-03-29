@@ -30,8 +30,13 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
     Libri trattati con link sponsorizzati per supportare Tenero Gheriglio:
     → [Il codice dell'anima](https://amzn.to/2PjS68e)
+    &nbsp;
+    
     → [Il tunnel](https://amzn.to/3m0dXxz)
+    &nbsp;
+    
     → [Il profumo](https://amzn.to/2PhxGN9)
+    &nbsp;
 
     Canale Telegram  ☞[Miriana's hello](https://t.me/miry1919)
     
