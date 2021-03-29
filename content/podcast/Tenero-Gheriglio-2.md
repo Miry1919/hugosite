@@ -22,7 +22,22 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #48 (22•3•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #49 (29•3•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[Il genio può essere confinato dentro un guscio di noce](https://anchor.fm/miriana-novella7/episodes/49--Il-genio-pu-essere-confinato-dentro-un-guscio-di-noce-etp4nt)
+    
+    Dopo essere stata troppo dura con me stessa, nella puntata quarantanove riottengo gran parte della mia dignità parlando di gambe, braccia, spalle e addome. Poi vi spiego cosa sta succedendo con i miei iPad Pro 11" e 12.9" del 2018 (ne riparlerò approfonditamente), e mi confesso svelandovi l'acquisto delle AirPods Max su eBay (a meno di €500). Parte finale libri e citazioni.
+
+    Libri trattati con link sponsorizzati per supportare Tenero Gheriglio:
+    → [Il codice dell'anima](https://amzn.to/2PjS68e)
+    → [Il tunnel](https://amzn.to/3m0dXxz)
+    → [Il profumo](https://amzn.to/2PhxGN9)
+
+    Canale Telegram  ☞[Miriana's hello](https://t.me/miry1919)
+    
+---
+
+* Puntata #48 (22•3•2021)
 
     ☞[Non ci sono i pezzi di ricambio!](https://anchor.fm/miriana-novella7/episodes/48--Non-ci-sono-i-pezzi-di-ricambio-et4uni)
     
