@@ -22,7 +22,17 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #49 (29•3•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #50 (5•4•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[E così, quella carina tredicenne ebbe il suo primo iPad](https://anchor.fm/miriana-novella7/episodes/50--E-cos--quella-carina-tredicenne-ebbe-il-suo-primo-iPad-eu8hcv)
+    
+    Oggi puntata cinquanta festiva di Pasquetta. Parlo dell'acquisto delle AirPods Max (purtroppo non più a meno di €500), e di tutta la storia dei miei 10 anni di iPad, dal 2011 a oggi.
+
+    Foto della ☞[mia scrivania su Instagram](https://www.instagram.com/p/CNKbDiyDPjh/?igshid=bgwg0l6r0f2m)
+    
+---
+
+* Puntata #49 (29•3•2021)
 
     ☞[Il genio può essere confinato dentro un guscio di noce](https://anchor.fm/miriana-novella7/episodes/49--Il-genio-pu-essere-confinato-dentro-un-guscio-di-noce-etp4nt)
     
