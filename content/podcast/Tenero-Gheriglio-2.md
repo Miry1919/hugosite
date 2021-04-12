@@ -22,7 +22,15 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #50 (5•4•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #51 (12•4•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[È questa la testa più grande che possa esistere?](https://anchor.fm/miriana-novella7/episodes/51---questa-la-testa-pi-grande-che-possa-esistere-eum5rb)
+    
+    Nella puntata 51 parlo della  ☞[postazione in piedi](https://www.instagram.com/p/CNcbUFgDhPI/?igshid=1v250ai47dc14) aggiornata con Magic Keyboard Wireless 2 e ☞[stand UGREEN](https://amzn.to/3g0ufW9) per iPhone, della prima settimana con le AirPods Max, e di alimentazione, delle verdure.
+    
+---
+
+* Puntata #50 (5•4•2021)
 
     ☞[E così, quella carina tredicenne ebbe il suo primo iPad](https://anchor.fm/miriana-novella7/episodes/50--E-cos--quella-carina-tredicenne-ebbe-il-suo-primo-iPad-eu8hcv)
     
