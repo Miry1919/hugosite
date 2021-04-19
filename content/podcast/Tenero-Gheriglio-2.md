@@ -25,7 +25,7 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
     ☞[Sono in un mare di agitazione, tutto affonda](https://anchor.fm/miriana-novella7/episodes/52--Sono-in-un-mare-di-agitazione--tutto-affonda-ev6kq6)
     
-    Nella 52ª puntata concludo la mia sorta di recensione delle AirPods Max, che ho utilizzato anche nella metropolitana, con l'app Specto e con la Nintendo Switch (☞[video sulla Nintendo Switch 2](https://youtu.be/T_fqmiMBLDA ). Insomma, puntata più breve del solito ma dal finale straziante, profondo (☞[post dell'11 marzo](https://miry1919.github.io/hugosite/post/pensieri-e-poesie/).
+    Nella 52ª puntata concludo la mia sorta di recensione delle AirPods Max, che ho utilizzato anche nella metropolitana, con l'app Specto e con la Nintendo Switch (☞[video sulla Nintendo Switch 2](https://youtu.be/T_fqmiMBLDA )). Insomma, puntata più breve del solito ma dal finale straziante, profondo (☞[post dell'11 marzo](https://miry1919.github.io/hugosite/post/pensieri-e-poesie/)).
     
 ---
 
