@@ -22,7 +22,7 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #53 (19•4•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #53 (26•4•2021) <span style="color:blue">⚡ New!</span>
 
     ☞[La corsa delle testugginine](https://anchor.fm/miriana-novella7/episodes/53--La-corsa-delle-testugginine-evm8cu)
     
