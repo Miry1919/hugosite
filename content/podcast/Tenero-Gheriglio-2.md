@@ -21,7 +21,16 @@ Ascoltalo:
 Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/).
 
 ---
-* Puntata #52 (19•4•2021) <span style="color:blue">⚡ New!</span>
+
+* Puntata #53 (19•4•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[La corsa delle testugginine](https://anchor.fm/miriana-novella7/episodes/53--La-corsa-delle-testugginine-evm8cu)
+    
+    Puntata 53! Parto dal documentario ☞[The Year Earth Changed](https://tv.apple.com/it/movie/the-year-earth-changed/umc.cmc.3fob3t7nfhehpb3ilgynzxmnu) per poi parlare dell'evento Apple di martedì 20 aprile 2021 (nuova Apple TV 4K, nuovi iPad Pro, nuovi iMac, AirTag).
+    
+---
+
+* Puntata #52 (19•4•2021)
 
     ☞[Sono in un mare di agitazione, tutto affonda](https://anchor.fm/miriana-novella7/episodes/52--Sono-in-un-mare-di-agitazione--tutto-affonda-ev6kq6)
     
