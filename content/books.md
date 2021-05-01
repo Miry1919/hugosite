@@ -23,7 +23,7 @@ description: ¶
 * _Carol_ — Patricia Highsmith
 * _Non per me sola_  — Valeria Palumbo
 * _Il profumo_ — Patrick Süskind
-* _Il codice dell'anima. Carattere, vocazione, destino_ — James Hillman ☞[{Quotes}]()
+* _Il codice dell'anima. Carattere, vocazione, destino_ — James Hillman ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/il-codice-dellanima/)
 &nbsp;
 
 <span style="color:red">*2020 (dal primo all'ultimo)*</span>
