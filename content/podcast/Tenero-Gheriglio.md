@@ -65,12 +65,12 @@ Nella pagina attuale trovi la stagione 1, invece la stagione 2 la trovi [qui](ht
 
     ☞[Siamo uniti da fili segreti (invisibili)](https://anchor.fm/miriana-novella7/episodes/Siamo-uniti-da-fili-segreti-en5o53)
 
-    Libro "Psicomagia, una terapia panica" di Alejandro Jodorowsky (link sponsorizzato per sostenere Tenero Gheriglio: https://amzn.to/3aTj4ey).
+    Libro "Psicomagia, una terapia panica" di Alejandro Jodorowsky (☞[link sponsorizzato](https://amzn.to/3aTj4ey) per sostenere Tenero Gheriglio).
 
     → [Citazioni](https://miry1919.github.io/hugosite/quote/psicomagia/)
     &nbsp;
     
-    → Un estratto audio [qui](https://www.instagram.com/tv/CIS49oXDsbA/?igshid=18krvptwgy7oo).
+    → [Un estratto audio](https://www.instagram.com/tv/CIS49oXDsbA/?igshid=18krvptwgy7oo).
     
     
     
