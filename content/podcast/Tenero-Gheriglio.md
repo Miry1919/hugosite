@@ -70,7 +70,7 @@ Nella pagina attuale trovi la stagione 1, invece la stagione 2 la trovi [qui](ht
     → [Citazioni](https://miry1919.github.io/hugosite/quote/psicomagia/)
     &nbsp;
     
-    → [Un estratto audio](https://www.instagram.com/tv/CIS49oXDsbA/?igshid=18krvptwgy7oo).
+    → [Un estratto audio](https://www.instagram.com/tv/CIS49oXDsbA/?igshid=18krvptwgy7oo)
     
     
     
