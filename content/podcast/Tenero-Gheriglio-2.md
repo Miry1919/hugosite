@@ -22,7 +22,17 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #53 (26•4•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #54 (3•5•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞["Ciò che conta è la passione"](https://anchor.fm/miriana-novella7/episodes/Ci-che-conta--la-passione-e1044l6)
+    
+    Libro "Il codice dell'anima" di James Hillman (☞[link sponsorizzato](https://amzn.to/3thqi2A) per sostenere Tenero Gheriglio).
+
+    → [Citazioni](https://miry1919.github.io/hugosite/quote/il-codice-dellanima/)
+    
+---
+
+* Puntata #53 (26•4•2021)
 
     ☞[La corsa delle testugginine](https://anchor.fm/miriana-novella7/episodes/53--La-corsa-delle-testugginine-evm8cu)
     
