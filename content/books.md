@@ -19,10 +19,10 @@ description: ¶
 
 * _I nostri antenati: Il visconte dimezzato - Il barone rampante - Il cavaliere inesistente_ — Italo Calvino
 * _Il tunnel_ — Ernesto Sabato
-* _Next Stop Rogoredo_ — Micaela Palmieri
+* _Next Stop Rogoredo_ — Micaela Palmieri ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/45--Lamore--almeno-in-teoria--era-una-sorta-di-follia-gioiosa-er74es)
 * _Carol_ — Patricia Highsmith
-* _Non per me sola_  — Valeria Palumbo
-* _Il profumo_ — Patrick Süskind
+* _Non per me sola_  — Valeria Palumbo ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/48--Non-ci-sono-i-pezzi-di-ricambio-et4uni)
+* _Il profumo_ — Patrick Süskind ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/49--Il-genio-pu-essere-confinato-dentro-un-guscio-di-noce-etp4nt)
 * _Il codice dell'anima. Carattere, vocazione, destino_ — James Hillman ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/il-codice-dellanima/)  & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Ci-che-conta--la-passione-e1044l6)
 &nbsp;
 
