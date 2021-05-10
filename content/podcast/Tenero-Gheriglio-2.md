@@ -22,6 +22,10 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
+La puntata 55 tarderà ad arrivare. Questa settimana per problemi di salute non uscirà nessuna puntata, ci rivediamo lunedì 17 maggio.
+
+---
+
 * Puntata #54 (3•5•2021) <span style="color:blue">⚡ New!</span>
 
     ☞["Ciò che conta è la passione"](https://anchor.fm/miriana-novella7/episodes/Ci-che-conta--la-passione-e1044l6)
