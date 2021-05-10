@@ -22,7 +22,7 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-La puntata 55 tarderà ad arrivare. Questa settimana per problemi di salute non uscirà nessuna puntata, ci rivediamo lunedì 17 maggio.
+<span style="text-decoration:underline">La puntata 55 tarderà ad arrivare. Questa settimana per problemi di salute non uscirà nessuna puntata, ci rivediamo lunedì 17 maggio.</span>
 
 ---
 
