@@ -33,6 +33,9 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
     Libro "Il codice dell'anima" di James Hillman (☞[link sponsorizzato](https://amzn.to/3thqi2A) per sostenere Tenero Gheriglio).
 
     → [Citazioni](https://miry1919.github.io/hugosite/quote/il-codice-dellanima/)
+    &nbsp;
+    
+    → [Un estratto audio](https://www.instagram.com/tv/CO5Sg3Eq59O/?igshid=8looi8fgfx5d)
     
 ---
 

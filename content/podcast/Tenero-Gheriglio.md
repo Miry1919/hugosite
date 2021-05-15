@@ -72,8 +72,6 @@ Nella pagina attuale trovi la stagione 1, invece la stagione 2 la trovi [qui](ht
     
     → [Un estratto audio](https://www.instagram.com/tv/CIS49oXDsbA/?igshid=18krvptwgy7oo)
     
-    
-    
 ---
 
 * Puntata #40 (23•11•2020)
