@@ -22,11 +22,22 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-<span style="text-decoration:underline">La puntata 55 tarderà ad arrivare. Questa settimana per problemi di salute non uscirà nessuna puntata, ci rivediamo lunedì 17 maggio.</span>
+* Puntata #55 (17•5•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[L'ironia è una delle cose più importanti](https://anchor.fm/miriana-novella7/episodes/Lironia--una-delle-cose-pi-importanti-e10vqol)
+    
+    Puntata palindroma 55! Dopo l'assenza della settimana scorsa ritorno carica a registrare, e come spesso accade il mix comprende libri, tecnologia e alimentazione.
+
+    Nuovi video che vi consiglio sull'alimentazione:
+
+    → [9 falsi miti sulla carne](https://youtu.be/ddJ1VoPMcHg)
+    &nbsp;
+    
+    → [9 falsi miti sui cereali](https://youtu.be/qX6L8fuQWDE)
 
 ---
 
-* Puntata #54 (3•5•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #54 (3•5•2021)
 
     ☞["Ciò che conta è la passione"](https://anchor.fm/miriana-novella7/episodes/Ci-che-conta--la-passione-e1044l6)
     
