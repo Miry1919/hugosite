@@ -22,7 +22,17 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #55 (17•5•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #56 (24•5•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[I più forti, in fondo, sono i più sensibili](https://anchor.fm/miriana-novella7/episodes/I-pi-forti--in-fondo--sono-i-pi-sensibili-e11fof5)
+    
+    Nella puntata cinquantasei dopo alcuni follow up su iPad, iPod e Apple Music, provo a raccontarvi della mia palestra all'aperto, dell'attenzione che ci vuole per non fare stupidaggini, ribaltarsi (ahaha!)...
+
+    ☞[Elastico per le trazioni alla sbarra](https://amzn.to/2SqDUfa)
+
+---
+
+* Puntata #55 (17•5•2021)
 
     ☞[L'ironia è una delle cose più importanti](https://anchor.fm/miriana-novella7/episodes/Lironia--una-delle-cose-pi-importanti-e10vqol)
     
