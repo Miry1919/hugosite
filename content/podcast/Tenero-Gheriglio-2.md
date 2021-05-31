@@ -22,7 +22,21 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #56 (24•5•2021) <span style="color:blue">⚡ New!</span>
+<span style="color:red">Siamo in pausa estiva! Prossima puntata: 6 settembre 2021.</span>
+
+---
+
+* Puntata #57 (31•5•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[È un podcast primaverautunnale](https://anchor.fm/miriana-novella7/episodes/57---un-podcast-primaverautunnale-e11t3qd)
+    
+    La puntata 57 chiude la prima metà della seconda stagione di Tenero Gheriglio. Parlo del mio nuovo ☞[cinturino Pride Edition 2021](https://www.instagram.com/p/CPaAadOC_9D/?utm_medium=copy_link) per l'Apple Watch, della ☞[batteria esterna MagSafe (Anker)](https://amzn.to/3uw5Qvp) che ho acquistato su Amazon. Infine vi racconto cos'è successo di stranissimo con l'iPod. Ci risentiamo il 6 settembre, buona estate, grazie di cuore.
+
+    Unisciti al canale Telegram ☞["Miriana's hello"](https://t.me/miry1919) se vuoi rimanere aggiornato.
+    
+---
+
+* Puntata #56 (24•5•2021)
 
     ☞[I più forti, in fondo, sono i più sensibili](https://anchor.fm/miriana-novella7/episodes/I-pi-forti--in-fondo--sono-i-pi-sensibili-e11fof5)
     
