@@ -4,12 +4,14 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Madame Bovary_ — Gustave Flaubert
+* _Germinale_ — Émile Zola
+* _Finzioni_ — Jorge Luis Borges
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Germinale_ — Émile Zola
+* _Mattatoio n. 5_ — Kurt Vonnegut
+* _I bottoni di Napoleone. Come 17 molecole hanno cambiato la storia_ — Penny Le Couteur e Jay Burreson
 
 &nbsp;
 
@@ -24,6 +26,7 @@ description: ¶
 * _Non per me sola_  — Valeria Palumbo ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/48--Non-ci-sono-i-pezzi-di-ricambio-et4uni)
 * _Il profumo_ — Patrick Süskind ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/49--Il-genio-pu-essere-confinato-dentro-un-guscio-di-noce-etp4nt)
 * _Il codice dell'anima. Carattere, vocazione, destino_ — James Hillman ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/il-codice-dellanima/)  & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Ci-che-conta--la-passione-e1044l6)
+* _Madame Bovary_ — Gustave Flaubert
 &nbsp;
 
 <span style="color:red">*2020 (dal primo all'ultimo)*</span>
