@@ -1,5 +1,5 @@
 ---
-title: "Pensieri e Poesie (part 2)"
+title: "Pensieri e Poesie [seconda parte]"
 date: 2021-07-04
 ---
 <div align="center">Vorrei trascrivere qui alcuni pensieri e alcune poesie scritti negli ultimi tempi.</div>
@@ -130,3 +130,11 @@ Che io so già che gusto ha
 &nbsp;
 
 <span style="color:red">*— 2 luglio 2020*</span>
+
+---
+
+&nbsp;
+
+<div align="center">
+  ✎
+  </div>
