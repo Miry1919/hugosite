@@ -1,5 +1,5 @@
 ---
-title: "Pensieri e Poesie (parte due)"
+title: "Pensieri e Poesie (part 2)"
 date: 2021-07-04
 ---
 <div align="center">Vorrei trascrivere qui alcuni pensieri e alcune poesie scritti negli ultimi tempi.</div>
