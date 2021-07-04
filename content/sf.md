@@ -8,7 +8,7 @@ description: ◐
 
 #### <span style="color:red">Attività attuali</span>
 * _Corsa_
-* _Palestra_ <span style="color:red">all'aperto per coronavirus</span>
+* _Palestra_
 * _Nuoto_
 
 &nbsp;
