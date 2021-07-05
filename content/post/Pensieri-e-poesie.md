@@ -191,7 +191,7 @@ Mentre l'uomo l'osserva.
 
 ---
 
-Puoi leggere la [seconda parte] <span style="text-decoration:underline">[qui](https://miry1919.github.io/hugosite/post/pensieri-e-poesie-seconda-parte/)</span>.
+Puoi leggere la seconda parte <span style="text-decoration:underline">[qui](https://miry1919.github.io/hugosite/post/pensieri-e-poesie-seconda-parte/)</span>.
 
 &nbsp;
 
