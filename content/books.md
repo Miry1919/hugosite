@@ -4,7 +4,6 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Finzioni_ — Jorge Luis Borges
 * _Mattatoio n. 5_ — Kurt Vonnegut
 
 &nbsp;
@@ -27,6 +26,7 @@ description: ¶
 * _Il profumo_ — Patrick Süskind ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/49--Il-genio-pu-essere-confinato-dentro-un-guscio-di-noce-etp4nt)
 * _Il codice dell'anima. Carattere, vocazione, destino_ — James Hillman ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/il-codice-dellanima/)  & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Ci-che-conta--la-passione-e1044l6)
 * _Madame Bovary_ — Gustave Flaubert
+* _Finzioni_ — Jorge Luis Borges
 &nbsp;
 
 <span style="color:red">*2020 (dal primo all'ultimo)*</span>
