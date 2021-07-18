@@ -4,13 +4,13 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
+* _Germinale_ — Émile Zola
 * _Mattatoio n. 5_ — Kurt Vonnegut
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 * _I bottoni di Napoleone. Come 17 molecole hanno cambiato la storia_ — Penny Le Couteur e Jay Burreson
-* _Germinale_ — Émile Zola
 
 &nbsp;
 
