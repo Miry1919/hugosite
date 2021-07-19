@@ -11,6 +11,9 @@ description: ¶
 
 #### <span style="color:red">Leggerò a breve</span>
 * _I bottoni di Napoleone. Come 17 molecole hanno cambiato la storia_ — Penny Le Couteur e Jay Burreson
+* _Ancora bigotti. Gli italiani e la morale sessuale_ — Edoardo Lombardi Vallauri
+* _L'amico ritrovato_ — Fred Uhlman
+* _Anna Karenina_ — Lev Tolstoj
 
 &nbsp;
 
