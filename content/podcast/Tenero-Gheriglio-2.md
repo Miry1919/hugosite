@@ -4,7 +4,7 @@ description: Season 2, 2021
 date: 2021-02-28
 ---
 <div align="center">
-È il podcast che prima o poi avrei messo in piedi. Ogni lunedì alle h. 19:00 esce una nuova puntata. Mesi operativi: marzo, aprile, maggio, settembre, ottobre, novembre.
+Sono Miriana Novella e parlo di tutto. Ogni lunedì alle h. 19:00 esce una nuova puntata. Mesi operativi: marzo, aprile, maggio, settembre, ottobre, novembre.
 </div>
 
 ---
