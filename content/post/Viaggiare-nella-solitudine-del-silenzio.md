@@ -11,4 +11,3 @@ Sono una ragazza fragile e questo, forse, non cambierà mai. Avevo creduto di po
 <div align="center">
   ✎
 </div>
-
