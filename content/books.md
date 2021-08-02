@@ -4,15 +4,14 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Germinale_ — Émile Zola
 * _Mattatoio n. 5_ — Kurt Vonnegut
+* _L'amico ritrovato_ — Fred Uhlman
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _I bottoni di Napoleone. Come 17 molecole hanno cambiato la storia_ — Penny Le Couteur e Jay Burreson
 * _Ancora bigotti. Gli italiani e la morale sessuale_ — Edoardo Lombardi Vallauri
-* _L'amico ritrovato_ — Fred Uhlman
+* _I bottoni di Napoleone. Come 17 molecole hanno cambiato la storia_ — Penny Le Couteur e Jay Burreson
 * _Anna Karenina_ — Lev Tolstoj
 
 &nbsp;
@@ -30,6 +29,7 @@ description: ¶
 * _Il codice dell'anima. Carattere, vocazione, destino_ — James Hillman ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/il-codice-dellanima/)  & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Ci-che-conta--la-passione-e1044l6)
 * _Madame Bovary_ — Gustave Flaubert
 * _Finzioni_ — Jorge Luis Borges
+* _Germinale_ — Émile Zola
 &nbsp;
 
 <span style="color:red">*2020 (dal primo all'ultimo)*</span>
