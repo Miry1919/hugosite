@@ -4,13 +4,11 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Mattatoio n. 5_ — Kurt Vonnegut
-* _Ancora bigotti. Gli italiani e la morale sessuale_ — Edoardo Lombardi Vallauri
+* _I bottoni di Napoleone. Come 17 molecole hanno cambiato la storia_ — Penny Le Couteur e Jay Burreson
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _I bottoni di Napoleone. Come 17 molecole hanno cambiato la storia_ — Penny Le Couteur e Jay Burreson
 * _Anna Karenina_ — Lev Tolstoj
 
 &nbsp;
@@ -30,6 +28,8 @@ description: ¶
 * _Finzioni_ — Jorge Luis Borges
 * _Germinale_ — Émile Zola
 * _L'amico ritrovato_ — Fred Uhlman
+* _Mattatoio n. 5_ — Kurt Vonnegut
+* _Ancora bigotti. Gli italiani e la morale sessuale_ — Edoardo Lombardi Vallauri
 &nbsp;
 
 <span style="color:red">*2020 (dal primo all'ultimo)*</span>
