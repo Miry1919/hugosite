@@ -12,6 +12,8 @@ description: ¶
 * _Anna Karenina_ — Lev Tolstoj
 * _Il giovane Holden_ — Jerome David Salinger
 * _Diario di una scrittrice_ — Virginia Woolf
+* _Racconti fantastici. Diavoleide - Uova fatali - Cuore di cane - Le avventure di Cicikov_ — Michail Bulgakov
+* _L'uomo e i suoi simboli_ — Carl Gustav Jung
 
 &nbsp;
 
