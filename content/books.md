@@ -10,6 +10,8 @@ description: ¶
 
 #### <span style="color:red">Leggerò a breve</span>
 * _Anna Karenina_ — Lev Tolstoj
+* _Il giovane Holden_ — Jerome David Salinger
+* _Diario di una scrittrice_ — Virginia Woolf
 
 &nbsp;
 
