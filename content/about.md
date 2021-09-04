@@ -35,5 +35,5 @@ Salda nella furia dei venti e degli eventi
 &nbsp;
 
 <div align="center">
-"Technology alone is not enough"
+“Technology alone is not enough”
 </div>
