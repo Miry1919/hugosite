@@ -19,3 +19,21 @@ description: Chi?
 <div align="center">
 ❀
 </div>
+
+&nbsp;
+
+<div align="center">
+Salda nella furia dei venti e degli eventi
+</div>
+
+&nbsp;
+
+<div align="center">
+19•5•1997
+</div>
+
+&nbsp;
+
+<div align="center">
+"Technology alone is not enough"
+</div>

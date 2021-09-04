@@ -22,11 +22,45 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-<span style="color:red">Siamo in pausa estiva! Prossima puntata: 6 settembre 2021.</span>
+* Puntata #58 (6•9•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[I libri sono un po' le parole a cui io mi aggrappo]()
+    
+    Al rientro dalla pausa estiva descrivo quali libri ho letto, parlo dei post che ho scritto, dei video che ho visto e degli sport che ho fatto.
+    
+    &nbsp;
+
+    Posts:
+    
+    → [Tanti auguri amore mio](https://miry1919.github.io/hugosite/post/tanti-auguri-amore-mio/)
+    
+    → [Pensieri e Poesie [seconda parte]](https://miry1919.github.io/hugosite/post/pensieri-e-poesie-seconda-parte/)
+    
+    → [Viaggiare nella solitudine del silenzio](https://miry1919.github.io/hugosite/post/viaggiare-nella-solitudine-del-silenzio/)
+    
+    &nbsp;
+
+    Video ☞["I pericoli della scienza arrogante"](https://youtu.be/KjiGOptUC00)
+
+    &nbsp;
+
+    Libri menzionati con link sponsorizzati per supportare Tenero Gheriglio:
+    
+    → [Madame Bovary](https://amzn.to/2WHbvDy)
+    
+    → [Finzioni](https://amzn.to/3yEeycM)
+    
+    → [Germinale](https://amzn.to/3zKARPK)
+    
+    → [L'amico ritrovato](https://amzn.to/3zFIJld)
+    
+    → [Mattatoio n. 5](https://amzn.to/2V7I1OK)
+    
+    → [Ancora bigotti](https://amzn.to/3yCw8ya) (☞[trasmissione su RaiPlay](https://www.raiplay.it/video/2020/09/Quante-storie-3b4c1d07-203c-474a-8f0d-257443ef5143.html?wt_mc=2.app.cpy.raiplay_prg_Quante+storie+-+Ancora+bigotti+-.&wt))
 
 ---
 
-* Puntata #57 (31•5•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #57 (31•5•2021)
 
     ☞[È un podcast primaverautunnale](https://anchor.fm/miriana-novella7/episodes/57---un-podcast-primaverautunnale-e11t3qd)
     
