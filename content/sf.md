@@ -29,5 +29,3 @@ La corsa ti porta in una conversazione silenziosa con il mondo, ti porta in stra
 L'alimentazione è obbligatoriamente integrata nella nostra vita. Saper mangiare dovrebbe essere una conoscenza fondamentale, una materia di studio in ogni scuola. Si eviterebbero molti problemi. Permette di stare bene.
 
 ---
-
-Prova
