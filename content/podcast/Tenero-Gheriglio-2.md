@@ -22,7 +22,7 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #58 (6•9•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #58 (6•9•2021) <span style="color:blue">⚡ New!</span> link
 
     ☞[I libri sono un po' le parole a cui io mi aggrappo](https://anchor.fm/miriana-novella7/episodes/58--I-libri-sono-un-po-le-parole-a-cui-io-mi-aggrappo-e16q4b0)
     
