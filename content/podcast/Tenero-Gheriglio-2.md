@@ -22,7 +22,33 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #58 (6•9•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #59 (13•9•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[Sono molto precisa, e innamorata dell'ordine](https://anchor.fm/miriana-novella7/episodes/59--Sono-molto-precisa--e-innamorata-dellordine-e178k31)
+    
+    A 20 anni dalla strage delle Torri Gemelle vi parlo del documentario 9 /11 (Apple TV+). Poi vi racconto dell'università, di "Mirianaerobics", della mia nuova libreria a muro, e della precisione, dell'ordine fisico, dell'ordine mentale, contrapposto al disordine creativo.
+    
+    • "Mirianaerobics" (aerobics/anaerobic):
+    
+    → [Post](https://miry1919.github.io/hugosite/post/mirianaerobics/)
+    
+    → [Playlist](https://music.apple.com/it/playlist/mirianaerobics/pl.u-Ymb00Bycq9vbM1?l=en)
+    
+    • Contenuti menzionati presenti su Apple TV+:
+    
+    → [9 /11](https://tv.apple.com/it/movie/911-inside-the-presidents-war-room/umc.cmc.4z19ay2w4pmtze6itezwa78w6)
+    
+    → [Physical](https://tv.apple.com/it/show/physical/umc.cmc.6gdc6v4vwyaab7klocftv2s10)
+    
+    • [Foto in divisa AM](https://www.instagram.com/p/CTjNVpKigCU/?utm_medium=copy_link)
+    
+    • [Foto nuova libreria](https://www.instagram.com/p/CTtyxfyKcvu/?utm_medium=copy_link)
+    
+    • [Books](https://miry1919.github.io/hugosite/books/)
+    
+---
+
+* Puntata #58 (6•9•2021)
 
     ☞[I libri sono un po' le parole a cui io mi aggrappo](https://anchor.fm/miriana-novella7/episodes/58--I-libri-sono-un-po-le-parole-a-cui-io-mi-aggrappo-e16q4b0)
     
