@@ -13,7 +13,7 @@ description: ◐
 
 &nbsp;
 
-Vado in palestra da circa tre anni. Nuoto da quando avevo tre anni. Ma penso che la corsa sia lo sport che più mi rappresenta, da sola, per chilometri, uno scenario perfettamente masochistico.
+Faccio palestra da circa quattro anni. Nuoto da quando avevo tre anni. Ma penso che la corsa sia lo sport che più mi rappresenta, da sola, per chilometri, uno scenario perfettamente masochistico.
 
 La corsa ti porta in una conversazione silenziosa con il mondo, ti porta in strada, e in strada non può che succedere di tutto.
 
