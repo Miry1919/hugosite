@@ -8,7 +8,7 @@ description: ♥
 
 ### <span style="color:red">Donatori</span>
 
-Questa pagina è dedicata ai donatori, tutti coloro che con una piccola ma per me enorme somma di denaro hanno supportato hello website, Tenero Gheriglio PODCAST, tutti i miei progetti di scrittura, e hanno contribuito ad acquistare l'attrezzatura necessaria e i miliardi di libri che leggo. A ognuno di loro va un ringraziamento speciale.
+Questa pagina è dedicata ai donatori, tutti coloro che con una piccola ma per me enorme somma di denaro hanno supportato hello website, Tenero Gheriglio PODCAST, tutti i miei progetti di scrittura, i miei video, e hanno contribuito ad acquistare l'attrezzatura necessaria e i miliardi di libri che leggo. A ognuno di loro va un ringraziamento speciale.
 
 ---
 ---
