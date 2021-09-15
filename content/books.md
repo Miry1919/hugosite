@@ -4,13 +4,12 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _I bottoni di Napoleone. Come 17 molecole hanno cambiato la storia_ — Penny Le Couteur e Jay Burreson
+* _Anna Karenina_ — Lev Tolstoj
+* _Il giovane Holden_ — Jerome David Salinger
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Anna Karenina_ — Lev Tolstoj
-* _Il giovane Holden_ — Jerome David Salinger
 * _Diario di una scrittrice_ — Virginia Woolf
 * _Racconti fantastici. Diavoleide - Uova fatali - Cuore di cane - Le avventure di Cicikov_ — Michail Bulgakov
 * _L'uomo e i suoi simboli_ — Carl Gustav Jung
@@ -34,6 +33,7 @@ description: ¶
 * _L'amico ritrovato_ — Fred Uhlman
 * _Mattatoio n. 5_ — Kurt Vonnegut
 * _Ancora bigotti. Gli italiani e la morale sessuale_ — Edoardo Lombardi Vallauri
+* _I bottoni di Napoleone. Come 17 molecole hanno cambiato la storia_ — Penny Le Couteur e Jay Burreson
 &nbsp;
 
 <span style="color:red">*2020 (dal primo all'ultimo)*</span>

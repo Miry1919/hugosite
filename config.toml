@@ -46,8 +46,8 @@ theme = "minimal"
     weight = 7
     
 [[menu.main]]
-    url = "/sf/"
-    name = "S&F"
+    url = "/donors/"
+    name = "Donors"
     weight = 8
 
 [[menu.icon]]
