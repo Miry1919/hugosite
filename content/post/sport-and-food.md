@@ -9,7 +9,7 @@ Qualche giorno fa ho fatto fuori la sezione "S&F" (sport and food) per fare post
 &nbsp;
 
 <div align="center">
-Allora la defunta sezione "S&F" la riporto qui sotto, per salvarla in qualche modo. Aggiungerei peò una cosa importante, che si valuta troppo spesso in modo errato: il benessere fisico dipende al 70% dall'alimentazione e al 30% dall'esercizio fisico. Quindi, per esempio, non andate in palestra 2/3 volte alla settimana per poi mangiare sempre male e senza criterio, non funzionerà per niente bene! L'alimentazione equilibrata, che significa almeno per l'80% corretta, cambia la vita.
+Allora la defunta sezione "S&F" la riporto qui sotto, per salvarla in qualche modo. Aggiungerei però una cosa importante, che si valuta troppo spesso in modo errato: il benessere fisico dipende al 70% dall'alimentazione e al 30% dall'esercizio fisico. Quindi, per esempio, non andate in palestra 2/3 volte alla settimana per poi mangiare sempre male e senza criterio, non funzionerà per niente bene! L'alimentazione equilibrata, che significa almeno per l'80% corretta, cambia la vita.
 </div>
 
 ---
