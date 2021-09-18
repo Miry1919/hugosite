@@ -1,5 +1,5 @@
 ---
-title: "Sport & Food, e i sogni di un sito nuovo"
+title: "Sport & Food, e sogni di un sito nuovo"
 date: 2021-09-18
 ---
 <div align="center">
