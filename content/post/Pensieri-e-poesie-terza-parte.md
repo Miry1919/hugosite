@@ -84,6 +84,8 @@ Per me invece, è sicuro, esisti solo tu
 
 <span style="text-decoration:underline">*Prova di traduzione*</span>
 
+&nbsp;
+
 *And while you're happy I'll wait for you*
 
 *Those hugs in the bed are not enough*
@@ -99,6 +101,8 @@ Per me invece, è sicuro, esisti solo tu
 *To you, it's clear, I don't even exist anymore*
 
 *But for me, for sure, there's only you*
+
+&nbsp;
 
 ---
 
@@ -130,6 +134,8 @@ Ti giuro, ti amo
 
 <span style="text-decoration:underline">*Prova di traduzione*</span>
 
+&nbsp;
+
 *Maybe I still haven't lost you*
 
 *We are always here, usual time*
@@ -145,6 +151,8 @@ Ti giuro, ti amo
 *I love you*
 
 *I swear, I love you*
+
+&nbsp;
 
 ---
 
@@ -170,7 +178,7 @@ Sulla terra non ritorna.
 
 &nbsp;
 
-<span style="color:red">*— 18 luglio 2020*</span>
+<span style="color:red">*— 18 luglio 2021*</span>
 
 ---
 
