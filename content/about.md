@@ -35,7 +35,7 @@ Salda nella furia dei venti e degli eventi
 &nbsp;
 
 <div align="center">
-0 Rh –
+Ø Rh –
 </div>
 
 &nbsp;
