@@ -84,14 +84,21 @@ Per me invece, è sicuro, esisti solo tu
 
 <span style="text-decoration:underline">*Prova di traduzione*</span>
 
-*And while you're happy I'll wait for you
-Those hugs in the bed are not enough
-Every day I imagine you walking
-Sometimes you seem so present, defined
-As if I could really touch you
-But that I don't exist is the real truth
-To you, it's clear, I don't even exist anymore
-But for me, for sure, there's only you*
+*And while you're happy I'll wait for you*
+
+*Those hugs in the bed are not enough*
+
+*Every day I imagine you walking*
+
+*Sometimes you seem so present, defined*
+
+*As if I could really touch you*
+
+*But that I don't exist is the real truth*
+
+*To you, it's clear, I don't even exist anymore*
+
+*But for me, for sure, there's only you*
 
 ---
 
@@ -123,14 +130,21 @@ Ti giuro, ti amo
 
 <span style="text-decoration:underline">*Prova di traduzione*</span>
 
-*Maybe I still haven't lost you
-We are always here, usual time
-Unnecessary words such as wind
-Or bizzarre and simple but strong
-They don't erase my wrongs
-But I swear, I don't lie
-I love you
-I swear, I love you*
+*Maybe I still haven't lost you*
+
+*We are always here, usual time*
+
+*Unnecessary words such as wind*
+
+*Or bizzarre and simple but strong*
+
+*They don't erase my wrongs*
+
+*But I swear, I don't lie*
+
+*I love you*
+
+*I swear, I love you*
 
 ---
 
