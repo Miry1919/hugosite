@@ -134,6 +134,8 @@ Che io so già che gusto ha
 ---
 
 Puoi leggere la prima parte <span style="text-decoration:underline">[qui](https://miry1919.github.io/hugosite/post/pensieri-e-poesie/)</span>.
+E la terza parte <span style="text-decoration:underline">[qui](https://miry1919.github.io/hugosite/post/pensieri-e-poesie-terza-parte/)</span>.
+
 
 &nbsp;
 
