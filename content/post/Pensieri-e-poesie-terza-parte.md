@@ -56,56 +56,6 @@ Non ci sei più
 
 ---
 
-<span style="text-decoration:underline">E mentre sei felice io ti aspetto</span>
-
-&nbsp;
-
-E mentre sei felice io ti aspetto
-
-Non bastano gli abbracci nel letto
-
-Ti immagino ogni giorno camminare
-
-A volte sembri così presente, definita
-
-Come se ti potessi davvero sfiorare
-
-Ma che non esisto è la verità concreta
-
-Per te, è chiaro, non esisto neanche più
-
-Per me invece, è sicuro, esisti solo tu
-
-&nbsp;
-
-<span style="color:red">*— 26 agosto 2021*</span>
-
-&nbsp;
-
-<span style="text-decoration:underline">*Prova di traduzione*</span>
-
-&nbsp;
-
-*And while you're happy I'll wait for you*
-
-*Those hugs in the bed are not enough*
-
-*Every day I imagine you walking*
-
-*Sometimes you seem so present, defined*
-
-*As if I could really touch you*
-
-*But that I don't exist is the real truth*
-
-*To you, it's clear, I don't even exist anymore*
-
-*But for me, for sure, there's only you*
-
-&nbsp;
-
----
-
 <span style="text-decoration:underline">Ti giuro, ti amo</span>
 
 &nbsp;
@@ -151,6 +101,56 @@ Ti giuro, ti amo
 *I love you*
 
 *I swear, I love you*
+
+&nbsp;
+
+---
+
+<span style="text-decoration:underline">E mentre sei felice io ti aspetto</span>
+
+&nbsp;
+
+E mentre sei felice io ti aspetto
+
+Non bastano gli abbracci nel letto
+
+Ti immagino ogni giorno camminare
+
+A volte sembri così presente, definita
+
+Come se ti potessi davvero sfiorare
+
+Ma che non esisto è la verità concreta
+
+Per te, è chiaro, non esisto neanche più
+
+Per me invece, è sicuro, esisti solo tu
+
+&nbsp;
+
+<span style="color:red">*— 26 agosto 2021*</span>
+
+&nbsp;
+
+<span style="text-decoration:underline">*Prova di traduzione*</span>
+
+&nbsp;
+
+*And while you're happy I'll wait for you*
+
+*Those hugs in the bed are not enough*
+
+*Every day I imagine you walking*
+
+*Sometimes you seem so present, defined*
+
+*As if I could really touch you*
+
+*But that I don't exist is the real truth*
+
+*To you, it's clear, I don't even exist anymore*
+
+*But for me, for sure, there's only you*
 
 &nbsp;
 
