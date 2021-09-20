@@ -22,11 +22,44 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #59 (13•9•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #60 (20•9•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[Una puntata internazionale](https://anchor.fm/miriana-novella7/episodes/60--Una-puntata-internazionale-e17iirj)
+    
+    Sessantesima puntata. Parto aggiornandovi sulla mia standing desk regolabile motorizzata che possiedo ormai da un anno e un mese, per poi passare al libro appena terminato "I bottoni di Napoleone. Come 17 molecole hanno cambiato la storia" di Penny Le Couteur e Jay Burreson, e concludere parlandovi dell'evento Apple di martedì 14 settembre 2021 e dei nuovi post pubblicati sul mio sito.
+    
+    &nbsp;
+    
+    • [Scrivania IDÅSEN Ikea](https://www.ikea.com/it/it/p/idasen-scrivania-regolabile-in-altezza-marrone-grigio-scuro-s79280955/)
+
+    • [Evento Apple](https://youtu.be/EvGOlAkLSLw)
+    
+    &nbsp;
+
+    • Posts:
+    
+    → [Sport & Food, e sogni di un sito nuovo](https://miry1919.github.io/hugosite/post/sport-and-food/)
+    
+    → [Pensieri e Poesie [terza e ultima parte]](https://miry1919.github.io/hugosite/post/pensieri-e-poesie-terza-parte/)
+    
+    &nbsp;
+
+    DONATORI della puntata:
+    
+    ★ Sven Lamers
+    
+    ★ Oscar Rizzo
+
+---
+
+
+* Puntata #59 (13•9•2021)
 
     ☞[Sono molto precisa, e innamorata dell'ordine](https://anchor.fm/miriana-novella7/episodes/59--Sono-molto-precisa--e-innamorata-dellordine-e178k31)
     
     A 20 anni dalla strage delle Torri Gemelle vi parlo del documentario 9 /11 (Apple TV+). Poi vi racconto dell'università, di "Mirianaerobics", della mia nuova libreria a muro, e della precisione, dell'ordine fisico, dell'ordine mentale, contrapposto al disordine creativo.
+    
+    &nbsp;
     
     • "Mirianaerobics" (aerobics/anaerobic):
     
@@ -34,11 +67,15 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
     
     → [Playlist](https://music.apple.com/it/playlist/mirianaerobics/pl.u-Ymb00Bycq9vbM1?l=en)
     
+    &nbsp;
+    
     • Contenuti menzionati presenti su Apple TV+:
     
     → [9 /11](https://tv.apple.com/it/movie/911-inside-the-presidents-war-room/umc.cmc.4z19ay2w4pmtze6itezwa78w6)
     
     → [Physical](https://tv.apple.com/it/show/physical/umc.cmc.6gdc6v4vwyaab7klocftv2s10)
+    
+    &nbsp;
     
     • [Foto in divisa AM](https://www.instagram.com/p/CTjNVpKigCU/?utm_medium=copy_link)
     
@@ -53,8 +90,10 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
     ☞[I libri sono un po' le parole a cui io mi aggrappo](https://anchor.fm/miriana-novella7/episodes/58--I-libri-sono-un-po-le-parole-a-cui-io-mi-aggrappo-e16q4b0)
     
     Al rientro dalla pausa estiva descrivo quali libri ho letto, parlo dei post che ho scritto, dei video che ho visto e degli sport che ho fatto.
+    
+    &nbsp;
 
-    Posts:
+    • Posts:
     
     → [Tanti auguri amore mio](https://miry1919.github.io/hugosite/post/tanti-auguri-amore-mio/)
     
@@ -64,11 +103,11 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
     &nbsp;
     
-    Video ☞["I pericoli della scienza arrogante"](https://youtu.be/KjiGOptUC00)
+    • Video ☞["I pericoli della scienza arrogante"](https://youtu.be/KjiGOptUC00)
 
     &nbsp;
 
-    Libri menzionati con link sponsorizzati per supportare Tenero Gheriglio:
+    • Libri menzionati:
     
     → [Madame Bovary](https://amzn.to/2WHbvDy)
     
