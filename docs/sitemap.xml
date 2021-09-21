@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://miry1919.github.io/hugosite/podcast/digitalia/</loc>
-    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://miry1919.github.io/hugosite/</loc>
-    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://miry1919.github.io/hugosite/podcast/</loc>
-    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -55,6 +45,11 @@
   <url>
     <loc>https://miry1919.github.io/hugosite/post/pensieri-e-poesie/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://miry1919.github.io/hugosite/podcast/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -150,6 +145,11 @@
   <url>
     <loc>https://miry1919.github.io/hugosite/post/le-parole/</loc>
     <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://miry1919.github.io/hugosite/podcast/digitalia/</loc>
+    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>

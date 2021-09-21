@@ -1,7 +1,7 @@
 ---
 title: Digitalia
-description: 2021
-date: 2021-09-21
+description: 2021 participation
+date: 2019-11-17
 ---
 <div align="center">
 Ho avuto l'occasione di partecipare al finale della puntata #591 di questo fantastico podcast.
