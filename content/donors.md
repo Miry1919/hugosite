@@ -20,6 +20,10 @@ _♥ Sven Lamers ~ 13•09•2021_
 _♥ Oscar Rizzo ~ 15•09•2021_
 
 ---
+
+_♥ Alessandro Salvarani ~ 24•09•2021_
+
+---
 ---
 
 ### <span style="color:red">Come donare?</span>
