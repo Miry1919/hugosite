@@ -28,6 +28,8 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
     
     VideoPodcast 4! Vi mostro il mio nuovo iPad mini 6th gen, vi spiego perché l'ho preso comparandolo con gli altri dispositivi, poi vi mostro anche alcuni libri, il sito, il Power Bank Anker MagSafe e una "One more thing" nel finale.
     
+    *** Non so perché ho detto SaggioPodcast all'inizio. Ho sbagliato, ma il ☞[SaggioPodcast](https://www.easypodcast.it/saggiopodcast) è un bellissimo podcast che vi consiglio.
+    
     &nbsp;
     
     {{< youtube hZF53YeCogI >}}
