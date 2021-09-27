@@ -26,7 +26,9 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
     ☞[Che così siamo già pronti per Natale](https://anchor.fm/miriana-novella7/episodes/61--Che-cos-siamo-gi-pronti-per-Natale-e17v17g)
     
-    VideoPodcast 4! Vi mostro il mio nuovo iPad mini 6th gen, vi spiego perché l'ho preso comparandolo con gli altri dispositivi, poi vi mostro anche alcuni libri, il sito, il Power Bank Anker MagSafe e una "One more thing" nel finale. {{< youtube _hZF53YeCogI >}}
+    VideoPodcast 4! Vi mostro il mio nuovo iPad mini 6th gen, vi spiego perché l'ho preso comparandolo con gli altri dispositivi, poi vi mostro anche alcuni libri, il sito, il Power Bank Anker MagSafe e una "One more thing" nel finale.
+    
+    https://www.youtube.com/watch?v=hZF53YeCogI
     
     → [Foto iPad mini vs Pro](https://www.instagram.com/p/CUR-Xioq4MC/?utm_medium=copy_link)
     
