@@ -22,7 +22,23 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #60 (20•9•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #61 (27•9•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[Che così siamo già pronti per Natale](https://anchor.fm/miriana-novella7/episodes/61--Che-cos-siamo-gi-pronti-per-Natale-e17v17g)
+    
+    VideoPodcast 4! Vi mostro il mio nuovo iPad mini 6th gen, vi spiego perché l'ho preso comparandolo con gli altri dispositivi, poi vi mostro anche alcuni libri, il sito, il Power Bank Anker MagSafe e una "One more thing" nel finale. {{< youtube _hZF53YeCogI >}}
+    
+    → [Foto iPad mini vs Pro](https://www.instagram.com/p/CUR-Xioq4MC/?utm_medium=copy_link)
+    
+    → [Foto iPad mini vs iPhone 12](https://www.instagram.com/p/CUR-zRtKRTB/?utm_medium=copy_link)
+    
+    → [Twelve South HoverBar Duo Stand](https://www.amazon.it/dp/B08VYLQS9F/ref=cm_sw_r_cp_api_glt_i_1YNKXCYD1DSE082MBP2Q)
+    
+    → [Anker Power Bank](https://www.amazon.it/dp/B08TW7BRTJ/ref=cm_sw_r_cp_api_glt_i_dl_K8C56Z0XN0Y6RSHW4XXH)
+
+---
+
+* Puntata #60 (20•9•2021)
 
     ☞[Una puntata internazionale](https://anchor.fm/miriana-novella7/episodes/60--Una-puntata-internazionale-e17iirj)
     
