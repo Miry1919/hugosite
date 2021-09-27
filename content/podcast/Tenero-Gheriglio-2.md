@@ -28,7 +28,7 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
     
     VideoPodcast 4! Vi mostro il mio nuovo iPad mini 6th gen, vi spiego perché l'ho preso comparandolo con gli altri dispositivi, poi vi mostro anche alcuni libri, il sito, il Power Bank Anker MagSafe e una "One more thing" nel finale.
     
-    https://www.youtube.com/watch?v=hZF53YeCogI
+    {{< youtube hZF53YeCogI >}}
     
     → [Foto iPad mini vs Pro](https://www.instagram.com/p/CUR-Xioq4MC/?utm_medium=copy_link)
     
