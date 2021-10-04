@@ -12,7 +12,7 @@ theme = "minimal"
 
 [[menu.main]]
     url = "/writings/"
-    name = "✍"
+    name = "✐"
     weight = 1
 
 [[menu.main]]
