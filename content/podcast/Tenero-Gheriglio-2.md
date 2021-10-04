@@ -22,7 +22,29 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #61 (27•9•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #62 (4•10•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[La vita è essenzialmente un mistero](https://anchor.fm/miriana-novella7/episodes/62--La-vita--essenzialmente-un-mistero-e18a0li)
+    
+    62ª puntata. Dopo l'introduzione vi parlo della notizia di domenica, della caduta dell'aeroplano a San Donato Milanese, della differenza che c'è tra terra, acqua e aria (tra automobili, navi e aerei). Inoltre vi aggiorno sulla mia esperienza con l'iPad mini, aggiungo informazioni importanti, vi consiglio l'app Noir che rende universale la Dark Mode in Safari. Ci sono alcune novità sul mio sito!
+    
+    &nbsp;
+    
+    → [Video di The Verge sul nuovo iPad mini](https://youtu.be/INlu3iSXmWk)
+    
+    → [App Noir - Dark Mode for Safari](https://apps.apple.com/it/app/noir-dark-mode-for-safari/id1581140954?l=en)
+    
+    ✎ [Nuova sezione del sito "Writings"](https://miry1919.github.io/hugosite/writings/)
+    
+    &nbsp;
+    
+    DONATORI della puntata:
+    
+    ★ Alessandro Salvarani
+
+---
+
+* Puntata #61 (27•9•2021)
 
     ☞[Che così siamo già pronti per Natale](https://anchor.fm/miriana-novella7/episodes/61--Che-cos-siamo-gi-pronti-per-Natale-e17v17g)
     
