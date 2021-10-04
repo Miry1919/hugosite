@@ -34,6 +34,8 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
     
     → [App Noir - Dark Mode for Safari](https://apps.apple.com/it/app/noir-dark-mode-for-safari/id1581140954?l=en)
     
+    &nbsp;
+    
     ✎ [Nuova sezione del sito "Writings"](https://miry1919.github.io/hugosite/writings/)
     
     &nbsp;
