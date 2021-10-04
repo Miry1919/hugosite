@@ -11,23 +11,23 @@ theme = "minimal"
     font = "Georgia"
 
 [[menu.main]]
-    url = "/"
-    name = "⎋"
+    url = "/writings/"
+    name = "✍"
     weight = 1
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 2
 
 [[menu.main]]
     url = "/about/"
     name = "Me"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     url = "/post/"
     name = "Posts"
-    weight = 3
-    
-[[menu.main]]
-    url = "/writings/"
-    name = "Writings"
     weight = 4
 
 [[menu.main]]
