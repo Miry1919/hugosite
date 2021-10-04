@@ -12,7 +12,7 @@ theme = "minimal"
 
 [[menu.main]]
     url = "/"
-    name = "⌂"
+    name = "Home"
     weight = 1
 
 [[menu.main]]
@@ -24,31 +24,36 @@ theme = "minimal"
     url = "/post/"
     name = "Posts"
     weight = 3
+    
+[[menu.main]]
+    url = "/writings/"
+    name = "Writings"
+    weight = 4
 
 [[menu.main]]
     url = "/podcast/"
     name = "Podcasts"
-    weight = 4
+    weight = 5
     
 [[menu.main]]
     url = "/books/"
     name = "Books"
-    weight = 5
+    weight = 6
     
 [[menu.main]]
     url = "/quote/"
     name = "Quotes"
-    weight = 6
-    
-[[menu.main]]
-    url = "/music/"
-    name = "Music"
     weight = 7
     
 [[menu.main]]
     url = "/donors/"
     name = "Donors"
     weight = 8
+    
+[[menu.main]]
+    url = "/music/"
+    name = "♫"
+    weight = 9
 
 [[menu.icon]]
     url = "https://www.instagram.com/miry_geek/"
