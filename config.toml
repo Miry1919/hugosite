@@ -12,12 +12,12 @@ theme = "minimal"
 
 [[menu.main]]
     url = "/"
-    name = "Home"
+    name = "⎋"
     weight = 1
 
 [[menu.main]]
     url = "/about/"
-    name = "About"
+    name = "Me"
     weight = 2
 
 [[menu.main]]
