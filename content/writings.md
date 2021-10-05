@@ -12,6 +12,48 @@ description: ✎
 
 ---
 
+E ogni volta torno da te
+
+Sotto casa
+
+Triste o allegra
+
+Di mattina o di sera
+
+Perché sei la mia stella
+
+Non sei spenta
+
+Sono attenta
+
+Sarai sempre bella
+
+Nei miei pensieri
+
+Ti sento ancora addosso
+
+In quell'abbraccio
+
+Ci penso ridere
+
+In macchina
+
+Sento un calore immenso
+
+Forte almeno
+
+Quanto il dolore
+
+Del tuo no
+
+Amore
+
+&nbsp;
+
+<span style="color:red">*— 23 settembre 2021*</span>
+
+---
+
 *Siamo immersi in un mondo pieno di pregiudizi, giudizi, che "lascia perdere", per chiudere gli occhi, per stare nel buio dolce della superficialità.*
 
 <span style="color:red">*— 22 settembre 2021*</span>
