@@ -8,15 +8,11 @@ description: ✎
 
 *Oggi osservavo le case. Le case possono essere di ogni genere, vecchie o ristrutturate, belle o trasandate: ma tutte dentro hanno letto, cucina, bagno, connessione, corrente elettrica, acqua, gas. E allora siamo tutti uguali; c'è casa e casa, siamo tutti diversi, ma siamo tutti uguali.*
 
-&nbsp;
-
 <span style="color:red">*— 28 settembre 2021*</span>
 
 ---
 
 *Siamo immersi in un mondo pieno di pregiudizi, giudizi, che "lascia perdere", per chiudere gli occhi, per stare nel buio dolce della superficialità.*
-
-&nbsp;
 
 <span style="color:red">*— 22 settembre 2021*</span>
 
