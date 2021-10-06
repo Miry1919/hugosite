@@ -1,6 +1,6 @@
 ---
 title: Writings
-description: ✎
+description: ✐
 ---
 
 ---
