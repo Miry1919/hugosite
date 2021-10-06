@@ -10,8 +10,8 @@ description: ¶
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Diario di una scrittrice_ — Virginia Woolf
 * _Racconti fantastici. Diavoleide - Uova fatali - Cuore di cane - Le avventure di Cicikov_ — Michail Bulgakov
+* _Diario di una scrittrice_ — Virginia Woolf
 * _L'uomo e i suoi simboli_ — Carl Gustav Jung
 
 &nbsp;
