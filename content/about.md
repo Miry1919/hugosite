@@ -53,6 +53,3 @@ Salda nella furia dei venti e degli eventi
 </div>
 
 &nbsp;
-
-&nbsp;
-
