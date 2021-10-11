@@ -24,7 +24,7 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 * Puntata #63 (11•10•2021) <span style="color:blue">⚡ New!</span>
 
-    ☞[ "Chi è che vuole i fiori, da morto? Nessuno."](https://anchor.fm/miriana-novella7/episodes/63--Chi--che-vuole-i-fiori--da-morto--Nessuno-e18kgs9)
+    ☞["Chi è che vuole i fiori, da morto? Nessuno."](https://anchor.fm/miriana-novella7/episodes/63--Chi--che-vuole-i-fiori--da-morto--Nessuno-e18kgs9)
     
     Ragazzi, particolare la puntata 63. Parto con Apple Watch Series 7, Nintendo Switch OLED Model. Poi vi parlo del libro appena finito, "Il giovane Holden", di Jerome David Salinger. Infine, dopo un giorno, mi trasformo in un audiolibro e vi leggo il racconto "Le rovine circolari" contenuto nel libro "Finzioni", di Jorge Luis Borges.
 
