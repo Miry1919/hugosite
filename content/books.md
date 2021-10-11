@@ -27,13 +27,13 @@ description: ¶
 * _Il profumo_ — Patrick Süskind ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/49--Il-genio-pu-essere-confinato-dentro-un-guscio-di-noce-etp4nt)
 * _Il codice dell'anima. Carattere, vocazione, destino_ — James Hillman ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/il-codice-dellanima/)  & ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/Ci-che-conta--la-passione-e1044l6)
 * _Madame Bovary_ — Gustave Flaubert
-* _Finzioni_ — Jorge Luis Borges
+* _Finzioni_ — Jorge Luis Borges ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/63--Chi--che-vuole-i-fiori--da-morto--Nessuno-e18kgs9)
 * _Germinale_ — Émile Zola
 * _L'amico ritrovato_ — Fred Uhlman
 * _Mattatoio n. 5_ — Kurt Vonnegut
 * _Ancora bigotti. Gli italiani e la morale sessuale_ — Edoardo Lombardi Vallauri
-* _I bottoni di Napoleone. Come 17 molecole hanno cambiato la storia_ — Penny Le Couteur e Jay Burreson
-* _Il giovane Holden_ — Jerome David Salinger
+* _I bottoni di Napoleone. Come 17 molecole hanno cambiato la storia_ — Penny Le Couteur e Jay Burreson ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/60--Una-puntata-internazionale-e17iirj)
+* _Il giovane Holden_ — Jerome David Salinger ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/63--Chi--che-vuole-i-fiori--da-morto--Nessuno-e18kgs9)
 &nbsp;
 
 <span style="color:red">*2020 (dal primo all'ultimo)*</span>
