@@ -89,7 +89,7 @@ Ma torniamo a noi. Concluderei. Amo l'iPad mini di sesta generazione, lo uso aff
 
 &nbsp;
 
-Ovviamente se volete avere un solo iPad è facile consigliare l'11" Air, o Pro come volete. Tuttavia addirittura dopo *tre settimane* che ce l'ho posso dirvi che può andare benissimo anche questo mini, ha una portabilità eccezionale, e se ci pensate è solo più piccolo, avvicinandolo di più al nostro volto (si può ragionare così perché ha anche una densità di pixel di 324 ppi rispetto a quella di 264 ppi dell'11") sarà come avere davanti un 11". Vedete voi, l'8.3" è alto quanto è largo l'11", l'11" è alto quanto è largo il 12.9". Che lusso avere tutta questa scelta al giorno d'oggi, dieci anni fa, nel 2011, l'iPad che potevo comprare era solo uno, l'iPad 2, 9.7", stop (ma era bellissimo il mio primo iPad eh, non fraintendete).
+Ovviamente se volete avere un solo iPad è facile consigliare l'11" Air, o Pro, come volete. Tuttavia addirittura dopo *tre settimane* che ce l'ho posso dirvi che può andare benissimo anche questo mini, ha una portabilità eccezionale, e se ci pensate è solo più piccolo, avvicinandolo di più al nostro volto (si può ragionare così perché ha anche una densità di pixel di 324 ppi rispetto a quella di 264 ppi dell'11") sarà come avere davanti un 11". Vedete voi, l'8.3" è alto quanto è largo l'11", l'11" è alto quanto è largo il 12.9". Che lusso avere tutta questa scelta al giorno d'oggi, dieci anni fa, nel 2011, l'iPad che potevo comprare era solo uno, l'iPad 2, 9.7", stop (ma era bellissimo il mio primo iPad eh, non fraintendete).
 
 &nbsp;
 
