@@ -61,7 +61,7 @@ Le fotocamere sono grandiose, e soprattutto quella frontale che, con anche la fu
 
 &nbsp;
 
-Il prezzo è alto ma come è alto quello di iPad Air di quinta generazione; se quello di iPad Air secondo voi è ok, allora questo, essendo di €100 in meno, vi assicuro che è ok, poiché è anche più potente di iPad Air. E poi si abbasserà un pochino il prezzo più avanti, e sarà grandioso. Gli iPhone non costano poco, solo che compriamo Mac e iPhone senza pensare troppo al prezzo perché un telefono e un computer *devi averli*, un iPad puoi anche non possederlo; è un dispositivo all'*apparenza* più secondario.
+Il prezzo è alto ma come è alto quello di iPad Air di quinta generazione; se quello di iPad Air secondo voi è ok, allora questo, essendo di €100 in meno, vi assicuro che è ok, poiché è anche più potente di iPad Air. E poi si abbasserà un pochino il prezzo più avanti, e sarà grandioso. Gli iPhone non costano poco, solo che compriamo iPhone e Mac senza pensare troppo al prezzo perché un telefono e un computer *devi averli*, un iPad puoi anche non possederlo; è un dispositivo all'*apparenza* più secondario.
 
 &nbsp;
 
