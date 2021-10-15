@@ -7,7 +7,7 @@ date: 2021-10-15
 
 &nbsp;
 
-Ci sono tre formati di iPad dal design moderno, 8.3", 11", 12.9". Si incontano al bar per cercare di capire chi è il più valoroso... Ah no, non è una barzelletta, esistono davvero! Sono felice di poter scrivere qualcosa su di loro, e soprattutto sul più piccolo, il nuovo iPad mini di sesta generazione, con display 8.3", cornici ridotte, niente più tasto Home, chip A15 Bionic (lo stesso dei nuovi iPhone 13), Touch ID sul tasto di sblocco, compatibilità con Apple Pencil 2 magnetica.
+Ci sono tre formati di iPad dal design moderno, 8.3", 11", 12.9". Si incontrano al bar per cercare di capire chi è il più valoroso... Ah no, non è una barzelletta, esistono davvero! Sono felice di poter scrivere qualcosa su di loro, e soprattutto sul più piccolo, il nuovo iPad mini di sesta generazione, con display 8.3", cornici ridotte, niente più tasto Home, chip A15 Bionic (lo stesso dei nuovi iPhone 13), Touch ID sul tasto di sblocco, compatibilità con Apple Pencil 2 magnetica.
 
 &nbsp;
 
