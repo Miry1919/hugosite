@@ -6,6 +6,12 @@ description: ✐
 ---
 ---
 
+*Chi non ha voglia di imparare, o la curiosità di progredire, non lascerà nulla, anzi plastica.*
+
+<span style="color:red">*— 16 ottobre 2021*</span>
+
+---
+
 *Oggi osservavo le case. Le case possono essere di ogni genere, vecchie o ristrutturate, belle o trasandate: ma tutte dentro hanno letto, cucina, bagno, connessione, corrente elettrica, acqua, gas. E allora siamo tutti uguali; c'è casa e casa, siamo tutti diversi, ma siamo tutti uguali.*
 
 <span style="color:red">*— 28 settembre 2021*</span>
