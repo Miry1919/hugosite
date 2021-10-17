@@ -22,7 +22,25 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #63 (11•10•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #64 (17•10•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[Se Apple anticipa Google, Miriana anticipa Apple](https://anchor.fm/miriana-novella7/episodes/64--Se-Apple-anticipa-Google--Miriana-anticipa-Apple-e18tfun)
+    
+    La puntata 2⁶ esce con 24 ore di anticipo. Apple ha deciso di spostare a lunedì 18 ottobre l'evento riguardante i nuovi MacBook Pro e altro, evento che molto probabilmente sarebbe stato martedì 19 ottobre 2021 se non ci fosse stato l'evento Google martedì! Allora io precedo Apple. Vi racconto dell'esperimento della settimana scorsa, l'audiolibro, e della recensione dell'iPad mini che ho pubblicato venerdì. Infine vi leggo qualcosa, vi parlo di alcune questioni personali, nuovi acquisti e argomenti successivi.
+    
+    &nbsp;
+
+    → [iPad mini di sesta generazione, la mia recensione](https://miry1919.github.io/hugosite/post/ipad-mini-di-sesta-generazione/)
+
+    → [Writings](https://miry1919.github.io/hugosite/writings/)
+
+    → [Pensieri e poesie [terza e ultima parte]](https://miry1919.github.io/hugosite/post/pensieri-e-poesie-terza-parte/)
+
+    → [Macho fisicato (ahaha)](https://www.instagram.com/p/CMtECKapK0I/?utm_medium=copy_link)
+
+---
+
+* Puntata #63 (11•10•2021)
 
     ☞["Chi è che vuole i fiori, da morto? Nessuno."](https://anchor.fm/miriana-novella7/episodes/63--Chi--che-vuole-i-fiori--da-morto--Nessuno-e18kgs9)
     
