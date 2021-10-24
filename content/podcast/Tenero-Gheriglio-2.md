@@ -22,7 +22,31 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #64 (17•10•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #65 (24•10•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[La linea che io seguo è chiara, è sicuramente chiara](https://anchor.fm/miriana-novella7/episodes/65--La-linea-che-io-seguo--chiara---sicuramente-chiara-e197sfq)
+    
+    Nella puntata 65 vi parlo delle ultime vicissitudini (oh mamma sbaglio a dirlo, probabilmente per la derivazione da “vece”), personali e non, e pubblico di nuovo in anticipo, addirittura di domenica alle h. 15:00, perché non sto più nella pelle, voglio farvi sapere tutto il prima possibile! Parlo anche, ovviamente, dell'evento Apple tenutosi lunedì 18 ottobre 2021 (HomePod mini colorati anche in Italia, nuovi AirPods 3, e nuovi MacBook Pro).
+    
+    &nbsp;
+
+    • Evento Apple: https://youtu.be/exM1uajp--A
+    
+    &nbsp;
+    
+    • Link ai miei post su Instagram:
+
+    → Scarpe Adidas Invernali: https://www.instagram.com/p/CVK35nHqBW8/?utm_medium=copy_link
+    
+    → HomePod mini: https://www.instagram.com/p/CVM4kjLqFl-/?utm_medium=copy_link
+    
+    &nbsp;
+
+    • Writings: https://miry1919.github.io/hugosite/writings/
+
+---
+
+* Puntata #64 (17•10•2021)
 
     ☞[Se Apple anticipa Google, Miriana anticipa Apple](https://anchor.fm/miriana-novella7/episodes/64--Se-Apple-anticipa-Google--Miriana-anticipa-Apple-e18tfun)
     
