@@ -30,19 +30,19 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
     
     &nbsp;
 
-    • Evento Apple: https://youtu.be/exM1uajp--A
+    • [Evento Apple](https://youtu.be/exM1uajp--A)
     
     &nbsp;
     
     • Link ai miei post su Instagram:
 
-    → Scarpe Adidas Invernali: https://www.instagram.com/p/CVK35nHqBW8/?utm_medium=copy_link
+    → [Scarpe Adidas Invernali](https://www.instagram.com/p/CVK35nHqBW8/?utm_medium=copy_link)
     
-    → HomePod mini: https://www.instagram.com/p/CVM4kjLqFl-/?utm_medium=copy_link
+    → [HomePod mini](https://www.instagram.com/p/CVM4kjLqFl-/?utm_medium=copy_link)
     
     &nbsp;
 
-    • Writings: https://miry1919.github.io/hugosite/writings/
+    • [Writings](https://miry1919.github.io/hugosite/writings/)
 
 ---
 
