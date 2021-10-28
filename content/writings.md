@@ -6,6 +6,12 @@ description: ✐
 ---
 ---
 
+*Perché niente è o non è. Tutto è tutto strano.*
+
+<span style="color:red">*— 27 ottobre 2021*</span>
+
+---
+
 *Chi non ha voglia di imparare, o la curiosità di progredire, non lascerà nulla, anzi plastica.*
 
 <span style="color:red">*— 16 ottobre 2021*</span>
