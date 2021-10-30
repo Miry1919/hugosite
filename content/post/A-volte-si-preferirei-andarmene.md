@@ -13,7 +13,6 @@ _Note ridondanti._
 </span>
 
 _Scritto in meno di cinque minuti, praticamente zero editing._
-&nbsp;
 
 _L'uso del punto e virgola sarebbe risultato poco intuitivo._
 &nbsp;
