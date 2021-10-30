@@ -12,9 +12,8 @@ A volte sì, preferirei andarmene. Cosa c'è di così puro in questo mondo, null
 _Note ridondanti._
 </span>
 
-_Scritto in meno di cinque minuti, praticamente zero editing._
+_Scritto in meno di cinque minuti, praticamente zero editing; l'uso del punto e virgola sarebbe risultato poco intuitivo._
 
-_L'uso del punto e virgola sarebbe risultato poco intuitivo._
 &nbsp;
 
 <div align="center">
