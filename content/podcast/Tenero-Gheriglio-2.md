@@ -22,7 +22,21 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #65 (24•10•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #66 (1•11•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[Cosa c'è di così puro in questo mondo](https://anchor.fm/miriana-novella7/episodes/66--Cosa-c-di-cos-puro-in-questo-mondo-e19igp4)
+    
+    Puntata palindroma festiva 66. Con Halloween alle spalle vi parlo degli sviluppi conclusivi di ciò che mi è successo negli ultimi giorni, vi leggo il nuovo post che ho scritto "A volte sì, preferirei andarmene" e un tweet che tratta del rispetto; poi concludo il discorso sui nuovi MacBook Pro. Chicca finale: "The Size of Space".
+    
+    &nbsp;
+
+    → [Nuovo post](https://miry1919.github.io/hugosite/post/a-volte-si-preferirei-andarmene/)
+    
+    → [The Size of Space](https://neal.fun/size-of-space/)
+
+---
+
+* Puntata #65 (24•10•2021)
 
     ☞[La linea che io seguo è chiara, è sicuramente chiara](https://anchor.fm/miriana-novella7/episodes/65--La-linea-che-io-seguo--chiara---sicuramente-chiara-e197sfq)
     
