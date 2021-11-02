@@ -6,6 +6,12 @@ description: ✐
 ---
 ---
 
+*Non avevo mai ottenuto un incontro così ravvicinato e lucido con la morte, mi riferisco alla conquista di un pensiero molto limpido, evidente, di cosa può rappresentare la quieta inesistenza, o per meglio dire quel blocco, quel congelamento dell'ultimo istante di esistenza. E per questo credo di non aver mai avuto prima d'ora un pensiero così razionale sull'inatteso e vuoto senso della vita. Secondo la mia nuova razionalità, solo distinguendo in maniera lampante cosa la morte è in grado di creare distruggendo la vita, è possibile capire le intenzioni della vita stessa, dinamica, irrequieta, irruente.*
+
+<span style="color:red">*— 2 novembre 2021*</span>
+
+---
+
 *Perché niente è o non è. Tutto è tutto strano.*
 
 <span style="color:red">*— 27 ottobre 2021*</span>
