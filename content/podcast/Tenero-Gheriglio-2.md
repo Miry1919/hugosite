@@ -22,7 +22,21 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #66 (1•11•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #67 (8•11•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[Siamo noi allenatori di noi stessi](https://anchor.fm/miriana-novella7/episodes/67--Siamo-noi-allenatori-di-noi-stessi-e19s4jm)
+    
+    Sessantasettesima puntata all'insegna di ordini, MacBook Pro, Moleskine Pocket, Phablet, Apple Fitness+, fitness +++, auricolari (Beats Fit Pro), metodi di consultazione del meteo, recensioni, pensieri. Buon ascolto!
+
+    &nbsp;
+    
+    → [Moleskine Pocket](https://www.amazon.it/dp/B075ZC8D5H?ref=ppx_pop_mob_ap_share)
+    
+    → [Writings](https://miry1919.github.io/hugosite/writings/)
+
+---
+
+* Puntata #66 (1•11•2021)
 
     ☞[Cosa c'è di così puro in questo mondo](https://anchor.fm/miriana-novella7/episodes/66--Cosa-c-di-cos-puro-in-questo-mondo-e19igp4)
     
