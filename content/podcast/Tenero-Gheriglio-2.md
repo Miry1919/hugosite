@@ -22,7 +22,7 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #67 (8•11•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #67 (8•11•2021) <span style="color:blue">⚡ New</span>
 
     ☞[Siamo noi allenatori di noi stessi](https://anchor.fm/miriana-novella7/episodes/67--Siamo-noi-allenatori-di-noi-stessi-e19s4jm)
     
