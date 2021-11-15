@@ -56,7 +56,7 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
     
     &nbsp;
     
-    → [Video dei fluidi in 4k HDR](https://youtu.be/1MieluM0c6c)
+    • [Video dei fluidi in 4k HDR](https://youtu.be/1MieluM0c6c)
     
 ---
 
