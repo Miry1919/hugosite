@@ -22,7 +22,45 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #67 (8•11•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #68 (15•11•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[La nostra super-tacca bernoccolosa](https://anchor.fm/miriana-novella7/episodes/68--La-nostra-super-tacca-bernoccolosa-e1aa9sv)
+    
+    Oggi puntata 68, ovvero VideoPodcast 5. Vi parlo e vi mostro: la nuova Moleskine Pocket e la solita Moleskine Large, il mio nuovo MacBook Pro 14" 2021 e il suo cavo MagSafe, i Powerbeats Pro, gli AirPods Pro (salde saldi nella furia dei venti), i nuovi Joy-Con di Zelda (Skyward Sword) per la Nintendo Switch.
+    
+    &nbsp;
+    
+    {{< youtube Jatsx_TTEr0 >}}
+
+    &nbsp;
+    
+    • Post sul sito:
+    
+    → [Moleskine](https://miry1919.github.io/hugosite/post/a-postcard-of-the-future-from-the-future/)
+    
+    → [MacBook Pro 2021, impressioni a freddo](https://miry1919.github.io/hugosite/post/macbook-pro-2021-impressioni-a-freddo/)
+    
+    &nbsp;
+    
+    • Post su Instagram:
+    
+    → [MacBook 1](https://www.instagram.com/p/CWGosIZKeDY/?utm_medium=copy_link)
+    
+    → [MacBook 2](https://www.instagram.com/p/CWGp2FNqww-/?utm_medium=copy_link)
+    
+    → [MacBook 3](https://www.instagram.com/p/CWQQ3IKqSSf/?utm_medium=copy_link)
+    
+    → [MacBook 4](https://www.instagram.com/p/CWQRYaIqOH1/?utm_medium=copy_link)  
+    
+    → [Joy-Con di Zelda](https://www.instagram.com/tv/CWOCrSTFahV/?utm_medium=copy_link)
+    
+    &nbsp;
+    
+    → [Video dei fluidi in 4k HDR](https://youtu.be/1MieluM0c6c)
+    
+---
+
+* Puntata #67 (8•11•2021)
 
     ☞[Siamo noi allenatori di noi stessi](https://anchor.fm/miriana-novella7/episodes/67--Siamo-noi-allenatori-di-noi-stessi-e19s4jm)
     
