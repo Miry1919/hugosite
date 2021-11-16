@@ -26,7 +26,7 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
     ☞[La nostra super-tacca bernoccolosa](https://anchor.fm/miriana-novella7/episodes/68--La-nostra-super-tacca-bernoccolosa-e1aa9sv)
     
-    Oggi puntata 68, ovvero VideoPodcast 5. Vi parlo e vi mostro: la nuova Moleskine Pocket e la solita Moleskine Large, il mio nuovo MacBook Pro 14" 2021 e il suo cavo MagSafe, i Powerbeats Pro, gli AirPods Pro (salde saldi nella furia dei venti), i nuovi Joy-Con di Zelda (Skyward Sword) per la Nintendo Switch.
+    Oggi puntata 68, ovvero VideoPodcast 5. Vi parlo e vi mostro: la nuova Moleskine Pocket e la solita Moleskine Large, il mio nuovo MacBook Pro 14" 2021 e il suo cavo MagSafe, i Powerbeats Pro, gli AirPods Pro, i nuovi Joy-Con di Zelda (Skyward Sword) per la Nintendo Switch.
     
     &nbsp;
     
