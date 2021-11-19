@@ -6,6 +6,18 @@ description: ✐
 ---
 ---
 
+*Chi mi manca di rispetto oggi, non ha idea di cosa nel futuro gli aspetterà. Potrebbe finire in racconti strabilianti, con la sua goffaggine irrispettosa e la sua superficialità. Sento già la chiara risata della mia penna o dei miei polpastrelli quel giorno, il giorno della creazione di quelle belle parole divertite, e poi quella degli occhi vispi dei lettori, divertiti.*
+
+<span style="color:red">*— 19 novembre 2021*</span>
+
+---
+
+*Avrei voluto sfiorare delicatamente la tua mano quel giorno, quel giorno in cui premevi con eleganza sublime i tasti della radio. Volevo evitare di farti fare un incidente, però sento ancora i brividi che avresti potuto provare. È un'immagine che non dimentico, a volte mi sembra di avere ancora la tua mano meravigliosa davanti, poi mi ricordo che sei di altri. Avrei preso volentieri anche uno schiaffo, ma sarei affogata nell'amore se mi avessi guardata sorridendo.*
+
+<span style="color:red">*— 15 novembre 2021*</span>
+
+---
+
 *Il mondo, in fondo, è solamente una strana roba che si muove, ricoperta di troppi accumuli insignificanti, disordinati, di stupidi atomi.*
 
 <span style="color:red">*— 6 novembre 2021*</span>
