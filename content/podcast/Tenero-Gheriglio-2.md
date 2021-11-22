@@ -22,7 +22,33 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #68 (15•11•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #69 (22•11•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[Non chi comincia ma quel che persevera](https://anchor.fm/miriana-novella7/episodes/69--Non-chi-comincia-ma-quel-che-persevera-e1ajoti)
+    
+    Puntata 69! Vi parlo della mia personale classifica dei dispositivi Apple per questo 2021, delle applicazioni meteo consigliate dagli ascoltatori (Carrot Weather e Windy), del mio motto "Salda nella furia dei venti e degli eventi"; chiudo il discorso sul MacBook Pro 2021 (altoparlanti e batteria); concludo con le recensioni.
+
+    &nbsp;
+    
+    • Link vari:
+    
+    → [Nave Vespucci](https://miry1919.github.io/hugosite/post/a-postcard-of-the-future-from-the-future/)
+    
+    → digitalia.fm
+    
+    → [Writings]( https://miry1919.github.io/hugosite/writings/)
+    
+    &nbsp;
+    
+    • App per il meteo:
+    
+    → [Carrot Weather](https://apps.apple.com/it/app/carrot-weather/id961390574?l=en)
+    
+    → [Windy](https://apps.apple.com/it/app/windy-com/id1161387262?l=en)
+
+---
+
+* Puntata #68 (15•11•2021)
 
     ☞[La nostra super-tacca bernoccolosa](https://anchor.fm/miriana-novella7/episodes/68--La-nostra-super-tacca-bernoccolosa-e1aa9sv)
     

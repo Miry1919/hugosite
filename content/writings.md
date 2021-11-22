@@ -6,12 +6,6 @@ description: ✐
 ---
 ---
 
-*Mi ha scritto che quel che prova da giorni è già un po' amore; anche per me già da giorni è lo stesso. Non avevo il coraggio di ammetterlo, è scoppiato tutto così velocemente, e come di solito accade nell'attrazione e nelle dimamiche del cuore, in maniera inattesa, repentina: avevo pensato erroneamente di non saper più provare amore per qualcuno che potesse ricambiare la stessa immediata intensità, la stessa sensibile passione. Esser stata preceduta da lui in questa confessione mi riempie il cuore, mi fa impazzire. Lui mi fa impazzire.*
-
-<span style="color:red">*— 20 novembre 2021*</span>
-
----
-
 *Chi mi manca di rispetto oggi, non ha idea di cosa nel futuro gli aspetterà. Potrebbe finire in racconti strabilianti, con la sua goffaggine irrispettosa e la sua superficialità. Sento già la chiara risata della mia penna o dei miei polpastrelli quel giorno, il giorno della creazione di quelle belle parole divertite, e poi quella degli occhi vispi dei lettori, divertiti.*
 
 <span style="color:red">*— 19 novembre 2021*</span>
