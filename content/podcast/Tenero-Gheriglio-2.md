@@ -34,7 +34,7 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
     
     → [Nave Vespucci](https://miry1919.github.io/hugosite/post/a-postcard-of-the-future-from-the-future/)
     
-    → digitalia.fm
+    → [digitalia.fm](https://digitalia.fm)
     
     → [Writings]( https://miry1919.github.io/hugosite/writings/)
     
