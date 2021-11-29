@@ -22,7 +22,39 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-* Puntata #69 (22•11•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #70 (29•11•2021) <span style="color:blue">⚡ New!</span>
+
+    ☞[L’amore è dolcezza, generosità, sensibilità, e molto altro](https://anchor.fm/miriana-novella7/episodes/70--Lamore--dolcezza--generosit--sensibilit--e-molto-altro-e1aumm7)
+    
+    La settantesima puntata chiude la seconda stagione di Tenero Gheriglio. Vi leggo l’ultimo racconto scritto su Writings che riporta una mia esperienza a dir poco singolare. Poi vi parlo dell’esperimento del doppio Mac, della Magic Keyboard per l’iPad Pro da 12.9” (presa a un ottimo prezzo grazie al Black Friday) sempre ragionando su tutti gli iPad, mini, Air, Pro; inoltre vi consiglio dei video sull’alimentazione e sulla lettura e i lettori, vi svelo l’ultima recensione su Apple Podcasts, sentiamo un pezzetto di una canzone natalizia. Buon Natale!
+
+    &nbsp;
+    
+    • [Writings](https://miry1919.github.io/hugosite/writings/)
+    
+    &nbsp;
+    
+    • Video di Stefano Vendrame sull’alimentazione:
+    
+    → [Vitamina D](https://youtu.be/Neh8JIEalg4)
+    
+    → [I trucchi per assorbire più ferro](https://youtu.be/xl4-fZA2kIs)
+    
+    &nbsp;
+    
+    • Link vari:
+    
+    → [Video con Piero Dorfles riguardante la lettura e i lettori](https://www.raiplay.it/video/2021/11/Quante-storie-08d6d30e-a93f-44f2-8b2a-36ce5d323d25.html?wt_mc=2.app.cpy.raiplay_prg_Quante+storie.&wt)
+    
+    → [Instagram post (iPads)](https://www.instagram.com/p/CWvpS2aKnYM/?utm_medium=copy_link)
+    
+    → [Playlist Natale '21](https://music.apple.com/it/playlist/natale-21/pl.u-PDb44lZCJ9qVro?l=en)
+    
+    → [Jingle Bells by SYML](https://music.apple.com/it/album/jingle-bells/1589141014?i=1589141287&l=en)
+
+---
+
+* Puntata #69 (22•11•2021)
 
     ☞[Non chi comincia ma quel che persevera](https://anchor.fm/miriana-novella7/episodes/69--Non-chi-comincia-ma-quel-che-persevera-e1ajoti)
     
@@ -36,7 +68,7 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
     
     → [digitalia.fm](https://digitalia.fm)
     
-    → [Writings]( https://miry1919.github.io/hugosite/writings/)
+    → [Writings](https://miry1919.github.io/hugosite/writings/)
     
     &nbsp;
     
