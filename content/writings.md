@@ -6,6 +6,12 @@ description: ✐
 ---
 ---
 
+*Comunque meglio una gallina domani. Io punto sempre alla gallina. Che poi se l'uovo ti si rompe cosa ci fai, puoi solo lanciarlo contro a un muro, o al massimo che ne so contro qualcuno che ti sta antipatico.*
+
+<span style="color:red">*— 5 dicembre 2021*</span>
+
+---
+
 *Alle persone piace stare appiccicate. A me no. Non mi è mai piaciuto, adesso mi piace ancora di meno, per fortuna le ha allontanate un po' il virus. Sembra che debbano per forza toccarsi, annusare altre persone, percepire il grasso epiteliale di un altro umano, il fiato, l'affanno, e persino l'incredibile fragranza emanata dal corpo, il malcapitato sudore, perché poi il profumo, se c'è, è pura finzione, copertura, inganno. Non riesco a giustificare questo comportamento appiccicoso, spero capiscano che incollarsi non è sempre così emozionante. A me piace vedere le persone per intero, a distanza maggiore, in modo da interfacciarmi senza rompere l'equilibrio dell'intorno delle loro caratteristiche, delle loro funzioni vitali. Poi c'è l'affetto, e allora mi sento di dire che l'amore debba essere stretto, un'unione vera, ma con uno, non con uno qualsiasi, con chi vuoi stia veramente incollato a te.*
 
 <span style="color:red">*— 3 dicembre 2021*</span>
