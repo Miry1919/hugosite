@@ -12,7 +12,7 @@ date: 2020-12-25
 
 &nbsp;
 
-<div align="center">Prima stagione da venerdì 16 settembre 2022 a venerdì 28 ottobre 2022.</div>
+<div align="center">Prima stagione da venerdì 16 settembre 2022 a venerdì 25 novembre 2022.</div>
 
 &nbsp;
 
