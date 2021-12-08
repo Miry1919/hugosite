@@ -26,4 +26,4 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #71 <span style="color:blue">Coming soon ⚡</span>
+* Puntata #71 <span style="color:blue">⚡ Coming soon!</span>
