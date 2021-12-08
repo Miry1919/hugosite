@@ -18,7 +18,7 @@ Ascoltalo:
 ---
 ---
 
-Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/).
+Nella pagina attuale trovi la stagione 2, invece la stagione 3 la trovi [qui](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-3/), e la stagione 1 [qui](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/).
 
 ---
 
