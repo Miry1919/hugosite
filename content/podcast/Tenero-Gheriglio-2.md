@@ -26,7 +26,7 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #70 (29•11•2021) <span style="color:blue">⚡ New!</span>
+* Puntata #70 (29•11•2021) <span style="color:orange">⚡ New!</span>
 
     ☞[L’amore è dolcezza, generosità, sensibilità, e molto altro](https://anchor.fm/miriana-novella7/episodes/70--Lamore--dolcezza--generosit--sensibilit--e-molto-altro-e1aumm7)
     
