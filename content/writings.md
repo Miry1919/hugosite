@@ -6,6 +6,12 @@ description: ✐
 ---
 ---
 
+*Alcune sere ero così felice che venivo a prenderti, senza il tuo permesso, e correvo per le strade con te, portandoti in braccio. E immaginavo di cantare, ma senza che tu mi sentissi, che senso avrebbe avuto altrimenti, sarebbe stato imbarazzante. Ogni tanto ti davo anche un bacetto sulla fronte. Oh com'ero felice!*
+
+<span style="color:red">*— 9 dicembre 2021*</span>
+
+---
+
 *Comunque meglio una gallina domani. Io punto sempre alla gallina. Che poi se l'uovo ti si rompe cosa ci fai, puoi solo lanciarlo contro a un muro, o al massimo che ne so contro qualcuno che ti sta antipatico.*
 
 <span style="color:red">*— 5 dicembre 2021*</span>
