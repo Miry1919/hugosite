@@ -10,6 +10,7 @@ description: ¶
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
+* _Una stanza tutta per sé_ — Virginia Woolf
 * _L'uomo e i suoi simboli_ — Carl Gustav Jung
 
 &nbsp;
