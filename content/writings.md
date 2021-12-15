@@ -6,6 +6,12 @@ description: ✐
 ---
 ---
 
+*Sono appena tornata da un allenamento di corsa più esercizi per le braccia all'aperto. C'erano: nebbia, buio, 3 gradi centigradi, e per non farsi mancare niente anche i "problemi di donna" al 3º giorno. Per essere costanti nello sport ci vuole tantissimo impegno.*
+
+<span style="color:red">*— 15 dicembre 2021*</span>
+
+---
+
 *Alcune sere ero così felice che venivo a prenderti, senza il tuo permesso, e correvo per le strade con te, portandoti in braccio. E immaginavo di cantare, ma senza che tu mi sentissi, che senso avrebbe avuto altrimenti, sarebbe stato imbarazzante. Ogni tanto ti davo anche un bacetto sulla fronte. Oh com'ero felice!*
 
 <span style="color:red">*— 9 dicembre 2021*</span>
