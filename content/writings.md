@@ -6,6 +6,12 @@ description: ✐
 ---
 ---
 
+*Che dici se facciamo un altro giretto di corsa stasera? Mi sento felice e non dovrei, in generale non ci sei... Figuriamoci se posso immaginare di portarti in braccio come un tempo! Circa due settimane fa ho immaginato di farti la cioccolata, e di rubarti fugacemente quella che ti finiva ai lati della bocca, ai limiti delle labbra. Voglio prenderti e portarti via ancora, questa follia mi spiazza, com'è stupida la speranza.*
+
+<span style="color:red">*— 20 dicembre 2021*</span>
+
+---
+
 *Oggi pomeriggio mi sono allenata ancora dalle 17 alle 18 circa, nella nebbia, col buio, insomma un po' nell'oltretomba. Mi dispiace perché di questo passo la morte non avrà davvero più segreti per me! Scherzo ovviamente, ma mamma mia che freddo con 3 °C, l'umidità addosso, e anche quel venticello: cercavo di ripararmi dietro ai palazzi più imponenti... Mi sono risparmiata gli esercizi di braccia, solo corsa e poi "Mirianaerobics". Non c'era nessuno che correva, o probabilmente non l'ho visto nella nebbia, ma è stato bellissimo comunque. Ora doccia, pappa, e dopo stretching, il fondamentale stretching. Com'era... per essere costanti nello sport ci vuole tantissimo impegno, e direi organizzazione precisa degli orari (da far incastrare), e costanza nel mangiare bene, ecc. Ma quello che dai prima o poi lo riprendi.*
 
 <span style="color:red">*— 17 dicembre 2021*</span>
