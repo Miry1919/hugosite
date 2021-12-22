@@ -6,7 +6,7 @@ description: ✐
 ---
 ---
 
-*Ho sentito una felicità intensa e poi, e poi il dolore. Un dolore che ti toglie il fiato, col pianto, quel pianto lancinante che non avevo da tanto. Ti amo ancora, non so come fare a smettere di pensarti, l'unico modo sembra morire. L'unico modo sembra morire.**Ho sentito una felicità intensa e poi, e poi il dolore. Un dolore che ti toglie il fiato, col pianto, quel pianto lancinante che non avevo da tanto. Ti amo ancora, non so come fare a smettere di pensarti, l'unico modo sembra morire. L'unico modo sembra morire.*
+*Ho sentito una felicità intensa e poi, e poi il dolore. Un dolore che ti toglie il fiato, col pianto, quel pianto lancinante che non avevo da tanto. Ti amo ancora, non so come fare a smettere di pensarti, l'unico modo sembra morire. L'unico modo sembra morire.*
 
 <span style="color:red">*— 22 dicembre 2021*</span>
 
