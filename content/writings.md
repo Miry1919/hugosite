@@ -6,6 +6,52 @@ description: ✐
 ---
 ---
 
+<span style="text-decoration:underline">Come il solito presentimento</span>
+
+&nbsp;
+
+Vorrei già vedere come andrà
+
+Quell'oscenità
+
+Se ho avuto inventiva
+
+Se l'idea è ancora viva
+
+Non so
+
+Avrò solo perso
+
+Come sempre
+
+E poi rimani solo
+
+Come sul molo
+
+Il mare attorno
+
+Il sole alto
+
+Ma dentro l'abisso
+
+Il cuore un pericoloso ordigno
+
+Da tirare fuori
+
+Dal rovinoso declino
+
+Di un giorno nuovo
+
+E vecchio
+
+Come il solito presentimento
+
+&nbsp;
+
+<span style="color:red">*— 23 settembre 2021*</span>
+
+---
+
 *Leggere mentre faccio stretching mi appaga molto (poi alcuni esercizi vanno fatti senza far altro, chiaro); è come se io riesca, grazie a questo, a ristendere, riallungare, riassestare tutti i fili della vita. Esce bene la stanchezza della corsa, si affievolisce l'affaticamento mentale della routine quotidiana, cioè rimetto a nuovo i muscoli ed esploro nuovi mondi: tutto si rinnova e ridiventa pronto per la prossima corsa, la prossima lettura.*
 
 <span style="color:red">*— 23 dicembre 2021*</span>
