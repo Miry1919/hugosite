@@ -48,7 +48,7 @@ Come il solito presentimento
 
 &nbsp;
 
-<span style="color:red">*— 23 settembre 2021*</span>
+<span style="color:red">*— 24 dicembre 2021*</span>
 
 ---
 
