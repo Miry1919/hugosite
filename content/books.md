@@ -34,7 +34,7 @@ description: ¶
 * _I bottoni di Napoleone. Come 17 molecole hanno cambiato la storia_ — Penny Le Couteur e Jay Burreson ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/60--Una-puntata-internazionale-e17iirj)
 * _Il giovane Holden_ — Jerome David Salinger ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/63--Chi--che-vuole-i-fiori--da-morto--Nessuno-e18kgs9)
 * _Racconti fantastici. Diavoleide - Uova fatali - Cuore di cane - Le avventure di Cicikov_ — Michail Bulgakov
-* _Diario di una scrittrice_ — Virginia Woolf ☞[{Quotes}]()
+* _Diario di una scrittrice_ — Virginia Woolf ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/diario-di-una-scrittrice/)
 &nbsp;
 
 <span style="color:red">*2020 (dal primo all'ultimo)*</span>
