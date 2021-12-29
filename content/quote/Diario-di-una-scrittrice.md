@@ -35,7 +35,7 @@ description: Virginia Woolf
 
 &nbsp;
 
-«Il modo per spostarsi pian piano di nuovo verso il lavoro è questo. Primo: esercizio moderato all'aria aperta. Secondo: leggere buona letteratura. È un errore credere che si possa produrre letteratura dalla materia grezza. Bisogna uscire dalla vita — sì, ecco perché mi è tanto dispiaciuta l'irruzione di Sydney — bisogna farsi alieni da tutto: concentratissimi, tutti su un punto; e senza dover più ricorrere alle parti sparse del proprio carattere, avere dimora stabile nel cervello.»
+«Il modo per spostarsi pian piano di nuovo verso il lavoro è questo. Primo: esercizio moderato all'aria aperta. Secondo: leggere buona letteratura. È un errore credere che si possa produrre letteratura dalla materia grezza. Bisogna uscire dalla vita – sì, ecco perché mi è tanto dispiaciuta l'irruzione di Sydney – bisogna farsi alieni da tutto: concentratissimi, tutti su un punto; e senza dover più ricorrere alle parti sparse del proprio carattere, avere dimora stabile nel cervello.»
 
 &nbsp;
 
