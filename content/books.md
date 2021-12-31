@@ -5,7 +5,6 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Anna Karenina_ — Lev Tolstoj
-* _Una stanza tutta per sé_ — Virginia Woolf
 
 &nbsp;
 
@@ -35,6 +34,7 @@ description: ¶
 * _Il giovane Holden_ — Jerome David Salinger ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/63--Chi--che-vuole-i-fiori--da-morto--Nessuno-e18kgs9)
 * _Racconti fantastici. Diavoleide - Uova fatali - Cuore di cane - Le avventure di Cicikov_ — Michail Bulgakov
 * _Diario di una scrittrice_ — Virginia Woolf ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/diario-di-una-scrittrice/)
+* _Una stanza tutta per sé_ — Virginia Woolf
 &nbsp;
 
 <span style="color:red">*2020 (dal primo all'ultimo)*</span>
