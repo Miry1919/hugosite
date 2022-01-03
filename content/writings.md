@@ -6,6 +6,20 @@ description: ✐
 ---
 ---
 
+*Mi fa ridere: se ti lamenti di quanto il mondo è brutto e assurdo c'è sempre qualcuno che viene a dirti che potresti provare ad andare da uno psicologo.*
+
+*Credo che invece sia colui che crede di dover sempre vedere il mondo bello, anche se è inaggiustabile, ad avere seri problemi.*
+
+<span style="color:red">*— 3 gennaio 2022 (su Twitter)*</span>
+
+---
+
+*Spesso mi ritrovo a dover spiegare le ragioni che mi hanno spinta a scrivere determinate associazioni di parole e capisco di aver davanti qualcuno che crede che le parole siano quelle, quelle che esattamente legge; ma non è così, scrivere qualcosa va oltre al semplice comunicare.*
+
+<span style="color:red">*— 2 gennaio 2022 (su Twitter)*</span>
+
+---
+
 <span style="text-decoration:underline">Come il solito presentimento</span>
 
 &nbsp;
