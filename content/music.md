@@ -10,11 +10,11 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * [2019](https://music.apple.com/it/playlist/my-2019/pl.u-b3b8Re4H0qaz1d)
 * [2020](https://music.apple.com/it/playlist/my-2020/pl.u-LdbqE1vt5e4m0R?l)
 * [2021](https://music.apple.com/it/playlist/my-2021/pl.u-ZmbllxWIZoBPk9?l)
+* [2022](https://music.apple.com/it/playlist/my-2022/pl.u-Ymb0045Uq9vbM1?l) <span style="color:orange">⚡ New!</span>
 * [Background](https://music.apple.com/it/playlist/background/pl.b05fb95eaae8419b8bc2201594355ee0?l)
 * [Her](https://music.apple.com/it/playlist/her/pl.u-Ldbqqeqt5e4m0R) <span style="color:red">♡</span>
-* [Mirianaerobics](https://music.apple.com/it/playlist/mirianaerobics/pl.u-Ymb00Bycq9vbM1?l=en)
-* [Natale '21](https://music.apple.com/it/playlist/natale-21/pl.u-PDb44lZCJ9qVro?l=en) <span style="color:orange">⚡ New!</span>
-
+* [Mirianaerobics](https://music.apple.com/it/playlist/mirianaerobics/pl.u-Ymb00Bycq9vbM1?l)
+* [Natale '21](https://music.apple.com/it/playlist/natale-21/pl.u-PDb44lZCJ9qVro?l=en)
 
 &nbsp;
 
