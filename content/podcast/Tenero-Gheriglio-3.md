@@ -12,7 +12,7 @@ In questo podcast parlo di tutto. Ogni lunedì alle h. 19:00 esce una nuova punt
 
 Ascoltalo:
 
-* su YouTube tramite la [playlist](https://youtube.com/playlist?list=PLG8qHQG7k8JqVa_Mvqm0fulqaofHLWUn5) sempre aggiornata con tutte le puntate
+* su YouTube tramite la [playlist](https://youtube.com/playlist?list=PLG8qHQG7k8JroN3Vf1XSPlBF88OkWfzIF) sempre aggiornata con tutte le puntate
 * nel tuo podcast player preferito cliccando sui link presenti qui sotto
 
 ---
