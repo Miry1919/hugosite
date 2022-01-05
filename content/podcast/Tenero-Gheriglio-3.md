@@ -58,8 +58,6 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
     
     &nbsp;
     
-    • [Per avere il Green Pass nel Wallet](https://covidpass.marvinsextro.de)
-    
     • [Books](https://miry1919.github.io/hugosite/books/)
     
     • ["Diario di una scrittrice", Quotes](https://miry1919.github.io/hugosite/quote/diario-di-una-scrittrice/)
