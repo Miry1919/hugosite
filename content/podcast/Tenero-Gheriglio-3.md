@@ -26,7 +26,7 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #71 <span style="color:orange">⚡ New!</span>
+* Puntata #71 (5•1•2022) <span style="color:orange">⚡ New!</span>
 
     ☞[Questa funge un po' da seconda introduzione [BONUS]](https://anchor.fm/miriana-novella7/episodes/71--Questa-funge-un-po-da-seconda-introduzione-BONUS-e1chv4r)
     
