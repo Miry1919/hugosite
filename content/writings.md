@@ -6,6 +6,16 @@ description: ✐
 ---
 ---
 
+*La sera vengo a cercarti, per averti tra le braccia e amarti. Lo faccio, ti amo, ti amo ogni giorno.*
+
+*La sera vengo a cercarti, a baciarti, e ogni volta sembra che quel momento valga più di tutti.*
+
+*Vivere è immaginarti, sognarti, saperti.*
+
+<span style="color:red">*— 6 gennaio 2022*</span>
+
+---
+
 *Mi fa ridere: se ti lamenti di quanto il mondo è brutto e assurdo c'è sempre qualcuno che viene a dirti che potresti provare ad andare da uno psicologo.*
 
 *Credo che invece sia colui che crede di dover sempre vedere il mondo bello, anche se è inaggiustabile, ad avere seri problemi.*
