@@ -6,6 +6,14 @@ description: ✐
 ---
 ---
 
+*È una stupidaggine ma la amo: con gli AirPods 3 nelle orecchie, che non stanno riproducendo niente, si sente bene il proprio respiro.*
+
+*Sto facendo un ripristino e cercando di stare di più con me stessa. Nell'ultimo periodo ho voluto tanto bene a delle persone rivelatesi orribili.*
+
+<span style="color:red">*— 8 gennaio 2022*</span>
+
+---
+
 *La sera vengo a cercarti, per averti tra le braccia e amarti. Lo faccio, ti amo, ti amo ogni giorno.*
 
 *La sera vengo a cercarti, a baciarti, e ogni volta sembra che quel momento valga più di tutti.*
