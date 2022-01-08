@@ -10,7 +10,7 @@ description: ✐
 
 *Sto facendo un ripristino e cercando di stare di più con me stessa. Nell'ultimo periodo ho voluto tanto bene a delle persone rivelatesi orribili.*
 
-<span style="color:red">*— 8 gennaio 2022*</span>
+<span style="color:red">*— 8 gennaio 2022 (su Twitter)*</span>
 
 ---
 
