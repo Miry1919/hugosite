@@ -10,6 +10,8 @@ description: ¶
 
 #### <span style="color:red">Leggerò a breve</span>
 * _L'uomo e i suoi simboli_ — Carl Gustav Jung
+* _Cristo si è fermato a Eboli_ — Carlo Levi
+* _Il treno dell'ultima notte_ — Dacia Maraini
 
 &nbsp;
 
