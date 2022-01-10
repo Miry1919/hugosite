@@ -6,6 +6,20 @@ description: ✐
 ---
 ---
 
+*Stamattina sono uscita alle h. 11:30, ho corso e fatto i soliti esercizi per le braccia (e core); ovviamente è ritornato il freddo tagliente in concomitanza ai "problemi di donna" (primo giorno).*
+
+*Ora sto facendo stretching e leggendo, come, vi raccontavo giorni fa, mi piace molto fare (e devo, per incastrare le cose); è proprio vero che questa pratica ristende e riassesta tutti i fili della vita, sentite qua:*
+
+*«Anna era chiaramente ammirata dalla sua bellezza e giovinezza e Kitty, prima ancora di rendersene conto, non solo si sentì soggiogata dalla sua influenza, ma addirittura se ne sentì innamorata, come delle ragazze giovani sono capaci di innamorarsi di signore sposate e anziane.»*
+
+*È una frase del libro che sto appunto leggendo, "Anna Karenina". E sembra che io avessi bisogno esattamente di questa frase, che non svela un concetto affatto nuovo per me, ma mi ricorda che non sono proprio fuori dal mondo.*
+
+*Mi manchi, e ti amo. Nulla potrà consolarmi.*
+
+<span style="color:red">*— 10 gennaio 2022*</span>
+
+---
+
 *È una stupidaggine ma la amo: con gli AirPods 3 nelle orecchie, che non stanno riproducendo niente, si sente bene il proprio respiro.*
 
 *Sto facendo un ripristino e cercando di stare di più con me stessa. Nell'ultimo periodo ho voluto tanto bene a delle persone rivelatesi orribili.*
