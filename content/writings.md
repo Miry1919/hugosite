@@ -8,7 +8,7 @@ description: ✐
 
 *C'è il tramonto, ieri non si è mica visto: nebbia fittissima. Ormai quando c'è la nebbia fitta davanti casa mi dico che ancora è buono allora, ancora abito in un luogo di semi-campagna.*
 
-*Sto studiando, e quanto mi piace la Matematica risulta sicuramente incomprensibile ai più. Entrare con la concentrazione giusta in certe materie dell'Ingegneria quasi sempre mi incute un po' di timore, ma una volta immersa le stesse mi catturano, intensamente, e studiarle diventa per me incredibilmente divertente.* 
+*Sto studiando, e quanto mi piace la Matematica risulta sicuramente incomprensibile ai più. Entrare con la concentrazione giusta in certe materie dell'Ingegneria mi incute quasi sempre un po' di timore, ma una volta immersa le stesse mi catturano, intensamente, e studiarle diventa per me incredibilmente divertente.* 
 
 <span style="color:red">*— 11 gennaio 2022*</span>
 
