@@ -6,6 +6,14 @@ description: ✐
 ---
 ---
 
+*C'è il tramonto, ieri non si è mica visto: nebbia fittissima. Ormai quando c'è la nebbia fitta davanti casa mi dico che ancora è buono allora, ancora abito in un luogo di semi-campagna.*
+
+*Sto studiando, e quanto mi piace la Matematica risulta sicuramente incomprensibile ai più. Entrare con la concentrazione giusta in certe materie dell'Ingegneria quasi sempre mi incute un po' di timore, ma una volta immersa le stesse mi catturano, intensamente, e studiarle diventa per me incredibilmente divertente.* 
+
+<span style="color:red">*— 11 gennaio 2022*</span>
+
+---
+
 *Stamattina sono uscita alle h. 11:30, ho corso e fatto i soliti esercizi per le braccia (e core); ovviamente è ritornato il freddo tagliente in concomitanza ai "problemi di donna" (primo giorno).*
 
 *Ora sto facendo stretching e leggendo, come, vi raccontavo giorni fa, mi piace molto fare (e devo, per incastrare le cose); è proprio vero che questa pratica ristende e riassesta tutti i fili della vita, sentite qua:*
