@@ -6,6 +6,44 @@ description: ✐
 ---
 ---
 
+<span style="text-decoration:underline">Sento sempre ribollirmi qualcosa dentro</span>
+
+&nbsp;
+
+Sento sempre ribollirmi qualcosa dentro
+
+Quando ti penso
+
+E allora ti bacio, ti bacio tutto il giorno
+
+Ovunque, dappertutto
+
+Vorrei tanto sapere cosa mi hai fatto
+
+Cosa mi hai detto
+
+Sono stata avvelenata dal tuo profumo
+
+Mi hai anestetizzata
+
+L'altro giorno c'era una persona, non tu
+
+Ma io vedo solo te
+
+Le sono corsa dietro per capire
+
+Era ovvio, mi sbagliavo
+
+Non era bella nemmeno lontanamente
+
+Come lo sei tu
+
+&nbsp;
+
+<span style="color:red">*— 14 gennaio 2022*</span>
+
+---
+
 *C'è il tramonto, ieri non si è mica visto: nebbia fittissima. Ormai quando c'è la nebbia fitta davanti casa mi dico che ancora è buono allora, ancora abito in un luogo di semi-campagna.*
 
 *Sto studiando, e quanto mi piace la Matematica risulta sicuramente incomprensibile ai più. Entrare con la concentrazione giusta in certe materie dell'Ingegneria mi incute quasi sempre un po' di timore, ma una volta immersa le stesse mi catturano, intensamente, e studiarle diventa per me incredibilmente divertente.* 
