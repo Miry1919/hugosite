@@ -30,7 +30,7 @@ L'altro giorno c'era una persona, non tu
 
 Ma io vedo solo te
 
-Le sono corsa dietro per capire
+Le sono corsa dietro per capire meglio
 
 Era ovvio, mi sbagliavo
 
