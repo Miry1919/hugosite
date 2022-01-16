@@ -6,6 +6,12 @@ description: ✐
 ---
 ---
 
+Avevo creduto di poterti dimenticare, ah che stupida. Mi hai creato così tanto dolore, che ho provato, con tanta forza, a staccarmi da te, da tutto, a farti scivolare via da un periodo importante della mia vita, direi forse il più importante. Ma il mio amore mi ha catturata ancora, sono in balìa della tempesta, lo stesso amore che hai deriso, hai accomunato a un'innamoramento banale, infantile, ma nemmeno la più grande fermezza di pensieri sarebbe capace di dir basta al mio amore, un amore che va avanti da più di tre anni senza lasciarmi scampo! È così invadente questo mio folle amore, vuole esistere a tutti i costi; è sempre pieno di dolcezza, tanto che spesso mi viene tanta paura. Non si spegne mai questo mio fuoco, è così esteso e vivace, non posso combatterlo più, non so più cosa tentar di fare, sono stanca. Mi resta solo da caderci dentro, infiammarmi ogni giorno senza poterti amare. Ieri ti ho immaginata nitidamente, da sentire la tua voce in maniera limpida. È meravigliosa, e probabilmente non la sentirò mai più.
+
+<span style="color:red">*— 16 gennaio 2022*</span>
+
+---
+
 <span style="text-decoration:underline">Sento sempre ribollirmi qualcosa dentro</span>
 
 &nbsp;
