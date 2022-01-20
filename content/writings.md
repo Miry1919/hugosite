@@ -6,7 +6,7 @@ description: ✐
 ---
 ---
 
-*Il pomeriggio è dolce con te, il sole scende, la luna ci attende. La musica è armoniosa, i pensieri hanno voglia di vederti, e come ti vedo, ti vedo bellissima, ti stingo la mano e andiamo dove vuoi tu.*
+*Il pomeriggio è dolce con te, il sole scende, la luna ci attende. La musica è armoniosa, i pensieri hanno voglia di vederti, e come ti vedo, ti vedo bellissima, ti stringo la mano e andiamo dove vuoi tu.*
 
 <span style="color:red">*— 20 gennaio 2022*</span>
 
