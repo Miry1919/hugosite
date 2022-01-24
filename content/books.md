@@ -5,6 +5,7 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Anna Karenina_ — Lev Tolstoj
+* _Storia di chi fugge e di chi resta. L’amica geniale (volume terzo)_ — Elena Ferrante
 
 &nbsp;
 
