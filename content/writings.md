@@ -6,6 +6,15 @@ description: ✐
 ---
 ---
 
+*«I maschi ci tenevano così tanto, al ca__o, ne erano così orgogliosi, ed erano convinti che tu ci dovessi tenere ancora più di loro.»
+— Storia di chi fugge e di chi resta. L'amica geniale, E. Ferrante*
+
+*Direi: ci tengono, ne sono. Com'è ben scritto, quindi non mi lamento solo io.*
+
+<span style="color:red">*— 27 gennaio 2022 (su Twitter)*</span>
+
+---
+
 *Il pomeriggio è dolce con te, il sole scende, la luna ci attende. La musica è armoniosa, i pensieri hanno voglia di vederti, e come ti vedo, ti vedo bellissima, ti stringo la mano e andiamo dove vuoi tu.*
 
 <span style="color:red">*— 20 gennaio 2022*</span>
