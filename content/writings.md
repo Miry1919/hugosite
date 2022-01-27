@@ -6,10 +6,10 @@ description: ✐
 ---
 ---
 
-*«I maschi ci tenevano così tanto, al ca--o, ne erano così orgogliosi, ed erano convinti che tu ci dovessi tenere ancora più di loro.»
+*«I maschi ci tenevano così tanto, al ca\*\*o, ne erano così orgogliosi, ed erano convinti che tu ci dovessi tenere ancora più di loro.»
 — Storia di chi fugge e di chi resta. L'amica geniale, E. Ferrante*
 
-*Direi: ci tengono, ne sono. Com'è ben scritto, quindi non mi lamento solo io.*
+*Direi: ci tengono, ne sono\*. Com'è ben scritto, quindi non mi lamento solo io.*
 
 <span style="color:red">*— 27 gennaio 2022 (su Twitter)*</span>
 
