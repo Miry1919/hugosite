@@ -120,6 +120,7 @@ description: ¶
 * _L'amica geniale (volume primo)_ — Elena Ferrante
 * _Dal big bang ai buchi neri. Breve storia del tempo_ — Stephen W. Hawking
 * _Pesciolino_ — Lisa Brennan-Jobs
+
 &nbsp;
 
 #### <span style="color:red">In pausa</span>
