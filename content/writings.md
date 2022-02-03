@@ -6,6 +6,12 @@ description: ✐
 ---
 ---
 
+*Ieri sera sono andata a dormire piangendo e stamattina mi sono svegliata tra le lacrime. Prima d'ora non avevo mai percepito così negativamente la mia esistenza, qualcosa di inutile, di irrimediabile, vorrei punirmi. Non so se questo terribile periodo si protrarrà a lungo, se questo senso di vuotezza continuerà a soffocare per sempre la mia vita – so di non poterlo sostenere ancora per molto – oppure se un giorno questa sofferenza finirà o se prima cesserà la mia vita stessa.*
+
+<span style="color:red">*— 3 febbraio 2022*</span>
+
+---
+
 *Qualche minuto dopo le ore 13:00 ti ho incrociata in macchina, in via Europa, tu non mi hai vista ma io ovviamente sì. Stavi molto bene, e com'è bello sapere che in quel momento sono stata così vicina a te, a pochi centimetri di distanza. Credo che poi la verità sia che nei miei pensieri tu sei salita in macchina da me, e siamo andate via insieme, non in due macchine separate. Tornando a casa ti stavo proprio pensando, e stavo pensando che oggi è il 02/02/2022; vorrei tanto che almeno uno di quei due sia di noi due. Ti amo tanto, ti ho sempre amata.*
 
 <span style="color:red">*— 2 febbraio 2022*</span>
