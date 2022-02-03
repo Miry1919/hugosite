@@ -6,7 +6,7 @@ description: ✐
 ---
 ---
 
-*Ieri sera sono andata a dormire piangendo e stamattina mi sono svegliata tra le lacrime. Prima d'ora non avevo mai percepito così negativamente la mia esistenza, qualcosa di inutile, di irrimediabile, vorrei punirmi. Non so se questo terribile periodo si protrarrà a lungo, se questo senso di vuotezza continuerà a soffocare per sempre la mia vita – so di non poterlo sostenere ancora per molto – oppure se un giorno questa sofferenza finirà o se prima cesserà la mia vita stessa.*
+*Ieri sera sono andata a dormire piangendo e stamattina mi sono svegliata tra le lacrime, ho fatto un incubo terrificante. Prima d'ora non avevo mai percepito così negativamente la mia esistenza, qualcosa di inutile, di irrimediabile, vorrei punirmi. Non so se questo terribile periodo si protrarrà a lungo, se questo senso di vuotezza continuerà a soffocare per sempre la mia vita – so di non poterlo sostenere ancora per molto – oppure se un giorno questa sofferenza finirà o se prima cesserà la mia vita stessa.*
 
 <span style="color:red">*— 3 febbraio 2022*</span>
 
