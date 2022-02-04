@@ -6,7 +6,7 @@ description: ✐
 ---
 ---
 
-*Sono le 18:00, è nuvoloso ed essenzialmente buio, stasera mi sento decisamente meglio. È come se io oscilli tra i due stati di un bistabile, 0, 1, 0... 1. Il mio cuore starebbe sull'1 in maniera perpetua e costante, il mio cervello invece tenderebbe ad affiancare una sfilza di 0, 0, 0, incontrollabile, indecitrabile, se non paragonabile a una caduta inesorabile. No! Mi rialzo, al diavolo tutto.*
+*Sono le 18:00, è nuvoloso ed essenzialmente buio, stasera mi sento decisamente meglio. È come se io oscilli tra i due stati di un bistabile, 0, 1, 0... 1. Il mio cuore starebbe sull'1 in maniera perpetua e costante, il mio cervello invece tenderebbe ad affiancare una sfilza di 0, 0, 0, incontrollabile, indecifrabile, se non paragonabile a una caduta inesorabile. No! Mi rialzo, al diavolo tutto.*
 
 <span style="color:red">*— 4 febbraio 2022*</span>
 
