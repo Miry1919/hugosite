@@ -213,6 +213,10 @@ Nella pagina attuale trovi la stagione 1, invece la stagione 3 la trovi [qui](ht
     Nella puntata 28 parlo nuovamente di lezioni online, della scrivania motorizzata per studiare in piedi, della preoccupazione per i mezzi pubblici, di vendite, di perdite, di scoperte, e di videogiochi, dei loro benefici, tramite questo ☞[video su YouTube](https://youtu.be/Xg2cmsnvWx8).
     
     Metti un cuoricino ☞[qui](https://www.instagram.com/p/CE58sWKhm1N/?igshid=9gg2uxvv9pf1) se puoi.
+    
+    &nbsp;
+    
+    ALERT! Ho detto una cosa in maniera sbagliata, il primo corso di windsurf lo ebbi a 13 anni, non 11.
 
 ---
 
