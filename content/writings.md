@@ -6,6 +6,12 @@ description: ✐
 ---
 ---
 
+*Giorno per giorno mi sto accorgendo che la scrittura è, di fatto, uno strumento potentissimo; rimane incisa, e con una frase, un racconto reale o una storia immaginaria si può imprimere qualcosa di decisamente straordinario, unico, che verrà così ricordato con la tua prospettiva.*
+
+<span style="color:red">*— 7 febbraio 2022 (su Twitter)*</span>
+
+---
+
 *Sono le 18:00, è nuvoloso ed essenzialmente buio, stasera mi sento decisamente meglio. È come se io oscilli tra i due stati di un bistabile, 0, 1, 0... 1. Il mio cuore starebbe sull'1 in maniera perpetua e costante, il mio cervello invece tenderebbe ad affiancare una sfilza di 0, 0, 0, incontrollabile, indecifrabile, se non paragonabile a una caduta inesorabile. No! Mi rialzo, al diavolo tutto.*
 
 <span style="color:red">*— 4 febbraio 2022*</span>
