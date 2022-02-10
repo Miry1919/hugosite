@@ -6,6 +6,14 @@ description: ✐
 ---
 ---
 
+*Oggi è giovedì e di giovedì – se mi alleno – ci vediamo quando tu sei in macchina e stai arrivando a casa, e io invece mi trovo ancora nel pieno del mio allenamento, anche quattro settimane fa è stato così. E pensa che sono talmente rincoglionita che poi ogni volta mi ricordo precisamente anche a che ora ti ho vista: quattro giovedì fa erano le ore 13:18, oggi le 13:22 (saranno questi i nostri due 2 di cui scrivevo l'altro giorno?). Avrai pensato che accelerando magari non ti avrei vista, ma mi dispiace, ti ho vista sicuramente prima io, ero in piedi e ti ho vista da lontano, credo di saper vedere la tua macchina anche a 7 km di distanza; inoltre per il mio cervello ci trovavamo attorno a un orario conosciuto (vaglielo a dire al mio cervello di non pensarci, ah, inutile)... Allora poi per il tuo passaggio mi sono seduta, e come quattro settimane fa ti ho dato le spalle, come potevo comportarmi altrimenti? Secondo me se fossi stata sulla strada mi avresti investita volentieri, o forse no solo perché così facendo il mio cadavere senza vita ti avrebbe creato dei problemi, meglio pensare che l'ignobile creatura non esista e basta, no? Ho sentito che avevi la radio accesa in macchina, era abbastanza alta.*
+
+*Mi odierai, e mi avrai dimenticata in maniera estremamente semplice, ma io no, io non sono capace di dimenticarti nemmeno per un instante del nostro tempo qui.*
+
+<span style="color:red">*— 10 febbraio 2022*</span>
+
+---
+
 *Giorno per giorno mi sto accorgendo che la scrittura è, di fatto, uno strumento potentissimo; rimane incisa, e con una frase, un racconto reale o una storia immaginaria si può imprimere qualcosa di decisamente straordinario, unico, che verrà così ricordato con la tua prospettiva.*
 
 <span style="color:red">*— 7 febbraio 2022 (su Twitter)*</span>
