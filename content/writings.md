@@ -6,7 +6,7 @@ description: ✐
 ---
 ---
 
-*La luce della luna mi entra nella stanza, forse anche nella tua. Vorrei essere la luna per stare con te. Non ce la faccio più senza di te, ho bisogno di te.*
+*La luce della luna entra nella mia stanza, forse anche nella tua. Vorrei essere la luna per stare con te. Non ce la faccio più senza di te, ho bisogno di te.*
 
 <span style="color:red">*— 12 febbraio 2022*</span>
 
