@@ -6,6 +6,30 @@ description: ✐
 ---
 ---
 
+<span style="text-decoration:underline">L'amore è in rivolta</span>
+
+&nbsp;
+
+Torna la pioggia,
+
+L'amore è in rivolta,
+
+Chissà se mi leggi,
+
+Se a volte mi pensi,
+
+Se lo vorresti ancora,
+
+Un bacio in primavera.
+
+Forse no.
+
+&nbsp;
+
+<span style="color:red">*— 14 febbraio 2022*</span>
+
+---
+
 *La luce della luna entra nella mia stanza, forse anche nella tua. Vorrei essere la luna per stare con te. Non ce la faccio più senza di te, ho bisogno di te.*
 
 <span style="color:red">*— 12 febbraio 2022*</span>
