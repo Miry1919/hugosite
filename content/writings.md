@@ -6,7 +6,7 @@ description: ✐
 ---
 ---
 
-*Oggi la voglia di punirmi è eccessiva e mi spaventa. Spero di cavarmela con qualcosa di reversibile ma mi darei così tanti pugni da arrivare a non riuscire più a respirare. E l'assurdità e che credo io possa farlo senza che nessuno si dispiaccia, a chi importa di me?*
+*Oggi la voglia di punirmi è eccessiva, mi spaventa. Spero di cavarmela con qualcosa di reversibile ma mi darei così tanti pugni da arrivare a non riuscire più a respirare. E l'assurdità è che credo io possa farlo senza che nessuno si dispiaccia, a chi importa di me?*
 
 <span style="color:red">*— 16 febbraio 2022*</span>
 
