@@ -6,7 +6,7 @@ description: ✐
 ---
 ---
 
-*Sia chiaro però, la mia infelicità, la mia vuotezza, non derivano dalle attività, dai risultati, dallo studio, dai progetti paralleli, dalle passioni, dallo sport: tutto questo mi dona da sempre grandissime soddisfazioni, basta impegnarsi, seguire i propri talenti. Tuttavia sono convinta che chi sa sentirsi appagato dalla sola riuscita di quello che ho appena elencato viva di autoinganno. Come possono cose così concrete a spingere più in alto la vita di un uomo? Non possono. Per elevarsi servono i sentimenti, i sogni per l'attuazione di un cambiamento sul piano umano; solo l'amore può cambiare veramente la vita di un essere umano, può renderla davvero sensata. Quello che mi succede è semplice, ogni giorno che passa l'amore vero mi sembra sempre più un miraggio, mi stanco, mi abbatto, voglio punirmi. Questo è tutto.*
+*Sia chiaro però, la mia infelicità, la mia vuotezza, non derivano dalle attività, dai risultati, dallo studio, dai progetti paralleli, dalle passioni, dallo sport: tutto questo mi dona da sempre grandissime soddisfazioni, basta impegnarsi, seguire i propri talenti. Tuttavia sono convinta che chi sa sentirsi appagato dalla sola riuscita di quello che ho appena elencato viva di autoinganno. Come possono cose così concrete spingere più in alto la vita di un uomo? Non possono. Per elevarsi servono i sentimenti, i sogni per l'attuazione di un cambiamento sul piano umano; solo l'amore può cambiare veramente la vita di un essere umano, può renderla davvero sensata. Quello che mi succede è semplice, ogni giorno che passa l'amore vero mi sembra sempre più un miraggio, mi stanco, mi abbatto, voglio punirmi. Questo è tutto.*
 
 
 <span style="color:red">*— 17 febbraio 2022*</span>
