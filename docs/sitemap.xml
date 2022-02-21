@@ -217,6 +217,14 @@
   </url>
   
   <url>
+    <loc>https://miry1919.github.io/hugosite/writings/archive-0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://miry1919.github.io/hugosite/writings/archive-1/</loc>
+  </url>
+  
+  <url>
     <loc>https://miry1919.github.io/hugosite/books/</loc>
   </url>
   
@@ -238,6 +246,10 @@
   
   <url>
     <loc>https://miry1919.github.io/hugosite/quote/cromorama/</loc>
+  </url>
+  
+  <url>
+    <loc>https://miry1919.github.io/hugosite/writings/currrent/</loc>
   </url>
   
   <url>
@@ -338,10 +350,6 @@
   
   <url>
     <loc>https://miry1919.github.io/hugosite/writings/</loc>
-  </url>
-  
-  <url>
-    <loc>https://miry1919.github.io/hugosite/writings/writings/</loc>
   </url>
   
 </urlset>
