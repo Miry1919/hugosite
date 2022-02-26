@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://miry1919.github.io/hugosite/writings/archive-2-0/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+    <loc>https://miry1919.github.io/hugosite/</loc>
+    <lastmod>2022-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://miry1919.github.io/hugosite/</loc>
+    <loc>https://miry1919.github.io/hugosite/post/</loc>
+    <lastmod>2022-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://miry1919.github.io/hugosite/post/ti-ho-sognata/</loc>
+    <lastmod>2022-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://miry1919.github.io/hugosite/writings/archive-2-0/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -25,11 +35,6 @@
   <url>
     <loc>https://miry1919.github.io/hugosite/writings/archive-0/</loc>
     <lastmod>2022-02-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://miry1919.github.io/hugosite/post/</loc>
-    <lastmod>2022-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
