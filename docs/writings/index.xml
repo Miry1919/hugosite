@@ -6,17 +6,26 @@
     <description>Recent content in Writings on hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://miry1919.github.io/hugosite/writings/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Current</title>
-      <link>https://miry1919.github.io/hugosite/writings/currrent/</link>
+      <link>https://miry1919.github.io/hugosite/writings/current/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://miry1919.github.io/hugosite/writings/current/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archive 2.0</title>
+      <link>https://miry1919.github.io/hugosite/writings/jan-feb-2022/</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/writings/currrent/</guid>
+      <guid>https://miry1919.github.io/hugosite/writings/jan-feb-2022/</guid>
       <description>Sia chiaro però, la mia infelicità, la mia vuotezza, non derivano dalle attività, dai risultati, dallo studio, dai progetti paralleli, dalle passioni, dallo sport: tutto questo mi dona da sempre grandissime soddisfazioni, basta impegnarsi, seguire i propri talenti. Tuttavia sono convinta che chi sa sentirsi appagato dalla sola riuscita di quello che ho appena elencato viva di autoinganno. Come possono cose così concrete spingere più in alto la vita di un uomo?</description>
     </item>
     

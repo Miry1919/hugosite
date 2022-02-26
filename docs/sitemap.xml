@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://miry1919.github.io/hugosite/writings/currrent/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+    <loc>https://miry1919.github.io/hugosite/writings/current/</loc>
+    <lastmod>2022-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://miry1919.github.io/hugosite/</loc>
-    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://miry1919.github.io/hugosite/writings/</loc>
+    <lastmod>2022-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://miry1919.github.io/hugosite/writings/jan-feb-2022/</loc>
     <lastmod>2022-02-21T00:00:00+00:00</lastmod>
   </url>
   
