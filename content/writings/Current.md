@@ -7,6 +7,14 @@ date: 2022-03-01
 ---
 ---
 
+*Solamente da soli si può imparare veramente qualcosa. Dopo l'utile confronto con gli altri è da soli che si può imparare a camminare, respirare, ragionare, decidere, piangere, lottare, guarire, crescere, migliorarsi, ribellarsi, esistere, vivere.*
+
+*E forse infine nelle discese ripidissime (bassi) si prende solo la rincorsa per altezze incredibili (alti).*
+
+<span style="color:red">*— 5 marzo 2022 (su Twitter)*</span>
+
+---
+
 <span style="text-decoration:underline">Un'ora per stare con te</span>
 
 &nbsp;
