@@ -5,10 +5,13 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Cristo si è fermato a Eboli_ — Carlo Levi
+
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 * _Il treno dell'ultima notte_ — Dacia Maraini
+* _Salinger. La vera storia di un genio_ — Kenneth Slawenski
+
 &nbsp;
 
 #### <span style="color:red">Ho letto e consiglio</span>
