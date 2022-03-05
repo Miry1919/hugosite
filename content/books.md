@@ -4,14 +4,11 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _L'uomo e i suoi simboli_ — Carl Gustav Jung
-
+* _Cristo si è fermato a Eboli_ — Carlo Levi
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Cristo si è fermato a Eboli_ — Carlo Levi
 * _Il treno dell'ultima notte_ — Dacia Maraini
-
 &nbsp;
 
 #### <span style="color:red">Ho letto e consiglio</span>
@@ -21,6 +18,7 @@ description: ¶
 * _Storia di chi fugge e di chi resta. L’amica geniale (volume terzo)_ — Elena Ferrante
 &nbsp;
 * _Anna Karenina_ — Lev Tolstoj
+* _L'uomo e i suoi simboli_ — Carl Gustav Jung
 
 <span style="color:red">*2021 (dal primo all'ultimo)*</span>
 
