@@ -26,7 +26,33 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #71 (5•1•2022) <span style="color:orange">⚡ New!</span>
+* Puntata #72 (7•3•2022) <span style="color:orange">⚡ New!</span>
+
+    ☞["I numeri sono prodotti spontanei e autonomi dell'inconscio"](https://anchor.fm/miriana-novella7/episodes/72--I-numeri-sono-prodotti-spontanei-e-autonomi-dellinconscio-e1fau0o)
+    
+    Al rientro dalla pausa invernale riprendo a registrare dalla puntata 72. Parto subito coi libri letti, parlando innanzitutto de “L’uomo e i suoi simboli” di Carl Gustav Jung, della connessione tra scienza, matematica e psicologia, sottolineando l’importanza dell’analisi dell’inconscio e dei sogni. Continuo col terzo volume de “L’amica geniale”, “Storia di chi fugge e di chi resta”, con “Anna Karenina” di Lev Tolstoj, col concetto della figura femminile vista in maniera maschile. Infine parlo della nuova fase storica che stiamo vivendo, di come gestisco i miei SSD esterni, dell’università, dei post pubblicati durante l’assenza.
+
+    &nbsp;
+    
+    • [Post Instagram, SSD](https://www.instagram.com/p/CaMp_G_q95J/)
+    
+    &nbsp;
+    
+    • Post sul sito:
+    
+    → [Come Polaroid](https://miry1919.github.io/hugosite/post/come-polaroid/)
+    
+    → [Sì, mi fece la cacca sulla testa](https://miry1919.github.io/hugosite/post/si-mi-fece-la-cacca-sulla-testa/)
+    
+    → [Ti ho sognata](https://miry1919.github.io/hugosite/post/ti-ho-sognata/)
+    
+    &nbsp;
+    
+    • [Writings](https://miry1919.github.io/hugosite/writings/)
+
+---
+
+* Puntata #71 (5•1•2022)
 
     ☞[Questa funge un po' da seconda introduzione [BONUS]](https://anchor.fm/miriana-novella7/episodes/71--Questa-funge-un-po-da-seconda-introduzione-BONUS-e1chv4r)
     
@@ -36,11 +62,11 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
     
     • Post sul mio sito:
     
-    → ["Quando anche i carrelli si ribaltano"](https://miry1919.github.io/hugosite/post/quando-anche-i-carrelli-si-ribaltano/)
+    → [Quando anche i carrelli si ribaltano](https://miry1919.github.io/hugosite/post/quando-anche-i-carrelli-si-ribaltano/)
     
-    → ["È Natale, posso esser sincera?"](https://miry1919.github.io/hugosite/post/e-natale-posso-esser-sincera/)
+    → [È Natale, posso esser sincera?](https://miry1919.github.io/hugosite/post/e-natale-posso-esser-sincera/)
     
-    → ["Breve storiella di Omicron, da salvare"](https://miry1919.github.io/hugosite/post/breve-storiella-di-omicron-da-salvare/)
+    → [Breve storiella di Omicron, da salvare](https://miry1919.github.io/hugosite/post/breve-storiella-di-omicron-da-salvare/)
     
     &nbsp;
     
