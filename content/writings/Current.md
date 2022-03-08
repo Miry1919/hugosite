@@ -7,6 +7,36 @@ date: 2022-03-01
 ---
 ---
 
+<span style="text-decoration:underline">Non importa amore mio</span>
+
+&nbsp;
+
+Ti voglio, non in sogno
+
+Ti aspetto, non resisto
+
+Passeranno mesi, anche anni
+
+Ma sarai sempre dentro di me
+
+Anche se io non lo sono più
+
+O non lo sono mai stata?
+
+Non importa amore mio
+
+Ti voglio e ti desidero
+
+Sei il mio unico pensiero
+
+Aspetterò
+
+&nbsp;
+
+<span style="color:red">*— 8 marzo 2022*</span>
+
+---
+
 *Solamente da soli si può imparare veramente qualcosa. Dopo l'utile confronto con gli altri è da soli che si può imparare a camminare, respirare, ragionare, decidere, piangere, lottare, guarire, crescere, migliorarsi, ribellarsi, esistere, vivere.*
 
 *E forse infine nelle discese ripidissime (bassi) si prende solo la rincorsa per altezze incredibili (alti).*
