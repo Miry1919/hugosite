@@ -26,7 +26,15 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #72 (7•3•2022) <span style="color:orange">⚡ New!</span>
+* Puntata #73 (14•3•2022) <span style="color:orange">⚡ New!</span>
+
+    ☞[Il sistema che mi circonda](https://anchor.fm/miriana-novella7/episodes/73--Il-sistema-che-mi-circonda-e1fldfu)
+    
+    Nella puntata 73 analizzo l'evento Apple che si è tenuto martedì 8 marzo 2022, discutendo quindi di iPhone SE, iPad Air di quinta generazione, M1 Ultra, Mac Studio e Studio Display. Parlo anche del vuoto lasciato dall'iMac 27", del Pro Display XDR (sbagliando a ricordarne il prezzo: €6000, non €4000!), del monitor 27" LG UltraFine 5K, del mio monitor LG 4K, e chiudo con un super aggiornamento/ragionamento sull'insieme dei miei prodotti tech: MacBook Pro 14", iPad Pro 12.9" e accessori, iPad mini, AirPods, ecc. In coda la canzone ☞["Beautiful Life (Edit)"](https://music.apple.com/it/album/beautiful-life-edit/1587802525?i=1587802793&l=en) di Michael Kiwanuka.
+
+---
+
+* Puntata #72 (7•3•2022)
 
     ☞["I numeri sono prodotti spontanei e autonomi dell'inconscio"](https://anchor.fm/miriana-novella7/episodes/72--I-numeri-sono-prodotti-spontanei-e-autonomi-dellinconscio-e1fau0o)
     
