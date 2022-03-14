@@ -7,12 +7,6 @@ date: 2022-03-01
 ---
 ---
 
-*No. Ho cambiato idea. Da te non verrò mai più. Non ti è mai importato niente di me.*
-
-<span style="color:red">*— 14 marzo 2022*</span>
-
----
-
 *Sono sicura io stia perdendo tempo. Dovrei passare tutti i giorni da te, baciarti, stringerti dolcemente, scappare via, ritornare, baciarti, stringerti dolcemente, scappare via,... Se potessi fare questo ogni giorno, vorrei vivere per l'eternità, non importa facendo cosa, mi basterebbe sapere di vederti per un minuto ogni giorno, te lo giuro amore mio. In futuro avrò il rimpianto di non aver vissuto momenti belli con te, già ce l'ho. Ah se solo non mi avessi trattata come uno straccio, oggi ci sarebbe stato l'ennesimo bacio. Un giorno sarà inevitabile venire a vedere coi miei occhi come si sta bene senza di me, ma non sono per niente pronta a vederlo, è come se pur sapendo che stai benissimo non abbia ancora il coraggio di saperlo, io faccia finta di non vederlo.*
 
 <span style="color:red">*— 9 marzo 2022*</span>
