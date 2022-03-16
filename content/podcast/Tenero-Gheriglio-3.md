@@ -60,9 +60,9 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #71 (5•1•2022)
+* Puntata #71 (5•1•2022) <span style="color:blue">BONUS</span>
 
-    ☞[Questa funge un po' da seconda introduzione [BONUS]](https://anchor.fm/miriana-novella7/episodes/71--Questa-funge-un-po-da-seconda-introduzione-BONUS-e1chv4r)
+    ☞[Questa funge un po' da seconda introduzione](https://anchor.fm/miriana-novella7/episodes/71--Questa-funge-un-po-da-seconda-introduzione-BONUS-e1chv4r)
     
     La numero 71 è la prima puntata del 2022 e della 3ª stagione. Il 23 gennaio 2020 uscì la puntata 0 di Tenero Gheriglio, quindi festeggiamo i due anni del podcast con questa puntata BONUS. Dopo l'introduzione e varie informazioni utili vi segnalo i post che ho scritto, vi parlo della mia terza dose di vaccino, dei miei giochi per la Nintendo Switch (soprattutto dell'ultimo meraviglioso arrivato Metroid Dread), dei libri che ho letto e che sto leggendo. Infine vi racconto l'evoluzione del mio "setup AirPods" (3, Pro, Max) aggiornato con i nuovi AirPods 3. Ci risentiamo il 7 marzo, buon 2022!
 
