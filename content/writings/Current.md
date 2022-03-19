@@ -7,6 +7,72 @@ date: 2022-03-01
 ---
 ---
 
+<span style="text-decoration:underline">Ci guarda?</span>
+
+&nbsp;
+
+Il pianeta si oscura
+
+Del buio più profondo
+
+La luna splende sicura
+
+Della luce di un altro
+
+Ci guarda?
+
+Ci osserva
+
+La luna è piena
+
+Ammira la scena
+
+Sceglie il bersaglio
+
+Scivola in quello spiraglio
+
+Ci guarda?
+
+Ci scruta
+
+È sempre interessata
+
+Sembra innamorata
+
+Dell'amore stesso sul pianeta
+
+E ingaggia una cometa
+
+Ci guarda?
+
+Ci trova
+
+La luna è sempre la stessa
+
+Ma ogni volta sembra diversa
+
+L'affetto la trasforma
+
+Come prendesse un'altra forma
+
+Ci guarda?
+
+Ci pensa
+
+Ci immagina, insieme
+
+Strette ad aspettarla
+
+Ti bacio, e l'emozione
+
+È dolce, Alessandra
+
+&nbsp;
+
+<span style="color:red">*— 19 marzo 2022*</span>
+
+---
+
 *Com'è, avevi bisogno di accordare un nuovo appuntamento settimanale? Eh sì, perché forse gli incontri del giovedì poco dopo le ore 13 (quando non avevo le lezioni) ti mancavano un po', e hai pensato bene di instaurare questa nuova routine, ogni martedì, alle 18 e qualche minuto, io nel pieno dell'allenamento e tu che parti in macchina per andare non so dove. Lo scorso martedì, oggi... Ci vediamo il prossimo? Va bene amore mio. Giuro invece che quel sabato l'incontro con tuo marito non era per niente voluto, ma è stato destino, avevo tardato, e sono arrivata precisa precisa davanti a lui per conoscerlo. Me lo sono sempre immaginato bellissimo, è tuo marito! Non so se è bellissimo, ma il rifornimento lo fa svelto.*
 
 <span style="color:red">*— 15 marzo 2022*</span>
