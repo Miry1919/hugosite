@@ -36,8 +36,6 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
     • [Video dell'ingegnere che "entra" nel Mac Studio](https://youtu.be/P8HygZSJV4Y)
 
-    &nbsp;
-
     • [Bose SoundLink Micro](https://www.instagram.com/p/CYD5HGRK0eq/?utm_source=ig_web_copy_link)
 
 
