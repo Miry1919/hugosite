@@ -26,7 +26,25 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #73 (14•3•2022) <span style="color:orange">⚡ New!</span>
+* Puntata #74 (21•3•2022) <span style="color:orange">⚡ New!</span>
+
+    ☞[Questo è quello che viene, e questo vi tenete](https://anchor.fm/miriana-novella7/episodes/74--Questo--quello-che-viene--e-questo-vi-tenete-e1g15ri)
+    
+    La puntata settantaquattro parte subito con alcuni aggiornamenti sul discorso Studio Display e Mac Studio, passando poi per le nuove release software, iOS 15.4 e macOS 12.3, che portano Face ID with a Mask, Universal Control, e altro. Procedo ricordando che nel "sistema che mi circonda" descritto nella puntata settantatré ci sono anche iPhone, iPod touch e Apple Watch, inoltre leggo una fantastica recensione, parlo dell'altoparlante Bluetooth Bose SoundLink Micro (+ Mini), degli HomePod e HomePod mini (HomeKit e Intercom), e nel finale di puntata racconto come stanno andando i miei allenamenti, descrivendo un nuovo strumento che utilizzo.
+
+    &nbsp;
+
+    • [Video dell'ingegnere che "entra" nel Mac Studio](https://youtu.be/P8HygZSJV4Y)
+
+    &nbsp;
+
+    • [Bose SoundLink Micro](https://www.instagram.com/p/CYD5HGRK0eq/?utm_source=ig_web_copy_link)
+
+
+---
+
+
+* Puntata #73 (14•3•2022)
 
     ☞[Il sistema che mi circonda](https://anchor.fm/miriana-novella7/episodes/73--Il-sistema-che-mi-circonda-e1fldfu)
     
