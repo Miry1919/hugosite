@@ -9,7 +9,7 @@ date: 2022-03-01
 
 *Ad ogni modo la solitudine è una dimensione che cerco di frequente per le mie attività di lettura, osservazione, ragionamento, e scrittura. Inoltre il mio cuore innamorato non crede mai alla solitudine, sa che un giorno vincerà di nuovo l'amore, ritroverà il suo cuore gemello, riabbraccerà l'anima della persona che ama. Ma ora mi risulta molto difficile dargli retta.*
 
-<span style="color:red">*— 22 marzo 2022*</span>
+<span style="color:red">*— 23 marzo 2022*</span>
 
 ---
 
