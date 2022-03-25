@@ -4,12 +4,11 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Cristo si è fermato a Eboli_ — Carlo Levi
+* _Il treno dell'ultima notte_ — Dacia Maraini
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Il treno dell'ultima notte_ — Dacia Maraini
 * _Salinger. La vera storia di un genio_ — Kenneth Slawenski
 
 &nbsp;
@@ -22,6 +21,7 @@ description: ¶
 &nbsp;
 * _Anna Karenina_ — Lev Tolstoj
 * _L'uomo e i suoi simboli_ — Carl Gustav Jung
+* _Cristo si è fermato a Eboli_ — Carlo Levi
 
 <span style="color:red">*2021 (dal primo all'ultimo)*</span>
 
