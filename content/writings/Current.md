@@ -7,6 +7,12 @@ date: 2022-03-01
 ---
 ---
 
+*È bello vedere come io scriva in maniera veloce quaggiù, e pubblichi subito dopo, ma allo stesso tempo le parole siano di grande significato, e le poesie a volte mi stupiscano. Sarà la leggerezza della scrittura quando è propria, sentita, istantanea.*
+
+<span style="color:red">*— 27 marzo 2022*</span>
+
+---
+
 *Ad ogni modo la solitudine è una dimensione che cerco di frequente per le mie attività di lettura, osservazione, ragionamento, e scrittura. Inoltre il mio cuore innamorato non crede mai alla solitudine, sa che un giorno vincerà di nuovo l'amore, ritroverà il suo cuore gemello, riabbraccerà l'anima della persona che ama. Ma ora mi risulta molto difficile dargli retta.*
 
 <span style="color:red">*— 23 marzo 2022*</span>
