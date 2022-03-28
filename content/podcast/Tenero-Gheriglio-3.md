@@ -26,10 +26,6 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-123
-
----
-
 * Puntata #75 (28•3•2022) <span style="color:orange">⚡ New!</span>
 
     ☞[Una che ragiona, ragiona, ragiona, non si ferma mai](https://anchor.fm/miriana-novella7/episodes/75--Una-che-ragiona--ragiona--ragiona--non-si-ferma-mai-e1gakd3)
