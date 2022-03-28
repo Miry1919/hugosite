@@ -26,7 +26,23 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #74 (21•3•2022) <span style="color:orange">⚡ New!</span>
+* Puntata #75 (28•3•2022) <span style="color:orange">⚡ New!</span>
+
+    ☞[Una che ragiona, ragiona, ragiona, non si ferma mai](https://anchor.fm/miriana-novella7/episodes/75--Una-che-ragiona--ragiona--ragiona--non-si-ferma-mai-e1gakd3)
+    
+    La puntata 75 si apre col quesito "Tante letture o più creatività?", a cui rispondiamo mettendo in relazione la mia attività di lettura, immagazzinamento, accumulo all'azione creativa negli ultimi tre anni (2019-2020-2021) e provando a capire cosa vorrei riuscire a fare in questo 2022, raccontando anche del presente, dell'ultimo libro letto "Cristo si è fermato a Eboli" di Carlo Levi. Poi è il momento di chiarire il significato dell'ultimo post pubblicato sul sito "I tre principi della dinamica del seno, e pure un teorema", e infine della spiegazione dei miei pranzi in piazza Leonardo da Vinci e della funzionalità aggiuntiva del mio monitor collegato all'Apple TV.
+
+    &nbsp;
+
+    • [I tre principi della dinamica del seno, e pure un teorema](https://miry1919.github.io/hugosite/post/i-tre-principi-della-dinamica-del-seno/)
+
+    • [Books](https://miry1919.github.io/hugosite/books/)
+    
+    • [Ultimo post Instagram (letto nel finale)](https://www.instagram.com/p/CbdpSiUK0eM/)
+    
+---
+
+* Puntata #74 (21•3•2022)
 
     ☞[Questo è quello che viene, e questo vi tenete](https://anchor.fm/miriana-novella7/episodes/74--Questo--quello-che-viene--e-questo-vi-tenete-e1g15ri)
     
@@ -38,9 +54,7 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
     • [Bose SoundLink Micro](https://www.instagram.com/p/CYD5HGRK0eq/?utm_source=ig_web_copy_link)
 
-
 ---
-
 
 * Puntata #73 (14•3•2022)
 
