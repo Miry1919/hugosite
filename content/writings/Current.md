@@ -7,10 +7,6 @@ date: 2022-03-01
 ---
 ---
 
-ciao
-
----
-
 *È bello vedere come io scriva in maniera veloce quaggiù, e pubblichi subito dopo, ma allo stesso tempo le parole siano di grande significato, e le poesie a volte mi stupiscano. Sarà la leggerezza della scrittura quando è propria, sentita, istantanea.*
 
 <span style="color:red">*— 27 marzo 2022*</span>
