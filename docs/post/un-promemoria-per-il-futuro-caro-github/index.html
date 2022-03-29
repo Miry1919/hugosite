@@ -5,7 +5,7 @@
 
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Posts</title>
+        <title>Un promemoria per il futuro, caro GitHub</title>
         
         <style>
 
@@ -53,9 +53,6 @@
 
 <script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
  <meta name="generator" content="Hugo 0.59.1" />
-        
-            <link href="/hugosite/post/index.xml" rel="alternate" type="application/rss&#43;xml" title="hello" />
-            <link href="/hugosite/post/index.xml" rel="feed" type="application/rss&#43;xml" title="hello" />
         
 
         
@@ -123,39 +120,50 @@
 
 <main>
 
-    <h2>Posts</h2>
+    <div>
+        <h2>Un promemoria per il futuro, caro GitHub</h2>
+        <h5>March 29, 2022</h5>
+        
 
-     <div class="item">
+    </div>
 
-    
-    
-    
+    <div align="start" class="content"><p>Ieri alle ore 19:00 come ogni lunedì stavo pubblicando Tenero Gheriglio, aggiornando la sua pagina (in particolare quella della <a href="https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-3/">stagione 3</a>) con una nuova puntata, la n° 75. Tuttavia sono incappata in un errore che si era già presentato tempo fa: nonostante sul terminale risultasse girare tutto perfettamente nella norma, e restituisse &ldquo;Everything is up to date&rdquo;, l&rsquo;effettiva pubblicazione delle modifiche non avveniva affatto. Proprio perché questo problema mi si era già presentato, ma non di recente e raramente (una o due volte), avevo completamente dimenticato la soluzione, ai tempi cercata e trovata nella vasta marea di Internet, con le sue domande e risposte, Stack Overflow, Quora, Reddit e così via.</p>
 
-    
-    
+<p>Per evitare di finire di nuovo come ieri sera, insultarti male e voler lanciare il MacBook fuori dalla finestra dopo 77 tentativi non riusciti per risistemare il tutto, oggi creiamo un promemoria per il futuro, per quando il tuo meccanismo si pianterà di nuovo senza motivo, caro GitHub.</p>
 
-    <h4><a href="/hugosite/post/un-promemoria-per-il-futuro-caro-github/">Un promemoria per il futuro, caro GitHub</a></h4>
-    <h5>March 29, 2022</h5>
-    
+<p>&nbsp;</p>
 
+<p>Se il classico codice non modifica effettivamente il sito:</p>
 
+<ol>
+<li>effettuare una nuova modifica al .md in questione o a un .md a caso (da cancellare eventualmente in seguito);</li>
+
+<li><p>ripartire coi seguenti comandi da terminale:</p>
+
+<pre><code>cd quickstart
+hugo
+git status
+git init
+
+/* inizializzazione che risolve tutto (!) */
+
+git status
+git add --all
+git commit -m &quot;finalmente risolto e podcast pubblicato&quot;
+git push --force
+
+*/ comando 'git push --force' più efficace del semplice 'git push' */
+</code></pre></li>
+
+<li><p>fine.</p></li>
+</ol>
+
+<p>&nbsp;</p>
+
+<div align="center">
+  ✎
 </div>
-  <div class="item">
-
-    
-    
-    
-
-    
-    
-
-    <h4><a href="/hugosite/post/i-tre-principi-della-dinamica-del-seno/">I tre principi della dinamica del seno, e pure un teorema</a></h4>
-    <h5>March 20, 2022</h5>
-    
-
-
 </div>
-  <div class="item">
 
     
     
@@ -163,92 +171,8 @@
 
     
     
-
-    <h4><a href="/hugosite/post/ti-ho-sognata/">Ti ho sognata</a></h4>
-    <h5>February 26, 2022</h5>
-    
-
-
-</div>
-  <div class="item">
-
-    
-    
-    
-
-    
-    
-
-    <h4><a href="/hugosite/post/si-mi-fece-la-cacca-sulla-testa/">Sì, mi fece la cacca sulla testa</a></h4>
-    <h5>February 3, 2022</h5>
-    
-
-
-</div>
-  <div class="item">
-
-    
-    
-    
-
-    
-    
-
-    <h4><a href="/hugosite/post/come-polaroid/">Come Polaroid</a></h4>
-    <h5>January 14, 2022</h5>
-    
-
-
-</div>
-  <div class="item">
-
-    
-    
-    
-
-    
-    
-
-    <h4><a href="/hugosite/post/breve-storiella-di-omicron-da-salvare/">Breve storiella di Omicron, da salvare</a></h4>
-    <h5>January 3, 2022</h5>
-    
-
-
-</div>
-  <div class="item">
-
-    
-    
-    
-
-    
-    
-
-    <h4><a href="/hugosite/post/e-natale-posso-esser-sincera/">È Natale, posso esser sincera?</a></h4>
-    <h5>December 25, 2021</h5>
-    
-
-
-</div>
- 
 
 </main>
-
-
-
-<div class="pages">
-
-    
-
-    
-        <a class="icon pages-icon" href="/hugosite/post/page/2/" rel="next">
-            <i class="fa fa-arrow-right" style="padding-left: 15px;padding-right: 15px;"></i>
-        </a>
-    
-
-</div>
-
-
 
         <footer>
             <p class="copyright text-muted">&copy; 2019-2022 hello — Miriana Novella. All rights reserved.</p>
