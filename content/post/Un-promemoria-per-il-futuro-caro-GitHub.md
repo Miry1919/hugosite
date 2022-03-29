@@ -20,7 +20,7 @@ git status
 git init
 
 /* inizializzazione che
- * risolve tutto (!) */
+** risolve tutto (!) */
 
 git status
 git add --all
@@ -28,8 +28,8 @@ git commit -m "podcast"
 git push --force
 
 /* comando 'git push --force'
- * più efficace del semplice
- * 'git push' */
+** più efficace del semplice
+** 'git push' */
 ```
 
 3. fine.
