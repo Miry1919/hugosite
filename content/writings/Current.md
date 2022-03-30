@@ -7,6 +7,12 @@ date: 2022-03-01
 ---
 ---
 
+*Oggi ti ho pensata costantemente, la pioggia ricrea sempre il nostro momento magico d'amore, d'incanto, ti amo tanto, non smetto mai, non riesco, non voglio. Mi manca abbracciarti, e come dicevi tu farti gli agguati, rivoglio quei contatti. Stasera ti stringo forte, delicatamente ti riempio di baci; un giorno ti porterò via, saremo felici.*
+
+<span style="color:red">*— 30 marzo 2022*</span>
+
+---
+
 *È bello vedere come io scriva in maniera veloce quaggiù, e pubblichi subito dopo, ma allo stesso tempo le parole siano di grande significato, e le poesie a volte mi stupiscano. Sarà la leggerezza della scrittura quando è propria, sentita, istantanea.*
 
 <span style="color:red">*— 27 marzo 2022*</span>
