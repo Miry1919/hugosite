@@ -46,8 +46,6 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
     
     • [Un promemoria per il futuro, caro GitHub](https://miry1919.github.io/hugosite/post/un-promemoria-per-il-futuro-caro-github/)
     
-    &nbsp;
-    
     • [Tenda IKEA (HomeKit)](https://www.ikea.com/it/it/p/kadrilj-tenda-a-rullo-wireless-a-batterie-grigio-80408123/)
     
 ---
