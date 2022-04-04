@@ -26,7 +26,7 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #76 (4•4•2022) <span style="color:yellow">New! ⚡️</span>
+* Puntata #76 (4•4•2022) <span style="color:orange">New! ⚡️</span>
 
     ☞[Tra quei podcastini che riuscite ad ascoltare settimanalmente](https://anchor.fm/miriana-novella7/episodes/76--Tra-quei-podcastini-che-riuscite-ad-ascoltare-settimanalmente-e1glbl9)
     
