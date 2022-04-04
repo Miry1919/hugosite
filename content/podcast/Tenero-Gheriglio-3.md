@@ -26,7 +26,33 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #75 (28•3•2022) <span style="color:orange">⚡ New!</span>
+* Puntata #76 (4•4•2022)
+
+    ☞[Tra quei podcastini che riuscite ad ascoltare settimanalmente](https://anchor.fm/miriana-novella7/episodes/76--Tra-quei-podcastini-che-riuscite-ad-ascoltare-settimanalmente-e1glbl9)
+    
+    La settantaseiesima puntata comincia con un discorso sull'HDR e la stabilità dei monitor per proseguire con la mia scrivania motorizzata, la postazione in piedi per l'iPad, il mio primo anno con le AirPods Max, la dualità trackpad/mouse (+ AssistiveTouch Shortcuts ON-OFF). Poi vi racconto dell'ultimo post pubblicato sul sito "Un promemoria per il futuro, caro GitHub", e di come si è aggiornata la lista dei podcast che ascolto. Nel finale parlo del Google Nest Hub 2, della nuova tenda a rullo IKEA che si integra con HomeKit, dei nuovi giochi in uscita per la Nintendo Switch (The Legend of Zelda Breath of the Wild 2, Sports).
+
+    &nbsp;
+    
+    • Post Instagram:
+    
+    → [Foto scrivania](https://www.instagram.com/p/CNKbDiyDPjh/?utm_medium=copy_link)
+    
+    → [Video scrivania](https://www.instagram.com/p/CEBUtDKi8__/?utm_medium=copy_link)
+    
+    → [Postazione in piedi](https://www.instagram.com/p/CNcbUFgDhPI/?utm_medium=copy_link)
+    
+    &nbsp;
+    
+    • [Un promemoria per il futuro, caro GitHub](https://miry1919.github.io/hugosite/post/un-promemoria-per-il-futuro-caro-github/)
+    
+    &nbsp;
+    
+    • [Tenda IKEA (HomeKit)](https://www.ikea.com/it/it/p/kadrilj-tenda-a-rullo-wireless-a-batterie-grigio-80408123/)
+    
+---
+
+* Puntata #75 (28•3•2022)
 
     ☞[Una che ragiona, ragiona, ragiona, non si ferma mai](https://anchor.fm/miriana-novella7/episodes/75--Una-che-ragiona--ragiona--ragiona--non-si-ferma-mai-e1gakd3)
     
