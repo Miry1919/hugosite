@@ -4,11 +4,12 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Salinger. La vera storia di un genio_ — Kenneth Slawenski
+* _Il treno dell'ultima notte_ — Dacia Maraini
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
+* _Salinger. La vera storia di un genio_ — Kenneth Slawenski
 * _Albert Savarus_ — Honoré de Balzac
 
 &nbsp;
@@ -22,7 +23,6 @@ description: ¶
 * _Anna Karenina_ — Lev Tolstoj
 * _L'uomo e i suoi simboli_ — Carl Gustav Jung
 * _Cristo si è fermato a Eboli_ — Carlo Levi
-* _Il treno dell'ultima notte_ — Dacia Maraini
 
 <span style="color:red">*2021 (dal primo all'ultimo)*</span>
 
