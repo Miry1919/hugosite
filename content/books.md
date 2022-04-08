@@ -4,12 +4,12 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Albert Savarus_ — Honoré de Balzac
+* _Salinger. La vera storia di un genio_ — Kenneth Slawenski
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Salinger. La vera storia di un genio_ — Kenneth Slawenski
+* _Albert Savarus_ — Honoré de Balzac
 
 &nbsp;
 
