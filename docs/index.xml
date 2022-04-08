@@ -6,10 +6,21 @@
     <description>Recent content in Home on hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://miry1919.github.io/hugosite/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Menu bar del sito aggiornata</title>
+      <link>https://miry1919.github.io/hugosite/post/menu-bar-del-sito-aggiornata/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://miry1919.github.io/hugosite/post/menu-bar-del-sito-aggiornata/</guid>
+      <description>Con poco impegno sono arrivata a rendere la menu bar di questo sito più carina ed efficace, e come al solito&amp;hellip; avrei dovuto farlo prima.
+ Ho eliminato Home, perché adesso come i veri siti cliccando o tappando sul titolo in alto a sinistra, cioè su ❀ hello, verremo rimandati direttamente alla home page;
+ Al posto di About ora troviamo Me, ma il contenuto di quella pagina non cambia;</description>
+    </item>
     
     <item>
       <title>Un promemoria per il futuro, caro GitHub</title>
