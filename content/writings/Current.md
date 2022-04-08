@@ -7,6 +7,12 @@ date: 2022-03-01
 ---
 ---
 
+*Poi indovinate com'è andata a finire? Chiunque mi ha detto che gli piace il seno piccolo: allora nei giorni di mestruazioni che si ingrossa diventa troppo grande? Sono così inguardabile che a volte mi attraggo da sola, non so se capita a tutti. Alle 23:5X escono tutte le verità.*
+
+<span style="color:red">*— 8 aprile 2022 (su Twitter)*</span>
+
+---
+
 *No comunque l'Apple Watch chiama il 112 anche se è impostato in inglese, ho controllato. Prima o poi mi caccio in un buco e lo chiama.*
 
 <span style="color:red">*— 6 aprile 2022*</span>
