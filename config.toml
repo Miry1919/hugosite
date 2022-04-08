@@ -16,8 +16,8 @@ theme = "minimal"
     weight = 1
 
 [[menu.main]]
-    url = "/about/"
-    name = "About"
+    url = "/me/"
+    name = "Me"
     weight = 2
 
 [[menu.main]]
