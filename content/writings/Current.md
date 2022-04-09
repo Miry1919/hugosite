@@ -11,7 +11,7 @@ date: 2022-03-01
 
 *Ci sono giorni in cui sono messa proprio male, tanto che dopo la doccia devo cercare di non guardarmi, di vestirmi senza guardarmi ahahah! S'è scoperto che quando vogliono criticarmi si appellano al seno, perché sennò a cos'altro? Ma poi amano anche quello così com'è. Ho capito tutto.*
 
-<span style="color:red">*— 8-9 aprile 2022 (su Twitter)*</span>
+<span style="color:red">*— 8 e 9 aprile 2022 (su Twitter)*</span>
 
 ---
 
