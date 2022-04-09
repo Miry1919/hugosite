@@ -9,7 +9,9 @@ date: 2022-03-01
 
 *Poi indovinate com'è andata a finire? Chiunque mi ha detto che gli piace il seno piccolo: allora nei giorni di mestruazioni che si ingrossa diventa troppo grande? Sono così inguardabile che a volte mi attraggo da sola, non so se capita a tutti. Alle 23:5X escono tutte le verità.*
 
-<span style="color:red">*— 8 aprile 2022 (su Twitter)*</span>
+*Ci sono giorni in cui sono messa proprio male, tanto che dopo la doccia devo cercare di non guardarmi, di vestirmi senza guardarmi ahahah! S'è scoperto che quando vogliono criticarmi si appellano al seno, perché sennò a cos'altro? Ma poi amano anche quello così com'è. Ho capito tutto.*
+
+<span style="color:red">*— 8-9 aprile 2022 (su Twitter)*</span>
 
 ---
 
