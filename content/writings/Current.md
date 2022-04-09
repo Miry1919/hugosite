@@ -7,6 +7,54 @@ date: 2022-03-01
 ---
 ---
 
+<span style="text-decoration:underline">22</span>
+
+&nbsp;
+
+Piove anche,
+
+Che giornata emozionante,
+
+Tuona su ogni cosa,
+
+I fulmini entrano in casa,
+
+Illuminano tutto, amore mio.
+
+Tra il vento del cambiamento,
+
+L'amore e il mio tormento,
+
+Oggi ti voglio.
+
+&nbsp;
+
+Non so se hai scritto tu,
+
+Quel 22 laggiù, sul muretto,
+
+Dove spesso salgo e ti penso,
+
+Sicuramente no,
+
+Ho troppa fantasia,
+
+Ma non fa niente,
+
+Voglio sognarti sempre,
+
+Tutta la vita,
+
+Ti voglio,
+
+Amore mio ti voglio.
+
+&nbsp;
+
+<span style="color:red">*— 19 marzo 2022*</span>
+
+---
+
 *Poi indovinate com'è andata a finire? Chiunque mi ha detto che gli piace il seno piccolo: allora nei giorni di mestruazioni che si ingrossa diventa troppo grande? Sono così inguardabile che a volte mi attraggo da sola, non so se capita a tutti. Alle 23:5X escono tutte le verità.*
 
 *Ci sono giorni in cui sono messa proprio male, tanto che dopo la doccia devo cercare di non guardarmi, di vestirmi senza guardarmi ahahah! S'è scoperto che quando vogliono criticarmi si appellano al seno, perché sennò a cos'altro? Ma poi amano anche quello così com'è. Ho capito tutto.*
