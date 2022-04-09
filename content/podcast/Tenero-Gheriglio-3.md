@@ -30,8 +30,6 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
     ☞[Se non tiro giù il microfono](https://anchor.fm/miriana-novella7/episodes/77--Se-non-tiro-gi-il-microfono-e1gv4si)
     
-    &nbsp;
-    
     {{< youtube 2bXaOXXGXhM >}}
     
     &nbsp;
