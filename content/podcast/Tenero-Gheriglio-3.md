@@ -26,7 +26,25 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #76 (4•4•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #77 (9•4•2022) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Se non tiro giù il microfono](https://anchor.fm/miriana-novella7/episodes/77--Se-non-tiro-gi-il-microfono-e1gv4si)
+    
+    &nbsp;
+    
+    {{< youtube 2bXaOXXGXhM >}}
+    
+    &nbsp;
+    
+    Sorpresa! Con largo anticipo, alle 16:30 di sabato, esce la puntata 77, ovvero VideoPodcast 6. Vi parlo del piccolo problema che ho avuto la settimana scorsa col muscolo tra collo e spalla (e anche dietro, ahaha). Poi vi mostro il kettlebell da 6 kg (sostituto della piastrella), il mio pallone da calcio per fare passaggi e palleggi con chiunque, per strada, e il Bose SoundLink Micro, altoparlante per la bicicletta. Inoltre vi parlo del nuovo post pubblicato sul sito "Menu bar del sito aggiornata", e vi mostro i miei cinturini per l'Apple Watch, le custodie per l'iPhone 12, vi faccio un aggiornamento sulle scarpe da corsa Adidas SolarBoost 3. Infine vi mostro gli ultimi libri letti, incluso l'ultimissimo "Il treno dell'ultima notte" di Dacia Maraini e il prossimo che leggo.
+    
+    &nbsp;
+    
+    • [Menu bar del sito aggiornata](https://miry1919.github.io/hugosite/post/menu-bar-del-sito-aggiornata/)
+    
+---
+
+* Puntata #76 (4•4•2022)
 
     ☞[Tra quei podcastini che riuscite ad ascoltare settimanalmente](https://anchor.fm/miriana-novella7/episodes/76--Tra-quei-podcastini-che-riuscite-ad-ascoltare-settimanalmente-e1glbl9)
     
