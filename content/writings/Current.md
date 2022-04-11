@@ -7,6 +7,12 @@ date: 2022-03-01
 ---
 ---
 
+*Cosa darei per sapere cosa pensi; non lo so da troppo. Magari non hai proprio più idea di chi io sia, di cosa voglia, ma anche se ti faccio solo ribrezzo vorrei tanto saperlo, eviterei di pensare tu ci sia ancora, eviterei di immaginarti: so che non ci sei e non devo immaginarti... Ma sono davvero sola? Ti ho dentro, e anche se mi dicessi che hai desiderato la mia morte questo non cambierebbe, ma vorrei sentire chiaramente che hai buttato tutto di me, anche l'ultima cosa che ti ho inviato, senza nemmeno aprirla. Starai ancora ridendo di me, se sei felice così dovrò accettarlo.*
+
+<span style="color:red">*— 11 aprile 2022*</span>
+
+---
+
 *Che idiota, nel racconto del 31 marzo non ho messo in conto il caso limite, cioè se il tuo box fosse stato il primo, dopo essere scesa nei box con la rampa, entrando dal cancello, non avrei fatto più nient'altro dopo aver accostato. Ecco, il tuo box è proprio il primo. Oggi non ho resistito, la tua macchina arrivava, guidata da tuo figlio, stavo correndo, sono scesa dopo di voi, ma ho visto tuo figlio lì in piedi e sono scappata. È strano non mi abbia vista, avrà fatto finta di niente, avrà ascoltato il mio consiglio di informarsi su di me, allora si sarà messo paura, avrà avuto vergogna: non osa più venire a farmi il discorsetto perché sa che altrimenti poi se ne va solo con la coda tra le gambe per quello che gli dico. Non so se c'eri, credo di sì, tuo figlio stava aspettando uscissi dalla macchina, non so se mi hai sentita ma prima di scappare m'è venuto spontaneo dire "ah ora ho capito, proprio comodo comodo" ahaha. Inoltre ci sono stati degli sviluppi per quanto riguarda quel 22 scritto sul muretto (poesia di ieri sera), ho scritto anche io 22 vicino, in rosso, col cuoricino, e poi anche altre cose, il secondo principio della dinamica, la formula della quantità di moto, dell'energia cinetica, dell'energia potenziale, della forza elastica, e dopo aver finito di allenarmi un bel CIAO, o meglio, un ciaO, perché la O è venuta obesa rispetto al resto, ho riso molto, ho ripetuto come può essere letto, ciaOOO con la O chiusa come dire (ciaóóó). Sono scema sì, ma l'avevo già scritto e ora non serve più scriverlo. O forse sì se lo diciamo meglio... sono una scema che ti ama.*
 
 <span style="color:red">*— 10 aprile 2022*</span>
