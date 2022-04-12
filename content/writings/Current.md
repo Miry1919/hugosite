@@ -7,6 +7,12 @@ date: 2022-03-01
 ---
 ---
 
+*Sono sola è sicuro. Non devo più chiedermelo. Un giorno, non molto lontano, me ne andrò, esaudirò i desideri di tutti. Tanto qui non legge nessuno, no? Allora posso scrivere tutta la verità.*
+
+<span style="color:red">*— 12 aprile 2022*</span>
+
+---
+
 *Cosa darei per sapere cosa pensi; non lo so da troppo. Magari non hai proprio più idea di chi io sia, di cosa voglia, ma anche se ti faccio solo ribrezzo vorrei tanto saperlo, eviterei di pensare tu ci sia ancora, eviterei di immaginarti: so che non ci sei e non devo immaginarti... Ma sono davvero sola? Ti ho dentro, e anche se mi dicessi che hai desiderato la mia morte questo non cambierebbe, ma vorrei sentire chiaramente che hai buttato tutto di me, anche l'ultima cosa che ti ho inviato, senza nemmeno aprirla. Starai ancora ridendo di me, se sei felice così dovrò accettarlo.*
 
 <span style="color:red">*— 11 aprile 2022*</span>
