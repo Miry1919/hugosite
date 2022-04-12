@@ -7,6 +7,12 @@ date: 2022-03-01
 ---
 ---
 
+*La verità è che non devo dare niente per sapere cosa pensi; devo venire da te e basta, così mi dici tutto, oppure mi schiacci con la macchina ed esaudusci il tuo desiderio di vedermi morta, va bene? So che continuo a cambiare idea, ma sono sicura nessuno abbia detto che non si può: eccome se si può. Voglio sentirmi dire "vai a cagare, ho buttato tutto di te, tutto, dalla prima cosa all'ultima, ti odio da morire" (e per me sarai bellissima anche quando mi dirai questo, ovvio, sono fusa!). E poi vorrei vederti ancora ridermi in faccia, spassosamente (e ancora una volta, sarai bellissima, perché sono cretina!). Purtroppo al telefono non sai più rispondermi a quanto pare, avrai capito che sono piena di coraggio, se devo dire cose forti le dico (ancora non mi spiego come quel giorno abbia detto quella cosa del ca**o, giuro ahaha! In ogni caso il problema non si pone, verrò. Però prima mi godo l'esame di domani, e poi il mare dei prossimi giorni. Voglio immaginare tu non abbia ancora buttato il film, lo abbia visto o abbia intenzione di vederlo, ripercorrerò la scena del bagno nel mare, coi baci, i bacini, le carezze e via dicendo, sciogliendomi ancora tantissimo amore mio.*
+
+<span style="color:red">*— 12 aprile 2022*</span>
+
+—
+
 *Cosa darei per sapere cosa pensi; non lo so da troppo. Magari non hai proprio più idea di chi io sia, di cosa voglia, ma anche se ti faccio solo ribrezzo vorrei tanto saperlo, eviterei di pensare tu ci sia ancora, eviterei di immaginarti: so che non ci sei e non devo immaginarti... Ma sono davvero sola? Ti ho dentro, e anche se mi dicessi che hai desiderato la mia morte questo non cambierebbe, ma vorrei sentire chiaramente che hai buttato tutto di me, anche l'ultima cosa che ti ho inviato, senza nemmeno aprirla. Starai ancora ridendo di me, se sei felice così dovrò accettarlo.*
 
 <span style="color:red">*— 11 aprile 2022*</span>
