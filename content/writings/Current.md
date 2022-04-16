@@ -7,6 +7,12 @@ date: 2022-03-01
 ---
 ---
 
+*C'è stata una bufera qui, dalle 18:30 alle 19:30 circa, poi si è placato tutto, il vento fortissimo, la pioggia, ed è riuscito il sole. È bellissima la luna stasera, piena piena, ci guarda eccome; sa che mi sto sciogliendo per te, di sicuro, si vede anche dai confini dell'universo, chissà, forse anche dagli altri: il mio amore è tanto grande da essere multiuniverso! Non so per cosa vivrei se non per sentire l'amore che provo per te, non ci sono mai dubbi è la cosa più bella che ho. Delle sere penso che la cosa più bella sia il cuscino perché ho paura, e mi sento così stanca, ma poi mi riprendo e non sbaglio: la mia meraviglia sei tu.*
+
+<span style="color:red">*— 16 aprile 2022*</span>
+
+---
+
 *Il mare è così bello che ogni volta che lo vedo non mi sembra vero. Oggi ti ho pensata tanto guardandolo, a un certo punto non so come ho cominciato a commuovermi, mi si sono riempiti gli occhi di lacrime, ho tremato, vorrei tanto riabbracciarti. Quando comincio a pensarci, a pensare a noi, mi vengono emozioni implacabili, straordinarie; le gambe mi tremano, sento dentro un calore che mi coccola il cuore, il cervello ferma tutto e si concentra sull'amore: non lo capisce ma lo riconosce sempre, è così grande, e quando lo sente è felice, felicissimo. Se quello che mi resta è questo continuerò a provarlo, ti amo, non so far altro.*
 
 <span style="color:red">*— 15 aprile 2022*</span>
