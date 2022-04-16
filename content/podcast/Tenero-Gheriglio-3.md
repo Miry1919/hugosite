@@ -26,7 +26,15 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #77 (9•4•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #78 (16•4•2022) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Il metodo del vero ingegnere, del vero informatico professionale](https://anchor.fm/miriana-novella7/episodes/78--Il-metodo-del-vero-ingegnere--del-vero-informatico-professionale-e1h763d)
+    
+    La settantottesima puntata viene registrata di giovedì pomeriggio (ed esce di nuovo in anticipo, sabato alle 16:30), perché vado per qualche giorno al mare. Dopo l'introduzione è il momento di saldare i conti con un nuovissimo flusso libero: "Giornate Vacciniche", o meglio, "Giornate". Buona Pasqua!
+
+---
+
+* Puntata #77 (9•4•2022)
 
     ☞[Se non tiro giù il microfono](https://anchor.fm/miriana-novella7/episodes/77--Se-non-tiro-gi-il-microfono-e1gv4si)
     
