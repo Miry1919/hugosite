@@ -23,7 +23,7 @@ description: Chi?
 &nbsp;
 
 <div align="center">
-Salda nella furia dei venti e degli eventi
+Salda nella furia dei venti e degli eventi ༄
 </div>
 
 &nbsp;
