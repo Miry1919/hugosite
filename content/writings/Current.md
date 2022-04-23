@@ -9,7 +9,7 @@ date: 2022-03-01
 
 *Vedo più persone stare male che bene. La mia cagnolina Briciola oggi non ha mangiato per tutto il giorno, è preoccupante; il mio papà non sta bene da mesi, dopo la caduta... Sto tremando, sto cercando di capire cosa sta avendo Briciola, non riesco a tranquillizzarmi più di tanto perché mio padre piange, l'ha vista molto male oggi... La scrittura spesso è l'unica cosa che ci rimane, e come ho letto oggi fu così per Salinger nella Seconda Guerra Mondiale. Ma se il momento è difficile anche la scrittura si blocca quasi, diventa telegrafica, scarna, senza ritmo né anima. Voglio scrivere che però ti amo, è l'unica cosa su cui non ho mai dubbi, ti amo sempre, sempre. Perché il mondo soffre? Voglio amarti, ti ho persa, non ho più nulla. Mi scendono le lacrime ora, come spesso accade dopo righe tristi di parole senza speranza. Se penso alla guerra, a quell'orrore, non riesco nemmeno più a capire cosa siam qui a fare. Voglio amarti sempre di più. Così non ce la faccio più.*
 
-<span style="color:red">*— 22 aprile 2022*</span>
+<span style="color:red">*— 23 aprile 2022*</span>
 
 ---
 
