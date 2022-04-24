@@ -11,10 +11,9 @@ date: 2022-03-01
 
 <span style="color:red">*— 24 aprile 2022 (sera)*</span>
 
+*(Scritto tornando, dalle 20:05, orario in cui prendo l'autobus sulla via Emilia, camminando, fino alle 21:20, finendo la cena.)*
+
 ---
-
-
-(Scritto tornando, dalle 20:05, orario in cui prendo l'autobus sulla via Emilia, camminando, fino alle 21:20, finendo la cena).
 
 *Finalmente, Briciola ha appena mangiato un po' della sua pappa, che gioia rivederla mangiare. Ieri sera è stato molto brutto, mi sentivo veramente impotente, e l'unica cosa che riuscivo a fare era agitarmi. Ma quando mi agito le parole scritte diventano enormemente profonde, escono quelle più vere e forti. Urlano, non parlano. Corrono.*
 
