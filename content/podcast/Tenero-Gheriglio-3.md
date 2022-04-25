@@ -26,7 +26,15 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #78 (16•4•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #79 (25•4•2022) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Non ero proprio convinta che non potessi farcela, anzi [MM-AM-EI: prima parte]](https://anchor.fm/miriana-novella7/episodes/79--Non-ero-proprio-convinta-che-non-potessi-farcela--anzi-MM-AM-EI-prima-parte-e1hkqdr)
+    
+    79ª puntata festiva di Tenero Gheriglio. Smaltito il jet lag e dopo l'introduzione, vi parlo del mio test con AirPods 3, Apple Watch e corsa al mare. Poi, finalmente, comincio a raccontarvi la grande storia della mia esperienza in Marina Militare, Aeronautica Militare, ed Esercito Italiano (MM, AM, EI), nelle Accademie (Ufficiali), partendo proprio dall'inizio; un discorso che verrà continuato nella prossima puntata (80).
+
+---
+
+* Puntata #78 (16•4•2022)
 
     ☞[Il metodo del vero ingegnere, del vero informatico professionale](https://anchor.fm/miriana-novella7/episodes/78--Il-metodo-del-vero-ingegnere--del-vero-informatico-professionale-e1h763d)
     
