@@ -7,6 +7,12 @@ date: 2022-03-01
 ---
 ---
 
+*Che poi per la verità mi piaceva anche S. C., ma poi ho scoperto che dal lato umano lascia abbastanza a desiderare... È autorealizzazione fine a sé stessa, ma poi di cosa, di un viaggio che parte in uno stretto loculo e finisce in un altro. Dove in più hai pure l'osteoporosi ecc.*
+
+<span style="color:red">*— 28 aprile 2022 (su Twitter)*</span>
+
+---
+
 *Persone che guardano entusiaste l'autoaffermazione di S. Cristoforetti ma non alzano mai il sedere dalla sedia.*
 
 *Il cuore può volare più in alto di tutto ve lo assicuro, e poi appunto, cominciamo con l'alzare il sedere.*
