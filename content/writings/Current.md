@@ -17,9 +17,17 @@ date: 2022-03-01
 
 *Riguardo al loculo e all'osteoporosi... Non sono più di cavie.*
 
-<span style="color:blue">Infine:</span>
+<span style="color:blue">Poi:</span>
 
 *Ma mi dispiace solo eh! Per me S. Cristoforetti era veramente una persona a cui ispirarsi, però ho capito che non era proprio così, l'ammirazione è svanita e ho potuto guardare in faccia la realtà. Sono passata nella stessa Accademia che ha fatto, lì già puoi capire molto di lei.*
+
+<span style="color:blue">Qualcuno mi scrive di nuovo:</span> «La parte umana è un tuo parere. A me quello che dice e fa piace e la trovo umanamente una ottima persona.»
+
+<span style="color:blue">Infine:</span>
+
+*Perché la conosci di persona già...*
+
+*Io parlo con i racconti di chi l'ha conosciuta davvero. Non faceva proprio gioco di squadra in Accademia, era lì per fare la prima della classe e poi andarsene. Quello che appare in televisione non è quello che è purtroppo.*
 
 <span style="color:red">*— 28 aprile 2022 (su Twitter)*</span>
 
