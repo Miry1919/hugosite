@@ -9,6 +9,18 @@ date: 2022-03-01
 
 *Che poi per la verità mi piaceva anche S. C., ma poi ho scoperto che dal lato umano lascia abbastanza a desiderare... È autorealizzazione fine a sé stessa, ma poi di cosa, di un viaggio che parte in uno stretto loculo e finisce in un altro. Dove in più hai pure l'osteoporosi ecc.*
 
+<span style="color:blue">Qualcuno mi scrive:</span> «Questo però è semplicemente un tuo parere personale.»
+
+<span style="color:blue">Allora:</span>
+
+*Quale? Per quanto riguarda l'autorealizzazione e la parte umana ho potuto ascoltare in Accademia delle cose che non mi sono piaciute, puntava semplicemente a diventare quello che è diventata. Quindi non è un parere.*
+
+*Riguardo al loculo e all'osteoporosi... Non sono più di cavie.*
+
+<span style="color:blue">Infine:</span>
+
+*Ma mi dispiace solo eh! Per me S. Cristoforetti era veramente una persona a cui ispirarsi, però ho capito che non era proprio così, l'ammirazione è svanita e ho potuto guardare in faccia la realtà. Sono passata nella stessa Accademia che ha fatto, lì già puoi capire molto di lei.*
+
 <span style="color:red">*— 28 aprile 2022 (su Twitter)*</span>
 
 ---
