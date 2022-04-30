@@ -7,7 +7,7 @@ date: 2022-04-30
 ---
 ---
 
-Very soon!
+<div align="center">Very soon!</div>
 
 ---
 ---
