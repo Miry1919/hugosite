@@ -12,6 +12,4 @@ date: 2022-04-30
 <span style="color:red">*— 1 maggio 2022*</span>
 
 ---
-
----
 ---
