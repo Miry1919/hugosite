@@ -26,7 +26,15 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #79 (25•4•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #80 (2•5•2022) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Se qualcuno sbaglia, pagano tutti [MM-AM-EI: seconda parte]](https://anchor.fm/miriana-novella7/episodes/80--Se-qualcuno-sbaglia--pagano-tutti-MM-AM-EI-seconda-parte-e1htq26)
+    
+    80ª puntata di Tenero Gheriglio. Comincio raccontandovi dell'allenamento di martedì, e del ☞[super arcobaleno](https://www.instagram.com/p/Cc066k0qC_L/?igshid=YmMyMTA2M2Y=)! Poi continuo con la grande storia iniziata la scorsa puntata, su Marina Militare, Aeronautica Militare, Esercito Italiano (MM, AM, EI) e le Accademie (Ufficiali); un discorso che verrà terminato nella prossima puntata (81).
+
+---
+
+* Puntata #79 (25•4•2022)
 
     ☞[Non ero proprio convinta che non potessi farcela, anzi [MM-AM-EI: prima parte]](https://anchor.fm/miriana-novella7/episodes/79--Non-ero-proprio-convinta-che-non-potessi-farcela--anzi-MM-AM-EI-prima-parte-e1hkqdr)
     
