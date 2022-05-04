@@ -7,6 +7,12 @@ date: 2022-04-30
 ---
 ---
 
+*Non ho avuto proprio nessuna ripercussione dopo ieri, anzi stamattina sto benissimo, mi sono alzata spumeggiante, vogliosa di fare; verso questo periodo dell'anno ho sempre un'energia incredibile. L'unica che può veramente uccidermi sei tu amore mio, vivo per vederti anche solo da lontano. Da mesi non ti disturbo più direttamente, lo sai, non mi vuoi, anche se dirti cosa sentivo era bellissimo e mi manca da morire, ma a differenza tua (credo) vivrò sempre curandomi di sapere come stai, scrutando i tuoi movimenti sentirò ogni volta il solito calore, riuscirò a tenerti sempre nel cuore.*
+
+<span style="color:red">*— 4 maggio 2022*</span>
+
+---
+
 *Sono a casa, sono stremata. E pensare che mi sono detta, mi alleno meno intensamente oggi pomeriggio, è il giorno peggiore del mese, il secondo dei "problemi di donna"... Le ultime parole famose. Dopo aver parcheggiato ho visto la tua macchina parcheggiata al solito posto, giusto il tempo di riscaldarmi, ed ecco che arrivi, ti metti a parlare con la collega della quale ti dissi che sono gelosa, e pure con un altro, sì poi vengo a vedere adesso chi è pure questo... Ahahaha! Eri bellissima già così, da lontano, infatti dopo la mia reazione da fusa innamorata ho temuto stesse per arrivare il peggio. Inizio a correre, faccio tutto il giro e arrivando da te c'è un cielo talmente nero, ma talmente nero che comincio già a ridere (per non piangere). Credo io debba venire da te al più presto, così mi schiacci, mi investi, muoio, e la smetto di provare tutto questo amore (pioggia), di volere un cambiamento (vento), tanto sono la sola delle due! E poi finalmente la smetterebbe di disturbare i runner delle 18:00, e quelli che cercano di uscire dal lavoro o dall'Esselunga senza volare via... Che vento ho preso! Se domani come dopo la bufera di martedì scorso non accuso ancora niente penso di essere immortale, tanto che il Coronavirus se mai dovesse entrare nel mio corpo direbbe "nono io scappo, non ci provo manco, chi la ammazza a questa!", ahahaha.*
 
 *Vado a fare la doccia e a mangiare la pappa controvoglia – quando sono così stanca non ho più fame – che è meglio. Ti amo troppo, non c'è rimedio.*
