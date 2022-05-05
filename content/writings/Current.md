@@ -7,6 +7,12 @@ date: 2022-04-30
 ---
 ---
 
+*Sono le 18:30, piove dalle 15 circa. Oggi non ho nemmeno potuto provare a uscire per poi prendermi tutto l'amore in faccia, ha iniziato presto e senza lasciare dubbi! Guardo la pioggia e ti penso, è bellissimo. Questo pomeriggio si tratta della pioggia più rappresentativa del mio amore, lungo, costante, in ogni goccia d'acqua dolce, si racchiude, precipita al suolo, lo accarezza, pulisce, rapisce. Devo davvero smettere di amarti, di affogare San Giuliano, San Donato, e di lanciare allerta meteo ovunque? Non ne sono capace. Ti amo, ti penso, anche tutta la sera, tutta la notte, un giorno intero ininterrottamente, è bellissimo.*
+
+<span style="color:red">*— 5 maggio 2022*</span>
+
+---
+
 *Non ho avuto proprio nessuna ripercussione dopo ieri, anzi stamattina sto benissimo, mi sono alzata spumeggiante, vogliosa di fare; verso questo periodo dell'anno ho sempre un'energia incredibile. L'unica che può veramente uccidermi sei tu amore mio, vivo per vederti anche solo da lontano. Da mesi non ti disturbo più direttamente, lo sai, non mi vuoi, anche se dirti cosa sentivo era bellissimo e mi manca da morire, ma a differenza tua (credo) vivrò sempre curandomi di sapere come stai, scrutando i tuoi movimenti sentirò ogni volta il solito calore, riuscirò a tenerti sempre nel cuore.*
 
 <span style="color:red">*— 4 maggio 2022*</span>
