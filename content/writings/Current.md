@@ -7,6 +7,12 @@ date: 2022-04-30
 ---
 ---
 
+*È durata davvero ventiquattro ore ininterrottamente la pioggia stavolta, e anche qualche ora di più. Starò facendo una follia come sempre, tu mi detesti ma io insisto ad amarti... perché semplicemente io ti amo! Non so se e quando troverò il coraggio di venire da te, non avevo mai avuto tanta angoscia di farlo. L'anno scorso il 4 giugno venni da te pensando fosse tutto finito. Dopo avermi vista per terra con la bicicletta pensasti fossi caduta, me lo chiesi con quella voce divina, che appartiene solo a te. La tua premura mi fece emozionare tantissimo amore mio: non ero caduta, ti stavo aspettando seduta, l'attesa mi stava mangiando lentamente (in piedi tremavo troppo). Volevo solo parlarti, dirti che nella foto che avevo trovato di te eri (sei) bellissima, come in tutte le altre che ho. Dopo aver realizzato che non fosse tutto finito, mi sentivo così felice, andai al laghetto, non diretta a casa come probabilmente avrai pensato. Piansi a lungo, seduta su una panchina, avevi mosso il mio cuore sensibilmente, sentivo dentro come se qualcosa mi comprimesse il torace per poi riespandersi, sentivo di volerti per sempre; aver temuto di perderti quel giorno fu qualcosa di atroce, solo dopo un po' di minuti fui di nuovo in grado di prendere la bicicletta per tornare a casa. Non so perché l'ho raccontato, tanto non avverrà mai più nulla di simile: ti ho persa per sempre e devo farci l'abitudine.*
+
+<span style="color:red">*— 6 maggio 2022*</span>
+
+---
+
 *Sono le 18:30, piove dalle 15 circa. Oggi non ho nemmeno potuto provare a uscire per poi prendermi tutto l'amore in faccia, ha iniziato presto e senza lasciare dubbi! Guardo la pioggia e ti penso, è bellissimo. Questo pomeriggio si tratta della pioggia più rappresentativa del mio amore, lungo, costante, in ogni goccia d'acqua dolce, si racchiude, precipita al suolo, lo accarezza, pulisce, rapisce. Devo davvero smettere di amarti, di affogare San Giuliano, San Donato, e di lanciare allerta meteo ovunque? Non ne sono capace. Ti amo, ti penso, anche tutta la sera, tutta la notte, un giorno intero ininterrottamente, è bellissimo.*
 
 <span style="color:red">*— 5 maggio 2022*</span>
