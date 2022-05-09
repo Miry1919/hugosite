@@ -26,7 +26,27 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #80 (2•5•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #81 (9•5•2022) <span style="color:orange">⚡️ New!</span>
+
+    ☞["Devono volare!" [MM-AM-EI: terza e ultima parte]](https://anchor.fm/miriana-novella7/episodes/81--Devono-volare--MM-AM-EI-terza-e-ultima-parte-e1i81qb)
+    
+    81ª puntata – lunga, virgolettata e speciale – di Tenero Gheriglio. Dopo il ringraziamento per le recensioni porto a termine il discorso sulla mia esperienza nel mondo militare, iniziato e portato avanti nelle puntate 79 e 80. Nella prossima puntata, servendomi anche del libro "Salinger. La vera storia di un genio", dirò le altre motivazioni che mi hanno spinta ad abbandonare il mondo militare.
+    
+    &nbsp;
+
+    (Le 8 ore obbligatorie per un pilota militare erano di sonno, non l'ho detto ma era questo quello che intendevo in quel pezzo.)
+    
+    &nbsp;
+    
+    • Post Instagram AM:
+    
+    → [In divisa](https://www.instagram.com/p/CTjNVpKigCU/?igshid=YmMyMTA2M2Y=)
+    
+    → [In tuta da volo](https://www.instagram.com/p/CRn5putDj3C/?igshid=)
+
+---
+
+* Puntata #80 (2•5•2022)
 
     ☞[Se qualcuno sbaglia, pagano tutti [MM-AM-EI: seconda parte]](https://anchor.fm/miriana-novella7/episodes/80--Se-qualcuno-sbaglia--pagano-tutti-MM-AM-EI-seconda-parte-e1htq26)
     
