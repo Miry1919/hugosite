@@ -4,12 +4,12 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Salinger. La vera storia di un genio_ — Kenneth Slawenski
+* _Albert Savarus_ — Honoré de Balzac
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Albert Savarus_ — Honoré de Balzac
+No, farò una pausa causa esami.
 
 &nbsp;
 
@@ -23,6 +23,7 @@ description: ¶
 * _L'uomo e i suoi simboli_ — Carl Gustav Jung ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/72--I-numeri-sono-prodotti-spontanei-e-autonomi-dellinconscio-e1fau0o)
 * _Cristo si è fermato a Eboli_ — Carlo Levi ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/75--Una-che-ragiona--ragiona--ragiona--non-si-ferma-mai-e1gakd3)
 * _Il treno dell'ultima notte_ — Dacia Maraini ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/77--Se-non-tiro-gi-il-microfono-e1gv4si)
+* _Salinger. La vera storia di un genio_ — Kenneth Slawenski
 
 <span style="color:red">*2021 (dal primo all'ultimo)*</span>
 
