@@ -7,6 +7,65 @@ date: 2022-04-30
 ---
 ---
 
+
+<span style="text-decoration:underline">Scrivere, scrivere</span>
+
+&nbsp;
+
+C'è un ragnetto
+
+Che mi gira attorno sospetto
+
+Dicono di soldi sia il portatore
+
+Ma io avrei preferito l'amore
+
+Per ora non ne vedo
+
+Ma ci credo
+
+Scriverò seriamente
+
+Per la gente
+
+Il ragnetto avrà ragione
+
+Oppure no
+
+Ma l'occasione
+
+Non la sprecherò
+
+Voglio scrivere
+
+Scrivere, scrivere
+
+Qualcosa che resti
+
+Ti svegli e t'appresti
+
+Ma la tua giornata è sconvolta
+
+Dalle mie parole sotto coperta
+
+Che escono e le vele riempiono
+
+Di un potere immenso, violento
+
+Contento. Contenta
+
+Voglio scrivere
+
+Scrivere, scrivere
+
+È il mio vivere
+
+&nbsp;
+
+<span style="color:red">*— 10 maggio 2022*</span>
+
+---
+
 *Se la scorsa settimana ero orgogliosa della puntata 80 di Tenero Gheriglio, oggi non posso non esserlo della pubblicazione della 81; ci sono miliardi di cose che non ho raccontato della mia esperienza in Marina e Aeronautica, ma quel poco che ho detto mi piace. Per il resto, come faccio a riassumere i cento dettagli degli ultimi tre giorni? Non dirò molto più di questo: ti amo, ho riguardato la foto a cui faccio riferimento nello slot sottostante (anche provando a ricliccare sul link presente nella mail che ti inviai il 2 giugno 2021, ancora funziona!), sei bellissima, tutto procede.*
 
 <span style="color:red">*— 9 maggio 2022*</span>
