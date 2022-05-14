@@ -7,6 +7,11 @@ date: 2022-04-30
 ---
 ---
 
+*Sono successe molte cose belle negli ultimi giorni, compresi i vari incontri di ogni genere che riempiono sempre la mia vita. Quante persone ho incontrato per strada, quante storie mi hanno raccontato, sono sempre affascinata: è come se ogni volta io aggiunga ognuno di loro al libro degli incontri, e le loro vite rimangano salvate attraverso racconti veloci ma intensi, in cui la regola base è sorridere, accogliere, mettersi alla pari, presentarsi umilmente, scherzosamente, onestamente, senza vergogna. Non ho mai paura di farlo perché so che sorridere e parlare con chi lo fa con te per strada arricchisce solo. Allo stesso modo non ho paura di venire da te amore mio, perché innanzitutto siamo sempre lì a inseguirci, e come ci siamo sincronizzate anche oggi non sto a raccontarlo, ma l'hai visto, è stato perfetto; arrivo, arrivi, arriviamo, nello stesso istante. Quindi non è paura, non ho mai avuto paura perché ti ho sempre amata. Piuttosto è la netta sensazione di essere stata lasciata nel dolore senza dare valore all'amore, e la quasi certezza che saresti capace di rifarlo ancora, e ancora. Che sensazione orrenda amore mio. Vorrei poterti semplicemente abbracciare, non so quando ma spero tanto che risuccederà. Non può essere finita.*
+
+<span style="color:red">*— 14 maggio 2022*</span>
+
+---
 
 <span style="text-decoration:underline">Scrivere, scrivere</span>
 
