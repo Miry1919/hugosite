@@ -26,7 +26,15 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #81 (9•5•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #82 (16•5•2022) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Una cosa molto speciale che io sento](https://anchor.fm/miriana-novella7/episodes/82--Una-cosa-molto-speciale-che-io-sento-e1ii7st)
+    
+    Ottantaduesima puntata. Come promesso parto col dire le altre motivazioni che mi hanno spinta ad abbandonare il mondo militare, collegandomi al libro "Salinger. La vera storia di un genio" di Kenneth Slawenski; poi ritorno a parlare di tecnologia: aggiornamento firmware Studio Display, iPod dismesso, MacBook Pro battery "On Hold". Infine vi parlo del videogioco "The Legend of Zelda: Skyward Sword HD" appena acquistato per la Nintendo Switch, e della questione dei videogiochi in versione digitale versus quelli su cartuccia fisica. Chiudo leggendo l'ultima poesia che ho scritto.
+
+---
+
+* Puntata #81 (9•5•2022)
 
     ☞["Devono volare!" [MM-AM-EI: terza e ultima parte]](https://anchor.fm/miriana-novella7/episodes/81--Devono-volare--MM-AM-EI-terza-e-ultima-parte-e1i81qb)
     
