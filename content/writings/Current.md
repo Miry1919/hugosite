@@ -7,6 +7,14 @@ date: 2022-04-30
 ---
 ---
 
+La puntata 82 di Tenero Gheriglio pubblicata ieri sera è forse anche più bella della 80 e della 81; ho detto in modo chiaro quello che volevo comunicare da un bel po'. Alla fine tutte le puntate di TG sono belle, ognuna a modo suo: non c'è nessuna novità.
+
+La vera novità è che tra 48 ore, il 19 maggio, compio 1/4 di secolo. Sono nata alle 15 e qualcosa, di lunedì, da un parto cesareo (stacci tu a testa in giù!), e pesavo veramente tantissimo, 3330 grammi. Ma se gli anni sono 25, allora per eccesso sono 30. O meglio, per una stupida teoria che ho spiegato anche a un amico di recente, a 25 anni stai oltrepassando la metà dei 50 anni, quindi approssimando per eccesso tra pochissimo ne avrò 50, e visto che se ne ho 50 sto oltrepassando la metà dei 100, tra pochissimo ne avrò 100. Sono centenaria, assurdo, così va la vita. Ahahah.
+
+<span style="color:red">*— 17 maggio 2022*</span>
+
+---
+
 *Sono successe molte cose belle negli ultimi giorni, compresi i vari incontri di ogni genere che riempiono sempre la mia vita. Quante persone ho incontrato per strada, quante storie mi hanno raccontato, sono sempre affascinata: è come se ogni volta io aggiunga ognuno di loro al libro degli incontri, e le loro vite rimangano salvate attraverso racconti veloci ma intensi, in cui la regola base è sorridere, accogliere, mettersi alla pari, presentarsi umilmente, scherzosamente, onestamente, senza vergogna. Non ho mai paura di farlo perché so che sorridere e parlare con chi lo fa con te per strada arricchisce solo. Allo stesso modo non ho paura di venire da te amore mio, perché innanzitutto siamo sempre lì a inseguirci, e come ci siamo sincronizzate anche oggi non sto a raccontarlo, ma l'hai visto, è stato perfetto; arrivo, arrivi, arriviamo, nello stesso istante. Quindi non è paura, non ho mai avuto paura perché ti ho sempre amata. Piuttosto è la netta sensazione di essere stata lasciata nel dolore senza dare valore all'amore, e la quasi certezza che saresti capace di rifarlo ancora, e ancora. Che sensazione orrenda amore mio. Vorrei poterti semplicemente abbracciare, non so quando ma spero tanto che risuccederà. Non può essere finita.*
 
 <span style="color:red">*— 14 maggio 2022*</span>
