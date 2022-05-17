@@ -7,9 +7,9 @@ date: 2022-04-30
 ---
 ---
 
-La puntata 82 di Tenero Gheriglio pubblicata ieri sera è forse anche più bella della 80 e della 81; ho detto in modo chiaro quello che volevo comunicare da un bel po'. Alla fine tutte le puntate di TG sono belle, ognuna a modo suo: non c'è nessuna novità.
+*La puntata 82 di Tenero Gheriglio pubblicata ieri sera è forse anche più bella della 80 e della 81; ho detto in modo chiaro quello che volevo comunicare da un bel po'. Alla fine tutte le puntate di TG sono belle, ognuna a modo suo: non c'è nessuna novità.*
 
-La vera novità è che tra 48 ore, il 19 maggio, compio 1/4 di secolo. Sono nata alle 15 e qualcosa, di lunedì, da un parto cesareo (stacci tu a testa in giù!), e pesavo veramente tantissimo, 3330 grammi. Ma se gli anni sono 25, allora per eccesso sono 30. O meglio, per una stupida teoria che ho spiegato anche a un amico di recente, a 25 anni stai oltrepassando la metà dei 50 anni, quindi approssimando per eccesso tra pochissimo ne avrò 50, e visto che se ne ho 50 sto oltrepassando la metà dei 100, tra pochissimo ne avrò 100. Sono centenaria, assurdo, così va la vita. Ahahah.
+*La vera novità è che tra 48 ore, il 19 maggio, compio 1/4 di secolo. Sono nata alle 15 e qualcosa, di lunedì, da un parto cesareo (stacci tu a testa in giù!), e pesavo veramente tantissimo, 3330 grammi. Ma se gli anni sono 25, allora per eccesso sono 30. O meglio, per una stupida teoria che ho spiegato anche a un amico di recente, a 25 anni stai oltrepassando la metà dei 50 anni, quindi approssimando per eccesso tra pochissimo ne avrò 50, e visto che se ne ho 50 sto oltrepassando la metà dei 100, tra pochissimo ne avrò 100. Sono centenaria, assurdo, così va la vita. Ahahah.*
 
 <span style="color:red">*— 17 maggio 2022*</span>
 
