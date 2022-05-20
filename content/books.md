@@ -4,12 +4,12 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Albert Savarus_ — Honoré de Balzac
+No, sto facendo una pausa causa esami.
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-No, farò una pausa causa esami.
+No, sto facendo una pausa causa esami.
 
 &nbsp;
 
@@ -24,6 +24,7 @@ No, farò una pausa causa esami.
 * _Cristo si è fermato a Eboli_ — Carlo Levi ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/75--Una-che-ragiona--ragiona--ragiona--non-si-ferma-mai-e1gakd3)
 * _Il treno dell'ultima notte_ — Dacia Maraini ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/77--Se-non-tiro-gi-il-microfono-e1gv4si)
 * _Salinger. La vera storia di un genio_ — Kenneth Slawenski
+* _Albert Savarus_ — Honoré de Balzac
 
 <span style="color:red">*2021 (dal primo all'ultimo)*</span>
 
