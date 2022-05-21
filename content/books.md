@@ -9,7 +9,8 @@ No, sto facendo una pausa causa esami.
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-No, sto facendo una pausa causa esami.
+* _Se una notte d'inverno un viaggiatore_ — Italo Calvino
+* _Alla ricerca del tempo perduto (7 volumi)_ — Marcel Proust
 
 &nbsp;
 
