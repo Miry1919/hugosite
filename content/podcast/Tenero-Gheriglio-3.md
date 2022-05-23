@@ -26,7 +26,33 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #82 (16•5•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #83 (23•5•2022) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Un libro vive più a lungo di una giovane donna](https://anchor.fm/miriana-novella7/episodes/83--Un-libro-vive-pi-a-lungo-di-una-giovane-donna-e1ispjj)
+    
+    Puntata 83! Dopo aver constatato di essere centenaria leggendo uno degli ultimi pezzi di "Writings", e per questo di aver ricevuto un regalo inaspettato in settimana (Nintendo Switch Sports), vi leggo una nuova recensione, scritta da iCick e Ciak, che su Twitter mi ha fatto scoprire il sito che potete usare per testare la ☞["Bionic Reading"](https://bionic-reading.com). Poi passo alle mie letture, "Albert Savarus" di Honoré de Balzac, "Lezioni di letteratura" di Vladimir Nabokov (lezione su Madame Bovary), con una riflessione sull'ambizione alla durata della scrittura. Infine vi dico cosa penso del nuovo (ma vecchio) rumor sull'Apple Watch Series 8 dal design rinnovato che potrebbe uscire a settembre/ottobre.
+    
+    &nbsp;
+    
+    • Link al mio sito:
+    
+    → [Post "Grazie ragazzo fantastico"](https://miry1919.github.io/hugosite/post/grazie-ragazzo-fantastico/)
+    
+    → [Writings](https://miry1919.github.io/hugosite/writings/)
+    
+    → [Books](https://miry1919.github.io/hugosite/books/)
+    
+    &nbsp;
+    
+    • Post su Instagram:
+    
+    → [Nintendo Switch Sports](https://www.instagram.com/p/CdyuPHuqzJY/?igshid=YmMyMTA2M2Y=)
+    
+    → [Frase sulla scrittura](https://www.instagram.com/p/CdyHOkcq7Fb/?igshid=YmMyMTA2M2Y=)
+
+---
+
+* Puntata #82 (16•5•2022)
 
     ☞[Una cosa molto speciale che io sento](https://anchor.fm/miriana-novella7/episodes/82--Una-cosa-molto-speciale-che-io-sento-e1ii7st)
     
