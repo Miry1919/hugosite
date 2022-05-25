@@ -7,6 +7,12 @@ date: 2022-04-30
 ---
 ---
 
+*Infine non ha più piovuto seriamente dopo la veloce ed emozionante scarica di ieri pomeriggio, ma credo il mio amore ti sia arrivato lo stesso; oggi l'aria è sicuramente più fresca, per questo forse dovremmo continuare a pensarci, a curarci, a incrociarci, ad aspettarci per tutta l'estate: sarebbe garantita, ogni tanto, una tregua dal caldo infernale. Amore mio, voglio continuare a credere che forse leggi questi scritti, li aspetti. Ti sento molto vicina negli ultimi giorni, vorrei poterti baciare delicatamente le guance, la fronte, il viso, rivedere il tuo sorriso. Nei pensieri lo faccio, per questo dico che con o senza pioggia l'amore ti arriverà sempre lo stesso. Mi manchi ma devo resistere, devo aspettare: poi un giorno saprò davvero cosa senti, ma adesso non sono ancora capace di credere che i miei pensieri siano sbagliati e finti.*
+
+<span style="color:red">*— 25 maggio 2022*</span>
+
+---
+
 *Sapevo della bufera, insomma del temporale in arrivo oggi pomeriggio, allora ho sfruttato lo spazio della lezione di un corso già terminato per uscire ad allenarmi dalle 11 alle 14. Da troppi giorni ininterrotti ti amo, ci becchiamo, precisissime, e puntuale mi sciolgo, mi agito... Si sono accumulati troppi giorni di tempo soleggiato, lineare, questo vento e la pioggia dovevano proprio arrivare! Mentre lo scrivo esce di nuovo il sole, ma chi ci crede, dopo arriva, vedrai amore, dopo arriva tutto il mio amore.*
 
 <span style="color:red">*— 24 maggio 2022*</span>
