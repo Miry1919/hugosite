@@ -7,6 +7,94 @@ date: 2022-04-30
 ---
 ---
 
+Ieri ho scoperto una canzone molto bella, si intitola ☞["Holy Ground"](https://youtu.be/WArZ1cXDdRo), è uscita il 12 maggio, da pochissimo, e non so come amore mio, ma sembra parlar di noi:
+
+I waited for you woman
+
+Waited for the day to come
+
+At the end of your garden
+
+Staring at your holy ground
+
+&nbsp;
+
+I was blinded by your colors
+
+Growing trees that feed my soul
+
+But you're a careful lover
+
+That never turns around for more
+
+&nbsp;
+
+Hmm, I was waiting for the sun
+
+To shake the cold from my frozen heart
+
+Hmm, yes, I was waiting for the sun
+
+To shine a light on your holy ground
+
+&nbsp;
+
+Holy ground
+
+I was laying on your
+
+Holy ground
+
+I was waiting for you
+
+Until the break of dawn
+
+I was laying on your
+
+Holy ground
+
+Now I'm waiting for you
+
+&nbsp;
+
+Well I heard your promise
+
+Some things are better left undone
+
+Yes, I knew you were trouble
+
+But I've been staring way too long
+
+&nbsp;
+
+Hmm, yes, I've been praying to belong
+
+For one more day on your holy ground
+
+&nbsp;
+
+Holy ground
+
+I was laying on your
+
+Holy ground
+
+I was waiting for you
+
+Until the break of dawn
+
+I was laying on your
+
+Holy ground
+
+Now I'm waiting for you
+
+&nbsp;
+
+<span style="color:red">*— 27 maggio 2022*</span>
+
+---
+
 *Infine non ha più piovuto seriamente dopo la veloce ed emozionante scarica di ieri pomeriggio, ma credo il mio amore ti sia arrivato lo stesso; oggi l'aria è sicuramente più fresca, per questo forse dovremmo continuare a pensarci, a curarci, a incrociarci, ad aspettarci per tutta l'estate: sarebbe garantita, ogni tanto, una tregua dal caldo infernale. Amore mio, voglio continuare a credere che forse leggi questi scritti, li aspetti. Ti sento molto vicina negli ultimi giorni, vorrei poterti baciare delicatamente le guance, la fronte, il viso, rivedere il tuo sorriso. Nei pensieri lo faccio, per questo dico che con o senza pioggia l'amore ti arriverà sempre lo stesso. Mi manchi ma devo resistere, devo aspettare: poi un giorno saprò davvero cosa senti, ma adesso non sono ancora capace di credere che i miei pensieri siano sbagliati e finti.*
 
 <span style="color:red">*— 25 maggio 2022*</span>
