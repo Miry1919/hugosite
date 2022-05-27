@@ -7,7 +7,11 @@ date: 2022-04-30
 ---
 ---
 
-Ieri ho scoperto una canzone molto bella, si intitola ☞["Holy Ground"](https://youtu.be/WArZ1cXDdRo), è uscita il 12 maggio, da pochissimo, e non so come amore mio, ma sembra parlar di noi:
+*Ieri ho scoperto una canzone molto bella, si intitola "Holy Ground", è uscita il 12 maggio, da pochissimo, e non so come amore mio, ma sembra parlar di noi:*
+
+☞[Video col testo](https://youtu.be/WArZ1cXDdRo)
+
+&nbsp;
 
 I waited for you woman
 
