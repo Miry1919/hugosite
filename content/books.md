@@ -32,8 +32,8 @@ No, sto facendo una pausa causa esami.
 * _L'uomo e i suoi simboli_ — Carl Gustav Jung ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/72--I-numeri-sono-prodotti-spontanei-e-autonomi-dellinconscio-e1fau0o)
 * _Cristo si è fermato a Eboli_ — Carlo Levi ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/75--Una-che-ragiona--ragiona--ragiona--non-si-ferma-mai-e1gakd3)
 * _Il treno dell'ultima notte_ — Dacia Maraini ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/77--Se-non-tiro-gi-il-microfono-e1gv4si)
-* _Salinger. La vera storia di un genio_ — Kenneth Slawenski
-* _Albert Savarus_ — Honoré de Balzac
+* _Salinger. La vera storia di un genio_ — Kenneth Slawenski ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/82--Una-cosa-molto-speciale-che-io-sento-e1ii7st)
+* _Albert Savarus_ — Honoré de Balzac ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/83--Un-libro-vive-pi-a-lungo-di-una-giovane-donna-e1ispjj)
 
 <span style="color:red">*2021 (dal primo all'ultimo)*</span>
 
