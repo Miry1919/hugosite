@@ -26,7 +26,37 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #83 (23•5•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #84 (30•5•2022) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Quello che fai hai](https://anchor.fm/miriana-novella7/episodes/84--Quello-che-fai-hai-e1j8hah)
+    
+    Puntata ottantaquattro, l'ultima prima della pausa estiva. Dopo il ringraziamento per l'abbondante superamento dei 10000 ascolti (che con YouTube sono già 11000), vi dico come mai sono riuscita a reinstallare ☞[MonitorControl](https://github.com/MonitorControl/MonitorControl) per il mio MacBook. Poi è il momento di recensire "Nintendo Switch Sports", che mi è piaciuto molto, tra la nostalgia del tennis e la novità del calcio, e di consigliarvi un documentario e una serie su Apple TV+. Inoltre trovo lo spazio per parlare nuovamente di alimentazione, consigliandovi come sempre alcuni video di Stefano Vendrame (io amo quest'uomo ahaha), facendo brevi ma intensi ragionamenti sull'argomento, sulla salute. Ci ritroviamo lunedì 5 settembre con Tenero Gheriglio, e da venerdì 16 settembre anche con ☞[Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/), il mio secondo podcast, che questa volta (davvero) sono contenta stia per uscire. Buona Worldwide Developers Conference, buona estate a tutti, non dimenticate di condividere TG, grazie di cuore.
+    
+    &nbsp;
+    
+    • Contenuti menzionati presenti su Apple TV+:
+    
+    → [Prehistoric Planet](https://tv.apple.com/it/show/prehistoric-planet/umc.cmc.4lh4bmztauvkooqz400akxav)
+    
+    → [Physical](https://tv.apple.com/it/show/physical/umc.cmc.6gdc6v4vwyaab7klocftv2s10)
+    
+    &nbsp;
+    
+    • Video di Stefano Vendrame su YouTube:
+    
+    → [Tumori e alimentazione](https://youtu.be/qbHNrxNk58U)
+    
+    → [Riprendiamo il controllo della nostra salute](https://youtu.be/NMQEISF5uUg)
+    
+    → [I limiti del paradigma farmacologico](https://youtu.be/kQJPiHausis)
+    
+    &nbsp;
+    
+    DONAZIONE libera su ☞[Satispay](https://miry1919.github.io/hugosite/donors/)
+
+---
+
+* Puntata #83 (23•5•2022)
 
     ☞[Un libro vive più a lungo di una giovane donna](https://anchor.fm/miriana-novella7/episodes/83--Un-libro-vive-pi-a-lungo-di-una-giovane-donna-e1ispjj)
     
