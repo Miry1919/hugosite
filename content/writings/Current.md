@@ -7,7 +7,7 @@ date: 2022-04-30
 ---
 ---
 
-*Poi è stato meraviglioso, poco (pochissimo!) dopo aver pubblicato il testo contenuto nello slot sottostante è arrivata davvero quella bufera che aspettavamo da giorni. Erano le 16:30, e il vento freddo mi ha fatto dire ecco, come al solito, al momento perfetto. Grazie all'amore, alla pioggia (un informatore mi ha detto che a San Donato ne ha fatta poca; ma qui a Zivido, amore mio, è stata forte, abbondante, emozionante), abbiamo avuto un clima molto fresco fino a oggi. Tuttavia poi ritorna il calore, non abbandona mai il mio cuore: è un fuoco che resta. Ti amo, sarà ripetitivo, ma io ti amo.*
+*Poi è stato meraviglioso, poco (pochissimo!) dopo aver pubblicato il testo contenuto nello slot sottostante è arrivata davvero la bufera che aspettavamo da giorni. Erano le 16:30, e il vento freddo mi ha fatto dire ecco, come al solito, al momento perfetto. Grazie all'amore, alla pioggia (un informatore mi ha detto che a San Donato ne ha fatta poca; ma qui a Zivido, amore mio, è stata forte, abbondante, emozionante), abbiamo avuto un clima molto fresco fino a oggi. Tuttavia poi ritorna il calore, non abbandona mai il mio cuore: è un fuoco che resta. Ti amo, sarà ripetitivo, ma io ti amo.*
 
 <span style="color:red">*— 1 giugno 2022*</span>
 
