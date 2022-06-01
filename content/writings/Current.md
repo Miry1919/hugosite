@@ -7,6 +7,12 @@ date: 2022-04-30
 ---
 ---
 
+*Poi è stato meraviglioso, poco (pochissimo!) dopo aver pubblicato il testo contenuto nello slot sottostante è arrivata davvero quella bufera che aspettavamo da giorni. Erano le 16:30, e il vento freddo mi ha fatto dire ecco, come al solito, al momento perfetto. Grazie all'amore, alla pioggia (un informatore mi ha detto che a San Donato ne ha fatta poca; ma qui a Zivido, amore mio, è stata forte, abbondante, emozionante), abbiamo avuto un clima molto fresco fino a oggi. Tuttavia poi ritorna il calore, non abbandona mai il mio cuore: è un fuoco che resta. Ti amo, sarà ripetitivo, ma io ti amo.*
+
+<span style="color:red">*— 1 giugno 2022*</span>
+
+---
+
 *Oggi s'è all'incirca inscenato lo stesso spettacolo di sabato scorso. Non ho avvistato tuo marito in partenza per raggiungerti, ma nel bel mezzo del mio giro di corsa l'ho rivisto in macchina, parcheggiato, già girato e pronto per partire, mentre ti stava aspettando all'uscita dal lavoro. Ma visto che quella scena la ricordavo a memoria, oggi ho optato per un finale differente, ho proseguito con la mia corsa fino al laghetto, e poi ho scelto un percorso diverso da quello di sabato scorso. Insomma ho evitato di tornare indietro, di vederti arrivare e svenire amore mio, basta! In più la scorsa settimana percorrere insieme a voi un piccolissimo tratto sulla via verso casa, per me è stato divertente, ma a te avrà messo in imbarazzo: tu volevi guardarmi ma c'era lì tuo marito affianco a ingelosirsi.*
 
 *Mi sono fatta alcune ipotesi sul perché ti viene a prendere all'uscita: mi vuoi dire che hai preso l'abitudine, il sabato mattina, di farla a piedi? Non credo tuo marito ti accompagni alle 7:30-45 di sabato, e non sono nemmeno dell'idea che fare quattro viaggi avanti e indietro per uno stupido chilometro di strada sia così intelligente, a meno che tuo marito non abbia bisogno della macchina nel mezzo della mattina, che ne so verso le 10, ma escludo anche questo... ci sarà una seconda macchina, la BMW potentissima che finora non ho mai riconosciuto ahahah! Insomma andresti direttamente in macchina da sola se non volessi fare l'andata a piedi, come del resto fai sempre in settimana; voglio pensarti mentre passeggi per andare al lavoro, ma non troppo sennò ho evitato di svenire alle 12 ma lo faccio alle 16.*
