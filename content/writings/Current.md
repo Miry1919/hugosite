@@ -7,6 +7,14 @@ date: 2022-04-30
 ---
 ---
 
+*Qualche tempo fa all'università ho trovato un ragazzo che ha avuto a che fare con te fino all'anno scorso; è stato bellissimo sentirlo parlare di te, delle tue colleghe... Mi ha raccontato che eri sempre frustrata a causa di una collega in particolare, poiché tutti studiavano solo per lei e il resto passava in secondo piano (quando c'ero io tu non facevi questo, lo faceva un'altra collega ancora...). È stato importante capire perché l'anno scorso mi dissi "lei può, solo lei può...", al momento non avevo mica capito, pensavo ti riferissi al suo part-time, al fatto che preferissi lavorare full-time per non stare troppo tempo a casa ahahah! Ma fregatene amore mio, tanto poi chi vuole passare l'università ce la fa a prescindere; per esempio anche il ragazzo palestrato che odiavi tanto, studiava poco perché lì poteva, ma ha una testa fortissima da sportivo, e se si mette in testa di fare un'università se la mangia.*
+
+*Ho riletto tutte le ultime mail e i messaggi, intendo quelli che coprono fino a un anno fa; non sento di aver sbagliato, solo così avresti potuto capire finalmente il problema qual è stato. In quelle parole c'è tutto il racconto del periodo più complicato della mia vita, in cui ho anche rischiato più che mai di perderla, il dolore di sentirmi trattata male da te era stato fortissimo. Spero un giorno non mi tratterai più in quel modo senza accorgerti, anche perché io poi ho dovuto restituirti quel male purtroppo, e non credo che riceverlo sia stato molto bello. Spero tu abbia fatto qualcosa per te in questi mesi, solo così potremo ridarci l'amore che credo già sentiamo entrambi in questi giorni. Spesso penso che il mio addio non ti era piaciuto, avevo davvero creduto di dimenticarti lo giuro, ma come faccio tesoro.*
+
+<span style="color:red">*— 3 giugno 2022*</span>
+
+---
+
 *Poi è stato meraviglioso, poco (pochissimo!) dopo aver pubblicato il testo contenuto nello slot sottostante è arrivata davvero la bufera che aspettavamo da giorni. Erano le 16:30, e il vento freddo mi ha fatto dire ecco, come al solito, al momento perfetto. Grazie all'amore, alla pioggia (un informatore mi ha detto che a San Donato ne ha fatta poca; ma qui a Zivido, amore mio, è stata forte, abbondante, emozionante), abbiamo avuto un clima molto fresco fino a oggi. Tuttavia poi ritorna il calore, non abbandona mai il mio cuore: è un fuoco che resta. Ti amo, sarà ripetitivo, ma io ti amo.*
 
 <span style="color:red">*— 1 giugno 2022*</span>
