@@ -1,5 +1,5 @@
 ---
-title: «"Technology alone is not enough"»
+title: "Technology alone is not enough"
 date: 2022-06-10
 ---
 
