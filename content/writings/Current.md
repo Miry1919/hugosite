@@ -13,9 +13,9 @@ date: 2022-04-30
 
 *È un po' ridicolo ma nell'aspettare la luna con Mario ho riso tanto, m'è rivenuto in mente il finale di "Bear nella grande casa blu", gliel'ho mandato, è fantastico. Rivedendolo mi sono accorta subito che nella canzone dell'arrivederci, Bear, l'orso della casa blu, dice "addio", non "arrivederci". Allora ho ripensato a quello che ho scritto lunedì sera: il mio addio in realtà era un arrivederci? Un arrivederci coi baci.*
 
-Ti lascio il video ☞[qui](https://youtu.be/v9WnNCr_s38)
+*Ti lascio il ☞[video](https://youtu.be/v9WnNCr_s38) di Bear.*
 
-Ti amo tanto.
+*Ti amo tanto.*
 
 <span style="color:red">*— 15 giugno 2022*</span>
 
