@@ -7,7 +7,18 @@ date: 2022-04-30
 ---
 ---
 
+*Stanotte la luna non era solo piena, ma ha raggiunto una dimensione visibile maggiore del solito, a causa del fatto che si trovava in perigeo. Era anche più luminosa, a mezzanotte meno dieci l'ho vista ma aveva intorno qualche nuvola e questa sua caratteristica non spiccava; poi sono andata a dormire ma verso le 2:10 mi è capitato di svegliarmi (non mi capita quasi mai, sembra fatto apposta, o che in qualche modo la luna stessa mi avesse richiamata). Non ho esitato, mi sono alzata per vederla di nuovo, e sì, era come dire più gialla, diversa dallo standard.*
 
+*Amore mio, è bello pensare che insomma stanotte non ho avuto a disposizione solo una banale luna piena per stare con te, ma bensì una superluna: devi essere bellissima anche quando dormi, starei davvero a guardarti, a spiarti, non dormirei tutta la notte per ammirarti. Mi manchi, non so più nulla di cosa provi anche se il legame forte che ci unisce non lascia dubbi, è come un richiamo appunto; il nostro amore è unico, non dimenticarlo, è diverso da tutto, lo sai, ormai l'hai capito del tutto, lo sento. Non vorrei mai lasciarti, piuttosto aspetto di baciarti.*
+
+*È un po' ridicolo ma nell'aspettare la luna con Mario ho riso tanto, m'è rivenuto in mente il finale di "Bear nella grande casa blu", gliel'ho mandato, è fantastico. Rivedendolo mi sono accorta subito che nella canzone dell'arrivederci, Bear, l'orso della casa blu, dice "addio", non "arrivederci". Allora ho ripensato a quello che ho scritto lunedì sera: il mio addio in realtà era un arrivederci? Un arrivederci coi baci.*
+
+Ti lascio il video ☞[qui](https://youtu.be/v9WnNCr_s38)
+Ti amo tanto.
+
+<span style="color:red">*— 15 giugno 2022*</span>
+
+---
 
 *Sempre più contenta della pulizia efficace che ho attuato nell'ultimo anno.*
 
