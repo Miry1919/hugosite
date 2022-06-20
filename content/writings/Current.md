@@ -11,7 +11,7 @@ date: 2022-04-30
 
 *Tra non molto, dalle 17:00 alle 19:00, replicherò la nuotata più tuffi di lunedì scorso. Ti darò altri baci ogni due vasche amore mio, e se poi immagino di nuovo di darteli mentre sei immersa nell'acqua con me, divento così leggera da credere il mio fisico sia della stessa consistenza delle nuvole, e che possa fluttuare senza alcuna fatica. Ma sai che già ti bacio ogni sera prima di dormire, è senza dubbio quello il momento della giornata più sublime; da anni è riservato a te, senza volere che questo cambi, mai. Quando ti sentivo lontana ero sola in quel momento, vuota, infatti ho ripreso a cercarti e in un attimo sei ritornata con me, ho capito non avrei mai dovuto lasciarti. A volte sussurro anche il tuo nome, mi emoziono tanto, è meraviglioso, Alessandra.*
 
-<span style="color:red">*— 16 giugno 2022*</span>
+<span style="color:red">*— 20 giugno 2022*</span>
 
 ---
 
