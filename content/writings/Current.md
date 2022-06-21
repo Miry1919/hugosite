@@ -7,6 +7,14 @@ date: 2022-04-30
 ---
 ---
 
+*Poi ieri sera ero così felice, per i tuffi, per le vasche, per la scrittura, per tutto e per te, amore mio, che ho fatto quasi fatica ad addormentarmi, nonostante il mio fisico lo volesse, e l'effetto adrenalinico stesse finendo, il mio cuore batteva ancora molto forte, pieno di sensazioni commuoventi. Scriverti qui del bacio della buonanotte, ha fatto diventare il bacio di ieri sera ancora più dolce, delicato, sono rimasta veramente senza fiato. Forse avrai sentito anche tu più emozioni prima di dormire, ti stavo combinando di tutto, ci credo! Nello stesso momento avremo sentito di avvicinarci, di sfiorarci, di abbracciarci.*
+
+*Poi stamattina alle 5:00 gli uccellini hanno cantato più entusiasti del solito, svegliandomi; hanno creato un vero macello te lo giuro, avevo tutte le finestre aperte e la casa vuota, i loro cinguettii mi hanno assediata, non li sentivo così da parecchio, si saranno rinvigoriti per il vento fresco di ieri sera che meraviglioso ci ha accarezzate fino a stamattina. O magari anche loro sono sensibili all'amore tra due donne dolci, spesso bambine sognatrici, che delicate si sciolgono, si avvolgono, nei pensieri e nell'immaginazione dei loro incontri futuri. Ti amo da impazzire meraviglia, sento tu mi voglia, forse non lo merito ma non sai come sono contenta.*
+
+<span style="color:red">*— 21 giugno 2022*</span>
+
+---
+
 *Quando mi fermo dallo scrivere qui su ✐ Writings magari rileggo, andando su e giù, 2022, 2020, 2021... è bellissimo. Quante emozioni, non sembra possibile possa esistere davvero, e invece c'è e continua a splendere, con coraggio. La scrittura può essere forte, entrare dentro a chi legge, assorbire completamente chi la utilizza: coinvolge. Spero sia anche buona scrittura, non una scrittura qualunque; ma così pare, soprattutto nei tratti in cui percepisco che la prosa è ritmata, cadenzata, e ti risucchia, ammalia, seduce, come poesia. La velocità nel tirare fuori le parole si alterna alla ricercatezza di farle armonizzare, così facendo escono diversi stili ma poi sono sempre un po' la stessa, sensibile, Miriana.*
 
 *Tra non molto, dalle 17:00 alle 19:00, replicherò la nuotata più tuffi di lunedì scorso. Ti darò altri baci ogni due vasche amore mio, e se poi immagino di nuovo di darteli mentre sei immersa nell'acqua con me, divento così leggera da credere il mio fisico sia della stessa consistenza delle nuvole, e che possa fluttuare senza alcuna fatica. Ma sai che già ti bacio ogni sera prima di dormire, è senza dubbio quello il momento della giornata più sublime; da anni è riservato a te, senza volere che questo cambi, mai. Quando ti sentivo lontana ero sola in quel momento, vuota, infatti ho ripreso a cercarti e in un attimo sei ritornata con me; ho capito che non avrei mai dovuto lasciarti. A volte sussurro anche il tuo nome, mi emoziono tanto, è meraviglioso, Alessandra.*
