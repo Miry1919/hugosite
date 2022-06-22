@@ -7,6 +7,17 @@ date: 2022-04-30
 ---
 ---
 
+*Se anche la sera è affascinante con te, e sei il mio ultimo pensiero prima di dormire, sei sempre il mio primo pensiero al risveglio la mattina: mi sveglio sentendoti avvolta a me come mi ero addormentata, amore mio.*
+
+*La felicità di questi giorni è indescrivibile, sempre più commovente. Sei onnipresente, amo sentirti così attaccata a me. Sono irrimediabilmente drogata di te, assuefatta. Ti voglio tanto bene, e non vedo l'ora di dirtelo ancora.*
+
+*Piove, vorrei ben vedere, se questo non è amore...*
+
+<span style="color:red">*— 22 giugno 2022*</span>
+
+---
+
+
 *Poi ieri sera ero così felice, per i tuffi, per le vasche, per la scrittura, per tutto e per te, amore mio, che ho fatto quasi fatica ad addormentarmi; nonostante il mio fisico lo volesse, e l'effetto adrenalinico stesse finendo, il mio cuore batteva ancora molto forte, pieno di sensazioni commoventi. Scriverti qui del bacio della buonanotte, ha fatto diventare il bacio di ieri sera ancora più dolce, delicato, sono rimasta veramente senza fiato. Forse avrai sentito anche tu più emozioni prima di dormire, ti stavo combinando di tutto, ci credo! Nello stesso momento avremo sentito di avvicinarci, di sfiorarci, di abbracciarci.*
 
 *Poi stamattina alle 5:00 gli uccellini hanno cantato più entusiasti del solito, svegliandomi; hanno creato un vero macello te lo giuro, avevo tutte le finestre aperte e la casa vuota, i loro cinguettii mi hanno assediata, non li sentivo così da parecchio, si saranno rinvigoriti per il vento fresco di ieri sera che meraviglioso ci ha accarezzate fino a stamattina. O magari anche loro sono sensibili all'amore tra due donne dolci, spesso bambine sognatrici, che delicate si sciolgono, si avvolgono, nei pensieri e nell'immaginazione dei loro incontri futuri. Ti amo da impazzire meraviglia, sento tu mi voglia, forse non lo merito ma non sai come sono contenta.*
