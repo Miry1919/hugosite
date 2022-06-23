@@ -7,6 +7,8 @@ date: 2022-04-30
 ---
 ---
 
+ciao
+
 *Se anche la sera è affascinante con te, e sei il mio ultimo pensiero prima di dormire, sei sempre il mio primo pensiero al risveglio la mattina: mi sveglio sentendoti avvolta a me come mi ero addormentata, amore mio.*
 
 *La felicità di questi giorni è indescrivibile, sempre più commovente. Sei onnipresente, amo sentirti così attaccata a me. Sono irrimediabilmente drogata di te, assuefatta. Ti voglio tanto bene, e non vedo l'ora di dirtelo ancora.*
