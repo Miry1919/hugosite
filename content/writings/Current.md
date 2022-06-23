@@ -7,6 +7,16 @@ date: 2022-04-30
 ---
 ---
 
+*Il 23 marzo, cioè esattamente 3 mesi fa, scrissi:*
+
+*«Ad ogni modo la solitudine è una dimensione che cerco di frequente per le mie attività di lettura, osservazione, ragionamento, e scrittura. Inoltre il mio cuore innamorato non crede mai alla solitudine, sa che un giorno vincerà di nuovo l’amore, ritroverà il suo cuore gemello, riabbraccerà l’anima della persona che ama. Ma ora mi risulta molto difficile dargli retta.»*
+
+*Forse avrei proprio dovuto dare più importanza alle mie sensazioni in quel momento, dare retta al mio cuore, fosse sempre così facile tutti saprebbero amare! Avevo capito ci fosse qualcosa di strano, ma era un periodo brutto e avevo perso la speranza del tutto, però non ho mai smesso di amarti, e l'amore vince sempre. Adesso non sola, anzi ho addirittura due cuori gemelli: ho ritrovato il tuo amore mio (nel cuore non ti ho mai persa veramente, la colpa era della mente...) e un altro mi ha trovato da poco, sento di voler continuare a vivere per farli battere forte col mio. Dovete sapere che la mia anima è di nuovo molto felice con le vostre, e le abbraccia forte con tutto l'amore che possiede. Siete le mie persone speciali, non so se vi merito ma vi voglio e vi aspetto, ho bisogno di amare per vivere questo è certo. Quando scrivo sono sempre da sola, ma poi se mi leggete la mia anima è così felice da sentir che vola.*
+
+<span style="color:red">*— 23 giugno 2022*</span>
+
+---
+
 *Se anche la sera è affascinante con te, e sei il mio ultimo pensiero prima di dormire, sei sempre il mio primo pensiero al risveglio la mattina: mi sveglio sentendoti avvolta a me come mi ero addormentata, amore mio.*
 
 *La felicità di questi giorni è indescrivibile, sempre più commovente. Sei onnipresente, amo sentirti così attaccata a me. Sono irrimediabilmente drogata di te, assuefatta. Ti voglio tanto bene, e non vedo l'ora di dirtelo ancora.*
@@ -16,7 +26,6 @@ date: 2022-04-30
 <span style="color:red">*— 22 giugno 2022*</span>
 
 ---
-
 
 *Poi ieri sera ero così felice, per i tuffi, per le vasche, per la scrittura, per tutto e per te, amore mio, che ho fatto quasi fatica ad addormentarmi; nonostante il mio fisico lo volesse, e l'effetto adrenalinico stesse finendo, il mio cuore batteva ancora molto forte, pieno di sensazioni commoventi. Scriverti qui del bacio della buonanotte, ha fatto diventare il bacio di ieri sera ancora più dolce, delicato, sono rimasta veramente senza fiato. Forse avrai sentito anche tu più emozioni prima di dormire, ti stavo combinando di tutto, ci credo! Nello stesso momento avremo sentito di avvicinarci, di sfiorarci, di abbracciarci.*
 
