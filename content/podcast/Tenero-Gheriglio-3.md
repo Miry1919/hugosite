@@ -26,7 +26,15 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #84 (30•5•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #85 (25•6•2022) <span style="color:blue">BONUS</span> <span style="color:orange">⚡️ New!</span>
+
+    ☞[Miriana ritorna a settembre, ma ricorda, c'è la musica](https://anchor.fm/miriana-novella7/episodes/85--Miriana-ritorna-a-settembre--ma-ricorda--c-la-musica-BONUS-e1kehse)
+    
+    Experience, Ludovico Einaudi & Daniel Hope.
+
+---
+
+* Puntata #84 (30•5•2022)
 
     ☞[Quello che fai hai](https://anchor.fm/miriana-novella7/episodes/84--Quello-che-fai-hai-e1j8hah)
     
