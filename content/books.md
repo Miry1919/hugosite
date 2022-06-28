@@ -12,13 +12,13 @@ No, sto facendo una pausa causa esami.
 * _Se una notte d'inverno un viaggiatore_ — Italo Calvino
 * _Perseverare è umano. Come aumentare la motivazione e la resilienza negli individui e nelle organizzazioni. La lezione dello sport_ — Pietro Trabucchi
 * _Alla ricerca del tempo perduto (7 volumi)_ — Marcel Proust
-    * Dalla parte di Swann (Vol. 1)
-    * All'ombra delle fanciulle in fiore (Vol. 2)
-    * La parte di Guermantes (Vol. 3)
-    * Sodoma e Gomorra (Vol. 4)
-    * La prigioniera (Vol. 5)
-    * Albertine scomparsa (Vol. 6)
-    * Il tempo ritrovato (Vol. 7)
+    * *Dalla parte di Swann (Vol. 1)*
+    * *All'ombra delle fanciulle in fiore (Vol. 2)*
+    * *La parte di Guermantes (Vol. 3)*
+    * *Sodoma e Gomorra (Vol. 4)*
+    * *La prigioniera (Vol. 5)*
+    * *Albertine scomparsa (Vol. 6)*
+    * *Il tempo ritrovato (Vol. 7)*
 
 &nbsp;
 
