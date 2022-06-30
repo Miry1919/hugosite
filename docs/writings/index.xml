@@ -6,10 +6,19 @@
     <description>Recent content in Writings on hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://miry1919.github.io/hugosite/writings/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Current</title>
+      <link>https://miry1919.github.io/hugosite/writings/current/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://miry1919.github.io/hugosite/writings/current/</guid>
+      <description>Coming soon!  </description>
+    </item>
     
     <item>
       <title>Table of Entries</title>
@@ -21,11 +30,11 @@
     </item>
     
     <item>
-      <title>Current</title>
-      <link>https://miry1919.github.io/hugosite/writings/current/</link>
+      <title>Archive 2.2</title>
+      <link>https://miry1919.github.io/hugosite/writings/archive-2-2/</link>
       <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/writings/current/</guid>
+      <guid>https://miry1919.github.io/hugosite/writings/archive-2-2/</guid>
       <description>Sono rimasta un po&amp;rsquo; senza parole, si vede dai giorni senza farmi sentire quaggiù, e la verità è che pensavo di non averne nemmeno oggi, ma sono a casa da sola da giorni e nel silenzio della cena qualche idea è uscita, insistente. Sono una da tutto o niente, se ci sono giorni pieni di parole (quel flusso è da scrittore, è bellissimo, non si può farselo sfuggire) non è detto sia sempre così, lo sai amore mio, sono sempre stata capace di stare in un silenzio sommesso, l&amp;rsquo;ascolto è bello, in Aeronautica era d&amp;rsquo;obbligo.</description>
     </item>
     
