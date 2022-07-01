@@ -12,6 +12,4 @@ date: 2022-06-29
 <span style="color:red">*— 1 luglio 2022*</span>
 
 ---
-
----
 ---
