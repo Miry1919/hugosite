@@ -27,7 +27,7 @@ Se nel silenzio hai tutto;
 
 Puoi esser da solo ma pieno
 
-Di un'emozione assuefante.
+Di un'emozione assuefacente.
 
 &nbsp;
 
