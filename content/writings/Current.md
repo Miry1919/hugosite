@@ -41,7 +41,7 @@ Volare è sentire d'amare.
 
 &nbsp;
 
-<span style="color:red">*— 3 luglio 2022*</span
+<span style="color:red">*— 3 luglio 2022*</span>
 
 ---
 
