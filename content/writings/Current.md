@@ -7,6 +7,12 @@ date: 2022-06-29
 ---
 ---
 
+*Poi è stato un vero spettacolo la luna ieri sera, l'ho vista dalla mia camera poco dopo le 23:30, la stavo aspettando: era luminosissima, grande, è stato molto emozionante. Spero l'abbia vista anche tu dolcezza. Ho capito che punirmi dopo tante sofferenze, dopo mesi di impegno per farmi capire da te, sarebbe troppo cattivo nei confronti di me stessa; tuttavia sentivo di doverti raccontare la verità su cosa provo, come ho sempre fatto qui e altrove, e l'inserimento di ieri è tutto un devastante ossimoro bellissimo. Sto benissimo perché ti ho ritrovata, senza di te mi sarei sentita per sempre vuota, ma vorrei evitare di addossarmi tutta la colpa per quando entrambe siamo state male, e prendermi i risultati di quello che per mesi, lottando, sono riuscita a riconquistare. Quanto impegno c'è voluto amore mio, per ricostruire e rimpolpare quello che incredibilmente avevo già creato, ma per te farei di tutto. Questa ricostruzione è talmente sublime da sembrare, spesso, solo un sogno... Ma è tutto vero. Se per te va bene allora ci teniamo tutto, tutto quello che ora c'è, senza togliercelo mai più, per nessun altro stupidissimo motivo. Non soffriremo più, ti amo tanto, scusami; spero che anche tu, sempre del nostro amore speciale, mi ami. Una cosa importante: la luna non sarà mai meravigliosa come lo sei tu, neanche lontanamente; forse sono ancora in tempo per portarti sulla luna in braccio, non ho mai mollato, e non me lo dimentico di certo.*
+
+<span style="color:red">*— 14 luglio 2022*</span>
+
+---
+
 *Ieri pomeriggio, in piscina, al solito orario, è stato bellissimo, non che fosse necessario sottolinearlo. Stasera ci sarà un’altra superluna, ancora più grande, amore. Manca sempre meno tempo dal sapere cosa pensi, a volte credo che non sarò mai pronta a sentirmi dire da te “vattene, ho buttato tutto e ti odio”, ma prima o poi dovrò riunire tutto il coraggio che ho, stringerlo forte e venire da te. Oggi sono sommersa da dubbi autolesionistici: quando mi sembra di distinguere in maniera nitida, nel cuore, cosa provi, cosa senti, comincio a star male; perché per un periodo abbiamo dovuto soffrire? Abbiamo sofferto perché non mi hai capita, perché non mi sono fatta capire, o solamente perché ci teniamo entrambe davvero tanto? Percepisco nettamente questo “tenerci”, so che tu mi hai ormai capita, e questo è uno di quei momenti opprimenti in cui sto così bene da sentire di dovermi punire, di dovermi togliere tutto.*
 
 <span style="color:red">*— 13 luglio 2022*</span>
