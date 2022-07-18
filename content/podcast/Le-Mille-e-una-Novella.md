@@ -1,7 +1,7 @@
 ---
 title: "Le Mille e una Novella"
-description: ☾oming in 2022
-date: 2020-12-25
+description: ☾oming soon
+date: 2022-07-17
 ---
 
 <div align="center">È il mio secondo podcast. Presto potrò farlo partire.</div>
