@@ -4,12 +4,11 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-No, sto facendo una pausa causa esami.
+* _Se una notte d'inverno un viaggiatore_ — Italo Calvino
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Se una notte d'inverno un viaggiatore_ — Italo Calvino
 * _Perseverare è umano. Come aumentare la motivazione e la resilienza negli individui e nelle organizzazioni. La lezione dello sport_ — Pietro Trabucchi
 * _Alla ricerca del tempo perduto (7 volumi)_ — Marcel Proust
     * *Dalla parte di Swann (Vol. 1)*
