@@ -7,6 +7,12 @@ date: 2022-06-29
 ---
 ---
 
+*Non direi altro se non... vedi ☞[qui](https://www.instagram.com/p/CgU88abqxRV/?utm_source=ig_web_copy_link).*
+
+<span style="color:red">*— 22 luglio 2022*</span>
+
+---
+
 *Per una che è stata marchiata con un abbondantissimo 6 in Italiano all'ultimo anno di liceo scientifico, e che alle elementari aveva ricevuto un giudizio negativo e definitivo "non sarai mai in grado di leggere e scrivere come gli altri, eccoti un libro extra giusto per provarci", quando la mia timidezza prediligeva l'ascolto degli adulti, seri, a tutti gli altri meccanismi... Questo "Writings" non è affatto male. Certi insegnanti commettono dei crimini immensi, senza nemmeno accorgersi; non capiscono che più che per giudicare sono pagati per spingere! Dimenticano che dei bambini, dei ragazzi giovani, sono pieni di incertezze e contano sulle loro certezze; ci stanno male se li circoscrivono; si offendono se li suddividono: maschi e femmine; sono delusi quando li catalogano: bravi e stupidi. Ma per fortuna se, e quando vuoi, una cosa la senti tua, riesci a ignorarli tutti, riesci a ignorare tutti.*
 
 <span style="color:red">*— 20 luglio 2022*</span>
