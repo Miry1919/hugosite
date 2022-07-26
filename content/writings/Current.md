@@ -7,7 +7,7 @@ date: 2022-06-29
 ---
 ---
 
-*Mi manchi, non vedo l'ora di riabbracciarti; so che te lo dico sempre ma non mi sembra mai abbastanza. Mi manca il tuo profumo, la tua voce meravigliosa, mi manca vederti ridere, vederti felice, il tuo sguardo, mi manca tutto di te, amore. Il vento ieri sera ha parlato chiaro, la pioggia della commozione è di ritorno, ma il fuoco che sento dentro non s'è mai spento, arde, e non teme mai perdere il confronto con le temperature del momento; l'altro ieri sera ho pianto, per forza, ho rimesso qualche pezzetto del secondo film che ti ho fatto avere, con un coraggio memorabile, ma lo rifarei all'istante. Per me sei così importante, Alessandra, e non c'è giorno che non ti voglia sentire stretta.*
+*Mi manchi, non vedo l'ora di riabbracciarti; so che te lo dico sempre ma non mi sembra mai abbastanza. Mi manca il tuo profumo, la tua voce meravigliosa, mi manca vederti ridere, vederti felice, il tuo sguardo, mi manca tutto di te, amore. Il vento ieri sera ha parlato chiaro, la pioggia della commozione è di ritorno, ma il fuoco che sento dentro non s'è mai spento, arde, e non teme mai di perdere il confronto con le temperature del momento; l'altro ieri sera ho pianto, per forza, ho rimesso qualche pezzetto del secondo film che ti ho fatto avere, con un coraggio memorabile, ma lo rifarei all'istante. Per me sei così importante, Alessandra, e non c'è giorno che non ti voglia sentire stretta.*
 
 <span style="color:red">*— 26 luglio 2022*</span>
 
