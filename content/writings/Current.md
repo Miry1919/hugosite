@@ -7,6 +7,12 @@ date: 2022-06-29
 ---
 ---
 
+*Che di qui passi qualcuno o no non m'importa, io lascio sempre la porta aperta... Chi è? Si accomodi. Ci saran dei saliscendi, il viaggio non è dei più comodi. In fondo cosa ci attende dice? Non si sa. Virginia Woolf direbbe: non sarò famosa o grande, ma libera di scrivere quello che sento, sempre.*
+
+<span style="color:red">*— 28 luglio 2022*</span>
+
+---
+
 *Poi il vento di ieri sera è stato ancor più chiaro! "Sai Fulmine, è testona, diciamoglielo bene". "Ok Lampo, vado a chiamare anche il mio parente Tuono." Ahahah. La pioggia, l'amore, col temporale ha rinfrescato, oggi si stava proprio bene. Si sta benissimo anche adesso, è sera e scrivo, in piedi, la mia scrivania è favolosa, su o giù, lei esegue. Stamattina con Mario ho sentito emozioni delicate ma dirette, ormai trascorriamo insieme una grande parte del tempo che passa, ci vediamo e ci sentiamo tutti i giorni. Cosa dovevo aggiungere, ah sì, che ho aggiunto un'aggiunta all'inserimento aggiunto il 4 luglio (EDIT), sempre per quella cosa che sono, come si chiama... Precisina. Ma tutto questo, intendo un sito intero, e tutto ciò che ci passa sopra da anni, l'hai visto più che altro tu amore, nascere, crescere, e spesso morire, perché muoio ogni volta che non ci sei. E poi rinasco, e mi reinvento, e creo sezioni nuove, magari un po' nascoste, dietro a una matitina per esempio, che ogni volta che la premi non sai cosa può celarsi dietro... Ti amo. Si cela sempre il mio ti amo. Che bello essermi creata tutto da zero, questo posticino, dove scrivo e mi emoziono. È un completo fai da te, ho preparato il sito, è cresciuto, è nato il podcast, su cui leggo anche tratti del sito stesso; soprattutto è nata questa abitudine di scrivere quaggiù, dove inizio io, rileggo io, correggo io, rivedo io, ma dove forse ci sei spesso anche tu, amore mio, e senza di te dal nulla non avrei fatto sbocciare un bel niente! La nostra storia esiste grazie a te, grazie di esistere. Sarò speciale, non nel senso di importante, nessuno lo è in termini assoluti, sarò speciale per te, ma tu sei speciale, per me, lo siamo, insieme, quaggiù; presto dove vorrai tu.*
 
 <span style="color:red">*— 27 luglio 2022*</span>
