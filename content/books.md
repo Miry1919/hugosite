@@ -4,7 +4,8 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Perseverare è umano. Come aumentare la motivazione e la resilienza negli individui e nelle organizzazioni. La lezione dello sport_ — Pietro Trabucchi
+* _Alla ricerca del tempo perduto (7 volumi)_ — Marcel Proust
+    * *Dalla parte di Swann (Vol. 1)*
 
 &nbsp;
 
@@ -33,6 +34,7 @@ description: ¶
 * _Salinger. La vera storia di un genio_ — Kenneth Slawenski ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/82--Una-cosa-molto-speciale-che-io-sento-e1ii7st)
 * _Albert Savarus_ — Honoré de Balzac ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/83--Un-libro-vive-pi-a-lungo-di-una-giovane-donna-e1ispjj)
 * _Se una notte d'inverno un viaggiatore_ — Italo Calvino
+* _Perseverare è umano. Come aumentare la motivazione e la resilienza negli individui e nelle organizzazioni. La lezione dello sport_ — Pietro Trabucchi ☞[{Quotes}]()
 
 <span style="color:red">*2021 (dal primo all'ultimo)*</span>
 
