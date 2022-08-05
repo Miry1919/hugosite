@@ -11,14 +11,14 @@ description: Pietro Trabucchi
 
 &nbsp;
 
-«Sempre più spesso crediamo che sia possibile avere successo in qualcosa, nello sport, nello studio, nel lavoro solo se "siamo portati" oppure se riceviamo una spinta o una ricompensa che
-prescindono dall'intima soddisfazione di svolgere bene ciò che ci prefiggiamo. Siamo motivati, certo, abbiamo delle ambizioni, degli scopi, ma molto spesso non riusciamo a mantenere con costanza la nostra motivazione e rischiamo di sentirci dei falliti. Ma la causa del nostro fallimento non sta fuori, bensì dentro di noi, nel fatto che non "alleniamo" adeguatamente la nostra resilienza, ovvero la capacità di far durare la motivazione nel tempo.»
+«Sempre più spesso crediamo che sia possibile avere successo in qualcosa, nello sport, nello studio, nel lavoro solo se "siamo portati" oppure se riceviamo una spinta o una ricompensa che prescindono dall'intima soddisfazione di svolgere bene ciò che ci prefiggiamo. Siamo motivati, certo, abbiamo delle ambizioni, degli scopi, ma molto spesso non riusciamo a mantenere con costanza la nostra motivazione e rischiamo di sentirci dei falliti. Ma la causa del nostro fallimento non sta fuori, bensì dentro di noi, nel fatto che non "alleniamo" adeguatamente la nostra resilienza, ovvero la capacità di far durare la motivazione nel tempo.»
 
 &nbsp;
 
 <span style="color:red">✄</span>
 
 &nbsp;
+
 «Senza forza di volontà, senza impegno non si va da nessuna parte. Una volta questa era una lezione ben chiara. Oggi lo è molto meno. Forse la gente ha disimparato a lottare, è rassegnata, passiva, specialmente i giovani. Questo può essere pericoloso, visti i tempi che probabilmente ci aspettano.
 
 [...]
