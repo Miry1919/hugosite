@@ -11,7 +11,6 @@ description: ¶
 
 #### <span style="color:red">Leggerò a breve</span>
 * _Alla ricerca del tempo perduto (7 volumi)_ — Marcel Proust
-    * *Dalla parte di Swann (Vol. 1)*
     * *All'ombra delle fanciulle in fiore (Vol. 2)*
     * *La parte di Guermantes (Vol. 3)*
     * *Sodoma e Gomorra (Vol. 4)*
