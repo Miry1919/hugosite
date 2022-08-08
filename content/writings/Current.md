@@ -7,9 +7,15 @@ date: 2022-06-29
 ---
 ---
 
+*Spero ritornerà il vento adatto al windsurf... Ecco, è riornato subito già di pomeriggio! Allora sì, sono uscita in mare per il mio quarto windsurf; il vento era anche un po' più forte dell'altro ieri, ma ho usato la stessa attrezzatura e sono caduta solo due volte. Anzi la seconda potevo risparmiarmela, perché dopo esser caduta la prima volta mentre ritiravo su la vela sono ricaduta come una cretina ahaha. C'era lo stesso ragazzo che alla seconda uscita usava la vela 3.5 (mentre io la 4.0), uscito fa al ragazzo della scuola windurf del quale ho già scritto: "oggi il vento è stato tremendo, sono caduto troppe volte!". Risposta: "ma come, è bellissimo!". Sono morta, lo stava prendendo abbastanza in giro, ma ha fatto bene, non ha abbastanza equilibrio lui, il vento oggi era bellissimo, non sa spostarsi sulla tavola velocemente coi piedi e quindi ad ogni virata, a ogni ventata, a ogni onda cadeva, il totale delle sue cadute alla fine ammontava a tipo 25. Ma tornando a me, ho puntato tantissimo sull'equilibrio, che non mi manca, e scorrevo meravigliosamente, anche con la spinta delle onde ecc. Il vento così mi fa divertire tantissimo, altrimenti che gusto c'è; appena uscita sempre il ragazzo della scuola mi ha chiesto tutto bene, io: benissimo! anzi, ho i capelli asciutti, significa che avrei potuto usare la vela 4.0! Avrà pensato che sono scema, che per una volta ho fatto meno fatica ma volevo farne di più ahahah. Poi va beh i dati sono sempre quelli: 146 battiti al minuto di media, 517 kcal. Anche per cadere poco devi bruciare tutto. Questo è tutto per oggi. Buonanotte amore mio.*
+
+<span style="color:red">*— 8 agosto 2022 (sera)*</span>
+
+---
+
 *Ieri il mare è stato molto calmo tutto il giorno, si è girato il vento, non più di mare, da ovest, ma di terra, da est, caldo… Spero poi ritornerà quello adatto per il windsurf. Il caldo afoso della giornata di ieri, stamattina ha portato la pioggia, una pioggia gentile, i tuoni impetuosi. Rispecchia l’amore delicato che sento per te amore, anche se poi a tratti vorrei urlarti che ti voglio. C’è un vicino di piazzola che si è messo a suonare la tromba, da poco ha finito con “My Way” di Frank Sinatra. È stato molto emozionante e mi è venuta voglia di scriverti. Non vedo l’ora di rivederti. Anche da lontano se non mi vorrai, ma sento dentro di me che ancora mi vuoi. La pioggia si è intensificata proprio adesso, l’amore che provo per te è sempre lo stesso: delicato ma forte, naturale ma potente. La musica della nostra storia continuerà sempre. Ieri sera pensarti è stato meraviglioso, mi ha tanto commosso.*
 
-<span style="color:red">*— 8 agosto 2022*</span>
+<span style="color:red">*— 8 agosto 2022 (mattina)*</span>
 
 ---
 
