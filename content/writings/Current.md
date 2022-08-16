@@ -7,6 +7,12 @@ date: 2022-06-29
 ---
 ---
 
+*È davvero entusiasmante quando chi ti ha ficcato in questo mondo dandoti la vita, ti vorrebbe morta. Non auguro a nessuno di essere schiacciato da due vecchi coalizzati, che ti dicono sempre che non vali niente perché non hanno nemmeno idea di cosa fai. Dovevo andare a fare la cassiera, sarei stata felice (ma non mollo mica per loro, ahaha!). Come fanno a capirmi, a capire le mie cose; mi viene da ridere!E niente poi allora alcune poesie escono veloci, senza la possibilità di fermarle; nel pomeriggio mi sono sentita persa e come ogni volta (capita spesso e lo nascondo) ho dovuto ritrovarmi. Ma proprio per parlare di cose che quelle persone importantissime (le sole importanti!) non capirebbero, ho finito il primo volume "Dalla parte di Swann" di "Alla ricerca del tempo perduto" di Proust. Proust è grande perché ti accalappia, per pagine e pagine e finisci per assuefarti. Chi trova noiosi questi libri non ha capito niente... Ha una capacità incredibile di andare e andare ancora, nelle storie, ma poi pensavi in un modo e succede altro. Povero Swann, un minimo lo capisco, le ultime parole sono drastiche e hanno sempre qualcosa di familiare, come ogni vicenda del testo: «E dire che ho sciupato anni della mia vita, ho desiderato di morire, ho avuto il mio più grande amore, per una donna che non mi piaceva, che non era il mio tipo!». Non credo, amore, tu non sia il mio tipo, anzi, ma non mi piace sentirmi sola, sembra che se io non facessi più nulla tu non mi penseresti mai più. Poi è arrivato Mario, per fortuna, cioè all'inizio del pomeriggio non gli rispondevo più... mi sono sentita pestata, da due che non sanno nemmeno chi sono. Non sono niente, ma loro? Le persone non ricorderanno mai che siamo tutti inutili, questa terra (non mi piace mettere la maiuscola per terra e luna, ok?) farebbe benissimo a meno di ognuno di noi, e mi sembra ce lo stia dicendo da parecchio.*
+
+<span style="color:red">*— 16 agosto 2022 (sera)*</span>
+
+---
+
 <span style="text-decoration:underline">Alla fine tutti si riposa</span>
 
 &nbsp;
@@ -35,7 +41,7 @@ Alla fine tutti si riposa.
 
 &nbsp;
 
-<span style="color:red">*— 16 agosto 2022*</span>
+<span style="color:red">*— 16 agosto 2022 (pomeriggio)*</span>
 
 ---
 
