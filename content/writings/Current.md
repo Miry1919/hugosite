@@ -7,6 +7,38 @@ date: 2022-06-29
 ---
 ---
 
+<span style="text-decoration:underline">Alla fine tutti si riposa</span>
+
+&nbsp;
+
+Chi ti vorrebbe morto
+
+Ha solo torto. Il morto
+
+È lui.
+
+&nbsp;
+
+Mi sento del tutto sola
+
+E non sarà l'ultima volta.
+
+Per cui...
+
+&nbsp;
+
+Cammino, continuo,
+
+Altrimenti cosa? Tanto
+
+Alla fine tutti si riposa.
+
+&nbsp;
+
+<span style="color:red">*— 16 agosto 2022*</span>
+
+---
+
 *Se stessimo giocando a carte, a sette e mezzo, direi "sto", perché sì, alla fine oggi ho avuto la mia 7ª e ultima uscita col windsurf. Sono attorniata da quella stanchezza meravigliosa, che ti prende ogni fibra muscolare e aspetta solo la notte per poterti far recuperare. Sono immersa nelle endorfine, e ho qualche brivido anche per i capelli ancora freschi di doccia. Se mi avessero detto che sarei uscita sette volte col windsurf quest'anno, di cui 4 con vento forte, li avrei guardati solo sognante; e invece è vero, e non riesco a trattenere la contentezza, che bellezza, sono progredita tanto, per un anno mi rimarranno impresse le parole del signore esperto della scuola windsurf, che dopo la sesta uscita mi ha detto "tu sei brava, devi mettere il trapezio"... Sarà fatto. Oggi c'era lo stesso vento delle prime due uscite, 19-21 km/h, che ormai per me è poco e serve invece quello tosto da 23-25 km/h. C'erano anche il signore che era stato recuperato col gommone e il tizio delle 25 cadute, che la mia mente ormai ha appellato "caduta inesorabile": sempre molto "appaperati" sulla tavola, sempre un po' imbranati; nei giorni in cui c'era il vento più (bello e) forte ed eravamo in acqua solo io (quella a faticare più di tutti ahaha) e quelli con l'attrezzatura giusta, col trapezio, loro due chi li ha visti! Oggi con la vela 4.0 per me è stato un defaticamento, l'uscita conclusiva senza faticare troppo, senza cadere, mostrando lo stile: per loro invece era il massimo a cui possono davvero ambire. Ogni uscita è stata caratteristica per il vento un po' diverso, ed è avvenuta nel momento giusto, ho avuto fortuna per una volta! Non ho sentito la mancanza della mia scuola originaria di Rovigno, in Croazia, dove sono un po' cresciuta (sono stata concepita a Rovigno ahaha), del mio istruttore croato, che quando 13 anni fa mi insegnò fu bravissimo (ma si vedeva sguazzassi già, il windsurf fosse per me), e poi di Medulin, sempre in Istria, dove mio padre ha scattato la foto in windsurf più bella che ho (si trova sempre sulla pagina [Me](https://miry1919.github.io/hugosite/me/), in basso), e infine di Livorno, dove dopo aver vinto i concorsi per l'Accademia Aeronautica e Navale windsurfai meravigliosamente carica e piena di orgoglio. Voglio abbattere ogni scoglio, vorrei lasciare il segno. Vivere è l'unico modo che ho per riuscirci, la fine di agosto quest'anno non sarà neanche lontanamente dolorosa come quella dell'anno scorso, in cui stavo perdendo tutto... Sento che qualcuno forse mi vuole bene, ora mi manchi tanto solo tu, amore.*
 
 <span style="color:red">*— 13 agosto 2022 (sera)*</span>
