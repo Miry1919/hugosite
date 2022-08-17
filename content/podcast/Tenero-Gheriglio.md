@@ -216,7 +216,7 @@ Nella pagina attuale trovi la stagione 1, invece la stagione 3 la trovi [qui](ht
     
     &nbsp;
     
-    ALERT! Ho detto una cosa in maniera sbagliata, il primo corso di windsurf lo ebbi a 13 anni, non 11.
+    ALERT! Ho detto una cosa in maniera sbagliata, il primo corso di windsurf lo ebbi a 12 anni, non 11.
 
 ---
 
