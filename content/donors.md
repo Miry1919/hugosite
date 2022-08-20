@@ -24,10 +24,6 @@ _♥ Oscar Rizzo ~ 15•09•2021_
 _♥ Alessandro Salvarani ~ 24•09•2021_
 
 ---
-
-_♥ Mario Omodeo ~ 24•05•2022_
-
----
 ---
 
 ### <span style="color:red">Come donare?</span>
