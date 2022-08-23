@@ -7,6 +7,10 @@ date: 2022-06-29
 ---
 ---
 
+<div align="center"><span style="color:red">Sì, spesso mi accorgo di typo o errori di significato nel testo solo dopo. Per esempio ho dovuto aggiungere "a buon prezzo" nell'inserimento del 6 luglio, pezzo in cui anche quella che doveva essere una "e" era rimasta erroneamente (probabilmente scrissi sul telefono) una "è". Grazie per la pazienza e la collaborazione. Con affetto, Miriana.</span></div>
+
+---
+
 *Con quel mio "anzi cresciamo sempre nelle difficoltà" non intendo altro che "cresciamo come coppia". Sono sempre fermamente convinta che per crescere individualmente, per cercare di costruire una versione sempre migliore di sé, azione che prosegue ogni giorno e per tutta la vita, serva il confronto con tutti; non è quindi abbastanza il banale confronto coi "coetanei" (chi cresce in questo modo si ritrova solamente in una mischia di amichetti, spesso bambini non cresciuti, discotecari e con convinzioni da stupidi, non idee da adulti, che seguono le mode "beviamo una birra stasera", "devo sballarmi la vita è una", e che usano internet e i social network come siti di incontri/YouPorn), ma è necessario anche quello importantissimo con gli adulti, o meglio con chi ha più anni di noi – cosa che ho capito e attuato fin da piccola, pur rischiando di sembrare poco alla moda e troppo diversa – e infine quello con chi è più giovane, più piccolo di noi, diretto rappresentante del futuro. Oltretutto serve interfacciarsi costantemente con la fatica, sia mentale (esempio: PoliMi) che fisica. Mi sto anche riferendo, è ovvio, allo sport, oppure a un lavoro intenso a livello fisico, teso a livello psichico (esempio: Accademia Aeronautica). Allenarsi a subire il dolore è l'unico modo per ricordarsi cos'è la felicità delle piccole cose.*
 
 <span style="color:red">*— 22 agosto 2022*</span>
