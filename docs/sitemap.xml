@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://miry1919.github.io/hugosite/post/foto-che-diventano-video/</loc>
-    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+    <loc>https://miry1919.github.io/hugosite/writings/current/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://miry1919.github.io/hugosite/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://miry1919.github.io/hugosite/writings/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://miry1919.github.io/hugosite/post/foto-che-diventano-video/</loc>
     <lastmod>2022-08-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,12 +48,7 @@
   </url>
   
   <url>
-    <loc>https://miry1919.github.io/hugosite/writings/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://miry1919.github.io/hugosite/writings/current/</loc>
+    <loc>https://miry1919.github.io/hugosite/writings/archive-2-3/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url>
   
