@@ -1,5 +1,5 @@
 ---
-title: Shortly
+title: Soon
 description: Sep 2022
 date: 2022-08-23
 ---
