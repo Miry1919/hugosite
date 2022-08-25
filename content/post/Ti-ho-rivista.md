@@ -4,7 +4,11 @@ date: 2022-08-25
 ---
 <div align="center">
 Stamattina, oltre a essere in pensiero per mio padre, per la sua operazione (l'abbiamo chiamato e sembra tutto a posto), ho pubblicato il post Instagram che lascio qui sotto: non è stato fatto a caso (ovvio), ma cosa ho fatto è già scritto nella descrizione sotto alle foto, e rimane solamente da scorrere le quattro foto. A causa di questo ho un po' tardato per uscire e allenarmi, e come sempre, è sembrato come se un'azione capitata al di fuori dell'ordinario abbia creato l'occasione per rivederti. Ti ho rivista Alessandra, guidava tuo marito (ok, presumibilmente è in pensione da mesi), tu gli eri affianco (invidia!), io stavo arrivando da te con la bicicletta ma da pochissimo eri partita da casa in macchina. Ho notato subito, di nuovo, che le punte dei tuoi capelli, del nuovo taglio corto che hai fatto a luglio, sono un po' arricciate, in quella sorta di ciuffo ribelle che mi fa impazzire. Spero mi abbia vista, eri bellissima.
+</div>
 
+&nbsp;
+
+<div align="center">
 Writings è fermo, si legge "Esami in corso, attendere...", ma non mi fermo mai a pensarti, a volerti; facciamo finire agosto, arrivare settembre, poi scriverò di nuovo laggiù per trovare il coraggio di tornare da te, ma durante questo tempo in mezzo sarà bello anche rileggere. Spero mi voglia rivedere, io non vedo l'ora di abbracciarti, e ho immaginato spesso che al nostro incontro, dopo un lunghissimo anno senza parlarci – perché per me è stato lunghissimo – forse saremo solo commosse, ci dispiacerà sapere che abbiamo sprecato tempo prezioso per trascorrere dei piccoli momenti dolci insieme. Quando immagino quel giorno immagino di vederti, di commuovermi, e che anche tu mi guarderai commossa; poi visto che sul momento non riusciremo a dire niente (se mi urlerai di sparire lo farò), e che forse l'abbraccio non lo vorrai subito, ho pensato che ti abbraccerò in un altro modo, ti abbraccerò le gambe, per non farti andare mai più via. Sei ancora mia? Io sono completamente tua meraviglia, da veramente tanto tempo.
 </div>
 
