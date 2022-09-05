@@ -26,6 +26,40 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
+* Puntata #86 (5•9•2022) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Devo rivederla, è da tanto tempo che non la vedo](https://spotifyanchor-web.app.link/e/fKgbLh204sb)
+    
+    Con l'86ª puntata iniziamo la seconda parte della terza stagione riprendendo da dove ci eravamo lasciati, dalla WWDC 2022, discutendo degli aggiornamenti dei vari OSs: iOS 16, tra lockscreen e la libreria foto condivisa; iPadOS 16, quindi delle fantastiche (dis)avventure di Stage Manager; macOS 13 Ventura (Simona); watchOS 9, col tracciamento degli allenamenti ora più professionale. Poi ci prepariamo all'evento Apple che si terrà il 7 settembre e di cui riparleremo, ricordando l'uscita di iPhone 14 e Apple Watch 8 e Pro, accennando che sto attuando un grosso cambiamento dei miei dispositivi mobile più piccoli (iPhone, iPod, Apple Watch), e che vi racconterò tutto nel dettaglio. Infine facciamo un salto tra i post che ho pubblicato sul sito (sottolineando la bellezza della musica, come nella puntata 85 BONUS), su Instagram, i libri che ho letto, le cose che come al solito ho combinato col windsurf, al mare e in piscina durante la pausa estiva.
+
+    &nbsp;
+    
+    • Sul mio sito:
+    
+    → [Post "Technology alone is not enough"](https://miry1919.github.io/hugosite/post/technology-alone-is-not-enough/)
+    
+    → [Post "Miriana ritorna a settembre, ma ricorda, c'è la musica"](https://miry1919.github.io/hugosite/post/miriana-ritorna-a-settembre-ma-ricorda-la-musica/)
+    
+    → [Post "Foto che diventano video"](https://miry1919.github.io/hugosite/post/foto-che-diventano-video/)
+    
+    → [Post "Ti ho rivista"](https://miry1919.github.io/hugosite/post/ti-ho-rivista/)
+    
+    → [Table of Entries](https://miry1919.github.io/hugosite/writings/table-of-entries/)
+    
+    → [Writings](https://miry1919.github.io/hugosite/writings/)
+    
+    → [Quotes libro "Perseverare è umano"](https://miry1919.github.io/hugosite/quote/perseverare-e-umano/)
+    
+    &nbsp;
+    
+    • Su Instagram:
+    
+    → [Tuffi](https://www.instagram.com/p/CgU88abqxRV/?utm_source=ig_web_copy_link)
+    
+    → [Windsurf](https://www.instagram.com/p/CgztlSpq4xp/?utm_source=ig_web_copy_link)
+
+---
+
 * Puntata #85 (25•6•2022) <span style="color:blue">BONUS</span>
 
     ☞[Miriana ritorna a settembre, ma ricorda, c'è la musica](https://anchor.fm/miriana-novella7/episodes/85--Miriana-ritorna-a-settembre--ma-ricorda--c-la-musica-BONUS-e1kehse)
