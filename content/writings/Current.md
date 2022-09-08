@@ -65,7 +65,7 @@ date: 2022-08-23
 
 &nbsp;
 
-<span style="color:red">*— 6 settembre 2022*</span>
+<span style="color:red">*— 8 settembre 2022*</span>
 
 ---
 
