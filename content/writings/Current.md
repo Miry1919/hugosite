@@ -7,6 +7,68 @@ date: 2022-08-23
 ---
 ---
 
+*<del>Meglio soli che mal accompagnati.*
+
+*Meglio soli che mal odiati.*
+
+&nbsp;
+
+*<del>Chi si fa i fatti propri campa cent'anni.*
+
+*Chi si fa i fatti propri muore di rimorsi.*
+
+&nbsp;
+
+*<del>La fortuna aiuta gli audaci.*
+
+*La fortuna aiuta gli stronzi.*
+
+&nbsp;
+
+*<del>A mali estremi, estremi rimedi.*
+
+*A mali estremi, estremi dolori da subire.*
+
+&nbsp;
+
+*<del>Tutto il mondo è paese.*
+
+*Tutto il mondo è pa...lesemente rotto.*
+
+&nbsp;
+
+*<del>L'ozio è il padre di tutti i vizi.*
+
+*L'ozio è il figlio di tutti i pigri.*
+
+&nbsp;
+
+*<del>L'erba del vicino è sempre più verde.*
+
+*L'erba del vicino è sempre pi...ena di Pokémon.*
+
+&nbsp;
+
+*<del>L'amore non è bello se non è litigarello.*
+
+*L'amore non è bello se non finisce presto.*
+
+&nbsp;
+
+*<del>La classe non è acqua.*
+
+*La classe non è mai la prima a destra.*
+
+&nbsp;
+
+...
+
+&nbsp;
+
+<span style="color:red">*— 6 settembre 2022*</span>
+
+---
+
 *<del>Nessuno è perfetto.*
 
 *Solo alcuni sono decenti.*
