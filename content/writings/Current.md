@@ -7,6 +7,12 @@ date: 2022-08-23
 ---
 ---
 
+*Sono a pezzi, senza forze, ho i brividi di freddo, ho la nausea: di cosa mi sono illusa? Devo rivederti, è da tanto tempo che non ti vedo, ma tu non mi vuoi! Mi avresti scritto, mi avresti chiamata, mi avresti sbloccata. Avrai letto con disprezzo tutto quello che ho scritto. Non riesco a venire da te, immagino già che giudicheresti tutto di me, come hai fatto allora. Alessandra, ti farai sentire tu se mi vuoi ancora.*
+
+<span style="color:red">*— 9 settembre 2022*</span>
+
+---
+
 *<del>Meglio soli che mal accompagnati.*
 
 *Meglio soli che mal odiati.*
