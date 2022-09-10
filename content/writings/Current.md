@@ -7,7 +7,7 @@ date: 2022-08-23
 ---
 ---
 
-*Ieri pomeriggio mi sono fatta venire la febbre, dopo aver scritto l'ho misurata, per un'ora ho avuto 37. Non credevo che sentire una profonda tristezza (mi sono guardata allo specchio, sembravo un cadavere, bianca in faccia, occhi persi) potesse creare condizioni di febbre dal nulla. Questo doveva essere il momento più bello della mia vita, e si sta tramutando in un incubo. Figuriamoci se ti farai sentire. Per te, per questo mondo gentile, posso solo morire.*
+*Ieri pomeriggio mi sono fatta venire la febbre, dopo aver scritto l'ho misurata, per un'ora ho avuto 37. Non credevo che sentire una profonda tristezza (mi sono guardata allo specchio, sembravo un cadavere, bianca in faccia, occhi persi) potesse creare le condizioni di febbre dal nulla. Questo doveva essere il momento più bello della mia vita, e si sta tramutando in un incubo. Figuriamoci se ti farai sentire. Per te, per questo mondo gentile, posso solo morire.*
 
 <span style="color:red">*— 10 settembre 2022*</span>
 
