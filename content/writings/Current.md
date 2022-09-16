@@ -7,6 +7,12 @@ date: 2022-08-23
 ---
 ---
 
+*È partito [Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/); stasera sono molto stanca ma anche molto contenta.*
+
+<span style="color:red">*— 16 settembre 2022*</span>
+
+---
+
 *Tutto procede, il Politecnico, la lettura di Proust (!), Tenero Gheriglio... Ma quello che mi tiene in tensione, sospesa tra la felice liberazione e la prigionia della paura, è il fatto che sono sempre più vicina dal sapere cosa senti da mesi, se vuoi vedermi morire o ridere, soffrire o emozionarmi per te, amore. Continuo a pensarti, ti amo, non so cosa significa non farlo, e mi sbaglio di sicuro, dovrei restare nel dubbio per sempre, lasciare esprimere ancora a lungo la mia speranza inconsapevole: forse sarebbe meno doloroso. Ma il dubbio stesso mi mangia, giorno per giorno; non riesco più a vivere così. Stamattina passare con l'autobus, scandagliare il parcheggio con gli occhi per trovare la tua macchina, è stato come sempre bellissimo; è un processo che mi manda in apnea per qualche secondo, ma quando trovo le tue tracce, indiscutibili, il sorriso che mi viene sotto alla mascherina è così genuino che me la sposta, e le guance rimangono ben contente di sentire che stanno prendendo tanto spazio, piene dell'amore per una donna dolce che spero, più di qualsiasi cosa, non mi detesti. Non so cosa pensi e non lo saprò fino all'ultimo, so solo che ti amo tantissimo, e da anni tutto il resto appare basso, monotono, piccolo, non distante dalle dimensioni di un microbo. Tremo, deve arrivare adesso, davvero, il momento più bello della mia vita; dopo tante sofferenze intervallate da pochi momenti di gioia, non può e non deve diventare tutto un incontrastabile incubo: di questo, stavolta, non so se saprei attutirne il colpo.*
 
 <span style="color:red">*— 13 settembre 2022*</span>
