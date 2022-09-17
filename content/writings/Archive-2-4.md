@@ -1,16 +1,10 @@
 ---
 title: Current
-description: Sep 2022
+description: Archive 2.4
 date: 2022-08-23
 ---
 
 ---
----
-
-*Stamattina ho voluto dimostrarti che per andare al lavoro in bicicletta ci metteresti quanto ci metti in macchina, due minuti, pure prendendo due semafori rossi. Quando mi sono fermata per lasciarti nel godimento di scappare via, come volevi, o come voleva tuo marito (forse perché doveva dimostrarmi di saper andare anche velocemente con la macchina, ma no, non è capace, ha accelerato senza badare alle marce, dopo il secondo semaforo s'è sentito un rumore imbarazzante; insomma non ha la patente DE come mio padre, e nemmeno il brevetto di volo per l'SF260), erano le 11:19, un orario molto simbolico che mi ha fatto molto pensare. Poi mi sono chiesta, se ti faccio così schifo, perché non blocchi pure le mie mail, sto usando lo stesso indirizzo dell'inizio... Non hai chiesto a tuo marito come si fa e allora non sei capace? Eh sì perché deve guidare sempre l'uomo, se sei con tuo marito guida lui. E ovviamente di "Informatica" ne possono capire solo gli uomini, per te, una donna tristemente maschilista... No dai, non credo queste dinamiche c'entrino stavolta, grazie a me sarai progredita: non vuoi semplicemente perderti alcune cose che ti piacciono. Ora mi è chiaro. Sono pronta per venire da te e farmi schiacciare, manca poco, non temere. Però almeno ora, lo zerbino (oggi ho visto) è decente; pensa che esiste ancora il precedente. 25 anni di idee stantie, per fortuna ormai buttate via, e spente.*
-
-<span style="color:red">*— 17 settembre 2022*</span>
-
 ---
 
 *È partito [Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/); stasera sono molto stanca ma anche molto contenta.*
