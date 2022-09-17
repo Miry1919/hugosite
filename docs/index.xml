@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on hello</title>
-    <link>https://miry1919.github.io/hugosite/</link>
+    <link>/</link>
     <description>Recent content in Home on hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://miry1919.github.io/hugosite/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ti ho rivista</title>
-      <link>https://miry1919.github.io/hugosite/post/ti-ho-rivista/</link>
+      <link>/post/ti-ho-rivista/</link>
       <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/ti-ho-rivista/</guid>
+      <guid>/post/ti-ho-rivista/</guid>
       <description>Stamattina, oltre a essere rimasta in pensiero per mio padre, per la sua operazione (l&#39;abbiamo chiamato e sembra tutto a posto), ho pubblicato il post Instagram che lascio qui sotto: non è stato fatto a caso (ovvio), ma cosa ho fatto è già scritto nella descrizione sotto alle foto, e rimane solamente da scorrere le quattro foto. A causa di questo ho un po&#39; tardato per uscire e allenarmi, e come sempre, è sembrato come se un&#39;azione capitata al di fuori dell&#39;ordinario abbia creato l&#39;occasione per rivederti.</description>
     </item>
     
     <item>
       <title>Table of Entries</title>
-      <link>https://miry1919.github.io/hugosite/writings/table-of-entries/</link>
+      <link>/writings/table-of-entries/</link>
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/writings/table-of-entries/</guid>
+      <guid>/writings/table-of-entries/</guid>
       <description>Summer | Jul | Aug | Sep ------- | ------- | ------- | ------- 1 | x | x | 2 | | x | 3 | x | x | 4 | x | x | 5 | x | x | x 6 | x | x | x 7 | x | | 8 | | x x | x 9 | x | x | x 10 | | | x x 11 | | x | 12 | | | 13 | x | x x | x 14 | x | | 15 | | | 16 | | x x | x 17 | | | x 18 | | x | 19 | x | | 20 | x | x x | 21 | | x | 22 | x | x | 23 | x | | 24 | | | 25 | | | 26 | x | | 27 | x | | 28 | x | | 29 | | | 30 | | | 31 | | | ------- | ------- | ------- | ------- tot | 16 | 19 | .</description>
     </item>
     
     <item>
       <title>Current</title>
-      <link>https://miry1919.github.io/hugosite/writings/current/</link>
+      <link>/writings/current/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/writings/current/</guid>
+      <guid>/writings/current/</guid>
       <description>Stamattina ho voluto dimostrarti che per andare al lavoro in bicicletta ci metteresti quanto ci metti in macchina, due minuti, pure prendendo due semafori rossi. Quando mi sono fermata per lasciarti nel godimento di scappare via, come volevi, o come voleva tuo marito (forse perché doveva dimostrarmi di saper andare anche velocemente con la macchina, ma no, non è capace, ha accelerato senza badare alle marce, dopo il secondo semaforo s&amp;rsquo;è sentito un rumore imbarazzante; insomma non ha la patente DE come mio padre, e nemmeno il brevetto di volo per l&amp;rsquo;SF260), erano le 11:19, un orario molto simbolico che mi ha fatto molto pensare.</description>
     </item>
     
     <item>
       <title>Foto che diventano video</title>
-      <link>https://miry1919.github.io/hugosite/post/foto-che-diventano-video/</link>
+      <link>/post/foto-che-diventano-video/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/foto-che-diventano-video/</guid>
+      <guid>/post/foto-che-diventano-video/</guid>
       <description>È bello, in alcune occasioni, poter estrarre brevi video dalle live photos.
 (1/2) pic.twitter.com/dSDiwKMIkD
 &amp;mdash; Miriana Novella (@Miry1919) August 5, 2022  &amp;nbsp; È bello, in alcune occasioni, poter estrarre brevi video dalle live photos.
@@ -55,10 +55,10 @@ Il windsurf è bellissimo.  &amp;nbsp;
     
     <item>
       <title>Tenero Gheriglio</title>
-      <link>https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-3/</link>
+      <link>/podcast/tenero-gheriglio-3/</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-3/</guid>
+      <guid>/podcast/tenero-gheriglio-3/</guid>
       <description>In questo podcast parlo di tutto. Ogni lunedì alle h. 19:00 esce una nuova puntata. Mesi operativi: marzo, aprile, maggio, settembre, ottobre, novembre.  Ascoltalo:
  su YouTube tramite la playlist sempre aggiornata con tutte le puntate nel tuo podcast player preferito cliccando sui link presenti qui sotto  Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi qui, e la stagione 1 qui.
   Puntata #87 (12•9•2022) ⚡️ New!</description>
@@ -66,10 +66,10 @@ Il windsurf è bellissimo.  &amp;nbsp;
     
     <item>
       <title>Le Mille e una Novella</title>
-      <link>https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/</link>
+      <link>/podcast/le-mille-e-una-novella/</link>
       <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/</guid>
+      <guid>/podcast/le-mille-e-una-novella/</guid>
       <description>È il mio secondo podcast. Finalmente l&#39;ho fatto partire. Scrivo una storia, poi te la racconto e viaggiamo insieme. Sei pronto? Allora facci partire premendo play! Alla fine non saranno veramente 1001 storie, perché altrimenti finirei dopo 1001 settimane, cioè più di 19 anni... Appuntamento ogni venerdì alle h. 19:00.  ٠ Introduzione, prima stagione ☾ ⚡️ New!
 Listen to &amp;ldquo;MN 0 - 16:09:22, 17.34&amp;rdquo; on Spreaker.
 Questa è l&amp;rsquo;introduzione, la storia delle storie.</description>
@@ -77,39 +77,39 @@ Questa è l&amp;rsquo;introduzione, la storia delle storie.</description>
     
     <item>
       <title>Archive 2.3</title>
-      <link>https://miry1919.github.io/hugosite/writings/archive-2-3/</link>
+      <link>/writings/archive-2-3/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/writings/archive-2-3/</guid>
+      <guid>/writings/archive-2-3/</guid>
       <description>Con quel mio &amp;ldquo;anzi cresciamo sempre nelle difficoltà&amp;rdquo; non intendo altro che &amp;ldquo;cresciamo come coppia&amp;rdquo;. Sono sempre fermamente convinta che per crescere individualmente, per cercare di costruire una versione sempre migliore di sé, azione che prosegue ogni giorno e per tutta la vita, serva il confronto con tutti; non è quindi abbastanza il banale confronto coi &amp;ldquo;coetanei&amp;rdquo; (chi cresce in questo modo si ritrova solamente in una mischia di amichetti, spesso bambini non cresciuti, discotecari e con convinzioni da stupidi, non idee da adulti, che seguono le mode &amp;ldquo;beviamo una birra stasera&amp;rdquo;, &amp;ldquo;devo sballarmi la vita è una&amp;rdquo;, e che usano internet e i social network come siti di incontri/YouPorn), ma è necessario anche quello importantissimo con gli adulti, o meglio con chi ha più anni di noi – cosa che ho capito e attuato fin da piccola, pur rischiando di sembrare poco alla moda e troppo diversa – e infine quello con chi è più giovane, più piccolo di noi, diretto rappresentante del futuro.</description>
     </item>
     
     <item>
       <title>Miriana ritorna a settembre, ma ricorda, c&#39;è la musica</title>
-      <link>https://miry1919.github.io/hugosite/post/miriana-ritorna-a-settembre-ma-ricorda-la-musica/</link>
+      <link>/post/miriana-ritorna-a-settembre-ma-ricorda-la-musica/</link>
       <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/miriana-ritorna-a-settembre-ma-ricorda-la-musica/</guid>
+      <guid>/post/miriana-ritorna-a-settembre-ma-ricorda-la-musica/</guid>
       <description>Ieri sera mi è capitato di ascoltare la bellissima &#34;Experience&#34; di Ludovico Einaudi &amp; Daniel Hope: tempo mezz&#39;ora e mi è venuta voglia di montare un minuto e 29 secondi per una puntata 85 BONUS particolare di Tenero Gheriglio. Ha una sigla iniziale velocizzata per rimarcarne la brevità, poi c&#39;è una segretaria robotica divertente che mi sostituisce, e infine la musica. &amp;nbsp;
 ✎  </description>
     </item>
     
     <item>
       <title>Technology alone is not enough</title>
-      <link>https://miry1919.github.io/hugosite/post/technology-alone-is-not-enough/</link>
+      <link>/post/technology-alone-is-not-enough/</link>
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/technology-alone-is-not-enough/</guid>
+      <guid>/post/technology-alone-is-not-enough/</guid>
       <description>&#34;Technology alone is not enough&#34; è una frase che mi piace molto, fa capire quanto la tecnologia, senza qualcuno che sappia sfruttarne le possibilità più vere, dolci e umane (non quelle solo sconce ecco), non sia abbastanza. L&#39;ho inserita anche nella pagina &#34;Me&#34; di questo sito, ne è l&#39;essenza, è l&#39;essenza di Tenero Gheriglio e così via.  &amp;nbsp;
    View this post on Instagram         A post shared by Miriana Novella | @Miry1919 on Twitter (@miry_geek)</description>
     </item>
     
     <item>
       <title>Grazie ragazzo fantastico</title>
-      <link>https://miry1919.github.io/hugosite/post/grazie-ragazzo-fantastico/</link>
+      <link>/post/grazie-ragazzo-fantastico/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/grazie-ragazzo-fantastico/</guid>
+      <guid>/post/grazie-ragazzo-fantastico/</guid>
       <description>   View this post on Instagram         A post shared by Miriana Novella | @Miry1919 on Twitter (@miry_geek)
    &amp;nbsp;
 ✎  </description>
@@ -117,37 +117,37 @@ Questa è l&amp;rsquo;introduzione, la storia delle storie.</description>
     
     <item>
       <title>Archive 2.2</title>
-      <link>https://miry1919.github.io/hugosite/writings/archive-2-2/</link>
+      <link>/writings/archive-2-2/</link>
       <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/writings/archive-2-2/</guid>
+      <guid>/writings/archive-2-2/</guid>
       <description>Sono rimasta un po&amp;rsquo; senza parole, si vede dai giorni senza farmi sentire quaggiù, e la verità è che pensavo di non averne nemmeno oggi, ma sono a casa da sola da giorni e nel silenzio della cena qualche idea è uscita, insistente. Sono una da tutto o niente, se ci sono giorni pieni di parole (quel flusso è da scrittore, è bellissimo, non si può farselo sfuggire) non è detto sia sempre così, lo sai amore mio, sono sempre stata capace di stare in un silenzio sommesso, l&amp;rsquo;ascolto è bello, in Aeronautica era d&amp;rsquo;obbligo.</description>
     </item>
     
     <item>
       <title>Menu bar del sito aggiornata</title>
-      <link>https://miry1919.github.io/hugosite/post/menu-bar-del-sito-aggiornata/</link>
+      <link>/post/menu-bar-del-sito-aggiornata/</link>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/menu-bar-del-sito-aggiornata/</guid>
+      <guid>/post/menu-bar-del-sito-aggiornata/</guid>
       <description>Con poco impegno sono arrivata a rendere la menu bar di questo sito più carina ed efficace, e come al solito... avrei dovuto farlo prima. Ho eliminato Home, perché adesso come i *veri* siti cliccando o tappando sul titolo in alto a sinistra, cioè su ❀ hello, verremo rimandati direttamente alla home page; al posto di About ora troviamo Me, ma il contenuto di quella pagina non cambia; per il resto rimane tutto uguale, la menu bar aggiornata quindi è questa: &amp;nbsp;</description>
     </item>
     
     <item>
       <title>Un promemoria per il futuro, caro GitHub</title>
-      <link>https://miry1919.github.io/hugosite/post/un-promemoria-per-il-futuro-caro-github/</link>
+      <link>/post/un-promemoria-per-il-futuro-caro-github/</link>
       <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/un-promemoria-per-il-futuro-caro-github/</guid>
+      <guid>/post/un-promemoria-per-il-futuro-caro-github/</guid>
       <description>Ieri alle ore 19:00 come ogni lunedì stavo cercando di pubblicare Tenero Gheriglio, aggiornando quindi la sua pagina (in particolare quella della stagione 3) con una nuova puntata, la n° 75. Tuttavia sono incappata in un errore che mi si era già presentato tempo fa: nonostante secondo il terminale risultasse girare tutto nella norma, e mi restituisse &amp;ldquo;Everything up-to-date&amp;rdquo;, l&amp;rsquo;effettiva pubblicazione delle modifiche non avveniva affatto. Proprio perché questo problema mi si era già presentato, ma non di recente e raramente (una o due volte), avevo completamente dimenticato la soluzione, ai tempi cercata e trovata nella vasta marea di Internet, con le sue domande e risposte, Stack Overflow, Quora, Reddit e così via.</description>
     </item>
     
     <item>
       <title>I tre principi della dinamica del seno, e pure un teorema</title>
-      <link>https://miry1919.github.io/hugosite/post/i-tre-principi-della-dinamica-del-seno/</link>
+      <link>/post/i-tre-principi-della-dinamica-del-seno/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/i-tre-principi-della-dinamica-del-seno/</guid>
+      <guid>/post/i-tre-principi-della-dinamica-del-seno/</guid>
       <description>I tre principi della dinamica del seno.
 1. Se un seno è piccolo (&amp;lt; della 3ª *) è allo stesso modo sensibile (+ ci sono capezzoli e capezzoli).
 2. Se un seno è grosso con l&amp;#39;età scende vertiginosamente, calando in consistenza.
@@ -158,37 +158,37 @@ Questa è l&amp;rsquo;introduzione, la storia delle storie.</description>
     
     <item>
       <title>Archive 2.1</title>
-      <link>https://miry1919.github.io/hugosite/writings/archive-2-1/</link>
+      <link>/writings/archive-2-1/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/writings/archive-2-1/</guid>
+      <guid>/writings/archive-2-1/</guid>
       <description>Ieri è stata una giornata strana, ti ho rivista alle ore 13:18 come scrissi il 10 febbraio (c&amp;rsquo;erano le lauree al PoliMi, allora non ho corso di pomeriggio) ma senza darti le spalle: proprio nel momento del tuo passaggio c&amp;rsquo;era una ragazza che dopo esser stata un po&amp;rsquo; seduta sulla collinetta d&amp;rsquo;erba e prima di andar via mi stava chiedendo se si fosse sporcata con terra, o erba, sedendosi ahaha! Poi di sera ho dovuto lottare con la questione su Twitter, quella dello slot sottostante; è assurdo, alcuni non sanno crederti mai, devono commentare sempre&amp;hellip; ma io se una cosa la so bene la dico e la sostengo.</description>
     </item>
     
     <item>
       <title>Ti ho sognata</title>
-      <link>https://miry1919.github.io/hugosite/post/ti-ho-sognata/</link>
+      <link>/post/ti-ho-sognata/</link>
       <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/ti-ho-sognata/</guid>
+      <guid>/post/ti-ho-sognata/</guid>
       <description>L&#39;avevo detto che la normalità non esiste, finita una cosa ce ne sarà sempre un&#39;altra. Ma non voglio scrivere della guerra, proprio no, voglio scrivere che ti ho sognata, ed è stata una nottata meravigliosa. Da quando non avrei più dovuto pensarti, né tantomeno sognarti, sei entrata nel mio sonno alcune volte, ma due di queste mi hanno impressionata particolarmente su tutte. Non ti avevo mai sognata in maniera tanto travolgente, incredibile, quasi a dire, ora che non devi più pensarla nei sogni ti si presenterà ancora più bella.</description>
     </item>
     
     <item>
       <title>Archive 2.0</title>
-      <link>https://miry1919.github.io/hugosite/writings/archive-2-0/</link>
+      <link>/writings/archive-2-0/</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/writings/archive-2-0/</guid>
+      <guid>/writings/archive-2-0/</guid>
       <description>Sia chiaro però, la mia infelicità, la mia vuotezza, non derivano dalle attività, dai risultati, dallo studio, dai progetti paralleli, dalle passioni, dallo sport: tutto questo mi dona da sempre grandissime soddisfazioni, basta impegnarsi, seguire i propri talenti. Tuttavia sono convinta che chi sa sentirsi appagato dalla sola riuscita di quello che ho appena elencato viva di autoinganno. Come possono cose così concrete spingere più in alto la vita di un uomo?</description>
     </item>
     
     <item>
       <title>Archive 1</title>
-      <link>https://miry1919.github.io/hugosite/writings/archive-1/</link>
+      <link>/writings/archive-1/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/writings/archive-1/</guid>
+      <guid>/writings/archive-1/</guid>
       <description>Come il solito presentimento
 &amp;nbsp;
 Vorrei già vedere come andrà
@@ -216,10 +216,10 @@ Leggere mentre faccio stretching mi appaga molto (poi alcuni esercizi vanno fatt
     
     <item>
       <title>Archive 0</title>
-      <link>https://miry1919.github.io/hugosite/writings/archive-0/</link>
+      <link>/writings/archive-0/</link>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/writings/archive-0/</guid>
+      <guid>/writings/archive-0/</guid>
       <description>Mi hanno insegnato a tenere la testa alta
 &amp;nbsp;
 Mi hanno insegnato a tenere la testa alta
@@ -237,10 +237,10 @@ Facendo quello che nel profondo sento.</description>
     
     <item>
       <title>Sì, mi fece la cacca sulla testa</title>
-      <link>https://miry1919.github.io/hugosite/post/si-mi-fece-la-cacca-sulla-testa/</link>
+      <link>/post/si-mi-fece-la-cacca-sulla-testa/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/si-mi-fece-la-cacca-sulla-testa/</guid>
+      <guid>/post/si-mi-fece-la-cacca-sulla-testa/</guid>
       <description>   View this post on Instagram         A post shared by Miriana Novella ミリアナ・ノヴェッラ (@miry_geek)
    &amp;nbsp;
 ✎  </description>
@@ -248,10 +248,10 @@ Facendo quello che nel profondo sento.</description>
     
     <item>
       <title>Come Polaroid</title>
-      <link>https://miry1919.github.io/hugosite/post/come-polaroid/</link>
+      <link>/post/come-polaroid/</link>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/come-polaroid/</guid>
+      <guid>/post/come-polaroid/</guid>
       <description>View this post on Instagram         A post shared by Miriana Novella ミリアナ・ノヴェッラ (@miry_geek)
   &amp;nbsp;    View this post on Instagram         A post shared by Miriana Novella ミリアナ・ノヴェッラ (@miry_geek)
   &amp;nbsp;    View this post on Instagram         A post shared by Miriana Novella ミリアナ・ノヴェッラ (@miry_geek)</description>
@@ -259,10 +259,10 @@ Facendo quello che nel profondo sento.</description>
     
     <item>
       <title>Breve storiella di Omicron, da salvare</title>
-      <link>https://miry1919.github.io/hugosite/post/breve-storiella-di-omicron-da-salvare/</link>
+      <link>/post/breve-storiella-di-omicron-da-salvare/</link>
       <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/breve-storiella-di-omicron-da-salvare/</guid>
+      <guid>/post/breve-storiella-di-omicron-da-salvare/</guid>
       <description>Omicron alla cena della vigilia di Natale
 - Che bella occasione per rivederci tutti...
 - Non ricordavo fossimo così numerosi, papomicron. Abbondanza, prosperità!
@@ -273,19 +273,19 @@ Facendo quello che nel profondo sento.</description>
     
     <item>
       <title>È Natale, posso esser sincera?</title>
-      <link>https://miry1919.github.io/hugosite/post/e-natale-posso-esser-sincera/</link>
+      <link>/post/e-natale-posso-esser-sincera/</link>
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/e-natale-posso-esser-sincera/</guid>
+      <guid>/post/e-natale-posso-esser-sincera/</guid>
       <description>È Natale, posso esser sincera? Per me è un giorno qualunque, soprattutto quest&#39;anno. Ma... Mi stavo immaginando tra qualche anno, sola, su un furgoncino, come si chiama, il minivan tipo Volkswagen, con la stupida laurea di Ingegneria Informatica incorniciata e appesa sul muro della mia camera, e io che evado, faccio un giro per l&#39;Europa, in Germania, in Olanda, in Francia, in Spagna, e in Portogallo a fare surf, e altrove a far windsurf, e sempre a leggere, e a scrivere, a scrivere!</description>
     </item>
     
     <item>
       <title>Quando anche i carrelli si ribaltano</title>
-      <link>https://miry1919.github.io/hugosite/post/quando-anche-i-carrelli-si-ribaltano/</link>
+      <link>/post/quando-anche-i-carrelli-si-ribaltano/</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/quando-anche-i-carrelli-si-ribaltano/</guid>
+      <guid>/post/quando-anche-i-carrelli-si-ribaltano/</guid>
       <description>   View this post on Instagram         A post shared by Miriana Novella ミリアナ・ノヴェッラ (@miry_geek)
    &amp;nbsp;
 ✎  </description>
@@ -293,19 +293,19 @@ Facendo quello che nel profondo sento.</description>
     
     <item>
       <title>MacBook Pro 2021, impressioni a freddo</title>
-      <link>https://miry1919.github.io/hugosite/post/macbook-pro-2021-impressioni-a-freddo/</link>
+      <link>/post/macbook-pro-2021-impressioni-a-freddo/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/macbook-pro-2021-impressioni-a-freddo/</guid>
+      <guid>/post/macbook-pro-2021-impressioni-a-freddo/</guid>
       <description>Queste sono le mie impressioni a freddo, scritte esattamente sul MacBook Pro 14&#34; 2021 Space Gray base che ho portato a casa martedì 9 novembre 2021. Si tratta di impressioni &#34;a freddo&#34;, perché diventerà mai veramente caldo? È eccezionale, non riesco a trovare veri difetti, a parte l&#39;incremento di peso che si nota, ma alla fine è poco e ci fai subito l&#39;abitudine: non va tenuto sollevato come un iPad o un iPhone.</description>
     </item>
     
     <item>
       <title>A postcard of the Future from the future</title>
-      <link>https://miry1919.github.io/hugosite/post/a-postcard-of-the-future-from-the-future/</link>
+      <link>/post/a-postcard-of-the-future-from-the-future/</link>
       <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/a-postcard-of-the-future-from-the-future/</guid>
+      <guid>/post/a-postcard-of-the-future-from-the-future/</guid>
       <description>   View this post on Instagram         A post shared by Miriana Novella ミリアナ・ノヴェッラ (@miry_geek)
    &amp;nbsp;
 ✎  </description>
@@ -313,29 +313,29 @@ Facendo quello che nel profondo sento.</description>
     
     <item>
       <title>A volte sì, preferirei andarmene</title>
-      <link>https://miry1919.github.io/hugosite/post/a-volte-si-preferirei-andarmene/</link>
+      <link>/post/a-volte-si-preferirei-andarmene/</link>
       <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/a-volte-si-preferirei-andarmene/</guid>
+      <guid>/post/a-volte-si-preferirei-andarmene/</guid>
       <description>A volte sì, preferirei andarmene. Cosa c&#39;è di così puro in questo mondo, nulla. Vale la pena aspettare speranzosamente tutto sia sempre meglio, che il tuo impegno crei il bello? Mi aspetto poco, ci penso e dico vado. Vado via. Non serve stare lì a ripensare che probabilmente qualcosa si possa salvare, quando ricevi solo sguardi falsi. L&#39;ascolto? L&#39;ascolto forse è vero, ma gli sguardi sono falsi. Non credere sia facile accettare occhi persi, parole vuote e promesse mancate.</description>
     </item>
     
     <item>
       <title>iPad mini di sesta generazione, la mia recensione</title>
-      <link>https://miry1919.github.io/hugosite/post/ipad-mini-di-sesta-generazione/</link>
+      <link>/post/ipad-mini-di-sesta-generazione/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/ipad-mini-di-sesta-generazione/</guid>
+      <guid>/post/ipad-mini-di-sesta-generazione/</guid>
       <description>&amp;nbsp;
 Ci sono tre formati di iPad dal design moderno, 8.3&amp;rdquo;, 11&amp;rdquo;, 12.9&amp;rdquo;. Si incontrano al bar per cercare di capire chi è il più valoroso&amp;hellip; Ah no, non è una barzelletta, esistono davvero! Sono felice di poter scrivere qualcosa su di loro, e soprattutto sul più piccolo, il nuovo iPad mini di sesta generazione, con display 8.3&amp;rdquo;, cornici ridotte, niente più tasto Home, chip A15 Bionic (lo stesso dei nuovi iPhone 13), Touch ID sul tasto di sblocco, compatibilità con Apple Pencil 2 magnetica.</description>
     </item>
     
     <item>
       <title>Pensieri e Poesie [terza e ultima parte]</title>
-      <link>https://miry1919.github.io/hugosite/post/pensieri-e-poesie-terza-parte/</link>
+      <link>/post/pensieri-e-poesie-terza-parte/</link>
       <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/pensieri-e-poesie-terza-parte/</guid>
+      <guid>/post/pensieri-e-poesie-terza-parte/</guid>
       <description>Vorrei trascrivere qui alcuni pensieri e alcune poesie scritti negli ultimi tempi. Non ci sei più
 &amp;nbsp;
 Piove
@@ -356,37 +356,37 @@ E per fortuna esiste il sonno. Il sonno ti lascia in pace, ti ripara da ogni ing
     
     <item>
       <title>Sport &amp; Food, e sogni di un sito nuovo</title>
-      <link>https://miry1919.github.io/hugosite/post/sport-and-food/</link>
+      <link>/post/sport-and-food/</link>
       <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/sport-and-food/</guid>
+      <guid>/post/sport-and-food/</guid>
       <description>Qualche giorno fa ho fatto fuori la sezione &#34;S&amp;F&#34; (sport and food) per fare posto alla meravigliosa pagina &#34;Donors&#34; (donatori); la vedete nella barra in alto da desktop/tablet o nella tendina da mobile, come sempre. Nel frattempo continuo a sognare il giorno in cui creerò un sito tutto nuovo, con le fondamenta di questo ma pagine più colorate, immagini, dark mode, tendine a scorrimento fluido, font curatissimo, codice (che sta sotto) pulito, un dominio vero (hellowebsite.</description>
     </item>
     
     <item>
       <title>Mirianaerobics</title>
-      <link>https://miry1919.github.io/hugosite/post/mirianaerobics/</link>
+      <link>/post/mirianaerobics/</link>
       <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/mirianaerobics/</guid>
+      <guid>/post/mirianaerobics/</guid>
       <description>Ho cominciato a odiare la ripetitività. Come il fatto che ogni anno *devi* andare al mare e fa caldo, e poi in montagna e fa freddo, e poi ancora al mare e fa ancora più caldo. E allora un giorno, di recente, dopo la mia abituale corsa mattutina mi sono fermata, prato, sole, voglia di sprigionare tutto. Così è nato Mirianaerobics: ispirata alla serie tv &#34;Physical&#34; su Apple TV+ ho cominciato a fare aerobica anni &#39;80.</description>
     </item>
     
     <item>
       <title>Viaggiare nella solitudine del silenzio</title>
-      <link>https://miry1919.github.io/hugosite/post/viaggiare-nella-solitudine-del-silenzio/</link>
+      <link>/post/viaggiare-nella-solitudine-del-silenzio/</link>
       <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/viaggiare-nella-solitudine-del-silenzio/</guid>
+      <guid>/post/viaggiare-nella-solitudine-del-silenzio/</guid>
       <description>Sono una ragazza fragile e questo, forse, non cambierà mai. Avevo creduto di potermi ormai relazionare tranquillamente con gli altri, ma mi sbagliavo. Sono delusa da tutto, tutti, e oggi mi sento come se ultimamente non lo avessi più reso importante: è facile essere delusi, deludere, e quindi allo stesso modo è facile accettarlo, no? Ma no, no, mi sbagliavo. Sento come io stia cadendo in un pozzo senza fine, che spunta dall&#39;altra parte della Terra facendoti bruciare al passaggio nel nucleo.</description>
     </item>
     
     <item>
       <title>Pensieri e Poesie [seconda parte]</title>
-      <link>https://miry1919.github.io/hugosite/post/pensieri-e-poesie-seconda-parte/</link>
+      <link>/post/pensieri-e-poesie-seconda-parte/</link>
       <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/pensieri-e-poesie-seconda-parte/</guid>
+      <guid>/post/pensieri-e-poesie-seconda-parte/</guid>
       <description>Vorrei trascrivere qui alcuni pensieri e alcune poesie scritti negli ultimi tempi. Penso che la banalità, la semplificazione volta alla pura facilitazione, al risparmio di fatica e impegno, non siano mai qualità. Ed è per arrivare sempre a una maggiore qualità che si dovrebbe esistere.
 — 3 luglio 2021
 Non so arrendermi: le darò tutti quei bacini delicati, la coccolerò dolcemente; anche se per raggiungerla dovessi correre per 50 chilometri, anche se dovessi aspettare altri anni.</description>
@@ -394,19 +394,19 @@ Non so arrendermi: le darò tutti quei bacini delicati, la coccolerò dolcemente
     
     <item>
       <title>Tanti auguri amore mio</title>
-      <link>https://miry1919.github.io/hugosite/post/tanti-auguri-amore-mio/</link>
+      <link>/post/tanti-auguri-amore-mio/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/tanti-auguri-amore-mio/</guid>
+      <guid>/post/tanti-auguri-amore-mio/</guid>
       <description>Scrivo qui dopo una lunga assenza e dopo l&amp;rsquo;esame di ieri, il primo finalmente di nuovo in presenza (passato, passato!). Sapete che ne ho altri a breve, come dire: non finiscono mai ma finiranno. Tenero Gheriglio ha chiuso la prima metà della seconda stagione proprio per la mia necessità di dedicare molto tempo allo studio, e ripartirà il 6 settembre. Tuttavia lo sport non deve mai fermarsi, senza sport non sarei io, quest&amp;rsquo;anno non ho mai saltato una settimana di allenamenti (o forse una), ho corso a 0 °C con i ghiaccioli sotto al naso, e ora corro con quasi 30 °C sciogliendomi dal caldo, ma i risultati si vedono eccome, anche mentalmente.</description>
     </item>
     
     <item>
       <title>Pensieri e Poesie</title>
-      <link>https://miry1919.github.io/hugosite/post/pensieri-e-poesie/</link>
+      <link>/post/pensieri-e-poesie/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/pensieri-e-poesie/</guid>
+      <guid>/post/pensieri-e-poesie/</guid>
       <description>Vorrei trascrivere qui alcuni pensieri e alcune poesie scritti negli ultimi tempi. Non sono quindi il giorno, la ricorrenza, o una temporanea infatuazione – piccola goccia ben differente dal lungo temporale del mio amore – a spingermi a dirle che penso a lei ogni istante della mia vita, e non c&amp;rsquo;è vita migliore di questa.
 — 8 marzo 2021
 L&amp;rsquo;acqua è più meritocratica della terra
@@ -416,10 +416,10 @@ L&amp;rsquo;acqua è più meritocratica della terra;</description>
     
     <item>
       <title>Tenero Gheriglio</title>
-      <link>https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-2/</link>
+      <link>/podcast/tenero-gheriglio-2/</link>
       <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-2/</guid>
+      <guid>/podcast/tenero-gheriglio-2/</guid>
       <description>In questo podcast parlo di tutto. Ogni lunedì alle h. 19:00 esce una nuova puntata. Mesi operativi: marzo, aprile, maggio, settembre, ottobre, novembre.  Ascoltalo:
  su YouTube tramite la playlist sempre aggiornata con tutte le puntate nel tuo podcast player preferito cliccando sui link presenti qui sotto  Nella pagina attuale trovi la stagione 2, invece la stagione 3 la trovi qui, e la stagione 1 qui.
   Puntata #70 (29•11•2021)</description>
@@ -427,10 +427,10 @@ L&amp;rsquo;acqua è più meritocratica della terra;</description>
     
     <item>
       <title>Tenero Gheriglio</title>
-      <link>https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/</link>
+      <link>/podcast/tenero-gheriglio/</link>
       <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/</guid>
+      <guid>/podcast/tenero-gheriglio/</guid>
       <description>In questo podcast parlo di tutto. Ogni lunedì alle h. 19:00 esce una nuova puntata. Mesi operativi: marzo, aprile, maggio, settembre, ottobre, novembre.  Ascoltalo:
  su YouTube tramite la playlist sempre aggiornata con tutte le puntate nel tuo podcast player preferito cliccando sui link presenti qui sotto  Nella pagina attuale trovi la stagione 1, invece la stagione 3 la trovi qui, e la stagione 2 qui.
   Puntata #44 (21•12•2020)</description>
@@ -438,19 +438,19 @@ L&amp;rsquo;acqua è più meritocratica della terra;</description>
     
     <item>
       <title>Camminare sotto la pioggia non crea assembramenti</title>
-      <link>https://miry1919.github.io/hugosite/post/camminare-sotto-la-pioggia-non-crea-assembramenti/</link>
+      <link>/post/camminare-sotto-la-pioggia-non-crea-assembramenti/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/camminare-sotto-la-pioggia-non-crea-assembramenti/</guid>
+      <guid>/post/camminare-sotto-la-pioggia-non-crea-assembramenti/</guid>
       <description>Semplicemente perché sotto la pioggia non cammina nessuno, è troppo scomodo per il camminatore medio, ma ha il suo fascino: odore particolare di natura bagnata, parchi deserti, pensieri nostalgici. Stamattina l&#39;ho fatto; di questi tempi sono felice quando piove, mi dico: &#34;niente mascherina, la strada tutta per me...&#34; e l&#39;ingombro dell&#39;ombrello si azzera. Poi arrivo a casa con le scarpe sporche di terra, le calze zuppe, gli occhiali pieni di schizzi, ma le endorfine che mi girano intorno come i cuoricini di quell&#39;emoji che hanno aggiunto dopo delle altre, che però mi rappresenta spesso e non so come facevo senza.</description>
     </item>
     
     <item>
       <title>Non dimenticare che stai facendo un sacco di fatica, ma loro di più</title>
-      <link>https://miry1919.github.io/hugosite/post/non-dimenticare-che-stai-facendo-un-sacco-di-fatica/</link>
+      <link>/post/non-dimenticare-che-stai-facendo-un-sacco-di-fatica/</link>
       <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/non-dimenticare-che-stai-facendo-un-sacco-di-fatica/</guid>
+      <guid>/post/non-dimenticare-che-stai-facendo-un-sacco-di-fatica/</guid>
       <description>Scrivo questo post ispirandomi a quello di Massimo Mantellini di dieci giorni fa &amp;ldquo;Regola numero uno: comprate un microfono” , in cui riporta i &amp;ldquo;10 consigli non richiesti per migliorare la tua didattica online&amp;rdquo; di Enrico Marchetto.
 &amp;nbsp;
 Che la regola numero uno sia quella di comprare un microfono è verissimo. Quando un anno fa stavo pensando a come realizzare il mio primo podcast, Tenero Gheriglio, un buon microfono ce l&#39;avevo da mesi, altrimenti la prima cosa che avrei fatto sarebbe stata quella di comprarne uno.</description>
@@ -458,10 +458,10 @@ Che la regola numero uno sia quella di comprare un microfono è verissimo. Quand
     
     <item>
       <title>Mi manchi enormemente e ti penso sempre</title>
-      <link>https://miry1919.github.io/hugosite/post/mi-manchi-enormemente/</link>
+      <link>/post/mi-manchi-enormemente/</link>
       <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/mi-manchi-enormemente/</guid>
+      <guid>/post/mi-manchi-enormemente/</guid>
       <description>Ne ho già parlato nella trentesima puntata &amp;ldquo;Grazie all&amp;rsquo;amore”  di Tenero Gheriglio, e l&amp;rsquo;ho riportato in alcune citazioni qui. Ma dell&amp;rsquo;amore raccontato nella biografia di Ludwig Wittgenstein scritta da Ray Monk ho ancora alcuni passaggi meravigliosi da trascrivere.
 Vi avevo già nominato Francis (Skinner) e Ben (Richards); trovo magnifiche le loro relazioni con Wittgenstein, non senza difetti, ma deliziose.
 Partirei con Francis Skinner.
@@ -470,37 +470,37 @@ Partirei con Francis Skinner.
     
     <item>
       <title>Siamo cugini delle coccinelle, lo sappiamo per amore</title>
-      <link>https://miry1919.github.io/hugosite/post/siamo-cugini-delle-coccinelle/</link>
+      <link>/post/siamo-cugini-delle-coccinelle/</link>
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/siamo-cugini-delle-coccinelle/</guid>
+      <guid>/post/siamo-cugini-delle-coccinelle/</guid>
       <description>Carlo Rovelli in &#34;Che cos&#39;è la scienza&#34;:  &amp;nbsp; «poche attività intellettuali umane come la scienza sono intrinsecamente coscienti dei limiti della conoscenza e al tempo stesso sono più brucianti di passione visionaria. A ogni passo un mondo nuovo si ridisegna. La Terra non è il centro dell&#39;universo, lo spaziotempo è curvo; siamo cugini delle coccinelle; il mondo non è fatto di alto e di basso, sopra il cielo e sotto la terra»  &amp;nbsp; Oliver Sacks in &#34;</description>
     </item>
     
     <item>
       <title>Ho tradito i numeri con le parole</title>
-      <link>https://miry1919.github.io/hugosite/post/ho-tradito-i-numeri-con-le-parole/</link>
+      <link>/post/ho-tradito-i-numeri-con-le-parole/</link>
       <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/ho-tradito-i-numeri-con-le-parole/</guid>
+      <guid>/post/ho-tradito-i-numeri-con-le-parole/</guid>
       <description>Ultimamente ho tradito i numeri con le parole, ma ne sono felice, perché non avevo mai avuto la sensazione di trovarmi così a mio agio tra di esse. In passato i numeri sono sempre stati i miei preferiti, però in questo 2020, pieno di dubbi sul futuro, pieno di limitazioni, le parole, uscendo, hanno rappresentato la spontaneità di raccontarmi; ho avuto tanto da scrivere per quello che ho vissuto interiormente, e soprattutto per quello che ho provato per una persona speciale alla quale tengo moltissimo.</description>
     </item>
     
     <item>
       <title>Cubo Di Rubik 7x7x7 vs Miriana</title>
-      <link>https://miry1919.github.io/hugosite/post/cubo-di-rubik-7/</link>
+      <link>/post/cubo-di-rubik-7/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/cubo-di-rubik-7/</guid>
+      <guid>/post/cubo-di-rubik-7/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Un&#39;estate di follia</title>
-      <link>https://miry1919.github.io/hugosite/post/un-estate-di-follia/</link>
+      <link>/post/un-estate-di-follia/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/un-estate-di-follia/</guid>
+      <guid>/post/un-estate-di-follia/</guid>
       <description>Sto leggendo &amp;ldquo;Ogni cosa al suo posto&amp;rdquo; di Oliver Sacks. &amp;ldquo;Un&amp;rsquo;estate di follia&amp;rdquo; è il capitolo di cui vorrei riportare alcuni pezzetti qui. C&amp;rsquo;è Sally, una tranquilla ragazza quindicenne, che da un momento all&amp;rsquo;altro perde il contatto con la realtà e viene travolta da una psicosi acuta.
 &amp;nbsp;
 «L&amp;rsquo;insorgere della mania è improvviso ed esplosivo: Sally, la figlia quindicenne, ha trascorso alcune settimane in uno stato di esaltazione, ascoltando Glenn Gould nelle Variazioni Goldberg e facendo le ore piccole a meditare su un volume di sonetti di Shakespeare.</description>
@@ -508,47 +508,47 @@ Partirei con Francis Skinner.
     
     <item>
       <title>Fisica 1</title>
-      <link>https://miry1919.github.io/hugosite/post/fisica1/</link>
+      <link>/post/fisica1/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/fisica1/</guid>
+      <guid>/post/fisica1/</guid>
       <description>La seguente lista è un indice dei contenuti dei miei quattro quaderni di appunti di Fisica 1. Nulla, mi è venuto da condividere anche questa parte di me.  CONTENUTI Modulo 1 quaderno 1)
  Cinematica del punto materiale  Sistema di riferimento Punto materiale Equazioni parametriche del moto Analisi dimensionale  Ascisse curvilinee Legge oraria Velocità  Velocità scalare media Velocità istantanea scalare  Regole di derivazione Derivate di funzioni elementari Versori  Vettore posizione Vettori componenti Coordinate (x, y) Componenti del vettore posizione  Velocità vettoriale  Vettore spostamento Velocità istantanea vettoriale</description>
     </item>
     
     <item>
       <title>Spenderei due parole su Tenero Gheriglio</title>
-      <link>https://miry1919.github.io/hugosite/post/spenderei-due-parole-su-tenero-gheriglio/</link>
+      <link>/post/spenderei-due-parole-su-tenero-gheriglio/</link>
       <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/spenderei-due-parole-su-tenero-gheriglio/</guid>
+      <guid>/post/spenderei-due-parole-su-tenero-gheriglio/</guid>
       <description>Sono passati quattro mesi dall&#39;introduzione a Tenero Gheriglio, podcast nato il 23 Gennaio 2020. Posso dirvi che è stato difficile iniziare, continuare, progredire, tuttavia sento di avere creato qualcosa di bello in questi mesi, non so cosa, ma qualcosa. Il prodotto del mio lavoro sarà forse modesto, ingenuo, inesperto, ma mi sono messa d&#39;impegno per farlo risultare autentico, sbarazzino, coinvolgente. E il tutto è andato sviluppandosi nel bel mezzo di un&#39;emergenza sanitaria, con la possibilità che nel futuro i miei racconti possano acquisire in minima parte anche l&#39;aspetto di una minuscola testimonianza.</description>
     </item>
     
     <item>
       <title>Nessuno può capire chi sei</title>
-      <link>https://miry1919.github.io/hugosite/post/nessuno-puo-capire-chi-sei/</link>
+      <link>/post/nessuno-puo-capire-chi-sei/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/nessuno-puo-capire-chi-sei/</guid>
+      <guid>/post/nessuno-puo-capire-chi-sei/</guid>
       <description>Adesso che ho un posto dove scrivere, naturalmente non ho più nulla da esporre. Certo che invece, a voce, su Tenero Gheriglio, da più di un mese mi sto prendendo i miei begli spazi di riflessione, e sto cercando di farli diventare sempre più utili ed attraenti, senza dimenticarmi di mantenerli divertenti. La durata di al massimo 15 minuti a puntata sembra essere perfetta. Allora facciamo così, visto che non ho nulla di nuovo da scrivere, mi andrebbe di ripescare questo mio piccolo scritto dell’anno scorso, scritto che condivisi sui social network, quando questo sito ancora non esisteva.</description>
     </item>
     
     <item>
       <title>«Tutta la vita è così: una volta ti pigli le mazzate, una volta i baci»</title>
-      <link>https://miry1919.github.io/hugosite/post/tutta-la-vita/</link>
+      <link>/post/tutta-la-vita/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/tutta-la-vita/</guid>
+      <guid>/post/tutta-la-vita/</guid>
       <description>È stato un gennaio senza scrivere quaggiù. A parte la lista dei 4 punti per il 2020. Però ho letto cose belle, tra cui &amp;ldquo;Storia del nuovo cognome&amp;rdquo;, secondo volume de &amp;ldquo;L&amp;rsquo;amica geniale&amp;rdquo;, che in cinque giorni era già finito e ora dona il titolo a questo post. In realtà mi sono fatta sentire in modo alternativo in quel minuto e 42 secondi di registrazione nel microfono. Se vi siete chiesti di quali argomenti parlerò in Tenero Gheriglio, vi dico che li lascerò esprimere in modo spontaneo.</description>
     </item>
     
     <item>
       <title>4 punti per il 2020</title>
-      <link>https://miry1919.github.io/hugosite/post/4-punti-per-il-2020/</link>
+      <link>/post/4-punti-per-il-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/4-punti-per-il-2020/</guid>
+      <guid>/post/4-punti-per-il-2020/</guid>
       <description>4 punti per il 2020: &amp;nbsp;
  conquistare almeno 42 crediti senza abbassare la guardia ❌ affrontare attività fisica e alimentazione con tecnica e con costanza ✔️ mettere in piedi Tenero Gheriglio con dedizione ✔️ continuare a credere nell&amp;rsquo;amore e pagarne le conseguenze ✔️  &amp;nbsp;
 ✎  </description>
@@ -556,19 +556,19 @@ Partirei con Francis Skinner.
     
     <item>
       <title>Arma di distrazione di massa</title>
-      <link>https://miry1919.github.io/hugosite/post/arma-di-distrazione-di-massa/</link>
+      <link>/post/arma-di-distrazione-di-massa/</link>
       <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/arma-di-distrazione-di-massa/</guid>
+      <guid>/post/arma-di-distrazione-di-massa/</guid>
       <description>Un ragazzo un giorno mi disse: «Sei fortemente eccentrica». Non lo avevo mai notato, ma aveva ragione. È possibile che io riesca ad attirare l&#39;attenzione di più persone senza volerlo; come un cubo di Rubik risolto sulla metropolitana, che, nonostante in fondo sia di banale risoluzione, diventa immediatamente un&#39;arma di distrazione di massa. Per non parlare di una nuotata in piscina... «Oh, ma chi è la Pellegrini?» sentii un giorno. Risi molto.</description>
     </item>
     
     <item>
       <title>Moondust</title>
-      <link>https://miry1919.github.io/hugosite/post/moondust/</link>
+      <link>/post/moondust/</link>
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/moondust/</guid>
+      <guid>/post/moondust/</guid>
       <description>La terza stagione della serie &amp;lsquo;The Crown&amp;rsquo; meritava la mia attenzione. Mi è piaciuta tutta; il settimo episodio ‘Moondust’ mi ha colpito in particolar modo. Ha toccato delle idee che già giravano nell&amp;rsquo;universo del mio cervello, e che però, ancora, non avevano trovato la loro strada per palesarsi. Riporto qui il dialogo chiave, senza commentarlo; per lasciare spazio al lettore.
 &amp;nbsp;
 Quindi, siamo al punto in cui la regina Elisabetta e il marito, il principe Filippo, conversano riguardo l&amp;rsquo;intervista che lui ha appena sottoposto ai tre uomini del momento, a coloro che da poco erano andati e tornati dalla luna nella missione Apollo 11 (16-24 Luglio 1969): Neil Armstrong, Buzz Aldrin e Michael Collins.</description>
@@ -576,66 +576,66 @@ Quindi, siamo al punto in cui la regina Elisabetta e il marito, il principe Fili
     
     <item>
       <title>Everyday Life</title>
-      <link>https://miry1919.github.io/hugosite/post/everyday-life/</link>
+      <link>/post/everyday-life/</link>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/everyday-life/</guid>
+      <guid>/post/everyday-life/</guid>
       <description>Oggi è uscito il nuovo album dei Coldplay – &#39;Everyday Life&#39; – e lo sto già consumando. Proprio ieri, come per rispolverare i Coldplay, la riproduzione casuale mi ha fatto riascoltare &#39;Always In My Head&#39;, canzone dell&#39;ormai lontano 2014. Ricordo che adoravo ascoltare l&#39;intero album – &#39;Ghost Stories&#39; – che la ingloba. Frequentavo la terza liceo e il giorno dell&#39;uscita, precisamente il 16 Maggio, avevo subito provveduto ad averlo. Forse in quell&#39;occasione, per la prima volta, capii che un album, ascoltato ordinatamente per intero, è il racconto di una storia; immergercisi porta in mondi paralleli.</description>
     </item>
     
     <item>
       <title>Le parole scritte non faranno troppo rumore</title>
-      <link>https://miry1919.github.io/hugosite/post/le-parole/</link>
+      <link>/post/le-parole/</link>
       <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/le-parole/</guid>
+      <guid>/post/le-parole/</guid>
       <description>È venuto il momento di decidere cosa vuole diventare questo sito. Ma sai che c&#39;è? C&#39;è che non è necessario. Voglio per una volta lasciare che la creatività prenda il sopravvento. Posterò ogni tanto, quando sentirò che le parole scritte avranno bisogno del loro piccolo spazio nell&#39;infinito universo di internet. Staranno lì buone e fiere del loro intrinseco significato. Non faranno troppo rumore. Non avranno fame di popolarità. L&#39;immagine non avrà importanza per loro.</description>
     </item>
     
     <item>
       <title>Digitalia</title>
-      <link>https://miry1919.github.io/hugosite/podcast/digitalia/</link>
+      <link>/podcast/digitalia/</link>
       <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/podcast/digitalia/</guid>
+      <guid>/podcast/digitalia/</guid>
       <description>Ho avuto l&#39;occasione di partecipare al finale della puntata #591 di questo fantastico podcast.  #591 (20•9•2021) ☞Wozniak spazzino spaziale</description>
     </item>
     
     <item>
       <title>EasyApple</title>
-      <link>https://miry1919.github.io/hugosite/podcast/easyapple/</link>
+      <link>/podcast/easyapple/</link>
       <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/podcast/easyapple/</guid>
+      <guid>/podcast/easyapple/</guid>
       <description>Sono stata ospite due volte in questo podcast. Vi lascio le due puntate qui sotto.  #168 (16•5•2014) ☞L&amp;rsquo;iPad a scuola
 #403 (12•4•2019) ☞A spasso nel tempo</description>
     </item>
     
     <item>
       <title>Il sito è finalmente online</title>
-      <link>https://miry1919.github.io/hugosite/post/sito-online/</link>
+      <link>/post/sito-online/</link>
       <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/post/sito-online/</guid>
+      <guid>/post/sito-online/</guid>
       <description>Da molto tempo volevo crearne uno tutto mio. Poi finalmente mi sono decisa.  &amp;nbsp;
 ✎  </description>
     </item>
     
     <item>
       <title>A piedi nudi su Marte</title>
-      <link>https://miry1919.github.io/hugosite/quote/a-piedi-nudi-su-marte/</link>
+      <link>/quote/a-piedi-nudi-su-marte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/a-piedi-nudi-su-marte/</guid>
+      <guid>/quote/a-piedi-nudi-su-marte/</guid>
       <description>«Avevamo così poche certezze sulla natura di questo pianeta che la sonda aveva persino un sistema in sughero per galleggiare in un eventuale lago o mare. E invece Venere si dimostrò un inferno. Entrando nell&amp;rsquo;atmosfera, la sonda raggiunse una temperatura di 11000 °C sul suo scudo termico, faticando tantissimo a mantenere l&amp;rsquo;elettronica interna a una temperatura di circa -8 °C. La decelerazione subita arrivò a 300 G e la discesa durò 93 minuti.</description>
     </item>
     
     <item>
       <title>Books</title>
-      <link>https://miry1919.github.io/hugosite/books/</link>
+      <link>/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/books/</guid>
+      <guid>/books/</guid>
       <description>Sto leggendo  Alla ricerca del tempo perduto (7 volumi) — Marcel Proust  All&amp;rsquo;ombra delle fanciulle in fiore (Vol. 2)   &amp;nbsp;
 Leggerò a breve  Alla ricerca del tempo perduto (7 volumi) — Marcel Proust  La parte di Guermantes (Vol. 3) Sodoma e Gomorra (Vol. 4) La prigioniera (Vol. 5) Albertine scomparsa (Vol. 6) Il tempo ritrovato (Vol. 7)   &amp;nbsp;
 Ho letto e consiglio 2022 (dal primo all&amp;rsquo;ultimo)</description>
@@ -643,10 +643,10 @@ Ho letto e consiglio 2022 (dal primo all&amp;rsquo;ultimo)</description>
     
     <item>
       <title>Cecità</title>
-      <link>https://miry1919.github.io/hugosite/quote/cecita/</link>
+      <link>/quote/cecita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/cecita/</guid>
+      <guid>/quote/cecita/</guid>
       <description>«Se puoi vedere, guarda. Se puoi guardare, osserva.»
 &amp;nbsp;
 ✄
@@ -656,10 +656,10 @@ Ho letto e consiglio 2022 (dal primo all&amp;rsquo;ultimo)</description>
     
     <item>
       <title>Ciò che inferno non è</title>
-      <link>https://miry1919.github.io/hugosite/quote/cio-che-inferno-non-e/</link>
+      <link>/quote/cio-che-inferno-non-e/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/cio-che-inferno-non-e/</guid>
+      <guid>/quote/cio-che-inferno-non-e/</guid>
       <description>«È finita. Mezzogiorno è l&amp;rsquo;unico istante degno di memoria dell&amp;rsquo;ultimo giorno di scuola. La campanella suona come le trombe del giudizio. L&amp;rsquo;estate, che i ragazzi vorrebbero eterna, li afferra. Li ammalia. Li rapisce. E li disperde. &amp;nbsp;
 [&amp;hellip;] &amp;nbsp;
 Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L&amp;rsquo;ho scoperto alle elementari, quando tutto è appunto elementare: con le parole metto l&amp;rsquo;ancora a tutte le cose che se ne vanno alla deriva nel mare che è dentro il cuore, le ormeggio nel porto della testa.</description>
@@ -667,10 +667,10 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L&amp;r
     
     <item>
       <title>Click Here to Kill Everybody</title>
-      <link>https://miry1919.github.io/hugosite/quote/click-here-to-kill-everybody/</link>
+      <link>/quote/click-here-to-kill-everybody/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/click-here-to-kill-everybody/</guid>
+      <guid>/quote/click-here-to-kill-everybody/</guid>
       <description>«Complexity is the worst enemy of security. The more complex a system is, the less secure it is. And our billions of computers, each with their tens of millions of lines of code, connected into the Internet, with its trillions of webpages and unknown zettabytes of data—comprise the most complex machine humankind has ever built.»
 &amp;nbsp;
 ✄
@@ -680,10 +680,10 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L&amp;r
     
     <item>
       <title>Cromorama</title>
-      <link>https://miry1919.github.io/hugosite/quote/cromorama/</link>
+      <link>/quote/cromorama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/cromorama/</guid>
+      <guid>/quote/cromorama/</guid>
       <description>«Nella società attuale, dunque, il colore non è solo una sensazione né un mero attributo delle cose. Il colore è spesso un&amp;rsquo;idea o un&amp;rsquo;aspettativa. Ovvero certe tinte diventano tutt&amp;rsquo;uno con gli oggetti che le indossano al punto che è difficile pensarli altrimenti.»
 &amp;nbsp;
 ✄
@@ -693,10 +693,10 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L&amp;r
     
     <item>
       <title>Diario di una scrittrice</title>
-      <link>https://miry1919.github.io/hugosite/quote/diario-di-una-scrittrice/</link>
+      <link>/quote/diario-di-una-scrittrice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/diario-di-una-scrittrice/</guid>
+      <guid>/quote/diario-di-una-scrittrice/</guid>
       <description>«Io vivo nell’intensità.»
 &amp;nbsp;
 ✄
@@ -714,20 +714,20 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L&amp;r
     
     <item>
       <title>Donors</title>
-      <link>https://miry1919.github.io/hugosite/donors/</link>
+      <link>/donors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/donors/</guid>
+      <guid>/donors/</guid>
       <description>Donatori Questa pagina è dedicata ai donatori, tutti coloro che con una piccola ma per me enorme somma di denaro hanno supportato hello website, Tenero Gheriglio e Le Mille e una Novella PODCAST, tutti i miei progetti di scrittura, i miei video, e hanno contribuito ad acquistare l&amp;rsquo;attrezzatura necessaria e i miliardi di libri che leggo. A ognuno di loro va un ringraziamento speciale.
 ♥ Sven Lamers ~ 13•09•2021</description>
     </item>
     
     <item>
       <title>Il codice dell&#39;anima</title>
-      <link>https://miry1919.github.io/hugosite/quote/il-codice-dellanima/</link>
+      <link>/quote/il-codice-dellanima/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/il-codice-dellanima/</guid>
+      <guid>/quote/il-codice-dellanima/</guid>
       <description>«&amp;hellip; il genio può essere confinato dentro un guscio di noce e ciò nonostante abbracciare tutta la pienezza della vita.» &amp;nbsp;
 — Thomas Mann
 &amp;nbsp;
@@ -743,10 +743,10 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L&amp;r
     
     <item>
       <title>L&#39;universo elegante</title>
-      <link>https://miry1919.github.io/hugosite/quote/luniverso-elegante/</link>
+      <link>/quote/luniverso-elegante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/luniverso-elegante/</guid>
+      <guid>/quote/luniverso-elegante/</guid>
       <description>«Sembrano numeri senza senso. Sono casuali, sono così per volere divino, o forse c&amp;rsquo;è una spiegazione scientifica comprensibile di queste caratteristiche fondamentali dell&amp;rsquo;universo?»
 &amp;nbsp;
 ✄
@@ -756,10 +756,10 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L&amp;r
     
     <item>
       <title>L&#39;uomo artigiano</title>
-      <link>https://miry1919.github.io/hugosite/quote/luomo-artigiano/</link>
+      <link>/quote/luomo-artigiano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/luomo-artigiano/</guid>
+      <guid>/quote/luomo-artigiano/</guid>
       <description>«Nella vita ce la si può cavare benissimo senza dedizione. L&amp;rsquo;artigiano è la figura rappresentativa di una specifica condizione umana: quella del mettere un impegno personale nelle cose che si fanno.»
 &amp;nbsp;
 ✄
@@ -776,10 +776,10 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L&amp;r
     
     <item>
       <title>La fatica più bella</title>
-      <link>https://miry1919.github.io/hugosite/quote/la-fatica-piu-bella/</link>
+      <link>/quote/la-fatica-piu-bella/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/la-fatica-piu-bella/</guid>
+      <guid>/quote/la-fatica-piu-bella/</guid>
       <description>«Gli eroi sono eroi; possono servire come esempio per gli altri, ma appartengono a un mondo tutto loro.»
 &amp;nbsp;
 ✄
@@ -793,10 +793,10 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L&amp;r
     
     <item>
       <title>Lezioni di meraviglia</title>
-      <link>https://miry1919.github.io/hugosite/quote/lezioni-di-meraviglia/</link>
+      <link>/quote/lezioni-di-meraviglia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/lezioni-di-meraviglia/</guid>
+      <guid>/quote/lezioni-di-meraviglia/</guid>
       <description>«Per meravigliarti davvero devi essere disposto a mettere costantemente in dubbio ogni cosa, altrimenti non puoi essere un cercatore che anela sinceramente alla verità, anche a costo che non sia bella.»
 &amp;nbsp;
 ✄
@@ -806,20 +806,20 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L&amp;r
     
     <item>
       <title>Miriana Novella</title>
-      <link>https://miry1919.github.io/hugosite/me/</link>
+      <link>/me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/me/</guid>
+      <guid>/me/</guid>
       <description>Studio Ingegneria Informatica al Politecnico di Milano. Sono una sportiva e cerco di mangiare nel modo più salutare possibile. Mi piace leggere. La musica non deve mai mancare nelle mie giornate; nemmeno i podcast. Qui scriverò e parlerò di ciò che anima la mia vita. Non so quanto mi riuscirà. Sarai tu, caro lettore o caro ascoltatore, a giudicare. Sappi che faccio tutto con passione. *  &amp;nbsp;
 ❀  &amp;nbsp;</description>
     </item>
     
     <item>
       <title>Modernità Liquida</title>
-      <link>https://miry1919.github.io/hugosite/quote/modernita-liquida/</link>
+      <link>/quote/modernita-liquida/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/modernita-liquida/</guid>
+      <guid>/quote/modernita-liquida/</guid>
       <description>«Il modo in cui si vive diventa una soluzione biografica a contraddizioni sistemiche.» &amp;nbsp;
 — Ulrich Beck
 &amp;nbsp;
@@ -835,10 +835,10 @@ Mi piace cercare le parole giuste. Le parole e il loro suono mi salvano. L&amp;r
     
     <item>
       <title>Music</title>
-      <link>https://miry1919.github.io/hugosite/music/</link>
+      <link>/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/music/</guid>
+      <guid>/music/</guid>
       <description> Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultimi anni:
  2015-2016 2016-2017 2017-2018 2019 2020 2021 2022 Background Her ♡ Mirianaerobics Natale &amp;lsquo;21  &amp;nbsp;
 Without music life would be a mistake — Friedrich Nietzsche </description>
@@ -846,10 +846,10 @@ Without music life would be a mistake — Friedrich Nietzsche </description>
     
     <item>
       <title>Pensieri lenti e veloci</title>
-      <link>https://miry1919.github.io/hugosite/quote/pensieri-lenti-e-veloci/</link>
+      <link>/quote/pensieri-lenti-e-veloci/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/pensieri-lenti-e-veloci/</guid>
+      <guid>/quote/pensieri-lenti-e-veloci/</guid>
       <description>«Siamo ciechi all&amp;rsquo;evidenza e siamo anche ciechi alla nostra stessa cecità.»
 &amp;nbsp;
 ✄
@@ -863,10 +863,10 @@ Without music life would be a mistake — Friedrich Nietzsche </description>
     
     <item>
       <title>Perseverare è umano</title>
-      <link>https://miry1919.github.io/hugosite/quote/perseverare-e-umano/</link>
+      <link>/quote/perseverare-e-umano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/perseverare-e-umano/</guid>
+      <guid>/quote/perseverare-e-umano/</guid>
       <description>«L&amp;rsquo;uomo per natura non è un centometrista, è un maratoneta: questo è il risultato di due milioni di anni di evoluzione e adattamento all&amp;rsquo;ambiente circostante.»
 &amp;nbsp;
 ✄
@@ -876,10 +876,10 @@ Without music life would be a mistake — Friedrich Nietzsche </description>
     
     <item>
       <title>Poems</title>
-      <link>https://miry1919.github.io/hugosite/quote/emily-dickinson/</link>
+      <link>/quote/emily-dickinson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/emily-dickinson/</guid>
+      <guid>/quote/emily-dickinson/</guid>
       <description>«“Nature” is what we see— &amp;nbsp;
 The Hill—the Afternoon— &amp;nbsp;
 Squirrel—Eclipse—the Bumble bee— &amp;nbsp;
@@ -901,10 +901,10 @@ Are you nobody, too? &amp;nbsp;</description>
     
     <item>
       <title>Primo, non curare chi è normale</title>
-      <link>https://miry1919.github.io/hugosite/quote/primo-non-curare-chi-e-normale/</link>
+      <link>/quote/primo-non-curare-chi-e-normale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/primo-non-curare-chi-e-normale/</guid>
+      <guid>/quote/primo-non-curare-chi-e-normale/</guid>
       <description>«Non medicalizziamo le differenze umane – ammonisce Allen Frances – celebriamole.»
 &amp;nbsp;
 ✄
@@ -918,10 +918,10 @@ Are you nobody, too? &amp;nbsp;</description>
     
     <item>
       <title>Psicomagia</title>
-      <link>https://miry1919.github.io/hugosite/quote/psicomagia/</link>
+      <link>/quote/psicomagia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/psicomagia/</guid>
+      <guid>/quote/psicomagia/</guid>
       <description>«Per l&amp;rsquo;inconscio è più facile capire il linguaggio onirico che il linguaggio razionale. Da un certo punto di vista, le malattie sono sogni, messaggi che rivelano problemi non risolti.»
 &amp;nbsp;
 ✄
@@ -931,10 +931,10 @@ Are you nobody, too? &amp;nbsp;</description>
     
     <item>
       <title>Quiet</title>
-      <link>https://miry1919.github.io/hugosite/quote/quiet/</link>
+      <link>/quote/quiet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/quiet/</guid>
+      <guid>/quote/quiet/</guid>
       <description>«Per fare carriera dobbiamo autopromuoverci senza ritegno.»
 &amp;nbsp;
 ✄
@@ -949,10 +949,10 @@ Leadership Development for the Gifted and Talented &amp;nbsp;
     
     <item>
       <title>Ready to Run</title>
-      <link>https://miry1919.github.io/hugosite/quote/ready-to-run/</link>
+      <link>/quote/ready-to-run/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/ready-to-run/</guid>
+      <guid>/quote/ready-to-run/</guid>
       <description>«So when injuries steal running away from you, it can hit you hard.»
 &amp;nbsp;
 ✄
@@ -970,10 +970,10 @@ Leadership Development for the Gifted and Talented &amp;nbsp;
     
     <item>
       <title>Se tremi sull&#39;orlo</title>
-      <link>https://miry1919.github.io/hugosite/quote/se-tremi-sullorlo/</link>
+      <link>/quote/se-tremi-sullorlo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/se-tremi-sullorlo/</guid>
+      <guid>/quote/se-tremi-sullorlo/</guid>
       <description>«Inseguite la vostra vita, non perdetela di vista, giratele continuamente intorno come fa un cane col calesse del suo padrone. Fate ciò che amate. Sappiate qual è il vostro osso: rosicchiatelo, seppellitelo, dissotterratelo, e rosicchiatelo ancora.»
 &amp;nbsp;
 ✄
@@ -983,28 +983,28 @@ Leadership Development for the Gifted and Talented &amp;nbsp;
     
     <item>
       <title>Storia di una balena bianca raccontata da lei stessa</title>
-      <link>https://miry1919.github.io/hugosite/quote/storia-di-una-balena-bianca-raccontata-da-lei-stessa/</link>
+      <link>/quote/storia-di-una-balena-bianca-raccontata-da-lei-stessa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/storia-di-una-balena-bianca-raccontata-da-lei-stessa/</guid>
+      <guid>/quote/storia-di-una-balena-bianca-raccontata-da-lei-stessa/</guid>
       <description>«Così ho visto l&amp;rsquo;uomo muoversi sulla superficie del mare sopra quattro fragili pezzi di legno; ci siamo guardati tenendoci a prudente distanza, l&amp;rsquo;uomo con diffidenza, io con curiosità e stupore per la sua determinazione. Ho ammirato il suo coraggio e l&amp;rsquo;insistenza con cui affrontava i flutti navigando su imbarcazioni che non resistevano agli urti contro gli scogli, né al tocco affilato dei coralli quando si addentrava in acque di scarso pescaggio.</description>
     </item>
     
     <item>
       <title>Tecnologie Radicali</title>
-      <link>https://miry1919.github.io/hugosite/quote/tecnologie-radicali/</link>
+      <link>/quote/tecnologie-radicali/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/tecnologie-radicali/</guid>
+      <guid>/quote/tecnologie-radicali/</guid>
       <description>«È semplice: in un mondo integralmente post-umano, noi - io e voi - non siamo più necessari. Siamo in sovrannumero, siamo in eccedenza rispetto allo stretto necessario. Indegni anche del disprezzo, e destinati, nel migliore dei casi, a un’irrilevante sussistenza, stiamo diventando qualcosa da ricacciare il più lontano possibile. È a partire da questo contesto che dobbiamo interpretare l’attuale retorica sugli agenti e le organizzazioni autonome. Si tratta di passi consapevoli verso un ordinamento del mondo di tipo transumano, o addirittura completamente post-umano, e ciò non vuol dire che i suoi progettisti stiano pensando per davvero a tecnologie autonome che lavorino accanto a esseri umani nel quadro di una relazione produttiva e solidale; al contrario, l’umanità, dal loro punto di vista, è qualcosa che va trasceso.</description>
     </item>
     
     <item>
       <title>The One Device</title>
-      <link>https://miry1919.github.io/hugosite/quote/the-one-device/</link>
+      <link>/quote/the-one-device/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/the-one-device/</guid>
+      <guid>/quote/the-one-device/</guid>
       <description>«The hope is that, in not too many years, human brains and computing machines will be coupled together very tightly and that the resulting partnership will think as no human brain has ever thought.» &amp;nbsp;
 — J. C. R. Licklider, 1950
 &amp;nbsp;
@@ -1015,10 +1015,10 @@ Leadership Development for the Gifted and Talented &amp;nbsp;
     
     <item>
       <title>Walden</title>
-      <link>https://miry1919.github.io/hugosite/quote/walden/</link>
+      <link>/quote/walden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/walden/</guid>
+      <guid>/quote/walden/</guid>
       <description>«Non parlerei tanto di me se esistesse qualcun altro che conoscessi altrettanto bene.»
 &amp;nbsp;
 ✄
@@ -1035,10 +1035,10 @@ Leadership Development for the Gifted and Talented &amp;nbsp;
     
     <item>
       <title>Wittgenstein</title>
-      <link>https://miry1919.github.io/hugosite/quote/wittgenstein/</link>
+      <link>/quote/wittgenstein/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/quote/wittgenstein/</guid>
+      <guid>/quote/wittgenstein/</guid>
       <description>A proposito dell&amp;rsquo;influenza di Otto Weininger (con l&amp;rsquo;opera Sesso e carattere) sui pensieri di Ludwig Wittgenstein.
 «La consapevolezza del genio è quella che massimamente si differenzia dallo stadio dell&amp;rsquo;enide: il genio comprende &amp;ldquo;il maggior numero di cose con la più limpida chiarezza e distinzione&amp;rdquo;. Il genio possiede la memoria più sviluppata, la massima capacità di elaborare giudizi chiari e distinti e, di conseguenza, la sensibilità più raffinata per distinguere tra vero e falso, giusto e ingiusto.</description>
     </item>
