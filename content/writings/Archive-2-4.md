@@ -1,6 +1,6 @@
 ---
-title: Current
-description: Archive 2.4
+title: Archive 2.4
+description: Sep 2022
 date: 2022-08-23
 ---
 
