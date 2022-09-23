@@ -30,7 +30,7 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
     ☞[Lo compro, però con calma](https://spotifyanchor-web.app.link/e/66H5JwoDgtb)
     
-    Nell'ottantasettesima puntata vi racconto perché ho venduto il mio iPod touch 7th gen (su rebuy.it) e il mio iPhone 12 (su trendevice.com) in favore di un iPhone 12 mini (anche cercando di prevedere cosa accadrà con i miei iPad); poi parlo dell'evento Apple del 7 settembre, e quindi del mio entusiasmo per l'Apple Watch Ultra e per l'iPhone 14 Pro con la sua nuova Dynamic Island, ecc. Infine ringrazio un donatore, dandovi l'appuntamento per venerdì 16 settembre, alle ore 19:00, esordio di ☞["Le Mille e una Novella"](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/).
+    Nell'ottantasettesima puntata vi racconto perché ho venduto il mio iPod touch 7th gen (su [rebuy.it](https://www.rebuy.it)) e il mio iPhone 12 (su [trendevice.com](https://www.trendevice.com)) in favore di un iPhone 12 mini (anche cercando di prevedere cosa accadrà con i miei iPad); poi parlo dell'evento Apple del 7 settembre, e quindi del mio entusiasmo per l'Apple Watch Ultra e per l'iPhone 14 Pro con la sua nuova Dynamic Island, ecc. Infine ringrazio un donatore, dandovi l'appuntamento per venerdì 16 settembre, alle ore 19:00, esordio di ☞["Le Mille e una Novella"](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/).
     
     &nbsp;
 
