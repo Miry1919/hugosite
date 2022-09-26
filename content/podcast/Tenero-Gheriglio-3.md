@@ -26,7 +26,19 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #87 (12•9•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #88 (26•9•2022) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Una grattugia tra i miei occhiali e il pop filter](https://spotifyanchor-web.app.link/e/3f0eUB7RDtb)
+    
+    Puntata 88, ossia VideoPodcast 7. Finisco di parlarvi del mio nuovo iPhone 12 mini; poi vi mostro il vetro temperato ESR che ho appena applicato sull'iPad mini, le scarpe da corsa per quest'anno, i marsupietti nuovo e vecchio, infine i libri: "Se una notte d'inverno un viaggiatore" di Italo Calvino, "Perseverare è umano" di Pietro Trabucchi, "Alla ricerca del tempo perduto" di Marcel Proust (7 volumi).
+    
+    &nbsp;
+    
+    {{< youtube 0duwaiF0WCA >}}
+    
+---
+
+* Puntata #87 (12•9•2022)
 
     ☞[Lo compro, però con calma](https://spotifyanchor-web.app.link/e/66H5JwoDgtb)
     
