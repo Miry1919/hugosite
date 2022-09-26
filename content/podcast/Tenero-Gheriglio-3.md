@@ -30,9 +30,7 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
     ☞[Una grattugia tra i miei occhiali e il pop filter](https://spotifyanchor-web.app.link/e/3f0eUB7RDtb)
     
-    Puntata 88, ossia VideoPodcast 7. Finisco di parlarvi del mio nuovo iPhone 12 mini; poi vi mostro il vetro temperato ESR che ho appena applicato sull'iPad mini, le scarpe da corsa per quest'anno, i marsupietti nuovo e vecchio, infine i libri: "Se una notte d'inverno un viaggiatore" di Italo Calvino, "Perseverare è umano" di Pietro Trabucchi, "Alla ricerca del tempo perduto" di Marcel Proust (7 volumi).
-    
-    &nbsp;  
+    Puntata 88, ossia VideoPodcast 7. Finisco di parlarvi del mio nuovo iPhone 12 mini; poi vi mostro il vetro temperato ESR che ho appena applicato sull'iPad mini, le scarpe da corsa per quest'anno, i marsupietti nuovo e vecchio, infine i libri: "Se una notte d'inverno un viaggiatore" di Italo Calvino, "Perseverare è umano" di Pietro Trabucchi, "Alla ricerca del tempo perduto" di Marcel Proust (7 volumi).  
     
     → [Quotes "Perseverare è umano"](https://miry1919.github.io/hugosite/quote/perseverare-e-umano/)
     
