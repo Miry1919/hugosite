@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Alla ricerca del tempo perduto (7 volumi)_ — Marcel Proust
-    * *All'ombra delle fanciulle in fiore (Vol. 2)*
+    * *La parte di Guermantes (Vol. 3)*
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 * _Alla ricerca del tempo perduto (7 volumi)_ — Marcel Proust
-    * *La parte di Guermantes (Vol. 3)*
     * *Sodoma e Gomorra (Vol. 4)*
     * *La prigioniera (Vol. 5)*
     * *Albertine scomparsa (Vol. 6)*
@@ -35,6 +34,7 @@ description: ¶
 * _Perseverare è umano. Come aumentare la motivazione e la resilienza negli individui e nelle organizzazioni. La lezione dello sport_ — Pietro Trabucchi ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/perseverare-e-umano/)
 * _Alla ricerca del tempo perduto (7 volumi)_ — Marcel Proust
     * *Dalla parte di Swann (Vol. 1)*
+    * *All'ombra delle fanciulle in fiore (Vol. 2)*
 
 <span style="color:red">*2021 (dal primo all'ultimo)*</span>
 
