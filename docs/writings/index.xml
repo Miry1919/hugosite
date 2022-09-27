@@ -6,7 +6,7 @@
     <description>Recent content in Writings on hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://miry1919.github.io/hugosite/writings/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,19 @@
     <item>
       <title>Table of Entries</title>
       <link>https://miry1919.github.io/hugosite/writings/table-of-entries/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://miry1919.github.io/hugosite/writings/table-of-entries/</guid>
       <description>Summer | Jul | Aug | Sep ------- | ------- | ------- | ------- 1 | x | x | 2 | | x | 3 | x | x | 4 | x | x | 5 | x | x | x 6 | x | x | x 7 | x | | 8 | | x x | x 9 | x | x | x 10 | | | x x 11 | | x | 12 | | | 13 | x | x x | x 14 | x | | 15 | | | 16 | | x x | x 17 | | | 18 | | x | 19 | x | | 20 | x | x x | 21 | | x | 22 | x | x | 23 | x | | 24 | | | 25 | | | 26 | x | | 27 | x | | 28 | x | | 29 | | | 30 | | | 31 | | | ------- | ------- | ------- | ------- tot | 16 | 19 | 8  &amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Current</title>
+      <link>https://miry1919.github.io/hugosite/writings/current/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://miry1919.github.io/hugosite/writings/current/</guid>
+      <description>Coming soon! </description>
     </item>
     
     <item>

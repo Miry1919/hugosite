@@ -1,7 +1,7 @@
 ---
 title: Table of Entries
 description: 2022
-date: 2022-08-24
+date: 2022-09-27
 ---
 
      Summer  |   Jul   |   Aug   |   Sep   
