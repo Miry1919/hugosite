@@ -16,7 +16,19 @@ date: 2022-07-17
 
 ---
 
-<span style="color:blue">١ La prima lezione di Pole Dance</span> <span style="color:orange">⚡️ New!</span>
+<span style="color:blue">٢ I delfini selvatici che gli saltano vicini</span> <span style="color:orange">⚡️ New!</span>
+
+<a class="spreaker-player" href="https://www.spreaker.com/episode/51429055" data-resource="episode_id=51429055" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "٢ I delfini selvatici che gli saltano vicini" on Spreaker.</a>
+
+*Mamma, papà e una bambina di undici anni, italiani. È luglio, vanno in vacanza col loro camper. Sono affezionati a un certo campeggio situato a Rovigno, in Istria, Croazia; è come la loro seconda casa. Non prenotano, non è necessario, ma sperano sempre, che al loro arrivo, si liberi un posto in prima fila sul mare. Quest'anno se la sono cavata proprio bene: posto in prima fila, scambiato con un simpatico signore tedesco in partenza per tornare a casa, e pure una piccola palla lasciata in regalo per la bambina. Passano alcuni giorni, per loro è il massimo, vivere in libertà dalla mattina alla sera con indosso solo il costume; beh no ecco, magari la sera si vestono un minimo che il clima istriano prevede un bel freschetto, ma stiamo parlando delle 21:30, quando spesso si ritrovano a rientrare col piccolo gommone in loro possesso, dopo il solito pomeriggio in navigazione tra le isole, e sulle isole, anche a pescare, granchi, ricci, ostriche, cose di ogni genere. I loro orari sono determinanti: di solito escono in mare di mattina, verso le 9, le 10, per poi tornare al camper per pranzo, all'una circa; invece di pomeriggio sfruttano le ore migliori, quando il sole scende, dalle 17 alle 20, o come detto, a volte anche fino alle 21 inoltrate, col tramonto, e quasi col buio.*
+
+*Essendo sistemati in prima fila, davanti al piccolo golfo pieno di gommoni e di barche ormeggiati, ogni giorno vedono passare tre signore tedesche, sui quarant'anni, tre belle stazze. Anch'esse possiedono un gommone, più grandicello, ma con un difetto: perde un po' della sua rigidità di volta in volta, e sono costrette a gonfiarlo un po', a mano, cioè "a piede", ogni giorno prima di uscire per mare. Gli orari delle tre signore sono praticamente opposti a quelli della famigliola italiana: escono per mare sempre verso l'una, l'una e mezza, col sole altissimo, e rientrano sempre verso le 17, le 17:30 per la cena. Un pomeriggio tornano un poco più tardi del solito, super entusiaste. Allora la famigliola italiana comincia a chiedersi cosa può esser successo di tanto inusuale, e decide di avvicinarsi, scoprendo così, per le parole delle tedesche "dolphins, dolphins, dolphins!", che per la prima volta avevano avvistato il passaggio dei delfini. La famigliola comincia a ironizzare, e il papà non sapendo l'inglese ma conoscendo solamente l'internazionale gesticolare tipico campano, riesce a dire alle tedesche: "eeeh noi abbiamo visto dolphins già due volte quest'anno...". La famigliola torna quindi verso il camper, divertita, sapendo benissimo cosa vuol dire sfruttare le ore di mare calmissimo, piatto, senza increspature, come fosse olio, quasi tutte le sere delle vacanze di luglio; al tramonto, col silenzio, la calma, l'emozione: i delfini selvatici che giocano, gli saltano vicini.*
+
+*[Storia autobiografica risalente al 2008]*
+
+---
+
+<span style="color:blue">١ La prima lezione di Pole Dance</span>
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/51361106" data-resource="episode_id=51361106" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "١ La prima lezione di Pole Dance" on Spreaker.</a>
 
