@@ -16,7 +16,7 @@ date: 2022-07-17
 
 ---
 
-<span style="color:blue">٢ I delfini selvatici che gli saltano vicini</span> <span style="color:orange">⚡️ New!</span>
+<span style="color:blue">٢ I delfini selvatici che gli saltano vicini • 30/09/2022</span> <span style="color:orange">⚡️ New!</span>
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/51429055" data-resource="episode_id=51429055" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "٢ I delfini selvatici che gli saltano vicini" on Spreaker.</a>
 
@@ -28,7 +28,7 @@ date: 2022-07-17
 
 ---
 
-<span style="color:blue">١ La prima lezione di Pole Dance</span>
+<span style="color:blue">١ La prima lezione di Pole Dance • 23/09/2022</span>
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/51361106" data-resource="episode_id=51361106" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "١ La prima lezione di Pole Dance" on Spreaker.</a>
 
