@@ -26,7 +26,15 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #88 (26•9•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #89 (3•10•2022) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Quel luogo è un po’ speciale](https://spotifyanchor-web.app.link/e/cB7nU3nuPtb)
+    
+    Puntata 89 super mista di Tenero Gheriglio. Dopo avervi ricordato dell’esistenza del mio nuovo podcast ☞[“Le Mille e una Novella”](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/), e avervi raccontato come è stata creata la puntata 85 BONUS, procedo con: Amazon Kindle Scribe (in uscita il 30 novembre 2022), Stage Manager (A12X, A12Z), rumor nuovi iPad Pro, batteria iPhone 14 Pro, batteria e recensioni Apple Watch Ultra, veneziana e condizionatore, allenamenti (ghiria, mattone, sacco, piastrella), Nintendo Switch Sports (primo aggiornamento gratuito + golf), The Legend of Zelda Tears of the Kingdom (in uscita il 12 maggio 2023).
+    
+---
+
+* Puntata #88 (26•9•2022)
 
     ☞[Una grattugia tra i miei occhiali e il pop filter](https://spotifyanchor-web.app.link/e/3f0eUB7RDtb)
     
