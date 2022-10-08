@@ -9,7 +9,7 @@ date: 2022-09-26
 
 *Finalmente ti ho rincontrata per l'ultima volta. Mamma mia, per fortuna la scrittura non è mai tempo perso, mai, è meravigliosa... Ma ho scritto a una persona che amavo (no non amo più nulla di te, manco gli occhi fuori dalle orbite ahaha) ma che fa davvero schifo. Aveva ragione Swann, in Proust. Sei solo una p\*\*\*\*\*\*\*a come Odette, vai con tutti, giudichi tutti, ma non sai amare, non sai stare con nessuno. Alessandra è un nome di merda, ogni volta dirlo mi faceva sentire quelle s schifose e gridavo aiuto. L'amore è davvero cieco, ma tu e Pierfilippo (a proposito di nomi di merda ahahah) senza gli occhiali anche di più.*
 
-*È la vita (sennò cosa, la morte? Naaah. Non mia, forse tua.), siamo passati da "Ti ho rivista", a "Ti ho mandato il mio culo". Addio davvero, quanto lo aspettavo.*
+*È la vita (sennò cosa, la morte? Naaah. Non mia, forse tua.), siamo passati da ☞["Ti ho rivista"](https://miry1919.github.io/hugosite/post/ti-ho-rivista/), a ☞["Ti ho mandato il mio culo"](https://miry1919.github.io/hugosite/post/ti-ho-mandato-il-mio-culo/). Addio davvero, quanto lo aspettavo.*
 
 *P.S. Perché il documento dei compiti delle vacanze estive quest'anno era perfetto (della tua perfezione dai, non potrai mai arrivare di certo alla mia), e finalmente hai dato da leggere non solo un capitolo del libro "I bottoni di Napoleone" ma tutto? Tu hai letto e ascoltato sempre tutto di me, e anche tuo figlio, che in ogni caso rimane un porco: continuerai a leggermi negando; il libro su di te, se ho voglia e lo faccio, sarà uno sballo. Almeno quanto vedere quanto leccaculo (serata culosa) erano i tuoi alunni oggi per mettersi da parte un buon voto.*
 
