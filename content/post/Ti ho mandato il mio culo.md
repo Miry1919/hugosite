@@ -3,7 +3,7 @@ title: "Ti ho mandato il mio culo"
 date: 2022-10-08
 ---
 <div align="center">
-Stasera alle 21:00 hai ricevuto finalmente il mio culo. Spero darai al Brigadiere Bellini anche quello, almeno ti manda a quel paese una volta per tutte (una stalker non pubblica tutto su un sito ahaha!)... Dai così capisci bene cosa vuol dire "perfezione". Che peccato non poterla mettere anche qui sotto, in questo post, dico la foto del mio culo.
+Stasera alle 21:00 hai ricevuto finalmente il mio culo. Spero darai al Brigadiere Bellini anche quello, almeno si rifà gli occhi e ti manda a quel paese una volta per tutte (una stalker non pubblica tutto su un sito ahaha!)... Dai così capisci bene cosa vuol dire "perfezione". Che peccato non poterla mettere anche qui sotto, in questo post, dico la foto del mio culo.
 </div>
 
 &nbsp;
