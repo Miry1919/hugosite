@@ -1,7 +1,7 @@
 baseURL = ""
 publishDir = "docs"
 languageCode = "en-us"
-title = "hello"
+title = "♰"
 theme = "minimal"
 
 [params]
