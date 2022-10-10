@@ -26,7 +26,17 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #89 (3•10•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #90 (10•10•2022) <span style="color:orange">⚡️ New!</span>
+
+    ☞["Quel luogo è micidiale e non devo rivederla mai più"](https://spotifyanchor-web.app.link/e/cQyBRNI60tb)
+    
+    Puntata 90, senza nessuna paura. In maniera puramente informale, e col cuore, vi parlo di varie cose che mi sono successe, compreso il racconto fantasmagorico con protagonista la famosa persona della quale mi sono definitivamente liberata (le ho dato troppe possibilità). Inoltre vi riporto il mio esperimento per sparire (quasi totalmente) da internet, della dualità, della scissione che non dovrebbe esserci tra vita e vita su internet, della fatica di continuare costantemente a palesarsi, mostrarsi su internet, della sana abitudine di arrabbiarsi e di sfogarsi, dell'inconcretezza nell'assumere ogni cosa controllabile razionalmente (saggio "Pensieri lenti e veloci"). Finale coi detti che ho ritrasformato.
+
+    → ["Le Mille e una Novella"](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/) è il mio secondo podcast.
+    
+---
+
+* Puntata #89 (3•10•2022)
 
     ☞[Quel luogo è un po’ speciale](https://spotifyanchor-web.app.link/e/cB7nU3nuPtb)
     
