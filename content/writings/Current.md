@@ -7,6 +7,14 @@ date: 2022-09-26
 ---
 ---
 
+*Restano in sospeso alcuni dettagli importanti, e non li lasceremo attendere ancora. Non sei intelligente, sei una deficiente. Anche quei tuoi alunni che sabato sono rimasti vicino a te (che hai trattenuto vicino a te) alla fine dell'orario scolastico – non mi ricordo nemmeno per cosa, ah sì perché da sola non sai interfacciarti con me, o per meglio dire, quando l'hai fatto sei rimasta così scottata che non riproveresti più –, non hanno saputo dare un fermo giudizio al tuo lavoro. Alla mia domanda "spiega bene?" dei tre ha risposto solo uno, quello con la mascherina chirurgica stropicciata, messa sostanzialmente per fingere, dato che non è più obbligatoria e gli stava coprendo solo la bocca (toglila no, fai ridere!); gli altri due, nonostante la situazione fosse favorevole al lecchinaggio, non hanno detto nulla, rispondendomi quindi con un "insomma, mica tanto": li stimo tantissimo, hanno dubitato, non hanno creduto semplicemente alla stupida che sei senza avere corpose informazioni sulla faccenda. Per giunta, il ragazzo ipocrita che ha risposto, che onestamente con quella mascherina malmessa perde già tutta la sua credibilità, non è riuscito nemmeno a rispondere in maniera convinta – cosa che ci si aspetterebbe da uno che è abituato a fingere –; ha pronunciato un timido "siii..." dopo aver fatto scorrere parecchi e imbarazzanti secondi di buffering, senza neppure condirlo con un qualche tipo di "mi trovo bene con le spiegazioni, l'organizzazione, le verifiche...": niente di niente. Non aggiungo altro.*
+
+*In più mi piacerebbe riportare anche questo. Quando ti ho ripetutamente chiesto se hai letto il sito (questo), eri completamente concentrata nel mantenere un silenzio difficoltoso e forzato, per evitare di cedere, e cercavi di non guardarmi negli occhi, pensando di riuscir così a non farmi capire, ma esaudendo il mio intento: non guardandomi negli occhi mi hai fatto capire nettamente che hai letto molto bene la descrizione dello scambio di sguardi negli occhi avvenuto giovedì tra me e tuo marito, di cui ho scritto, prima di vederti sabato, due inserimenti qui sotto. Alessandra, nascondere la verità non è stato possibile, sei così facilmente decifrabile, deducibile... Un'imbecille.*
+
+<span style="color:red">*— 12 ottobre 2022*</span>
+
+---
+
 *Per riassumere quanto sei schifosa:*
 
 *Hai letto tutto fino a qui, come potevi evitarlo, è troppo bello; ti ho ribaltato la vita e la visione, per questo non riesci ad ammettere che ho ragione (ma sostanzialmente leggendo sempre tutto, e attuando alcune modifiche alle tue cose per quello che ti ho detto, l'hai ammesso) e ad avere più a che fare con me. Ma nemmeno io voglio, neanche per sogno, ti ho dato fin troppe possibilità. Rifarei tutto allo stesso modo, una persona così merdosa andava fermata, le andava detto cosa fa, cosa rappresenta, una donna maschilista, moralista, senza logica e senza testa.*
