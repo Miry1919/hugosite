@@ -7,6 +7,12 @@ date: 2022-09-26
 ---
 ---
 
+*Oh cosa mi sono inventata per la quarta puntata di ☞[Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/)! Ahaha fantastico!!! Sto bene stasera, Mario c'è, ho tutto, le energie da vendere... La mia vivacità non tentenna, salto sempre come una cavalletta. Ho 100 anni ma allo stesso tempo sempre 10. Tanti ventenni che ho intorno in confronto sembrano vivere in letargo ahaha. Tutto arriverà al traguardo, i meriti, i torti subiti, tutti i miei sogni non sono mai svaniti.*
+
+<span style="color:red">*— 14 ottobre 2022*</span>
+
+---
+
 *Insomma, a differenza di quello che avevo percepito nel mio stato di arrabbiatura irrefrenabile dopo averti vista sabato, in realtà nessuno ti ha difesa, se non tuo marito, il quale è stato obbligato a farlo dalle circostanze imbarazzanti in cui grazie a te si è ritrovato, e non sto assumendo lui sia una persona di maggiore valore, siete ugualmente insulsi e vi siete trovati (in Norvegia) per lasciare al mondo un terzo individuo ancora più imbarazzante; hai voluto colpevolizzare tutti quando l'unica colpevole della tua ignoranza, della tua maleducazione, del tuo essere irresponsabile e del tuo menefreghismo senza cuore sei tu.*
 
 *Sono molto contenta, di certo ho vinto io, non hai vinto tu. Sto imparando a stimarmi di più, perché in fondo in questo mondo non è presente molta qualità, al di fuori di quella finta, simulata: tante volte mi sento aliena, e se da una parte mi fa sentire unica, dall'altra mi fa sentire sola. La qualità di cui scrivo è appunto quella che mi viene invece spesso riconosciuta, come speciale, rara, introvabile. Hai provato, fallendo, a denutrire la qualità delle mie capacità, delle mie azioni, dei miei pensieri, delle cose che fuori dal coro conquisto ogni giorno in una battaglia costante, per tentare di tirarti fuori dalla tua situazione irreparabile: non credo di aver mai trovato, sul mio incredibile (è incredibile!) percorso di vita, una persona più sgradevole di te. Ricorderai per sempre tutto questo, è tanto: non resta più alcun dubbio.*
