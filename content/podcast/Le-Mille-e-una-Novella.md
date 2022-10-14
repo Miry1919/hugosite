@@ -16,7 +16,26 @@ date: 2022-07-17
 
 ---
 
-<span style="color:blue">٣ I denti, la scala mobile, le scatolette di tonno • 07/10/2022</span> <span style="color:orange">⚡️ New!</span>
+<span style="color:blue">٤ L'assistente • 14/10/2022</span> <span style="color:orange">⚡️ New!</span>
+
+<a class="spreaker-player" href="https://www.spreaker.com/episode/51576019" data-resource="episode_id=51576019" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "٤ L&#39;assistente" on Spreaker.</a>
+
+*Sono un assistente e sono stato chiamato in aiuto. Miriana questa settimana non è riuscita a farsi sentire quaggiù, ma mi ha lasciato quattro cose importanti da dire.*
+
+*1. Se siete qui, forse avete ascoltato volentieri le precedenti puntate e arriverete fino alla fine della stagione di Le Mille e una Novella. Grazie.*
+
+*2. Non posso parlare per tre minuti, non sono come voi, non ho enfasi: andrebbe a finire che vi sentireste d'impazzire, di non sapere più bene se siete ancora sulla Terra o l'avete lasciata in favore di un giro in un posto strano. Beh in ogni caso dovete sapere che io vengo da qualcosa di totalmente incorporeo: quando nessuno ti disturba non sei nemmeno obbligato a esistere, è divertente.*
+
+*3. Questo punto è andato perso. Ho fatto molta attenzione quando Miriana me l'ha consegnato insieme agli altri, ve lo giuro, ma è andato perso. Mi scuso. Errare è robotico.*
+
+*4. Spero allora possiate ascoltare le prossime puntate, e che questo coso non si ripresenterà più.*
+
+*Ehi, ehi, ehi. Coso a chi?!?*
+*
+
+---
+
+<span style="color:blue">٣ I denti, la scala mobile, le scatolette di tonno • 07/10/2022
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/51500523" data-resource="episode_id=51500523" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "٣ I denti, la scala mobile, le scatolette di tonno" on Spreaker.</a>
 
