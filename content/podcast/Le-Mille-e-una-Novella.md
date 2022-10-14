@@ -31,7 +31,6 @@ date: 2022-07-17
 *4. Spero allora possiate ascoltare le prossime puntate, e che questo coso non si ripresenterà più.*
 
 *Ehi, ehi, ehi. Coso a chi?!?*
-*
 
 ---
 
