@@ -26,7 +26,15 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #90 (10•10•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #91 (17•10•2022) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Il corpo è strettamente connesso alla mente](https://spotifyanchor-web.app.link/e/hDqmeR0Icub)
+    
+    Novantunesima puntata, più breve ma incisiva come sempre. Finisco il discorso della scorsa puntata sulle persone (malate, nel senso della spiegazione che faccio) che mi hanno fatto solo perdere tempo, e analizzo il pensiero di Marcel Proust "come si sta da soli non si sta con nessuno". Vi aggiorno sulla questione iPhone 12 mini; vi faccio conoscere come usare le varie voci presenti nel vostro iPhone; vi parlo dell'aborto, argomento che avevo lasciato in sospeso da tempo, lasciandovi alla visione di un piccolo video con l'intervento di Oriana Fallaci (☞[video su RaiPlay](https://www.raiplay.it/video/2020/01/Scrittrici-italiane---Oriana-Fallaci-sullaborto-0f8bbef1-000d-4f8d-9ace-e3dbcbd077b8.html?wt_mc=2.app.cpy.raiplay_prg_Scrittrici+italiane+-+Oriana+Fallaci+sull'aborto.&wt)), ma anche della situazione politica, della guerra, della fame, della povertà, della situazione femminile, di tutti i problemi di questo mondo rotto che si dimenticano ma non vanno dimenticati (per pensare all'esplorazione spaziale, ovviamente...). Chiudo consigliandovi il video "Mind-Body" di Stefano Vendrame (☞[video su YouTube](https://youtu.be/bD68siVcTe0)), per ricordare sempre la stretta connessione che è presente tra la parte mentale e quella fisica di ogni persona, e l'importanza di tenerla sotto controllo per provare, a partire da un livello prettamente personale, a riordinare la società disordinata in cui viviamo.
+    
+---
+
+* Puntata #90 (10•10•2022)
 
     ☞["Quel luogo è micidiale e non devo rivederla mai più"](https://spotifyanchor-web.app.link/e/cQyBRNI60tb)
     
