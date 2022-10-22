@@ -8,7 +8,9 @@ date: 2022-07-17
 
 ---
 
-<div align="center">Scrivo una storia, poi te la racconto e viaggiamo insieme. Sei pronto? Allora facci partire premendo play! Alla fine non saranno veramente 1001 storie, perché altrimenti finirei dopo 1001 settimane, cioè più di 19 anni... Appuntamento ogni venerdì alle h. 19:00.</div>
+<div align="center">Scrivo una storia, poi te la racconto e viaggiamo insieme. Sei pronto? Allora facci partire premendo play! Alla fine non saranno veramente 1001 storie, perché altrimenti finirei dopo 1001 settimane, cioè più di 19 anni...</div>
+
+<div align="center">Prima stagione da venerdì 16 settembre a venerdì 25 novembre 2022. Appuntamento ogni venerdì alle h. 19:00.</div>
 
 ---
 
