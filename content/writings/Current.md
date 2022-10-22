@@ -7,6 +7,12 @@ date: 2022-09-26
 ---
 ---
 
+*Ciò che scrivo contiene spesso, è comprensibile, dei richiami alla Matematica, all'Informatica. Vedi per esempio "il malcapitato oggetto di frontiera" interpretato dallo zerbino nell'ultima puntata di Le Mille e Una Novella, che mi è parso come un punto di frontiera dell'insieme "casa", nello spazio R n-dimensionale con n=3, o n=4 se ci interessa sapere, e direi che ci interessa, in quale istante di tempo lo zerbino si trova nella posizione descritta dalle altre tre variabili; oppure possiamo ripescare "imbarazzanti secondi di buffering", e ancora "soprattutto per evitare di crear altre contraddizioni, che per me diventavan tautologie" espressioni prese in prestito, nell'ordine, rispettivamente dall'Informatica e dalla Logica che si trovano facilmente scorrendo questa pagina, ma se ne possono trovare sono parecchie ormai, in tutti i miei testi.*
+
+<span style="color:red">*— 22 ottobre 2022*</span>
+
+---
+
 *Non c'è proprio nulla da incriminare, piuttosto tantissima sostanza da ammirare. Anche la puntata 5 di ☞[Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/) è stata pubblicata, e dopo la puntata 4 e tutte le precedenti rifaccio il botto, wow! Devo solo festeggiare, e continuare a lottare per affermare le mie cose meravigliose: tutto è andato e andrà nel modo migliore a cui potessi aspirare.*
 
 <span style="color:red">*— 21 ottobre 2022*</span>
