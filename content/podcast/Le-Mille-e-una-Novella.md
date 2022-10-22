@@ -94,6 +94,10 @@ date: 2022-07-17
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/42597337" data-resource="episode_id=42597337" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "La Novella di Natale ★" on Spreaker.</a>
 
-<script async src="https://widget.spreaker.com/widgets.js"></script>
+*Ogni stagione conterrà 10 storie da 3 minuti, quindi ogni stagione durerà 10 settimane, però non si sa quando uscirà un'altra stagione...*
+
+*Anche ne "Le mille e una notte" il numero 1001 non va preso alla lettera: "mille", infatti, in arabo significa "innumerevoli", e quindi "mille e una" significa "un numero infinito".*
 
 ---
+
+<script async src="https://widget.spreaker.com/widgets.js"></script>
