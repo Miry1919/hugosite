@@ -1,7 +1,7 @@
 ---
 title: Tenero Gheriglio
 description: Season 3, 2022
-date: 2022-07-16
+date: 2022-07-18
 ---
 <div align="center">
 In questo podcast parlo di tutto. Ogni lunedì alle h. 19:00 esce una nuova puntata. Mesi operativi: marzo, aprile, maggio, settembre, ottobre, novembre.
