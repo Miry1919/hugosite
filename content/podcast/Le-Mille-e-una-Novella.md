@@ -1,7 +1,7 @@
 ---
 title: "Le Mille e una Novella"
 description: Season 1, 2022
-date: 2022-07-17
+date: 2022-07-18
 ---
 
 <div align="center">È il mio secondo podcast. Finalmente l'ho fatto partire.</div>
