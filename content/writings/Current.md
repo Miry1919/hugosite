@@ -7,6 +7,40 @@ date: 2022-09-26
 ---
 ---
 
+*Sono delusa. Ah ma non dai Vaccamuto-Seganos: loro sono sempre superlativi, sia chiaro. Dopo un anno e un mese si sono riandati a prendere il loro zerbino consumatissimo e zozzo, dopo aver ricevuto da parte mia lo spettacolare racconto di quanto fosse accaduto (e poi ovviamente non leggono, non ascoltano cosa scrivo...). Spero perlomeno lo abbiano buttato subito via, lo abbiamo fatto sparire all'istante per vergogna, se lo dovessero riutilizzare che schifo ahaha! Quindi, sono delusa, perché non è possibile che col pallone non possa giocare da nessuna parte. Oggi a un certo punto è passato un signore in bicicletta mentre stavo giocando col pallone sulla strada, su quella stupida strada secondaria che il fine settimana è semideserta, stavo facendo i palleggi come spesso mi piace tanto fare di domenica pomeriggio... e indovina? Poco dopo ripassa lo stesso signore, apposta, e non mi sono tolta dalla strada, ho solo fermato il pallone per aspettare ripassasse, dato che ci stavamo assolutamente in due, in una strada a doppio senso sai... No. Mi vuole investire, rimango ferma e vuole investirmi, per poi dire (ricordiamoci che è ritornato indietro apposta per dire questo) "non si gioca col pallone sulla strada". Mi sono arrabbiata molto, perché su quella strada tutti i giorni restano in sosta (questa sì che è davvero vietata) numerose macchine per parecchi minuti, a volte quasi ore, e adesso che stanno facendo dei lavori e in un tratto la strada non è percorribile, c'è un semaforo per scandire il passaggio delle macchine nei due sensi, e mentre stavo giocando è stato violato dalla metà degli automobilisti – uno stava per fare veramente un frontale: nonostante avesse visto in attesa un'auto dall'altra parte, è passato col rosso a grande velocità; chiaro, poi sono io nel torto. Sono delusa, così delusa che prima di tornare a casa ho scritto una poesia tristissima, ma la pubblico per il mio solito senso di completezza, trasparenza; è quello che ho sentito in quel momento, quello che provo ancora adesso. A quel vecchio in bicicletta deve venire un tumore bruttissimo, presto: quella cosa a un gruppo di ragazzini non l'avrebbe mai fatta, non l'avrebbe mai detta. Non ha mai giocato col pallone sulla strada, è nato già vecchio. Che schifo.*
+
+&nbsp;
+
+Non si gioca sulla strada,
+
+Con la palla, non si gioca;
+
+Sulla strada si fa la puttana,
+
+Non calcio, ma la puttana.
+
+Non posso giocare in piazza.
+
+Non posso giocare in strada.
+
+Non posso giocare nel campo,
+
+A calcio, ma stai scherzando?
+
+Sono una donna,
+
+Quindi sono solo una puttana.
+
+Non sono un uomo,
+
+Allora posso fare solo la puttana.
+
+&nbsp;
+
+<span style="color:red">*— 23 ottobre 2022*</span>
+
+---
+
 *Ciò che scrivo contiene spesso, è comprensibile, dei richiami alla Matematica, all'Informatica. Vedi per esempio "il malcapitato oggetto di frontiera" interpretato dallo zerbino nell'ultima puntata di ☞[Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/), che mi è parso come un punto di frontiera dell'insieme "casa", nello spazio R n-dimensionale con n=3, o n=4 se ci interessa sapere, e direi che ci interessa, in quale istante di tempo lo zerbino si trova nella posizione descritta dalle altre tre variabili; oppure possiamo ripescare "imbarazzanti secondi di buffering", e ancora "soprattutto per evitare di crear altre contraddizioni, che per me diventavan tautologie" espressioni prese in prestito, nell'ordine, rispettivamente dall'Informatica e dalla Logica, e che si trovano facilmente scorrendo questa pagina: ma se ne possono trovare parecchie ormai, in tutti i miei testi.*
 
 <span style="color:red">*— 22 ottobre 2022*</span>
