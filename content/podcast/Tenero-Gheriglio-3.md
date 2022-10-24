@@ -26,7 +26,18 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #91 (17•10•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #92 (24•10•2022) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Sulla morte e sull'arte](https://spotifyanchor-web.app.link/e/wmUcHn2poub)
+    
+    92ª puntata. Vi dico quanto sono contenta per la puntata 5 di Le Mille e una Novella, un progetto che unisce le parole che scrivo alla mia voce. In attesa di iOS/iPadOS 16.1, insistendo, facciamo un tuffo nel terzo volume "La parte di Guermantes" di "Alla ricerca del tempo perduto" di Marcel Proust, tra la morte e l'arte, la scienza. Poi, dopo avervi fatto sapere che sulla nuova Apple TV sto facendo un pensierino, largo alla delusione per i nuovi iPad, base di 10ª generazione con Magic Keyboard Folio e Pro di 6ª generazione con M2, da poco presentati da Apple tramite press release. Infine vi dico, felice, che in verità una persona mi vuole ancora molto bene.
+
+    → [Le Mille e una Novella su Apple Podcasts](https://podcasts.apple.com/it/podcast/le-mille-e-una-novella/id1546454579)
+
+
+---
+
+* Puntata #91 (17•10•2022)
 
     ☞[Il corpo è strettamente connesso alla mente](https://spotifyanchor-web.app.link/e/hDqmeR0Icub)
     
