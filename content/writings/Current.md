@@ -7,6 +7,16 @@ date: 2022-09-26
 ---
 ---
 
+*Io non ho mai ricevuto nessuna comunicazione dell'inizio delle "indagini", non è quindi nemmeno corretto quel provvedimento. Per mesi avevo smesso di scriverti perché fai schifo, non perché avessi ricevuto una qualche notifica. Se avessi ricevuto le parole (insignificanti, spinte solo dalla voglia di rivalerti ma false) che hai saputo raccontare per accusarmi di colpe che non ho, – e tu al contrario ne hai molte, dall'inizio alla fine, – avrei smesso all'istante di dare possibilità a una psicopatica (l'unica e vera, tu, non osare pensare cosa significhi avere il mio fuoco nel cervello del 2015, un'esagerazione di vita, di entusiasmo, un eccesso di salute (!) che viene a chi il cervello e l'impegno li spinge al massimo). Il documento che ho ricevuto è pieno di contraddizioni, errori, e soprattutto non menziona l'Aeronautica, questo sito, i miei podcast, cosa studio... afferma che fingo di allenarmi ahahah! E i film che ti ho inviato? I cioccolatini che ti ho regalato? Ti sono piaciuti tutti? Un giorno rivorrò "Ammonite" indietro. Hai provato a raccontare la storia all'inverso, infatti alla fine quello hai raccontato è tutto falso. Non voglio morire, l'ultima volta ti ho presa per il culo, e mi sembrava si capisse ahahah: non ti confondere con la tua morte... Se vuoi qualche anticipazione di come accade potresti ascoltare la puntata 92 di Tenero Gheriglio. Ti auguro il peggio, il tuo posto fa schifo, meno male che ora ho la scusa per non venirci. Mi affeziono alle cose, e lì ci siamo conosciuti io e Mario. Ma poi ci ritorneremo insieme, ci andavamo solo per noi, non per te, vipera.*
+
+*Sincerely, Miriana.*
+
+*PS. Ho aggiornato il post ☞[Ti ho mandato il mio culo](https://miry1919.github.io/hugosite/post/ti-ho-mandato-il-mio-culo/), ora sì che ci siamo.*
+
+<span style="color:red">*— 25 ottobre 2022*</span>
+
+---
+
 *Che senso avrebbe avuto censurare (come ho fatto in precedenza) alcune parole dell'inserimento qui sotto? Questo posto è mio, e il più diretto che esista.*
 
 *Stamattina però vorrei fare un appunto importante, determinante. Una puttana non è una ragazza che gioca sulla strada, e questo è scontato. Ma secondo me non è una puttana nemmeno una disperata che si usa per soldi; una vera puttana è una come la schifosissima Vaccamuto (e il nome è scelto non a caso: una puttana che ormai può solo stare zitta, in un muto perpetuo). Quindi la strada non c'entra nulla, la vomitevole Vaccamuto pratica volutamente a casa, a scuola, sempre chiusa tra sporche e colpevoli mura.*
