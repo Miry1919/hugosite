@@ -4,8 +4,7 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Alla ricerca del tempo perduto (7 volumi)_ — Marcel Proust
-    * *La parte di Guermantes (Vol. 3)*
+No, sto facendo una pausa causa esami.
 
 &nbsp;
 
@@ -35,6 +34,8 @@ description: ¶
 * _Alla ricerca del tempo perduto (7 volumi)_ — Marcel Proust
     * *Dalla parte di Swann (Vol. 1)*
     * *All'ombra delle fanciulle in fiore (Vol. 2)*
+    * *La parte di Guermantes (Vol. 3)*
+&nbsp;
 
 <span style="color:red">*2021 (dal primo all'ultimo)*</span>
 
