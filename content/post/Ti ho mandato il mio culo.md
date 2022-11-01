@@ -20,4 +20,4 @@ Writings continuerà per sempre, o meglio, la mia scrittura continuerà per semp
 
 ---
 
-<span style="color:red">Aggiornamento • </span> Il 24/10/22 sono poi venuta a sapere che il Brigadiere Bellini è una donna. Avevo dato per scontato fosse un uomo... Ma non per questo alla visione, osservazione prolungata, caduta di mandibola non possa rifarsi gli occhi. Se li sarebbe rifatti (purtroppo so che non l'ha ricevuto) più di un uomo, proprio perché lei, anche allo specchio, è brutta, almeno quanto te. Se sa cosa pensi delle donne nelle Forze Armate (che non sono cose per una donna), potrebbe spararti in testa.
+<span style="color:red">Aggiornamento • </span> Il 24/10/22 sono poi venuta a sapere che il Brigadiere Bellini è una donna. Avevo dato per scontato fosse un uomo... Ma non per questo alla visione, osservazione prolungata, caduta di mandibola, non possa rifarsi gli occhi. Se li sarebbe rifatti (purtroppo so che non l'ha ricevuto) più di un uomo, proprio perché lei, anche allo specchio, è brutta, almeno quanto te. Se sa cosa pensi delle donne nelle Forze Armate (che non sono cose per una donna), potrebbe spararti in testa.
