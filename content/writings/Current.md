@@ -13,7 +13,7 @@ date: 2022-09-26
 
 ---
 
-*Tutto il bene, l'amore che ho regalato alla donnauomo, stasera cade al suolo; la pioggia è scrosciante, non la si vedeva da anni scendere in una maniera così isistente, così imponente. Tutti i testimoni sono stati ingannati, perché i mostri hanno agito solamente in favore di una banale vendetta ma... l'unica certezza è che i mostri e i testimoni moriranno tutti. La donnauomo rimarrà per sempre affogata nella sua stessa attività costante di anziana puttana impertinente, trascinando con sé tutte le altre complici vittime inconsapevoli, proprio come ne è in grado solo una putrida demente.*
+*Tutto il bene, l'amore che ho regalato alla donnauomo, stasera cade al suolo; la pioggia è scrosciante, non la si vedeva da anni scendere in una maniera così isistente, così imponente. Tutti i testimoni sono stati ingannati, perché i mostri hanno agito solamente in favore di una banale vendetta ma... l'unica certezza è che i mostri e i testimoni moriranno tutti. La donnauomo rimarrà per sempre affogata nella sua stessa attività costante di anziana puttana impertinente, trascinando con sé tutte le altre complici vittime inconsapevoli, proprio com'è in grado di fare solo una putrida demente.*
 
 <span style="color:red">*— 3 novembre 2022*</span>
 
