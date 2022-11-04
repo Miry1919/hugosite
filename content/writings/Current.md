@@ -7,6 +7,12 @@ date: 2022-09-26
 ---
 ---
 
+*Raccontando il falso hai finto di essere la vittima, tuttavia, agendo in questo modo hai trasformato me nella vittima; sono io a dover cambiare le mie abitudini ora, ma non importa, sono molto brava: sapersi adattare a tutto è il primo requisito richiesto in qualsiasi Forza Armata. E mi dispiace, devo ricordarti che il sole risorgerà, come stamattina e sempre; se credi di spaventarmi ti sbagli, mi fa solo il solletico il puttanaio che hai creato, tu a capo: sei la regina di tutte le puttane ahahah. Tutto l'affetto che ti ho dato è collassato verso il basso come il tuo seno da vacca sedentaria settantenne. Fai schifo, e non immagini nemmeno cosa ti aspetta adesso. Avresti dovuto dire tutta la verità al pedofilo che ti sta al fianco; prevedo, se non l'avete già fatto, che andrete presto in collisione, non siete persone sane: come farete a dimostrare la validità del vostro piano vendicativo e falso? Non vedo l'ora del prossimo passo. Devi ingoiare tanta di quella terra e vomitarla, porca malata di merda. Il vento del cambiamento già soffia.*
+
+<span style="color:red">*— 4 novembre 2022*</span>
+
+---
+
 *Tutto il bene, l'amore che ho regalato alla donnauomo, stasera cade al suolo; la pioggia è scrosciante, non la si vedeva da anni scendere in una maniera così isistente, così imponente. Tutti i testimoni sono stati ingannati, perché i mostri hanno agito solamente in favore di una banale vendetta ma... l'unica certezza è che i mostri e i testimoni moriranno tutti. La donnauomo rimarrà per sempre affogata nella sua stessa attività costante di anziana puttana impertinente, trascinando con sé tutte le altre complici vittime inconsapevoli, proprio come ne è in grado solo una putrida demente.*
 
 <span style="color:red">*— 3 novembre 2022*</span>
