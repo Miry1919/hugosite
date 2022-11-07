@@ -26,7 +26,17 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #93 (31•10•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #94 (7•11•2022) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Il futuro sarà altro, qualcosa che ancora non vediamo](https://spotifyanchor-web.app.link/e/0S9mVNjELub)
+    
+    La 94ª puntata è come al solito variegata: dopo un ringraziamento a voi per il vostro prezioso supporto in un momento per me ingiusto, si passa attraverso la tecnologia, gli appelli, le rivolte, la scrittura, il movimento, la musica. In coda la canzone ["Another Love" di Tom Odell](https://music.apple.com/it/album/another-love/596834552?i=596834669&l=en)
+
+    → [Writings](https://miry1919.github.io/hugosite/writings/)
+    
+---
+
+* Puntata #93 (31•10•2022)
 
     ☞[Quante volte vi sarà caduto il costume al mare](https://spotifyanchor-web.app.link/e/9nc75A01zub)
     
