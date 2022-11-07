@@ -4,13 +4,13 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-No, sto facendo una pausa causa esami.
+* _Alla ricerca del tempo perduto (7 volumi)_ — Marcel Proust
+    * *Sodoma e Gomorra (Vol. 4)
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 * _Alla ricerca del tempo perduto (7 volumi)_ — Marcel Proust
-    * *Sodoma e Gomorra (Vol. 4)*
     * *La prigioniera (Vol. 5)*
     * *Albertine scomparsa (Vol. 6)*
     * *Il tempo ritrovato (Vol. 7)*

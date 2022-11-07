@@ -7,8 +7,8 @@ date: 2022-09-26
 ---
 ---
 
-*UPDATE post inserimento: Giuro che non l'ho fatto apposta, scrivere della scrofa bianca mi è venuto in ultimo, insieme al parallelismo con Biancaneve... Ma poi per controllare ho cercato se in qualche modo la scrofa bianca esiste, e ho trovato una storia pazzesca, che sembra fatta apposta, su*
- ☞[questa pagina](https://www.guidaviterbo.com/la-galiana-e-la-scrofa-bianca/).
+*UPDATE post inserimento: Giuro che non l'ho fatto apposta, scrivere della scrofa bianca mi è venuto in ultimo, insieme al parallelismo con Biancaneve... Ma poi per controllare ho cercato se in qualche modo la scrofa bianca esiste, e ho trovato una storia pazzesca, che sembra fatta apposta, su
+ ☞[questa pagina](https://www.guidaviterbo.com/la-galiana-e-la-scrofa-bianca/).*
 
 *La riporto tutta perché è incredibile. Io sono Galiana.*
 
