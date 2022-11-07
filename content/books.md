@@ -5,7 +5,7 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Alla ricerca del tempo perduto (7 volumi)_ — Marcel Proust
-    * *Sodoma e Gomorra (Vol. 4)
+    * *Sodoma e Gomorra (Vol. 4)*
 
 &nbsp;
 
