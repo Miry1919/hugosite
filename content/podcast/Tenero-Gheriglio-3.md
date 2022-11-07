@@ -30,7 +30,7 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
     ☞[Il futuro sarà altro, qualcosa che ancora non vediamo](https://spotifyanchor-web.app.link/e/0S9mVNjELub)
     
-    La 94ª puntata è come al solito variegata: dopo un ringraziamento a voi per il vostro prezioso supporto in un momento per me ingiusto, si passa attraverso la tecnologia, gli appelli, le rivolte, la scrittura, il movimento, la musica. In coda la canzone ["Another Love" di Tom Odell](https://music.apple.com/it/album/another-love/596834552?i=596834669&l=en)
+    La 94ª puntata è come al solito variegata: dopo un ringraziamento a voi per il vostro prezioso supporto in un momento per me ingiusto, si passa attraverso la tecnologia, gli appelli, le rivolte, la scrittura, il movimento, la musica. In coda la canzone ["Another Love" di Tom Odell](https://music.apple.com/it/album/another-love/596834552?i=596834669&l=en).
 
     → [Writings](https://miry1919.github.io/hugosite/writings/)
     
