@@ -7,6 +7,12 @@ date: 2022-09-26
 ---
 ---
 
+*Sto meravigliosamente, si è sentito bene nella puntata 93 di Tenero Gheriglio, e lo sento in maniera evidente dentro di me. So ormai che quello che i narcisi stanno facendo a breve gli si rivolterà contro, creerà in loro un profondo pentimento, e alla fine non pagheranno solo le spese dei danni e dell'umiliazione che con uno sfacciato coraggio mi stanno rivolgendo, ma forse ne uscirà anche un piccolo premietto, solo per me, perché me lo merito. Come si fa a sopportare un mondo di vecchi incalliti, che ti dicono ogni giorno che tutto gira attorno a loro? Eh infatti, tutto gira male, malissimo, vomitevolmente, e vantatevene pure, schiacciando i più giovani, i cervelli più completi e variegati...  fate tutto quello che volete, tanto è solamente il vostro minuscolo cervello storto ad avere bisogno di cure urgenti. La smetterete di essere falsi, di contraddirvi, di celarvi a vicenda segreti enormi, di agire come medici e giudici finti, pagherete tutto con gli interessi.*
+
+<span style="color:red">*— 9 novembre 2022*</span>
+
+---
+
 *UPDATE post inserimento: Giuro che non l'ho fatto apposta, scrivere della scrofa bianca mi è venuto in ultimo, insieme al parallelismo con Biancaneve... Ma poi per controllare ho cercato se in qualche modo la scrofa bianca esiste, e ho trovato una storia pazzesca, che sembra fatta apposta, su
  ☞[questa pagina](https://www.guidaviterbo.com/la-galiana-e-la-scrofa-bianca/).*
 
