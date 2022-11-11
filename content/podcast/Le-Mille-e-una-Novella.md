@@ -22,7 +22,17 @@ date: 2022-07-16
 
 ---
 
-<span style="color:blue">٦ La nutria delle tenebre • 28/10/2022</span> <span style="color:orange">⚡️ New!</span>
+<span style="color:blue">٧ Un piano delittuoso fin dalla base • 11/11/2022</span> <span style="color:orange">⚡️ New!</span>
+
+<a class="spreaker-player" href="https://www.spreaker.com/episode/51865292" data-resource="episode_id=51865292" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "٧ Un piano delittuoso fin dalla base" on Spreaker.</a>
+
+*La moglie è ansiopatica da anni, il marito lo diventa a causa sua. Si inserisce una ragazza eccezionale, che fa notare a entrambi, con un linguaggio perfetto, molto diretto, che il loro unico figlio è imbarazzante, violento, malato di qualcosa che non vedevano. Non lo immaginavano, quindi nascondono la delusione e la gravità della storia, ma si sentono da subito fortemente minacciati, da quel linguaggio preciso, impeccabile; l'ansia di cui soffre la moglie esplode, e il marito viene travolto dall'angoscia che la sua famiglia patriarcale, se la ragazza diffondesse la notizia, venga etichettata male... Cominciano ad architettare un piano malefico per sbarazzarsi della ragazza, che a causa delle sue parole, puntuali e vere, rappresenta una minaccia. Vogliono fare qualcosa che secondo loro possa metter fine a tutto, ma malauguratamente l'ansia che da molto prima dell'ultima vicenda li imprigiona, li tradisce.*
+
+*Avviano il loro piano malefico, ma pochi giorni dopo si accorgono di non possedere effettivamente degli strumenti reali per mettere nel sacco la ragazza. Vivono allora, per alcuni mesi, dentro a una sorta di laboratorio, di associazione clandestina, per nascondere il loro progetto e riuscire a creare gli strumenti e le circostanze che cercano, inevitabilmente del tutto falsi. Tuttavia non sono geni del male, al massimo scemi da legare, e il risultato che ottengono, dopo mesi, è ridicolo in maniera evidente, è sconnesso, senza una logica; la moglie non comunica al marito la verità delle sue azioni, il marito non si pone il problema di esaminarle: ne esce una messa in scena comica, cosmica. Il loro avvocato si trova subito a capire quanto sia l'ennesimo caso di vendetta agevolato da una legge spesso ostica... Sa che non gli stanno dicendo il vero, e che la ragazza lo farà notare, ma non può dirlo agli scemi da legare, e gli resta solo da attenuare, limitare i danni, di un piano delittuoso fin dalla base.*
+
+---
+
+<span style="color:blue">٦ La nutria delle tenebre • 28/10/2022</span>
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/51717736" data-resource="episode_id=51717736" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "٦ La nutria delle tenebre" on Spreaker.</a>
 
