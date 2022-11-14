@@ -26,7 +26,15 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #94 (7•11•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #95 (14•11•2022) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Questa è la storia di una bambina che amava gli orologi già fin da piccola](https://spotifyanchor-web.app.link/e/eTE5xcFgXub)
+    
+    Puntata 95! Dopo alcuni follow up, vi parlo del mio acquisto dell'Apple Watch Ultra in super sconto l'11/11 (single day), del perché ho scelto di prendere quello col cinturino Trail Loop. Nel mezzo della puntata salta la corrente mentre registro, ma riesco a concludere ricordandovi che è stata pubblicata la ☞[puntata 7 di "Le Mille e una Novella"](https://podcasts.apple.com/it/podcast/le-mille-e-una-novella/id1546454579?i=1000585897487) e raccontandovi una storia di quando ero piccola.
+    
+---
+
+* Puntata #94 (7•11•2022)
 
     ☞[Il futuro sarà altro, qualcosa che ancora non vediamo](https://spotifyanchor-web.app.link/e/0S9mVNjELub)
     
