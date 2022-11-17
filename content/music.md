@@ -5,7 +5,7 @@ description: ♫
 Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultimi anni:
 
 * [2015-2016](https://music.apple.com/it/playlist/my-2015-2016/pl.b4bf1a93707c44f89aa794dc2888e844)
-* [2016-2017](https://music.apple.com/it/playlist/my-2016-2017/pl.u-PDb40o6tJ9qVro)
+* [2016-2017](https://music.apple.com/it/playlist/my-2016-2017/pl.u-RRbVVE7FZv4gro?l)
 * [2017-2018](https://music.apple.com/it/playlist/my-2017-2018/pl.u-b3b8RKgC0qaz1d)
 * [2019](https://music.apple.com/it/playlist/my-2019/pl.u-b3b88yDS0qaz1d?l)
 * [2020](https://music.apple.com/it/playlist/my-2020/pl.u-LdbqE1vt5e4m0R?l)
