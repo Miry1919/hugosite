@@ -22,7 +22,18 @@ date: 2022-07-16
 
 ---
 
-<span style="color:blue">٧ Un piano delittuoso fin dalla base • 11/11/2022</span> <span style="color:orange">⚡️ New!</span>
+<span style="color:blue">٨ Il freddo, la stufetta, la cagnetta Lilly • 19/11/2022</span> <span style="color:orange">⚡️ New!</span>
+
+<a class="spreaker-player" href="https://www.spreaker.com/episode/51952140" data-resource="episode_id=51952140" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "٨ Il freddo, la stufetta, la cagnetta Lilly" on Spreaker.</a>
+
+*È inverno, quello vero dei primi anni 2000, e Miriana, 8 anni, viene portata dai suoi genitori in montagna, a Campodolcino. Con loro c'è anche Lilly, una deliziosa cagnetta di taglia piccola, col pelo corto, dorato... È chiaro fin da subito che le temperature, soprattutto di notte e in alta quota, scenderanno di parecchi gradi sotto lo zero. Le prime sciate mettono a dura prova Miriana, è piccola, ancora insicura sulle piste, e le sue paure si accentuano con la stanchezza, una stanchezza derivata dalla sopportazione giornaliera di un freddo tagliente: la mamma teme possa ammalarsi, nel pomeriggio sulle piste si arrivano a sfiorare i -25 gradi centigradi, ma Miriana non cede nemmeno per un attimo, e verso le 16:30, alla chiusura degli impianti di risalita, lei e i suoi genitori tornano al calduccio, da Lilly, che come sempre li aveva aspettati fiduciosa nel camper. Il camper, però, non possiede il riscaldamento diffuso in tutto il mezzo, come avverrà negli anni successivi sui nuovi camper ma che in quel momento non era ancora in uso, è fornito solamente di una piccola stufetta situata in un sol punto.
+*
+
+*Miriana ogni pomeriggio al rientro dalle piste da sci non vede l'ora di precipitarsi con Lilly vicino alla stufetta; Lilly è una cagnetta intelligente e proprio ci si appiccica a quella stufetta! Resistono tutti a quel freddo anomalo, ma sono felici, forti e si voglio tanto bene. Tuttavia una mattina il papà di Miriana, intento nel mettere in moto il camper perché era venuta l'ora di spostarsi in un altro posto, viene sorpreso da un imprevisto: il carburante s'era congelato, avevano dimenticato di aggiungerci l'anticongelante e il serbatoio era diventato un blocco di ghiaccio. Chiamano il meccanico, che risolve il problema andando direttamente al campeggio. Il papà, la mamma e Miriana una sera di 17 anni dopo, riraccontano nel dettaglio la vicenda, col sorriso e quel minimo di insofferenza per il ricordo speciale di un viaggio in montagna in pieno inverno nei primi anni 2000.*
+
+---
+
+<span style="color:blue">٧ Un piano delittuoso fin dalla base • 11/11/2022</span>
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/51865292" data-resource="episode_id=51865292" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "٧ Un piano delittuoso fin dalla base" on Spreaker.</a>
 
