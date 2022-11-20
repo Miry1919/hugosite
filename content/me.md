@@ -73,3 +73,5 @@ Salda nella furia dei venti e degli eventi ༄
 </div>
 
 &nbsp;
+
+<script async src="http://www.instagram.com/embed.js"></script>
