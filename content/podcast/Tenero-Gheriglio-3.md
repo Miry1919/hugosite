@@ -26,7 +26,31 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #95 (14•11•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #96 (21•11•2022) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Io lo adoro così](https://spotifyanchor-web.app.link/e/ZFaYHqWS8ub)
+    
+    {{< youtube uo27uzFO2IU >}}
+    
+    &nbsp;
+    
+    Puntata 96, cioè VideoPodcast 8. Vi parlo del mio nuovo Apple Watch Ultra, cinturino Trail Loop compreso, elencando le caratteristiche principali e quelle migliorate rispetto al mio vecchio Apple Watch Series 4. Poi tiro fuori l’orologio che invece possedevo 22 anni fa, e vi ricordo che la ☞[puntata 8 di di "Le Mille e una Novella"](https://podcasts.apple.com/it/podcast/le-mille-e-una-novella/id1546454579?i=1000586810668) è stata pubblicata.
+    
+    &nbsp;
+    
+    • Post su Instagram:
+    
+    → [Video del Watch Ultra](https://www.instagram.com/reel/ClHL_m6qqMn/?utm_source=ig_web_copy_link)
+
+    → [Foto del Watch Ultra](https://www.instagram.com/p/ClLkOcRKTNZ/?utm_source=ig_web_copy_link)
+    
+    &nbsp;
+    
+    • [Video su YouTube di Jenna e iJustine](https://youtu.be/-GyKe_5fD5s)
+    
+---
+
+* Puntata #95 (14•11•2022)
 
     ☞[Questa è la storia di una bambina che amava gli orologi già fin da piccola](https://spotifyanchor-web.app.link/e/eTE5xcFgXub)
     
