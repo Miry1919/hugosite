@@ -34,7 +34,7 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
     
     &nbsp;
     
-    Puntata 96, cioè VideoPodcast 8. Vi parlo del mio nuovo Apple Watch Ultra, cinturino Trail Loop compreso, elencando le caratteristiche principali e quelle migliorate rispetto al mio vecchio Apple Watch Series 4. Poi tiro fuori l’orologio che invece possedevo 22 anni fa, e vi ricordo che la ☞[puntata 8 di di "Le Mille e una Novella"](https://podcasts.apple.com/it/podcast/le-mille-e-una-novella/id1546454579?i=1000586810668) è stata pubblicata.
+    Puntata 96, cioè VideoPodcast 8. Vi parlo del mio nuovo Apple Watch Ultra, cinturino Trail Loop compreso, elencando le caratteristiche principali e quelle migliorate rispetto al mio vecchio Apple Watch Series 4. Poi tiro fuori l’orologio che invece possedevo 22 anni fa, e vi ricordo che la ☞[puntata 8 di "Le Mille e una Novella"](https://podcasts.apple.com/it/podcast/le-mille-e-una-novella/id1546454579?i=1000586810668) è stata pubblicata.
     
     &nbsp;
     
