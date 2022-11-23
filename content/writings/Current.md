@@ -10,12 +10,16 @@ date: 2022-09-26
 *Ah no no, ieri non mi sono dimenticata, semplicemente non ho avuto tempo, ma:*
 
 *Miriana riceve il fascicolo completo.*
+
 *Miriana si incazza per tutte le falsità della romanaccia.*
+
 *Passano dieci minuti.*
+
 *Ancora Miriana: "Ahahahahahahahahahahahahaha...hahah...aha...hahahahaha...".*
+
 *Sipario.*
 
-*P.S. I testimoni sono stati ingannati ma sono stati onesti, ed è ovvio, è lei la peggiore in quella scuola maledetta, e come avevo detto molto bene, a nessuno importa davvero di lei, e nessuno la seguirebbe nel suo piano clandestino; mi scuso con loro, ma non potevo sapere: non devono morire. Solo la moglie e il marito, gli unici mostri (bah, in realtà anche il marito è stato ingannato, manipolato...), devono morire e stanno morendo.*
+*PS: i testimoni sono stati ingannati ma sono stati onesti, ed è ovvio, è lei la peggiore in quella scuola maledetta, e come avevo detto molto bene, a nessuno importa davvero di lei, e nessuno la seguirebbe nel suo piano clandestino; mi scuso con loro, ma non potevo sapere: non devono morire. Solo la moglie e il marito, gli unici mostri (bah, in realtà anche il marito è stato ingannato, manipolato...), devono morire e stanno morendo.*
 
 <span style="color:red">*— 23 novembre 2022*</span>
 
