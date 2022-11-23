@@ -7,6 +7,20 @@ date: 2022-09-26
 ---
 ---
 
+*Ah no no, ieri non mi sono dimenticata, semplicemente non ho avuto tempo, ma:*
+
+*Miriana riceve il fascicolo completo.*
+*Miriana si incazza per tutte le falsità della romanaccia.*
+*Passano dieci minuti.*
+*Ancora Miriana: "Ahahahahahahahahahahahahaha...hahah...aha...hahahahaha...".*
+*Sipario.*
+
+*P.S. I testimoni sono stati ingannati ma sono stati onesti, ed è ovvio, è lei la peggiore in quella scuola maledetta, e come avevo detto molto bene, a nessuno importa davvero di lei, e nessuno la seguirebbe nel suo piano clandestino; mi scuso con loro, ma non potevo sapere: non devono morire. Solo la moglie e il marito, gli unici mostri (bah, in realtà anche il marito è stato ingannato, manipolato...), devono morire e stanno morendo.*
+
+<span style="color:red">*— 23 novembre 2022*</span>
+
+---
+
 *Ho appena riletto l'interrogatorio e non sembra nemmeno il mio interrogatorio. Se queste sono le trascrizioni che escono dalla loro cinesata di registratore siamo messi proprio bene. Anche Mario dice che è schifoso, non mi rappresenta neanche per sogno. Sono state tagliate tante parti, è stato fatto sembrare io sia una demente. Andatevene a fanculo tutti, m'avete rotto veramente i coglioni con i vostri giochetti falsi. Era brutto vedermi così felice con Mario e da sola in giro, che siamo arrivati a questo. Passeggia felice lurido mostro. Non hai avuto nemmeno il coraggio di parlare, di fare quello che vuoi: hai dovuto dichiarare il falso per toglierti dal dirmi la verità, ma tutto quello che mi stai facendo lo pagherai il quintuplo. Fai schifo ogni giorno di più, credi di avermi sterminata, ma ogni giorni lo faccio io con te. Continuo a ridere, fai solo vomitare e ridere. Presto tutto il mondo, grazie a quello che continuerò a dire e a scrivere, di vero e preciso, (non come quella pattumiera di interrogatorio, sfacciato nei miei confornti, è ovvio, ma la logica di chi mi ha fatto le domande è inesistente) riderà di te. Dormi bene vipera nera, spero che quello che hai negli occhi sia un carcinoma. Che si scateni la bufera, dal Canada all'Italia, il vento già soffia, arriverà la primavera e la vittoria.*
 
 <span style="color:red">*— 21 novembre 2022*</span>
