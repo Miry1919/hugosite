@@ -137,9 +137,11 @@ date: 2022-07-16
 
 ---
 
-<span style="color:blue">★ Trailer</span>
+<span style="color:blue">Trailer • La Novella di Natale ★</span>
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/42597337" data-resource="episode_id=42597337" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "La Novella di Natale ★" on Spreaker.</a>
+{{< youtube RU3OZjAnR0c >}}
+    
+&nbsp;
 
 *Ogni stagione conterrà 10 storie da 3 minuti, quindi ogni stagione durerà 10 settimane, però non si sa quando uscirà un'altra stagione...*
 
