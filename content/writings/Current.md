@@ -7,6 +7,12 @@ date: 2022-09-26
 ---
 ---
 
+*Mentre stavi refreshando 100 volte questa pagina, anche le puntate 9 di Le Mille e una Novella e 97 di Tenero Gheriglio sono state registrate. Ed è semplice, in entrambe, ho voluto far vivere ancora una volta la verità sulla vecchia delirante che è affetta anche dal disturbo bipolare, proprio per non farsi mancare niente... Non è niente: quello che è, quello che fa, può incarnarsi al massimo una scoregia puzzolente, che una volta ottenute le risate che scaturisce, sazia di attenzione svanisce, toglie il disturbo e il suo irrespirabile odore. Che prosegua imperterrita, tra veramente poco si ritroverà ribaltata in una trappola gigante per zoccole; la sua macchina l'avrà portata, per un tempo indefinito, nella sua strada volutamente sbagliata.*
+
+<span style="color:red">*— 27 novembre 2022*</span>
+
+---
+
 *Ah no no, ieri non mi sono dimenticata, semplicemente non ho avuto tempo, ma:*
 
 *Miriana riceve il fascicolo completo.*
