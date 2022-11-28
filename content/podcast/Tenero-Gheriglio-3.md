@@ -26,7 +26,29 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #96 (21•11•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #97 (28•11•2022) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Una vecchietta andata di testa e andata di fisico sull'F35](https://spotifyanchor-web.app.link/e/RPM8CPivkvb)
+    
+    Puntata 97, finale della 3ª stagione di Tenero Gheriglio. Parto col dire cos'è avvenuto nel ☞[VideoPodcast della scorsa settimana](https://youtu.be/uo27uzFO2IU) e ricordandovi dell'uscita della ☞[puntata 9 di "Le Mille e una Novella"](https://podcasts.apple.com/it/podcast/le-mille-e-una-novella/id1546454579?i=1000587508610). Proseguo svelandovi che la sigla iniziale s'è persa nei meandri di GarageBand, che il quarto volume di "Alla ricerca del tempo perduto" di Marcel Proust è incredibile, e abbaio/zampettamento del cane del piano di sopra permettendo, continuo parlando di alimentazione, stress, distress, rabbia, emozioni, tumori. Buone feste e buon anno, ci risentiamo a metà febbraio per l'inizio della 4ª stagione; nel mentre occhio a possibili puntate BONUS!
+    
+    &nbsp;
+    
+    • Link ai video YT di Stefano Vendrame:
+    
+    → [Ceci 1](https://youtu.be/9t_jVuFUuDM)
+
+    → [Ceci 2](https://youtu.be/_sXKBtJGAis)
+    
+    → [Magnesio](https://youtu.be/YaQMqy-eHDk)
+    
+    → [Stress, salute e malattia: la fisiologia dello stress](https://youtu.be/DCWEsO3VVdk)
+    
+    → [Stress, emozioni e tumori](https://youtu.be/1ez7LoqU16A)
+    
+---
+
+* Puntata #96 (21•11•2022)
 
     ☞[Io lo adoro così](https://spotifyanchor-web.app.link/e/ZFaYHqWS8ub)
     
