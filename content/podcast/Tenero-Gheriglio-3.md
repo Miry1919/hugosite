@@ -26,7 +26,7 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #98 (12•12•2022) <span style="color:blue">BONUS</span> <span style="color:orange">⚡️ New!</span>
+* Puntata #98 (12•12•2022) <span style="color:blue">BONUS</span>
 
     ☞[Le Mille e una Novella, prima parte](https://spotifyanchor-web.app.link/e/EgIAOMWJHvb)
     
