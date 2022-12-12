@@ -7,6 +7,22 @@ date: 2022-09-26
 ---
 ---
 
+*La Strega Stronza: Lo sai Collega G che mi hanno fatto una dedica? Sono la più bella!!!*
+
+*La Collega G: No davvero?! Dove, come???*
+
+*La Strega Stronza: Sulla macchina, incidendola con una chiave alla cazzo, facendoci anche graffi profondi su tutte le portiere, sul retro, e condendo il tutto con tanto di sradicamento del tergicristallo posteriore!*
+
+*La Collega G: Sono confusa...*
+
+*Sipario.*
+
+*Muoio dalle risate, come si fa. Insomma quella vecchia che abbiamo capito non essere esattamente bella come può esserlo, chessò, un'Anna Falchi, o bellezze così, è pure demente da una vita. Ha dato poi alla vita un demente ancor più brutto (Dio, mi sono trattenuta fin troppo, ma quanto è brutto lo stregone junior? Le orecchie della vecchia almeno non sparano tipo parafango, e il sorriso non ti fa scappare in un attimo ahaha!), sposando un brutto, perché sarà sicuramente anche Pierfilippica la colpa per la generazione dello juniortopo, meno male che il vecchio mostro ha avuto pietà di me e si è tenuto la mascherina quando mi sono avvicinata a lui... Aiuto!*
+
+<span style="color:red">*— 12 dicembre 2022*</span>
+
+---
+
 *Oggi è stata una giornata meravigliosa, insieme a Mario. Ah, dici che ho già scritto partendo così? Amen, se è così è così! Siamo stati in centro, Duomo, via Dante, Parco Sempione e via dicendo; abbiamo mangiato insieme, pizza, pizza fritta, panzerotti, rotoli ripieni di tutto, krapfen ripieni di cioccolato, perché si sa, è nostro solito mangiare poco, camminare poco e muoverci poco a destra e a sinistra, e poi ancora a destra senza nulla togliere alla sinistra... ahaha! Le bancarelle natalizie erano molto belle, tenersi per mano e guardarle mi ha fatto sentire finalmente nel cuore quel calore, quel fuoco vivo, l'emozione del Natale che arriva, un Natale speciale quest'anno, con l'amore, con la salute che scoppia, la gioia di non avere più alcun dubbio su tutto, e nessun punto irrisolto. Sono felice, scriverlo non è mai banale, la giornata di oggi anche nel meteo è stata speciale: che cielo azzurro, che aria frizzante, e che sole impressionante! Da giorni la pioggia ha portato via la nebbia; svegliarsi e vedere il cielo è sempre uno spettacolo e un dono, un dono come Mario, adoro girare insieme a lui, la stronza è sempre chiusa in casa a pensarmi, ad aspettarci... Aspettaci, aspettaci, torniamo presto dove vogliamo tornare, non temere, ci manca, ne faremo di tutti i colori, stiamo già pensando nel dettaglio cosa fare il primo giorno del nostro ritorno, ma la festa continuerà per mesi, una vita intera, i tuoi vicini si chiederanno cosa ci porta a essere così felici, ad abbracciarci ogni 10 minuti, a riempirci di baci, a ridere senza riuscire a smettere, a correre, a giocare, e allora si diranno che è l'amore, si accontenteranno dell'amore! Allo stesso tempo non preoccuparti, del luogo in fondo non ci importa niente, sappiamo stare benissimo ovunque, la meraviglia di oggi mi lascia il viso ancora paralizzato in un sorriso, mi ha immobilizzata nella dolcezza. Ci basta stare insieme, nulla ci divide, siamo come quel bambino e il suo spiedino dolce di caramelle e cioccolato, che si trovava davanti a una bancarella del mercatino natalizio e guai a chi avrebbe azzardato un'ingenua interruzione del suo assalto spiedinico, si stava sporcando tutta la faccia trangugiandolo, mi è rimasto impresso. Di giorno in giorno il mio destino detta il suo personalissimo testo, e questo testo nello specifico viene trascritto, avvantaggia solo i buoni, è equo, tira le orecchie ai somari, lancia dardi infuocati ai cattivi, misura lui quel che meriti e quel che sei; sento che saprà includere sempre tutto quel che amo e voglio, tutto ciò in cui credo: le mie lotte, le mie impronte, i miei graffi profondi in qualche modo rimarranno incisi e impressi per sempre.*
 
 <span style="color:red">*— 11 dicembre 2022*</span>
