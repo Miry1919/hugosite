@@ -26,7 +26,31 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-* Puntata #97 (28•11•2022) <span style="color:orange">⚡️ New!</span>
+* Puntata #98 (12•12•2022) <span style="color:blue">BONUS</span> <span style="color:orange">⚡️ New!</span>
+
+    ☞[Le Mille e una Novella, prima parte](https://spotifyanchor-web.app.link/e/EgIAOMWJHvb)
+    
+    Come prima puntata BONUS 98 natalizia ripercorriamo la prima parte del mio secondo podcast “Le Mille e una Novella”.
+
+    >   Indice dei contenuti
+
+    >>   La Novella di Natale ★ (trailer)
+    
+    >>   ٠ Introduzione, prima stagione ☾
+    
+    >>   ١ La prima lezione di Pole Dance
+    
+    >>   ٢ I delfini selvatici che gli saltano vicini
+    
+    >>   ٣ I denti, la scala mobile, le scatolette di tonno
+    
+    >>   ٤ L'assistente
+
+    >   I testi delle storie possono essere letti parola per parola, si trovano ☞[qui](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/).
+    
+---
+
+* Puntata #97 (28•11•2022)
 
     ☞[Una vecchietta andata di testa e andata di fisico sull'F35](https://spotifyanchor-web.app.link/e/RPM8CPivkvb)
     
