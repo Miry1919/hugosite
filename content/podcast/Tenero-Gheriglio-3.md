@@ -26,6 +26,28 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
 
 ---
 
+* Puntata #99 (19•12•2022) <span style="color:blue">BONUS</span>
+
+    ☞[Le Mille e una Novella, seconda parte](https://spotifyanchor-web.app.link/e/84Atx3jmTvb)
+    
+    Come seconda puntata BONUS 99 natalizia ripercorriamo la seconda parte del mio secondo podcast “Le Mille e una Novella”.
+
+    >   Indice dei contenuti
+
+    >>   ٥ L'atto psicomagico
+    
+    >>   ٦ La nutria delle tenebre
+    
+    >>   ٧ Un piano delittuoso fin dalla base
+    
+    >>   ٨ Il freddo, la stufetta, la cagnetta Lilly
+    
+    >>   ٩ La fine dell'inizio
+
+    >   I testi delle storie possono essere letti parola per parola, si trovano ☞[qui](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/).
+    
+---
+
 * Puntata #98 (12•12•2022) <span style="color:blue">BONUS</span>
 
     ☞[Le Mille e una Novella, prima parte](https://spotifyanchor-web.app.link/e/EgIAOMWJHvb)
