@@ -5,13 +5,13 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 * _Alla ricerca del tempo perduto (7 volumi)_ — Marcel Proust
-    * *Albertine scomparsa (Vol. 6)*
+    * *Il tempo ritrovato (Vol. 7)*
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
-* _Alla ricerca del tempo perduto (7 volumi)_ — Marcel Proust
-    * *Il tempo ritrovato (Vol. 7)*
+
+No, farò una pausa causa esami.
 
 &nbsp;
 
@@ -35,6 +35,7 @@ description: ¶
     * *La parte di Guermantes (Vol. 3)*
     * *Sodoma e Gomorra (Vol. 4)*
     * *La prigioniera (Vol. 5)*
+    * *Albertine scomparsa (Vol. 6)*
 &nbsp;
 
 <span style="color:red">*2021 (dal primo all'ultimo)*</span>
