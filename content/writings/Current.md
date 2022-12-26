@@ -7,6 +7,12 @@ date: 2022-09-26
 ---
 ---
 
+*Da quattro giorni si sta da Dio, senza di te, e in tutta sincerità, non tornare mai più, grazie.*
+
+<span style="color:red">*— 26 dicembre 2022*</span>
+
+---
+
 *Ultimo post dell'anno, ☞[qui](https://miry1919.github.io/hugosite/post/il-culo-non-si-fa-col-pandoro/).*
 
 <span style="color:red">*— 25 dicembre 2022*</span>
