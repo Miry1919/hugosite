@@ -1,7 +1,7 @@
 ---
 title: Tenero Gheriglio
 description: Season 3, 2022
-date: 2022-07-18
+date: 2022-07-17
 ---
 <div align="center">
 In questo podcast parlo di tutto. Ogni lunedì alle h. 19:00 esce una nuova puntata. Operativo da metà febbraio a metà maggio e da metà settembre a metà dicembre.
@@ -18,7 +18,7 @@ Ascoltalo:
 ---
 ---
 
-Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-2/), e la stagione 1 [qui](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/).
+Nella pagina attuale trovi la stagione 3, invece la stagione 4 la trovi [qui](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-4/), la stagione 2 la trovi [qui](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-2/), e la stagione 1 [qui](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/).
 
 ---
 
@@ -230,7 +230,7 @@ Nella pagina attuale trovi la stagione 3, invece la stagione 2 la trovi [qui](ht
     
     → [Post "Ti ho rivista"](https://miry1919.github.io/hugosite/post/ti-ho-rivista/)
     
-    → [Table of Entries](https://miry1919.github.io/hugosite/writings/table-of-entries/)
+    → [Table of Entries](https://miry1919.github.io/hugosite/writings/table-of-entries-2022/)
     
     → [Writings](https://miry1919.github.io/hugosite/writings/)
     

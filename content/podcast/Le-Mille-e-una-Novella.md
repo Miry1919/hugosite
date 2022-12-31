@@ -1,7 +1,7 @@
 ---
 title: "Le Mille e una Novella"
 description: Season 1, 2022
-date: 2022-07-16
+date: 2022-07-18
 ---
 
 <div align="center">È il mio secondo podcast. Finalmente l'ho fatto partire.</div>
@@ -15,6 +15,11 @@ date: 2022-07-16
 <div align="center">Prima stagione da venerdì 16 settembre a venerdì 25 novembre 2022.</div>
 
 <div align="center">Appuntamento ogni venerdì alle h. 19:00.</div>
+
+---
+---
+
+Nella pagina attuale trovi la stagione 1, invece la stagione 2 la trovi [qui](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-2/).
 
 ---
 

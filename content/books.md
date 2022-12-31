@@ -4,14 +4,14 @@ description: ¶
 ---
 
 #### <span style="color:red">Sto leggendo</span>
-* _Alla ricerca del tempo perduto (7 volumi)_ — Marcel Proust
-    * *Il tempo ritrovato (Vol. 7)*
+
+No, sto facendo una pausa causa esami.   
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-No, farò una pausa causa esami.
+No, sto facendo una pausa causa esami.
 
 &nbsp;
 
@@ -29,13 +29,14 @@ No, farò una pausa causa esami.
 * _Albert Savarus_ — Honoré de Balzac ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/83--Un-libro-vive-pi-a-lungo-di-una-giovane-donna-e1ispjj)
 * _Se una notte d'inverno un viaggiatore_ — Italo Calvino
 * _Perseverare è umano. Come aumentare la motivazione e la resilienza negli individui e nelle organizzazioni. La lezione dello sport_ — Pietro Trabucchi ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/perseverare-e-umano/)
-* _Alla ricerca del tempo perduto (7 volumi)_ — Marcel Proust
+* _Alla ricerca del tempo perduto (7 volumi)_ — Marcel Proust ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/alla-ricerca-del-tempo-perduto/)
     * *Dalla parte di Swann (Vol. 1)*
     * *All'ombra delle fanciulle in fiore (Vol. 2)*
     * *La parte di Guermantes (Vol. 3)*
     * *Sodoma e Gomorra (Vol. 4)*
     * *La prigioniera (Vol. 5)*
     * *Albertine scomparsa (Vol. 6)*
+    * *Il tempo ritrovato (Vol. 7)*
 &nbsp;
 
 <span style="color:red">*2021 (dal primo all'ultimo)*</span>

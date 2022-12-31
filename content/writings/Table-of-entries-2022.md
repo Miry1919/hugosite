@@ -1,7 +1,7 @@
 ---
 title: Table of Entries
 description: 2022
-date: 2022-09-27
+date: 2022-12-29
 ---
 
      Autumn  |   Oct   |   Nov   |   Dec   
@@ -36,9 +36,9 @@ date: 2022-09-27
        28    |         |         |    
        29    |    x    |         |     
        30    |         |    x    |     
-       31    |         |         |        
+       31    |         |         |       
      ------- | ------- | ------- | -------
-       tot   |    15   |    15   |   ...   
+       tot   |    15   |    15   |    11  
 
 &nbsp;
 
