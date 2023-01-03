@@ -7,7 +7,7 @@ date: 2022-12-30
 ---
 ---
 
-*Nnnooooooooooooooo: è tornata. Avevamo sperato fosse morta. Però è chiaro, domani pomeriggio c'è la prima partita del 2023 delLA Roma da vedere, i porci potevano perdersela? Ahahaha... Ieri nell'ultimo allenamento ho salutato per bene la piastrella, il sacco e il mattone (sono sporchi poveri, ormai mi sa che non li ritoccherò più, non li ho usati in questi giorni), come ultima cosa prima di andar via correndo ho detto "salutatemi la puttana, mi raccomando!". Muoio dalle risate, ma devo rifarmi seria per la guerra; ora la cosa si fa bella.*
+*Nnnooooooooooooooo: è tornata. Avevamo sperato fosse morta. Però è chiaro, domani pomeriggio c'è la prima partita del 2023 delLA Roma da vedere, i porci potevano perdersela? Ahahaha... Ieri nell'ultimo allenamento ho salutato per bene la piastrella, il sacco e il mattone (la piastrella è in gran forma, ma gli altri due sono sporchi poverini, ormai mi sa che non li ritoccherò più, non li ho usati in questi giorni), come ultima cosa prima di andar via correndo ho detto "salutatemi la puttana, mi raccomando!". Muoio dalle risate, ma devo rifarmi seria per la guerra; ora la cosa si fa bella.*
 
 <span style="color:red">*— 3 gennaio 2023*</span>
 
