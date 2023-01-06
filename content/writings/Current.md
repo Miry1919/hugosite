@@ -7,7 +7,7 @@ date: 2022-12-30
 ---
 ---
 
-*Tutt'altra giornata oggi: dopo il coloratissimo tramonto di ieri, che ho potuto ammirare da una parte dell'appartamento, dove dall'altra parte lo spettacolo era dominato della luna brillante che chiamava insistente, è riscesa la nebbia, e stamattina nella mia lunga camminata, in parte affianco a Mario come al solito, le goccioline ci bagnavano la faccia, anche se l'importante è il cuore che ti batte accanto, non il clima in cui sei immerso. Smettendo di volare in alto per ritornare nel concreto, chissà se oggi hanno messo al rogo anche la vecchia strega di Via Strasburgo; il falò della befana io, idealmente, l'ho fatto con lei, e dirle befana è un complimento, ma sentire bruciare il vecchio in favore del nuovo ha sempre un ottimo sapore, crea un fantastico rumore: è in favore di un futuro pulito, fresco, e di certo migliore.*
+*Tutt'altra giornata oggi: dopo il coloratissimo tramonto di ieri, che ho potuto ammirare da una parte dell'appartamento, dove dall'altra parte lo spettacolo era dominato della luna brillante che chiamava insistente, è riapparsa la nebbia, e stamattina nella mia lunga camminata, in parte affianco a Mario come al solito, le goccioline ci bagnavano la faccia, anche se l'importante è il cuore che ti batte accanto, non il clima in cui sei immerso. Smettendo di volare in alto per ritornare nel concreto, chissà se oggi hanno messo al rogo anche la vecchia strega di Via Strasburgo; il falò della befana io, idealmente, l'ho fatto con lei, e dirle befana è un complimento, ma sentire bruciare il vecchio in favore del nuovo ha sempre un ottimo sapore, crea un fantastico rumore: è in favore di un futuro pulito, fresco, e di certo migliore.*
 
 <span style="color:red">*— 6 gennaio 2023*</span>
 
