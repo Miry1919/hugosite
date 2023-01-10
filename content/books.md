@@ -11,7 +11,11 @@ No, sto facendo una pausa causa esami.
 
 #### <span style="color:red">Leggerò a breve</span>
 
-No, sto facendo una pausa causa esami.
+* _Le mille e una notte_
+* _Addio alle armi_ — Ernest Hemingway
+* _Otello_ — William Shakespeare
+* _Le relazioni pericolose_ — Pierre Choderlos de Laclos
+&nbsp;
 
 &nbsp;
 
