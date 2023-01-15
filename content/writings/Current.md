@@ -8,7 +8,7 @@ date: 2022-12-30
 ---
 
 
-*Sto studiando Logica e Algebra, va bene ma non sto solo studiando Logica e Algebra: standing desk (a 115 cm di altezza), in riproduzione nuova musica sugli HomePod OG in stereo, ascolto, valuto, testo, salvo nella libreria musicale, ballo. Ballo spesso facendo esercizi di Matematica, avere una standing+sitting desk motorizzata, è bellissimo. Amare la musica, sentire il ritmo e non riuscire a stare ferma, è un qualcosa che ho ereditato da mia madre; fin da piccola, parte la musica, parte il movimento, a tempo, sento tutti i miei atomi felici dentro.*
+*Sto studiando Logica e Algebra, va bene ma non sto solo studiando Logica e Algebra: standing desk (a 115 cm di altezza), in riproduzione nuova musica sugli HomePod OG in stereo, ascolto, valuto, testo, salvo nella libreria musicale (☞[2023](https://music.apple.com/it/playlist/my-2023/pl.u-BNA664VFYm7Xa5?l)), ballo. Ballo spesso facendo gli esercizi di Matematica, avere una standing+sitting desk motorizzata è bellissimo. Amare la musica, sentire il ritmo e non riuscire a stare ferma, è un qualcosa che ho ereditato da mia madre; fin da piccola, parte la musica, parte il movimento, a tempo, sento tutti i miei atomi felici dentro.*
 
 <span style="color:red">*— 15 gennaio 2023*</span>
 
