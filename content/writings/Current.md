@@ -7,6 +7,13 @@ date: 2022-12-30
 ---
 ---
 
+
+*Sto studiando Logica e Algebra, va bene ma non sto solo studiando Logica e Algebra: standing desk (a 115 cm di altezza), in riproduzione nuova musica sugli HomePod OG in stereo, ascolto, valuto, testo, salvo nella libreria musicale, ballo. Ballo spesso facendo esercizi di Matematica, avere una standing+sitting desk motorizzata, è bellissimo. Amare la musica, sentire il ritmo e non riuscire a stare ferma, è un qualcosa che ho ereditato da mia madre; fin da piccola, parte la musica, parte il movimento, a tempo, sento tutti i miei atomi felici dentro.*
+
+<span style="color:red">*— 15 gennaio 2023*</span>
+
+---
+
 *Ho appena scelto i primi quattro libri che leggerò quest'anno (☞[lista sempre aggiornata](https://miry1919.github.io/hugosite/books/)). Adoro lavorare coi libri, sceglierli, assimilarli, confrontarli, mescolarli tra loro, aspettare con ansia di iniziarne uno, accelerare per finirne un altro: subito dopo gli esami riprenderò con tutto questo. "Alla ricerca del tempo perduto" mi ha segnato molto, e qui non l'ho ricordato ma ovviamente ho riportato alcuni pezzetti ☞[qui](https://miry1919.github.io/hugosite/quote/alla-ricerca-del-tempo-perduto/). Prima stavo pensando che la donnauomo non insegna un tubo, potrebbe stare nella sua tana tutto l'anno; d'altronde si dice che chi non sa fare niente insegna, chi non sa insegnare comanda, e lei non sa insegnare, ma figuriamoci se sa comandare ahaha! Per lei una donna non può comandare (non può fare l'Ufficiale ecc.), gli uomini comandano, e se anche è stesso lei a non rientrare nella casistica, perché è un'uomo, è effettivamente rude come un'uomo, allora per la sua "scelta" (ad esclusione) avrà semplicemente pensato che insegnando non sapendolo fare avrebbe danneggiato poche giovani persone, invece comandando avrebbe devastato persone adulte, cosa totalmente da evitare... Se non esistesse come potrei raggiungere questo genere di perle, questa quantità di risate? Un modo equipollente non esiste.*
 
 <span style="color:red">*— 10 gennaio 2023*</span>
