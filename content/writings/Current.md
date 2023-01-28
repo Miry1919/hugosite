@@ -7,6 +7,12 @@ date: 2022-12-30
 ---
 ---
 
+*Forse non troviamo una motivazione all'esistenza perché non è necessario cercarla, forse non conosciamo il fine della vita perché non ci è riservato saperlo, forse siamo per il semplice fatto che abbiamo dovuto esistere. La vorremmo piena ma la nostra è una dinamica vuota, contorta, incompleta, senza meta. Non esiste Dio, non c'è superiorità né genialità. L'intelligenza viene spesso confusa con la demenza, e la certezza è che.*
+
+<span style="color:red">*— 28 gennaio 2023*</span>
+
+---
+
 *È un momento che riconosco, viene sempre dopo l'aver sofferto tanto. I frammenti di gioia dell'ultimo periodo sono racchiusi in piccole scatole leggere, immacolate, ed è appunto la familiare serie di caratteristiche riscontrate che mi porta già a pensare che ben presto la mia esistenza sarà incredibile. Ogni volta che ho sofferto nella vita l'ho fatto sapendo che il destino è sempre giusto, dopo averti regalato con generosità qualsiasi ingiusto dispiacere, con altrettanta generosità ti fa rituffare in una piscina ricca e pura, privandoti finalmente della paura di non farcela. So cosa sta per arrivare adesso, perché si tratta di una sensazione che ho già incontrato spesso, la vetta che ho scelto di raggiungere come al solito è spropositatamente alta, ma tra poco tutto, dall'alto, sarà bellissimo, e sembrerà addirittura scontato sapere di averlo ottenuto poiché conquistato col merito. E proprio adesso non invidio in nessun modo l'opposta e ingestibile sensazione di chi sa di aver creduto di potermi fare male senza dover pagare con tante sofferenze: sono in grado di udire tutte le sue lamentele infondate, il tentativo di scappare dalla propria posizione, col solo risultato di vedere ancora meglio quant'è grande il suo dolore.*
 
 <span style="color:red">*— 26 gennaio 2023*</span>
