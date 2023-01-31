@@ -7,6 +7,12 @@ date: 2022-12-30
 ---
 ---
 
+*Vorrei appuntare giusto due cose per non tenerle nella mia memoria RAM. L'HomePod nuovo mi sta rendendo felice dal 18 gennaio, giorno in cui è stato presentato; oggi sono uscite le recensioni e sono contenta delle prime impressioni, ho scritto vari tweet con i miei pensieri. I miei due HomePod originali si trovano a Berlino, rebuy.it procederà presto alla valutazione e al pagamento. Spero di accoglierne presto due nuovi. Non ho più fatto sogni che includessero la balena (che non nuota). È insulsa e falsa, crede di essere l'unica intelligente e furba ma fa solo pena perché non ragiona: i sogni sono troppo nitidi e sentiti perché ci rientri ora che so bene com'è fatta.*
+
+<span style="color:red">*— 31 gennaio 2023*</span>
+
+---
+
 *Forse non troviamo una motivazione all'esistenza perché non è necessario cercarla, forse non conosciamo il fine della vita perché non ci è riservato saperlo, forse siamo per il semplice fatto che abbiamo dovuto esistere. La vorremmo piena ma la nostra è una dinamica vuota, contorta, incompleta, senza meta. Non esiste Dio, non c'è superiorità né genialità. L'intelligenza viene spesso confusa con la demenza, e la certezza è che.*
 
 <span style="color:red">*— 28 gennaio 2023*</span>
