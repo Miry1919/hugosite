@@ -7,6 +7,12 @@ date: 2022-12-30
 ---
 ---
 
+<blockquote class="twitter-tweet"><p lang="it" dir="ltr">Questo vento è cambiamento, porterà via tutto il brutto che ho visto.</p>&mdash; Miriana Novella (@Miry1919) <a href="https://twitter.com/Miry1919/status/1621635925628289025?ref_src=twsrc%5Etfw">February 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<span style="color:red">*— 4 febbraio 2023*</span>
+
+---
+
 *Vorrei appuntare giusto due cose per non tenerle nella mia memoria RAM. L'HomePod nuovo mi sta rendendo felice dal 18 gennaio, giorno in cui è stato presentato; oggi sono uscite le recensioni e sono contenta delle prime impressioni, ho scritto vari tweet con i miei pensieri. I miei due HomePod originali si trovano a Berlino, rebuy.it procederà presto alla valutazione e al pagamento. Spero di accoglierne presto due nuovi. Non ho più fatto sogni che includessero la balena (che non nuota). È insulsa e falsa, crede di essere l'unica intelligente e furba ma fa solo pena perché non ragiona: i sogni sono troppo nitidi e sentiti perché ci rientri ora che so bene com'è fatta.*
 
 <span style="color:red">*— 31 gennaio 2023*</span>
