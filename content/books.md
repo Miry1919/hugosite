@@ -5,17 +5,15 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-No, sto facendo una pausa causa esami.   
+* _Le mille e una notte_
+* _Addio alle armi_ — Ernest Hemingway   
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _Le mille e una notte_
-* _Addio alle armi_ — Ernest Hemingway
 * _Otello_ — William Shakespeare
 * _Le relazioni pericolose_ — Pierre Choderlos de Laclos
-&nbsp;
 
 &nbsp;
 
