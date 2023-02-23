@@ -7,6 +7,12 @@ date: 2022-12-30
 ---
 ---
 
+<blockquote class="twitter-tweet"><p lang="it" dir="ltr">Chi troppo vuole tutto paga.<br><br>(ogni riferimento è puramente casuale bla bla)</p>&mdash; Miriana Novella (@Miry1919) <a href="https://twitter.com/Miry1919/status/1628855644194328579?ref_src=twsrc%5Etfw">February 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<span style="color:red">*— 23 febbraio 2023*</span>
+
+---
+
 *Stasera è ripartito ☞[Tenero Gheriglio](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-4/), con la puntata 100. È una vera emozione.*
 
 <span style="color:red">*— 20 febbraio 2023*</span>
