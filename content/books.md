@@ -11,9 +11,9 @@ description: ¶
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _La linea d'ombra_ — Joseph Conrad
-* _Otello_ — William Shakespeare
 * _Le relazioni pericolose_ — Pierre Choderlos de Laclos
+* _Otello_ — William Shakespeare
+* _La linea d'ombra_ — Joseph Conrad
 
 &nbsp;
 
