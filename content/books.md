@@ -6,7 +6,6 @@ description: ¶
 #### <span style="color:red">Sto leggendo</span>
 
 * _Le mille e una notte_
-* _Addio alle armi_ — Ernest Hemingway   
 
 &nbsp;
 
@@ -19,10 +18,17 @@ description: ¶
 
 #### <span style="color:red">Ho letto e consiglio</span>
 
+<span style="color:red">*2023 (dal primo all'ultimo)*</span>
+
+* _Addio alle armi_ — Ernest Hemingway
+
+&nbsp;
+
+#### <span style="color:red">Ho letto e consiglio</span>
+
 <span style="color:red">*2022 (dal primo all'ultimo)*</span>
 
 * _Storia di chi fugge e di chi resta. L’amica geniale (volume terzo)_ — Elena Ferrante
-&nbsp;
 * _Anna Karenina_ — Lev Tolstoj
 * _L'uomo e i suoi simboli_ — Carl Gustav Jung ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/72--I-numeri-sono-prodotti-spontanei-e-autonomi-dellinconscio-e1fau0o)
 * _Cristo si è fermato a Eboli_ — Carlo Levi ☞[{Podcasts}](https://anchor.fm/miriana-novella7/episodes/75--Una-che-ragiona--ragiona--ragiona--non-si-ferma-mai-e1gakd3)
