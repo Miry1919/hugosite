@@ -13,7 +13,7 @@ description: ¶
 
 * _Le relazioni pericolose_ — Pierre Choderlos de Laclos
 * _Otello_ — William Shakespeare
-* _La linea d'ombra_ — Joseph Conrad
+* _La linea d'ombra. Una confessione_ — Joseph Conrad
 
 &nbsp;
 
