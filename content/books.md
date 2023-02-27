@@ -21,7 +21,7 @@ description: ¶
 
 <span style="color:red">*2023 (dal primo all'ultimo)*</span>
 
-* _Addio alle armi_ — Ernest Hemingway
+* _Addio alle armi_ — Ernest Hemingway ☞[{Podcasts}](https://spotifyanchor-web.app.link/e/wjwEQFCxLxb)
 
 &nbsp;
 
