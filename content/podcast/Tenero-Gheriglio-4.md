@@ -26,7 +26,19 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #100 (20•2•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #101 (27•2•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Rimanete con me](https://spotifyanchor-web.app.link/e/wjwEQFCxLxb)
+    
+    Centunesima puntata. Nuovo centinaio, nuova sigla e nuovi stacchetti! Vi parlo del libro appena terminato, "Addio alle armi" di Ernest Hemingway, quindi della guerra, della tragedia della vita, della morte; e poi vi accenno qualcosa su quello che sto leggendo adesso, "Le mille e una notte". Inoltre vi aggiorno sugli HomePod, vi racconto di un'esperienza divertente con Apple Fitness+, vi descrivo la mia nuova striscia led per la scrivania, e infine vi consiglio una serie tv.
+
+    • Nanoleaf Essentials ☞[Light Strips](https://amzn.eu/d/9ojNCoh)
+
+    • Serie tv su Apple TV+ ☞[Truth Be Told](https://tv.apple.com/it/show/truth-be-told/umc.cmc.6hegr60w8pjyfcblgocjek7oo)
+    
+---
+
+* Puntata #100 (20•2•2023)
 
     ☞["S'è rotto il meccanismo delle virgolette"](https://spotifyanchor-web.app.link/e/QcNVeRdVzxb)
     
