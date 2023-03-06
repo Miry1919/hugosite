@@ -26,7 +26,17 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #101 (27•2•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #102 (6•3•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Una coppia di HomePod per ottenere il massimo risultato](https://spotifyanchor-web.app.link/e/MBOzt6R9Wxb)
+    
+    Puntata centodue. Vi racconto tutte le mie incredibili esperienze della settimana, tra HomePod mini in stereo, HomePod di seconda generazione singoli e in stereo, ricordando come partì la mia avventura con gli HomePod originali. Recensisco e confronto tutti i tipi di HomePod, e descrivendo le caratteristiche principali che rendono interessante questo prodotto, vi consiglio quale secondo me può essere per voi il migliore acquisto, prendendo anche in considerazione le recensioni di altri appassionati nel mondo Apple e audio.
+
+    • La ☞[recensione di iPhonedo](https://youtu.be/bYgbMtIR6JY)
+    
+---
+
+* Puntata #101 (27•2•2023)
 
     ☞[Rimanete con me](https://spotifyanchor-web.app.link/e/wjwEQFCxLxb)
     
