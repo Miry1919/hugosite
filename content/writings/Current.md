@@ -7,7 +7,7 @@ date: 2023-02-28
 ---
 ---
 
-*Ieri sera ho sbagliato a scrivere, le pagine di "Le mille e una notte" rimaste da leggere erano 250, non 300 (ora sono 200: sì, 50 al giorno e ho fatto), l'ho corretto. Se solo il mondo fosse onesto altrettanto! Invece per mesi ti prende in giro, ti umilia, ti riesce a dire che sei l'opposto di quel che sei, che devi prendere dei farmaci che non avrebbero mai dovuto darti dall'inizio dei tempi... Non continuo, è chiaro il parallelo. Meno male che il mondo non ruota attorno a quella donnauomo mostro, tutt'altro. Il mondo ti ridà sempre indietro tutto quello che è giusto darti, non ha mai rimpianti. Ai mostri i pianti, ai buoni felicità non più esitanti.*
+*Ieri sera ho sbagliato a scrivere, le pagine di "Le mille e una notte" rimaste da leggere erano 250, non 300 (ora sono 200: sì, 50 al giorno e ho fatto), l'ho corretto. Se solo il mondo fosse onesto altrettanto! Invece per mesi ti prende in giro, ti umilia, ti riesce a dire che sei l'opposto di quel che sei, che devi prendere dei farmaci che non avrebbero mai dovuto darti dall'inizio dei tempi... Non continuo, è chiaro il parallelo. Meno male che il mondo non ruota attorno a quella donnauomo mostro, tutt'altro. Il mondo, con calma, ti ridà sempre indietro tutto quello che è giusto darti, non ha mai rimpianti. Ai mostri i pianti, ai buoni felicità non più esitanti.*
 
 <span style="color:red">*— 7 marzo 2023*</span>
 
