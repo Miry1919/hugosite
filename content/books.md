@@ -5,13 +5,13 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Le mille e una notte_
+* _Le relazioni pericolose_ — Pierre Choderlos de Laclos
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _Le relazioni pericolose_ — Pierre Choderlos de Laclos
+
 * _Otello_ — William Shakespeare
 * _La linea d'ombra. Una confessione_ — Joseph Conrad
 
@@ -22,6 +22,7 @@ description: ¶
 <span style="color:red">*2023 (dal primo all'ultimo)*</span>
 
 * _Addio alle armi_ — Ernest Hemingway ☞[{Podcasts}](https://spotifyanchor-web.app.link/e/wjwEQFCxLxb)
+* _Le mille e una notte_
 
 &nbsp;
 
