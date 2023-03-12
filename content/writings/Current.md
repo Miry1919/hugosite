@@ -7,6 +7,12 @@ date: 2023-02-28
 ---
 ---
 
+*Ho iniziato a leggere "Le relazioni pericolose" di de Laclos, nella prefazione ho già evidenziato questo tratto: «Inopinatamente il romanzo si rivela minato da due sentimenti più forti e distruttivi che la natura umana conosca: vendetta e gelosia, entrambe deformazioni insane – ma forse inevitabili – del sentimento più caldo e pericoloso in assoluto, l'amore.». Che dire, spesso mi si ripalesa il motivo per cui la vaccona ci tiene ancora prigionieri del suo piano malefico; il suo modo di agire era senza dubbio evitabile, ma è diventato inevitabile a causa dell'amore che provava prima che io la ferissi dicendole che non vale nulla (è sempre stato così) quando ha osato trattarmi male: il suo amore l'ha fatta finire nella gelosia e poi nella vendetta. Stamattina io e Mario abbiamo giocato per la prima volta a tennis insieme, lui l'aveva anche praticato come sport per qualche anno anni fa, ma riuscivo a stargli dietro nonostante io abbia due ore di pratica, ed è stato bellissimo. Abbiamo prenotato un campo alla Snam, e ci siamo andati con la mia macchina, sono passata a prenderlo, normalmente, non con l'aeroplano privato come la demente penserebbe e vorrebbe, perché seppure io sia in grado di pilotarlo costerebbe.*
+
+<span style="color:red">*— 12 marzo 2023*</span>
+
+---
+
 *Ieri sera ho sbagliato a scrivere, le pagine di "Le mille e una notte" rimaste da leggere erano 250, non 300 (ora sono 200: sì, 50 al giorno e ho fatto), l'ho corretto. Se solo il mondo fosse onesto altrettanto! Invece per mesi ti prende in giro, ti umilia, ti riesce a dire che sei l'opposto di quel che sei, che devi prendere dei farmaci che non avrebbero mai dovuto darti dall'inizio dei tempi... Non continuo, è chiaro il parallelo. Meno male che il mondo non ruota attorno a quella donnauomo mostro, tutt'altro. Il mondo, con calma, ti ridà sempre indietro tutto quello che è giusto darti, non ha mai rimpianti. Ai mostri i pianti, ai buoni felicità non più esitanti.*
 
 <span style="color:red">*— 7 marzo 2023*</span>
