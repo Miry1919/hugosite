@@ -11,7 +11,9 @@ description: ¶
 
 #### <span style="color:red">Leggerò a breve</span>
 
-
+* _Nove racconti_ — Jerome David Salinger
+* _Franny e Zooey_ — Jerome David Salinger
+* _Alzate l'architrave, carpentieri - Seymour. Introduzione_ — Jerome David Salinger
 * _Otello_ — William Shakespeare
 * _La linea d'ombra. Una confessione_ — Joseph Conrad
 
