@@ -7,6 +7,12 @@ date: 2023-02-28
 ---
 ---
 
+<blockquote class="twitter-tweet"><p lang="it" dir="ltr">La profondità mentale e la sensibilità interiore, se messe insieme, creano la conquista esteriore più ad alta quota mai raggiunta: si trova più o meno su Saturno.</p>&mdash; Miriana Novella (@Miry1919) <a href="https://twitter.com/Miry1919/status/1638657762468188160?ref_src=twsrc%5Etfw">March 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<span style="color:red">*— 22 marzo 2023*</span>
+
+---
+
 *Il male, desiderato, dovrebbe essere motivo di umiliazione, invece in questo mondo è motivo di vanto. Io a 65 anni non sarò in grado, neanche forzatamente, di essere così vanitosa e di creare il male per una persona di 25 anni. Sto soffrendo, a volte mi fermo e dico "è vero?": non avrebbe mai dovuto succedere una cosa del genere. So che la vecchia vaccona e soprattutto il marito si stanno pentendo ogni giorno di cosa hanno fatto, ma figuriamoci se si tirassero indietro, se ammettessero l'errore; il loro desiderio malefico vive ancora imperterrito. Moriranno macchiati, sporchi, luridi e schifosi, soli, dimenticati. Non so come ho fatto a volere bene a una strega del genere, prima stavo pensando alla strega di Biancaneve, ecco quella strega non è nulla in confronto a quella che ho incontrato io, e si pensi che una è inventata e l'altra invece è reale e non sembra possibile, perché è una bamboccia mai cresciuta, una deficiente che si crede intelligente... Non fa niente, da ieri è primavera, la mia vittoria è vicina, inoltre mi preme ricordare che in questo caso – e non è sempre così – la mia personalissima vittoria sarà accompagnata dall'altrui vergognosa sconfitta.*
 
 <span style="color:red">*— 21 marzo 2023*</span>
