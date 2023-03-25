@@ -5,7 +5,7 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Le relazioni pericolose_ — Pierre Choderlos de Laclos
+* _La linea d'ombra. Una confessione_ — Joseph Conrad
 
 &nbsp;
 
@@ -15,7 +15,6 @@ description: ¶
 * _Franny e Zooey_ — Jerome David Salinger
 * _Alzate l'architrave, carpentieri e Seymour. Introduzione_ — Jerome David Salinger
 * _Otello_ — William Shakespeare
-* _La linea d'ombra. Una confessione_ — Joseph Conrad
 
 &nbsp;
 
@@ -25,6 +24,7 @@ description: ¶
 
 * _Addio alle armi_ — Ernest Hemingway ☞[{Podcasts}](https://spotifyanchor-web.app.link/e/wjwEQFCxLxb)
 * _Le mille e una notte_
+* _Le relazioni pericolose_ — Pierre Choderlos de Laclos
 
 &nbsp;
 
