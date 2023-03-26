@@ -24,7 +24,7 @@ description: ¶
 
 * _Addio alle armi_ — Ernest Hemingway ☞[{Podcasts}](https://spotifyanchor-web.app.link/e/wjwEQFCxLxb)
 * _Le mille e una notte_
-* _Le relazioni pericolose_ — Pierre Choderlos de Laclos
+* _Le relazioni pericolose_ — Pierre Choderlos de Laclos ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/le-relazioni-pericolose/)
 
 &nbsp;
 
