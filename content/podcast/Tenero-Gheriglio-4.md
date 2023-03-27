@@ -30,7 +30,7 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
     ☞[La fortuna si ripresenta spesso](https://spotifyanchor-web.app.link/e/OOsGaFzWvyb)
     
-    Centotreesima puntata. Dopo aver ricordato l'uscita imminente dell'app Apple Music Classical, delusa vi racconto cosa è successo con le mie AirPods Max, a meno di due anni dall'acquisto, vicenda che mi ha obbligata a sostituirle con gli AirPods Pro di seconda generazione, un prodotto meraviglioso che vi consiglio di prendere in considerazione. Nel finale vi parlo delle mie letture, "Le mille e una notte" che ho terminato, e "Le relazioni pericolose" di Pierre Choderlos de Laclos appena iniziato.
+    Puntata centoquattro. Dopo l'assenza della scorsa settimana, molto carica, ritorno a registrare, tra la pioggia e il sole. Nella prima parte vi parlo del libro che ho finito di leggere, "Le relazioni pericolose" di Pierre Choderlos de Laclos, utilizzando tutte le citazioni (link qui sotto) che ho pubblicato sul sito. Nella seconda parte vi parlo della Nintendo Switch, di Tetris, dell'Advanced Data Protection, di Ivory e Mastodon.
 
     • Sul mio sito:
     
