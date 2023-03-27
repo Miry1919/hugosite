@@ -26,6 +26,26 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
+* Puntata #104 (27•3•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[La fortuna si ripresenta spesso](https://spotifyanchor-web.app.link/e/OOsGaFzWvyb)
+    
+    Centotreesima puntata. Dopo aver ricordato l'uscita imminente dell'app Apple Music Classical, delusa vi racconto cosa è successo con le mie AirPods Max, a meno di due anni dall'acquisto, vicenda che mi ha obbligata a sostituirle con gli AirPods Pro di seconda generazione, un prodotto meraviglioso che vi consiglio di prendere in considerazione. Nel finale vi parlo delle mie letture, "Le mille e una notte" che ho terminato, e "Le relazioni pericolose" di Pierre Choderlos de Laclos appena iniziato.
+
+    • Sul mio sito:
+    
+    → [Quotes "Le relazioni pericolose"](https://miry1919.github.io/hugosite/quote/alla-ricerca-del-tempo-perduto/)
+    
+    → [Books](https://miry1919.github.io/hugosite/books/)
+    
+    • [Tetris 99 offline DLC](https://www.nintendo.it/Giochi/Giochi-scaricabili-per-Nintendo-Switch/TETRIS-99-1505396.html?utm_medium=social&utm_source=twitter&utm_campaign=Tetris99%7CDLCAnnouncement%7Co2LPV%7Cw19#Contenuti_aggiuntivi)
+
+    • [Tetris su Apple TV+](https://tv.apple.com/it/movie/tetris/umc.cmc.4evmgcam356pzgxs2l7a18d7b)
+
+    • [VideoPodcast a cui faccio riferimento](https://youtu.be/hZF53YeCogI)
+
+---
+
 * Puntata #103 (13•3•2023)
 
     ☞[Sulla testolina bella dura che mi ritrovo](https://spotifyanchor-web.app.link/e/v5d26Y0Lvyb)
