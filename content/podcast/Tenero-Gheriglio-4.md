@@ -26,9 +26,9 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #103 (13•3•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #103 (13•3•2023)
 
-    ☞[Sulla testolina bella dura che mi ritrovo](cid:044A5164-BF52-4009-90BE-E16D72527402)
+    ☞[Sulla testolina bella dura che mi ritrovo](https://spotifyanchor-web.app.link/e/v5d26Y0Lvyb)
     
     Centotreesima puntata. Dopo aver ricordato l'uscita imminente dell'app Apple Music Classical, delusa vi racconto cosa è successo con le mie AirPods Max, a meno di due anni dall'acquisto, vicenda che mi ha obbligata a sostituirle con gli AirPods Pro di seconda generazione, un prodotto meraviglioso che vi consiglio di prendere in considerazione. Nel finale vi parlo delle mie letture, "Le mille e una notte" che ho terminato, e "Le relazioni pericolose" di Pierre Choderlos de Laclos appena iniziato.
 
