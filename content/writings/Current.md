@@ -7,7 +7,7 @@ date: 2023-02-28
 ---
 ---
 
-*31 km/h di vento NNW. Lo segna il mio Apple Watch (dal 2016 non ho avuto nient'altro che Apple Watch, l'iWatch non so nemmeno cos'è e se esiste, ma la stronza inventa, è presuntuosa e ignorante cosa vuoi farci). Ho invicato il vento ed è arrivato davvero più in forma che mai. Stasera la puntata 104 di Tenero Gheriglio, si intitola "La fortuna si ripresenta spesso", come il vento. Il vento e la fortuna girano, credo presto sarà il mio turno. E chiamarla fortuna è anche troppo: si chiama giustizia.*
+*31 km/h di vento NNW. Lo segna il mio Apple Watch (dal 2016 non ho avuto nient'altro che Apple Watch, l'iWatch non so nemmeno cos'è e se esiste, ma la stronza inventa, è presuntuosa e ignorante cosa vuoi farci). Ho invicato il vento ed è arrivato davvero più in forma che mai. Stasera la puntata 104 di ☞[Tenero Gheriglio](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-4/), si intitola "La fortuna si ripresenta spesso", come il vento. Il vento e la fortuna girano, credo presto sarà il mio turno. E chiamarla fortuna è anche troppo: si chiama giustizia.*
 
 <span style="color:red">*— 27 marzo 2023*</span>
 
