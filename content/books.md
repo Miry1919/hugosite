@@ -25,10 +25,7 @@ description: ¶
 * _Le mille e una notte_
 * _Le relazioni pericolose_ — Pierre Choderlos de Laclos ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/le-relazioni-pericolose/) & ☞[{Podcasts}](https://spotifyanchor-web.app.link/e/OOsGaFzWvyb)
 * _La linea d'ombra. Una confessione_ — Joseph Conrad
-
 &nbsp;
-
-#### <span style="color:red">Ho letto e consiglio</span>
 
 <span style="color:red">*2022 (dal primo all'ultimo)*</span>
 
