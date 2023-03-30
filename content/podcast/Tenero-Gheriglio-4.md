@@ -34,7 +34,7 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
     • Sul mio sito:
     
-    → [Quotes "Le relazioni pericolose"](https://miry1919.github.io/hugosite/quote/alla-ricerca-del-tempo-perduto/)
+    → [Quotes "Le relazioni pericolose"](https://miry1919.github.io/hugosite/quote/le-relazioni-pericolose/)
     
     → [Books](https://miry1919.github.io/hugosite/books/)
     
