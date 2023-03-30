@@ -7,6 +7,12 @@ date: 2023-02-28
 ---
 ---
 
+*Se si dovesse esser creata una qualche ambiguità sono qui per estinguerla. Sono molto felice, perché ho tutto, faccio tutto quello che mi piace, tutto è meraviglioso; allo stesso tempo sto soffrendo, per l'unica cosa brutta nella mia vita al momento, un'atrocità che nemmeno avrebbe dovuto nascere, che esite solamente a causa di quella vecchia schifosa, meschina, terrificante. Non possiede alcun valore morale, e diciamolo bene, non ha niente da fare se si mette a perdere tempo come ha fatto. Non ha nessuna passione che le riempie l'esistenza, è vuota, si trascina moribonda, e tramite il procedimento mi sta rovinando senza averne il diritto, – putrido come lei, che prima ha preso tutto il mio affetto e poi nel sonno mi ha pugnalata al petto –, mi ha voluta appiccicata a lei ancora per diversi mesi. Ma i mesi passano, maggio è vicino. Allora ho ben chiarito: sono felice, ma sto soffrendo. So che però presto sarò solamente felice: non è pronto nient'altro per me.*
+
+<span style="color:red">*— 30 marzo 2023*</span>
+
+---
+
 *31 km/h di vento NNW. Lo segna il mio Apple Watch (dal 2016 non ho avuto nient'altro che Apple Watch, l'iWatch non so nemmeno cos'è e se esiste, ma la stronza inventa, è presuntuosa e ignorante cosa vuoi farci). Ho invocato il vento ed è arrivato davvero più in forma che mai. Stasera esce la puntata 104 di ☞[Tenero Gheriglio](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-4/), si intitola "La fortuna si ripresenta spesso", come il vento. Il vento e la fortuna girano, credo presto sarà il mio turno. E chiamarla fortuna è anche troppo: si chiama giustizia.*
 
 <span style="color:red">*— 27 marzo 2023*</span>
