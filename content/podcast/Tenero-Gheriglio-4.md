@@ -26,7 +26,27 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #104 (27•3•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #105 (3•4•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Questo vento è cambiamento](https://spotifyanchor-web.app.link/e/JPd0ewuzHyb)
+    
+    Puntata 105. Parliamo delle indiscrezioni sulla WWDC 2023, del fatidico visore Apple, di watchOS 10, di iOS 17, poi di nuovo del gioco per Nintendo Switch “The Legend of Zelda: Skyward Sword HD” e dei controlli “motion”, inoltre come sempre delle mie letture, “La linea d’ombra” di Joseph Conrad, “Nove racconti” di Jerome David Salinger, e infine di alimentazione, aiutandoci coi video di Stefano Vendrame.
+
+    • Link ai video YT di Stefano Vendrame:
+    
+    →[Personalizzare la dieta](https://youtu.be/1jNd1fYa5Ww)
+    
+    →[Pesce](https://youtu.be/gfurA2ov0EQ)
+    
+    → [Friggere](https://youtu.be/o1cKA56Kwsc)
+    
+    → [Obesità](https://youtu.be/__fSkYeP77E)
+    
+    • [Books](https://miry1919.github.io/hugosite/books/)
+
+---
+
+* Puntata #104 (27•3•2023)
 
     ☞[La fortuna si ripresenta spesso](https://spotifyanchor-web.app.link/e/OOsGaFzWvyb)
     
