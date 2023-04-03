@@ -34,9 +34,9 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
     • Link ai video YT di Stefano Vendrame:
     
-    →[Personalizzare la dieta](https://youtu.be/1jNd1fYa5Ww)
+    → [Personalizzare la dieta](https://youtu.be/1jNd1fYa5Ww)
     
-    →[Pesce](https://youtu.be/gfurA2ov0EQ)
+    → [Pesce](https://youtu.be/gfurA2ov0EQ)
     
     → [Friggere](https://youtu.be/o1cKA56Kwsc)
     
