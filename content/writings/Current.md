@@ -7,7 +7,7 @@ date: 2023-02-28
 ---
 ---
 
-*Stasera io e Mario abbiamo visto insieme il film "Super Mario Bros", è stato bellissimo. Poi era così diretto il collegamento tra me e lui, e la Principessa Peach e Mario, che sarebbe stato impossibile ignorarlo. La luna è piena, fiera di ogni mossa passata, futura, ci ha accompagnati all'andata e al ritorno dal cinema. Sono felice, il mio soffrire non durerà ancora molto a lungo, manca un mese alla demolizione del mostro. I miei genitori, e Briciolina, sono tornati a casa lo scorso Sabato, domani partiamo per raggiungere il lago di Garda. Chissà se i mostri si concedono un'altra uscita, no, non penso sarà come Natale, questa volta che hanno capito il finale staranno nella topaia, nel loro male.*
+*Stasera io e Mario abbiamo visto insieme il film "Super Mario Bros", è stato bellissimo. Poi era così diretto il collegamento tra me e lui, e la Principessa Peach e Mario, che sarebbe stato impossibile ignorarlo. La luna è piena, fiera di ogni mossa passata, futura, ci ha accompagnati all'andata e al ritorno dal cinema. Sono felice, il mio soffrire non durerà ancora molto a lungo, manca un mese alla demolizione del mostro. I miei genitori, e Briciolina, sono tornati a casa lo scorso sabato, domani partiamo per raggiungere il lago di Garda. Chissà se i mostri si concedono un'altra uscita, no, non penso sarà come a Natale, questa volta che hanno capito il finale staranno nella topaia, nel loro male.*
 
 <span style="color:red">*— 5 aprile 2023*</span>
 
