@@ -5,7 +5,6 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Franny e Zooey_ — Jerome David Salinger
 * _Alzate l'architrave, carpentieri e Seymour. Introduzione_ — Jerome David Salinger
 
 &nbsp;
@@ -25,6 +24,7 @@ description: ¶
 * _Le relazioni pericolose_ — Pierre Choderlos de Laclos ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/le-relazioni-pericolose/) & ☞[{Podcasts}](https://spotifyanchor-web.app.link/e/OOsGaFzWvyb)
 * _La linea d'ombra. Una confessione_ — Joseph Conrad
 * _Nove racconti_ — Jerome David Salinger
+* _Franny e Zooey_ — Jerome David Salinger
 &nbsp;
 
 <span style="color:red">*2022 (dal primo all'ultimo)*</span>
