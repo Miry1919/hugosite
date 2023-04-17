@@ -26,7 +26,19 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #105 (3•4•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #106 (17•4•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Sì, ma che ti urli](https://spotifyanchor-web.app.link/e/uNOMufe42yb)
+    
+    Centoseiesima puntata. Dopo Pasqua, al rientro dal lago di Garda, accenno che proverò a recuperare le puntate saltate, poi vi parlo di "Super Mario Bros. Il film", e passando alla Nintendo Switch, di "Super Mario 3D World + Bowser's Fury", l'ultimo gioco che ho acquistato a Natale, e inoltre del gameplay e dell'ultimo trailer di "The Legend of Zelda: Tears of the Kingdom". Procedo con i libri che ho letto, "Nove racconti", "Franny e Zooey", e "Alzate l'architrave, carpentieri e Seymour. Introduzione", tutti di J. D. Salinger, e raccontando di alcune fantasmagoriche esperienze milanesi sui mezzi pubblici durante uno sciopero, arrivo nella parte di puntata da appassionata audio, tra Sonos Era 300, 100, HomePod 2, Bose SoundLink Flex, Mini, Micro.
+    
+    P.S. Con qualche tentativo in più poi Mortipher ovviamente l'avevo sconfitto.
+    
+    ☞[Video](https://youtu.be/QOOAfRvgvoY) comparazione Sonos Era e HomePod.
+
+---
+
+* Puntata #105 (3•4•2023)
 
     ☞[Questo vento è cambiamento](https://spotifyanchor-web.app.link/e/JPd0ewuzHyb)
     
