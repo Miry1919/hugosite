@@ -5,13 +5,13 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-No, sono in pausa causa esami.
+* _Otello_ — William Shakespeare
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _Otello_ — William Shakespeare
+* _La tentazione di esistere_ — Emil Mihai Cioran
 
 &nbsp;
 
