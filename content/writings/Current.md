@@ -7,6 +7,12 @@ date: 2023-02-28
 ---
 ---
 
+*Questa volta gli HomePod stanno riproducendo ☞["Hail Mary" di Skott](https://youtu.be/mlquTMayEa8), è una canzone meravigliosa. Stamattina mi sono allenata ed è stato come sempre bellissimo, solito allenamento composto da prima e seconda parte, perché non mi alleno mai, a parte 12 anni di nuoto agonistico con le gare e qualche stronzatina da nulla, palestra leggerissima per le accademie militari, corse continue, sci, tennis, windsurf, sup, tuffi alla nausea, nuotate intorno alle isolette croate... È sempre piena di meraviglie e di bellezze la vita, e poi ci sono i mostri. Se davvero quella va da sola in macchina (ovvio, a piedi manco se la spingi ahahah) perché spera io vada da lei, mi avvicini, che è la sua ultima e unica speranza, poteva anche mettersi sotto il diluvio dell'altro giorno, durante la scarica impressionante di grandine magari sarebbe passata a miglior vita. La grandine su un corpo molle pieno di cellulite è sicuramente letale. Giuro, se anche lontanamente sta provando la strada dell'esca, come fece nel box per far cominciare davvero tutto lo schifo, ecco è meglio che si butti dalla finestra, nemmeno a pagamento mi avvicinerei a quella zoccolona ahahah. E che guardi bene di sotto prima di beccare pure un povero innocente che non c'entra niente, è pesante: cinque tonnellate di massa metabolicamente inattiva! Lascio questo scritto col suono squisito di un tonfo rilassante, non voglio aggiungere più niente.*
+
+<span style="color:red">*— 24 aprile 2023*</span>
+
+---
+
 *Sono stravolta, ma felice di una felicità decisa, precisa. Stamattina io e Mario abbiamo avuto il nostro terzo tennis insieme, oh quanto lo amo, dico il tennis, ma di più lui è ovvio. Mi sta così vicino, so di non star dando tutto quello che potrei, purtroppo conosco il motivo: da prima che lo conoscessi una vecchia vacca finta e malata mi tratta come una creatura ignobile da torturare. Ma è mai esistito davvero un qualche essere da massacrare? Cosa dico, questa creatura malefica è lei, meriterebbe l'odio di due o tre universi coalizzati contro. Come dicevo ha ammesso di essere una mongoloide, va tutti i giorni da sola, col marito è più separata di sempre, un marito ignorante, inguardabile, e inguaribilmente inutile, si pente da mesi senza nemmeno saperlo nascondere. Sono stanchissima, come sempre mi sono mossa fino allo stremo col fisico e col cervello, ma so cosa succederà presto e posso anche stare sveglia fino a quel giorno, da quanto è lucido lo sogno.*
 
 <span style="color:red">*— 22 aprile 2023*</span>
