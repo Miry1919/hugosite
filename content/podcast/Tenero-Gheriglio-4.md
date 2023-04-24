@@ -26,7 +26,15 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #106 (17•4•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #107 (24•4•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Una vita un po’ mista](https://spotifyanchor-web.app.link/e/zFSuGYQpgzb)
+    
+    Puntata 107! Dopo l’introduzione con alcune precisazioni, lavori al palazzo inclusi, vi parlo del tennis che ho cominciato a praticare, dello sport in generale, di filosofie da considerare, della grande novità che sta per compiersi con i miei dispositivi tecnologici.
+
+---
+
+* Puntata #106 (17•4•2023)
 
     ☞[Sì, ma che ti urli](https://spotifyanchor-web.app.link/e/uNOMufe42yb)
     
