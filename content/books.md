@@ -5,13 +5,14 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Otello_ — William Shakespeare
+* _La tentazione di esistere_ — Emil Mihai Cioran
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _La tentazione di esistere_ — Emil Mihai Cioran
+* _La colazione dei campioni_ — Kurt Vonnegut
+* _Quando siete felici, fateci caso_ — Kurt Vonnegut
 
 &nbsp;
 
@@ -26,6 +27,7 @@ description: ¶
 * _Nove racconti_ — Jerome David Salinger
 * _Franny e Zooey_ — Jerome David Salinger
 * _Alzate l'architrave, carpentieri e Seymour. Introduzione_ — Jerome David Salinger
+* _Otello_ — William Shakespeare
 &nbsp;
 
 <span style="color:red">*2022 (dal primo all'ultimo)*</span>
