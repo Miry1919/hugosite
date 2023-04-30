@@ -6,10 +6,19 @@
     <description>Recent content in Home on hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://miry1919.github.io/hugosite/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Current</title>
+      <link>https://miry1919.github.io/hugosite/writings/current/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://miry1919.github.io/hugosite/writings/current/</guid>
+      <description>Coming soon! </description>
+    </item>
     
     <item>
       <title>Table of Entries</title>
@@ -21,11 +30,11 @@
     </item>
     
     <item>
-      <title>Current</title>
-      <link>https://miry1919.github.io/hugosite/writings/current/</link>
+      <title>Archive 3.1</title>
+      <link>https://miry1919.github.io/hugosite/writings/archive-3-1/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/writings/current/</guid>
+      <guid>https://miry1919.github.io/hugosite/writings/archive-3-1/</guid>
       <description>Stamattina l&amp;rsquo;allenamento, il quartultimo prima della liberazione, è stato accompagnato dal vento, dal cambiamento sempre più attento, più ci avviciniamo al momento tanto atteso. Manca una parte piccolissima, sono stata brava, quanti mesi ho sofferto, ma manca poco e mi verrà ridato tutto. Dalla crocifissione arriverò alla risurrezione: il velo tra poco si squarcia, lo direbbe anche la vacca ahaha! Basta che io sono la meravigliosa forza che sono, che i farmaci li prende solo lei e che tanto non riescono a curarle la demenza, che mi muovo con un fisico eccezionale, che ragiono con un cervello incredibile, che faccio sempre solo quello che sento nel cuore, libera di esistere al di fuori di ogni morale vaccosa.</description>
     </item>
     
