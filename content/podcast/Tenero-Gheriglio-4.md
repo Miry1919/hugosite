@@ -26,7 +26,20 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #107 (24•4•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #108 (1•5•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Ogni sensazione è legame](https://spotifyanchor-web.app.link/e/wrVvn6c2rzb)
+    
+    Puntata festiva 108. Inizio con le mie impressioni sull'iPhone 14 Pro Max, con qualche appunto su ebay.it, rebuy.it, e con i dettagli del passaggio da iPad mini ad iPhone Max che ho effettuato (tenendo sempre anche l'iPhone mini). Poi continuo parlando del vetro temperato che ho applicato, la custodia che ho messo, altri accessori che ho preso e che mi stanno arrivando (una tracolla, uno stand magsafe). Concludo la puntata con le mie letture, "Otello" di William Shakespeare, "La tentazione di esistere" di Emil Mihai Cioran, leggendo di quest'ultimo alcuni tratti che ho trovato interessanti. La prossima settimana VideoPodcast!
+    
+    • Post Instagram:
+    
+    → [Bose Flex](https://instagram.com/p/CrsdUx1NUFz/)
+    → [iPhone Max & mini](https://instagram.com/p/CrseZbnt4-p/)
+    
+---
+
+* Puntata #107 (24•4•2023)
 
     ☞[Una vita un po’ mista](https://spotifyanchor-web.app.link/e/zFSuGYQpgzb)
     
