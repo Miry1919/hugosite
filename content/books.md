@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _La tentazione di esistere_ — Emil Mihai Cioran
+* _La colazione dei campioni_ — Kurt Vonnegut
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _La colazione dei campioni_ — Kurt Vonnegut
 * _Quando siete felici, fateci caso_ — Kurt Vonnegut
 
 &nbsp;
@@ -28,6 +27,7 @@ description: ¶
 * _Franny e Zooey_ — Jerome David Salinger
 * _Alzate l'architrave, carpentieri e Seymour. Introduzione_ — Jerome David Salinger
 * _Otello_ — William Shakespeare
+* _La tentazione di esistere_ — Emil Mihai Cioran ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/la-tentazione-di-esistere/) & ☞[{Podcasts}](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/108--Ogni-sensazione--legame-e23ag4r?%24web_only=true&_branch_match_id=1182970484691825260&utm_source=web&utm_campaign=web-share&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq0zMS87IL9ItT03SSywo0MvJzMvWT9UvLworyzNLNiqqSgIARyD22TAAAAA%3D)
 &nbsp;
 
 <span style="color:red">*2022 (dal primo all'ultimo)*</span>
