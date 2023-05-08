@@ -26,7 +26,33 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #108 (1•5•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #109 (8•5•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞["9 maggio, dirà la verità"](https://spotifyanchor-web.app.link/e/xwyuVTvEDzb)
+    
+    {{< youtube 5KAW1h4S__Y >}}
+    
+    &nbsp;
+    
+    Puntata 109 ovvero VideoPodcast 9! Dopo avervi svelato una questione personale, passo a concludere il racconto della mia sostituzione dell'iPad mini di sesta generazione con l'iPhone 14 Pro Max (sempre affiancato all'iPhone 12 mini). Descrivo bene la mia esperienza con la custodia trasparente originale Apple, alcuni accessori MagSafe, una piccola tracolla Eastpak, poi mostro i miei speaker Bluetooth Bose, e infine i libri, quello appena terminato e quelli che sto iniziando.
+    
+    • Stand MagSafe Anker:
+    
+    → [Su Instagram](https://instagram.com/p/CrvPz20NRJI/)
+    
+    → [Su Amazon](https://amzn.eu/d/6yRkS8L)
+
+    • Link articoli:
+    
+    → [iPhone multitasking](https://www.macstories.net/linked/is-landscape-mode-the-key-to-split-view-on-the-iphone/)
+    
+    → [Apple Watch multidispositivo](https://www.macrumors.com/2023/04/27/apple-watch-pairing-multiple-apple-devices/)
+
+    • [Quotes "La tentazione di esistere"](https://miry1919.github.io/hugosite/quote/la-tentazione-di-esistere/)
+
+---
+
+* Puntata #108 (1•5•2023)
 
     ☞[Ogni sensazione è legame](https://spotifyanchor-web.app.link/e/wrVvn6c2rzb)
     
