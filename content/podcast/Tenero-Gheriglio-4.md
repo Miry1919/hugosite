@@ -26,7 +26,17 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #109 (8•5•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #110 (15•5•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Sgretolando le nostre certezze](https://spotifyanchor-web.app.link/e/NqVxDDJhPzb)
+    
+    Nella puntata 110 si palesano le verità del 9 maggio, finisco di parlarvi dell'iPhone 14 Pro Max, e come spesso accade mi servo dell'immenso potere delle mie letture.
+
+    • [Quotes "La tentazione di esistere"](https://miry1919.github.io/hugosite/quote/la-tentazione-di-esistere/)
+    
+---
+
+* Puntata #109 (8•5•2023)
 
     ☞["9 maggio, dirà la verità"](https://spotifyanchor-web.app.link/e/xwyuVTvEDzb)
     
