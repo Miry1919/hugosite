@@ -7,7 +7,7 @@ date: 2023-04-29
 ---
 ---
 
-*C'è un motivo molto semplice per cui la demente continua ad andare accompagnata: teme ancora che la sua finzione possa provocare la mia assoluzione. Anche perché sa benissimo che non mi avvicino a lei nemmeno a pagamento, l'ho già detto, e anzi varrà sempre la regola "se la vedo scappo": le mie gambe partiranno sempre in automatico.*
+*C'è un motivo molto semplice per cui la demente continua ad andare accompagnata: teme ancora che la sua finzione possa provocare la mia assoluzione. E direi che fa benissimo a continuare a tremare, di deciso ancora non c'è niente; violazione della privacy inclusa. Inoltre sa benissimo che non mi avvicino a lei nemmeno a pagamento, l'ho già detto, e anzi varrà sempre la regola "se la vedo scappo": le mie gambe partiranno sempre in automatico.*
 
 <span style="color:red">*— 15 maggio 2023*</span>
 
