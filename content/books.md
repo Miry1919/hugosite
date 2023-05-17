@@ -27,7 +27,7 @@ No, farò una pausa causa esami.
 * _Franny e Zooey_ — Jerome David Salinger
 * _Alzate l'architrave, carpentieri e Seymour. Introduzione_ — Jerome David Salinger
 * _Otello_ — William Shakespeare
-* _La tentazione di esistere_ — Emil Mihai Cioran ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/la-tentazione-di-esistere/) & ☞[{Podcasts}](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/108--Ogni-sensazione--legame-e23ag4r?%24web_only=true&_branch_match_id=1182970484691825260&utm_source=web&utm_campaign=web-share&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq0zMS87IL9ItT03SSywo0MvJzMvWT9UvLworyzNLNiqqSgIARyD22TAAAAA%3D)
+* _La tentazione di esistere_ — Emil Mihai Cioran ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/la-tentazione-di-esistere/) & ☞[{Podcasts (1))}](https://spotifyanchor-web.app.link/e/wrVvn6c2rzb), ☞[{Podcasts (2)}](https://spotifyanchor-web.app.link/e/NqVxDDJhPzb)
 * _La colazione dei campioni_ — Kurt Vonnegut
 &nbsp;
 
