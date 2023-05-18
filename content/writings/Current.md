@@ -7,6 +7,12 @@ date: 2023-04-29
 ---
 ---
 
+*Evento eccezionale: un nuovo ☞[post](https://miry1919.github.io/hugosite/post/due-quadrifogli/)!*
+
+<span style="color:red">*— 18 maggio 2023*</span>
+
+---
+
 *Sto facendo stretching, oggi ho finito molto prima di mangiare. L'allenamento in programma è stato più leggero, di semi-scarico; come domenica sono uscita alle 11:30, e all'andata, in macchina, pioveva molto, tanto che mi stavo chiedendo che fine avrei fatto. Ma miracolosamente una volta arrivata a San Donato, smette completamente, parcheggio nell'unico posto rimasto libero e parto. Corsa perfetta, sulle colline alcuni esercizi fatti bene, poi mobilità, scioglimento, riparto per tornare alla macchina e solo lì comincia a piovere di nuovo in maniera consistente, una pioggia che mi accompagna fino a casa. Il cielo sa i miei orari, altrimenti non si spiega. Ho avvistato la ratmobile all'altezza del Rondò della Pieve alle 13:15, e sì, le mie gambe sono partite da sole, a velocità folle, mi sono pure buttata sulla piccola parallela della via Emilia con una sottospecie di parkour spettacolare, stavo morendo dal ridere ahaha. In realtà non mi ricordo se ho visto prima la strega nera sul posto anteriore lato passeggero, o la ratmobile, fatto sta che l'associazione delle due immagini mi ha provocato una reazione allergica che potrebbero cominciare a studiare. In più non riesco a capire se il marito fosse partito da casa mentre stavo facendo gli esercizi, in un momento in cui ero distratta, ma temo di no, perché capita spesso io non lo veda affatto: probabilmente va a prendere la moglie inabile dopo la sua giocata al circolo bocciofilo per anz... vecchi decrepiti. Devo anche aggiungere che dopo un momento di allegria in cui ieri, dopo aver scritto quaggiù, ho pensato che avrei dovuto essere solamente ancora più felice che la vaccona attualmente non guida, perché adesso senza di lei le strade sono più sicure al minimo del 99.9%, purtroppo mi sono ricordata che al suo posto guida il marito, e non è che se allora guida lui siamo messi meglio ahahahah! È pericolosissimo, va lento, sono sicura sia anche capace di mettersi fisso sulla corsia centrale in autostrada, e di andare a 50 km/h. I ciclisti del Giro d'Italia gli suonerebbero. Ha anche senso perché è suonato. Un'ultima cosa: la festa al rientro sulle colline era ovviamente un'invenzione letteraria, quale sbattimento inutile sarebbe, non sono una da feste, mi interessano altre cose.*
 
 <span style="color:red">*— 16 maggio 2023*</span>

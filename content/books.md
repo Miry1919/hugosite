@@ -5,13 +5,13 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Quando siete felici, fateci caso_ — Kurt Vonnegut
+No, sono in pausa causa esami.
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-No, farò una pausa causa esami.
+No, sono in pausa causa esami.
 
 &nbsp;
 
@@ -29,6 +29,7 @@ No, farò una pausa causa esami.
 * _Otello_ — William Shakespeare
 * _La tentazione di esistere_ — Emil Mihai Cioran ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/la-tentazione-di-esistere/) & ☞[{Podcasts (1)}](https://spotifyanchor-web.app.link/e/wrVvn6c2rzb), ☞[{Podcasts (2)}](https://spotifyanchor-web.app.link/e/NqVxDDJhPzb)
 * _La colazione dei campioni_ — Kurt Vonnegut
+* _Quando siete felici, fateci caso_ — Kurt Vonnegut
 &nbsp;
 
 <span style="color:red">*2022 (dal primo all'ultimo)*</span>
