@@ -7,6 +7,12 @@ date: 2023-04-29
 ---
 ---
 
+<blockquote class="twitter-tweet"><p lang="it" dir="ltr">«Una persona sana di mente in una società folle deve per forza apparire folle.»<br><br>— Kurt Vonnegut</p>&mdash; Miriana Novella (@Miry1919) <a href="https://twitter.com/Miry1919/status/1659488851050496001?ref_src=twsrc%5Etfw">May 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<span style="color:red">*— 19 maggio 2023*</span>
+
+---
+
 *Evento eccezionale: un nuovo ☞[post](https://miry1919.github.io/hugosite/post/due-quadrifogli/)!*
 
 <span style="color:red">*— 18 maggio 2023*</span>
