@@ -1,7 +1,7 @@
 ---
 title: "Le Mille e una Novella"
 description: Season 2, 2023
-date: 2022-07-16
+date: 2022-07-19
 ---
 
 <div align="center">È il mio secondo podcast. Finalmente l'ho fatto partire.</div>
@@ -12,7 +12,7 @@ date: 2022-07-16
 
 &nbsp;
 
-<div align="center">Seconda stagione da venerdì 15 settembre a venerdì 24 novembre 2023.</div>
+<div align="center">Seconda stagione da venerdì 22 settembre a venerdì 24 novembre 2023.</div>
 
 <div align="center">Appuntamento ogni venerdì alle h. 19:00.</div>
 
@@ -27,7 +27,7 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-Prossima puntata, puntata ١٠ (dieci): venerdì 15 settembre 2023.
+Prossima puntata, puntata ١٠ (dieci): venerdì 22 settembre 2023.
 
 ---
 
