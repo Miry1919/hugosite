@@ -4,7 +4,7 @@ description: Season 4, 2023
 date: 2023-02-20
 ---
 <div align="center">
-In questo podcast parlo di tutto. Ogni lunedì alle h. 19:00 esce una nuova puntata. Mesi operativi: marzo, aprile, maggio, settembre, ottobre, novembre.
+In questo podcast parlo di tutto. Ogni lunedì alle h. 19:00 esce una nuova puntata. Operativo da metà febbraio a metà maggio e da metà settembre a metà dicembre.
 </div>
 
 ---
@@ -26,7 +26,26 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #110 (15•5•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #111 (22•5•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[È diretto, e lui dice che non è un difetto](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/111---diretto--e-lui-dice-che-non--un-difetto-e24ec0l)
+    
+    Puntata 111, l'ultima prima della pausa estiva. Vi racconto del giorno del mio compleanno, del libro "Quando siete felici, fateci caso" di Kurt Vonnegut, da cui estraggo la storia di Ignaz Semmelweis, per discutere degli altezzosi "indovini" che sono al potere di varie istituzioni e propagano solo la loro ignoranza. Poi vi parlo dell'ultimo post sul mio sito, di come è stato influenzato dalla personalità di Kurt Vonnegut, e infine dei videogiochi che ho avuto sotto mano, del nuovissimo "The Legend of Zelda: Tears of the Kingdom". Prima dei saluti vi consiglio un video di Stefano Vendrame, per combattere lo stress. Chiudo in musica, con la canzone "I Am Free" di Tones And I. Buona WWDC, buona estate, grazie di cuore. Ci risentiamo lunedì 18 settembre 2023.
+
+    • Sul mio sito:
+    
+    → [Post "Due quadrifogli"](https://miry1919.github.io/hugosite/post/due-quadrifogli/)
+    
+    → [Writings](https://miry1919.github.io/hugosite/writings/)
+    
+    • [Stefano Vendrame, video per combattere lo stress](https://youtu.be/BLdMgrKfRuM)
+
+    
+    • [Canzone finale, "I Am Free" di Tones And I](https://music.apple.com/it/album/i-am-free/1678289585?i=1678289587&l=en)
+    
+---
+
+* Puntata #110 (15•5•2023)
 
     ☞[Sgretolando le nostre certezze](https://spotifyanchor-web.app.link/e/NqVxDDJhPzb)
     

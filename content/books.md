@@ -29,7 +29,7 @@ No, sono in pausa causa esami.
 * _Otello_ — William Shakespeare
 * _La tentazione di esistere_ — Emil Mihai Cioran ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/la-tentazione-di-esistere/) & ☞[{Podcasts (1)}](https://spotifyanchor-web.app.link/e/wrVvn6c2rzb), ☞[{Podcasts (2)}](https://spotifyanchor-web.app.link/e/NqVxDDJhPzb)
 * _La colazione dei campioni_ — Kurt Vonnegut
-* _Quando siete felici, fateci caso_ — Kurt Vonnegut
+* _Quando siete felici, fateci caso_ — Kurt Vonnegut ☞[{Podcasts}](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/111---diretto--e-lui-dice-che-non--un-difetto-e24ec0l)
 &nbsp;
 
 <span style="color:red">*2022 (dal primo all'ultimo)*</span>
