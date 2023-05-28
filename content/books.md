@@ -11,7 +11,11 @@ No, sono in pausa causa esami.
 
 #### <span style="color:red">Leggerò a breve</span>
 
-No, sono in pausa causa esami.
+* _L'ispettore generale_ — Nikolaj Gogol’
+* _Delitto e castigo_ — Fëdor Dostoevskij
+* _Don Chisciotte della Mancia_ — Miguel de Cervantes
+* _La metamorfosi e tutti racconti pubblicati in vita_ – Franz Kafka
+* _Guerra e pace_ – Lev Tolstoj
 
 &nbsp;
 
