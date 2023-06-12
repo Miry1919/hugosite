@@ -32,11 +32,11 @@ _♥ Mario Omodeo ~ 24•05•2022_
 
 ### <span style="color:red">Come donare?</span>
 
-Puoi mandare una donazione libera al mio ☞[conto Satispay](https://www.satispay.com/download/qrcode/S6Y-CON--4A100249-E43A-4CDA-BB0B-1ED7DA3EBE66), inquadrando il codice QR, inserendo la quota che preferisci (anche €1!) e digitando un messaggio col tuo nome/contatto, cosicché io possa scriverti un ringraziamento e aggiungerti su questa pagina piena di genuino orgoglio.
+Puoi mandare una donazione libera al mio ☞[conto Satispay](https://www.satispay.com/download/qrcode/S6Y-CON--4A100249-E43A-4CDA-BB0B-1ED7DA3EBE66), inquadrando il codice QR, inserendo la quota che preferisci (anche 1€!) e digitando un messaggio col tuo nome/contatto, cosicché io possa scriverti un ringraziamento e aggiungerti su questa pagina piena di genuino orgoglio.
 
 Grazie di cuore!
 
-Se non hai ancora un account Satispay (https://www.satispay.com) puoi farlo gratuitamente e inserendo il codice MIRIANANOV avremo entrambi €5.
+Se non hai ancora un account Satispay (https://www.satispay.com) puoi farlo gratuitamente e inserendo il codice MIRIANANOV avremo entrambi, al minimo, 5€.
 
 ---
 ---
