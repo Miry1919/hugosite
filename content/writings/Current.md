@@ -7,9 +7,9 @@ date: 2023-06-29
 ---
 ---
 
-*Stamattina era in previsione la corsa, ed è andata ☞[così](https://youtu.be/Ox3JGzTe4BI).
+*Stamattina era in previsione la corsa, ed è andata ☞[così](https://youtu.be/Ox3JGzTe4BI).*
 
-(Vedi descrizione del video su YouTube).*
+*(Vedi descrizione del video su YouTube).*
 
 <span style="color:red">*— 21 luglio 2023*</span>
 
