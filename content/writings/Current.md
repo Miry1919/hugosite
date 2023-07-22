@@ -7,6 +7,12 @@ date: 2023-06-29
 ---
 ---
 
+*Ripensandoci a me di scrivere stupidi saggi non importa una mazza. Se non leggeremo la parola assolto, perché anche di quello non me ne importerà una mazza, io ve lo prometto, leggeremo comunque "Assolto", e poi leggeremo tutto. Leggeremo libri incredibili, "Assolto", "Tutto". Ormai i saggi li scrivono pure i (gli editori dei) calciatori ignoranti, non mi ridurrò a così bassi intenti. Sono più da libri veri, e con titoli netti, da una parola. La Bibbia tremerà. Perché il velo prima o poi si squarcia, ma pure il tendalino della cucina di quella. Nella sindone di lino pregiato sono impresse le mie torture, una volta lavate nell'acqua di mare faranno tanto rumore. Tutti i pesci ne sentiranno l'odore, il sapore, e il profumo vivace evaporerà: persino gli uccelli rimarranno storditi. Tra tutti gli esseri vaganti, solo chi di sua volontà chiuderà gli occhi non guarirà da tutti i mali più incoerenti. 19:15.*
+
+<span style="color:red">*— 22 luglio 2023*</span>
+
+---
+
 *Stamattina era in previsione la corsa, ed è andata ☞[così](https://youtu.be/Ox3JGzTe4BI).*
 
 *(Vedi descrizione del video su YouTube).*
