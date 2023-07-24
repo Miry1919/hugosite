@@ -11,7 +11,7 @@ date: 2023-06-29
 
 *Il giudice Ammos Fedorovic Ljapkin-Tjapkin (in russo "delat' tjap-ljap" significa "fare qualcosa alla bell'e meglio"):*
 
-*«Io invece, per quel che mi riguarda sono tranquillo. In effetti, chi andrà mai a dare un'occhiata al tribunale ditrettuale? E anche se dovesse dare un'occhiata a qualche incartamento, gliene passerebbe subito la voglia. Sono ormai quindici anni che me ne sto seduto sullo scranno del tribunale, e quando do un'occhiata a un verbale, ah! Mi limito a fare un gesto sconsolato con la mano. Salomone in persona non riuscirebbe a distinguere il vero dal falso.»*
+*«Io invece, per quel che mi riguarda sono tranquillo. In effetti, chi andrà mai a dare un'occhiata al tribunale distrettuale? E anche se dovesse dare un'occhiata a qualche incartamento, gliene passerebbe subito la voglia. Sono ormai quindici anni che me ne sto seduto sullo scranno del tribunale, e quando do un'occhiata a un verbale, ah! Mi limito a fare un gesto sconsolato con la mano. Salomone in persona non riuscirebbe a distinguere il vero dal falso.»*
 
 <span style="color:red">*— 24 luglio 2023*</span>
 
