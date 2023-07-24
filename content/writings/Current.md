@@ -7,6 +7,16 @@ date: 2023-06-29
 ---
 ---
 
+*L'allenamento di ieri mattina è stato fantastico, fresco, e anche gli esercizi al laghetto insieme a Mario. Il laghetto gode di un'ottima salute, è alto, pieno, e pieno di entusiasmo muove le correnti nel suo bacino. In questi giorni continua a piovere, a fare grandine, il nord Italia è incontenibile, tanto da creare una sensazione di colpa se si guarda la gente soffocare nel caldo del centro e del sud della penisola. E allora piove, e piove ancora, e poi si ferma, e poi rilancia. Con la stessa gioia ed energia che mi accompagna. È riposante, il fresco, ma anche leggere nuovamente, e ritrovarsi, stupirsi di avere addosso già certi discorsi, personaggi. Gogol', senza alcuna sorpresa – dei grandi autori riguardo a questo ho già scritto, non tanto sotto –, nel suo testo ha un'ironia favolosa, un sarcasmo sprezzante, e ovviamente ne "L'ispettore generale" crea un personaggio insulso, per deriderlo, per descriverlo, e lascerò semplicemente le sue parole perché non serve dire altro. La letteratura, quella vera, ha un enorme compito, e leggendo e scrivendo opere importanti (se ne si ha la propensione), va continuato. Ah dimenticavo, ho riso tutto il giorno, perché il tendalino si è davvero rotto.*
+
+*Il giudice Ammos Fedorovic Ljapkin-Tjapkin (in russo "delat' tjap-ljap" significa "fare qualcosa alla bell'e meglio"):*
+
+*«Io invece, per quel che mi riguarda sono tranquillo. In effetti, chi andrà mai a dare un'occhiata al tribunale ditrettuale? E anche se dovesse dare un'occhiata a qualche incartamento, gliene passerebbe subito la voglia. Sono ormai quindici anni che me ne sto seduto sullo scranno del tribunale, e quando do un'occhiata a un verbale, ah! Mi limito a fare un gesto sconsolato con la mano. Salomone in persona non riuscirebbe a distinguere il vero dal falso.»*
+
+<span style="color:red">*— 24 luglio 2023*</span>
+
+---
+
 *Ripensandoci a me di scrivere stupidi saggi non importa una mazza. Se non leggeremo la parola assolto, perché anche di quello non me ne importerà una mazza, io ve lo prometto, leggeremo comunque "Assolto", e poi leggeremo tutto. Leggeremo libri incredibili, "Assolto", "Tutto". Ormai i saggi li scrivono pure i (gli editori dei) calciatori ignoranti, non mi ridurrò a così bassi intenti. Sono più da libri veri, e con titoli netti, da una parola. La Bibbia tremerà. Perché il velo prima o poi si squarcia, ma pure il tendalino della cucina di quella. Nella sindone di lino pregiato sono impresse le mie torture, una volta lavate nell'acqua di mare faranno tanto rumore. Tutti i pesci ne sentiranno l'odore, il sapore, e il profumo vivace evaporerà: persino gli uccelli rimarranno storditi. Tra tutti gli esseri vaganti, solo chi di sua volontà chiuderà gli occhi non guarirà da tutti i mali più incoerenti. 19:15.*
 
 <span style="color:red">*— 22 luglio 2023*</span>
