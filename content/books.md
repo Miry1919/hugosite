@@ -5,7 +5,7 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Delitto e castigo_ — Fëdor Dostoevskij
+No, sono in pausa causa esami.
 
 &nbsp;
 
@@ -33,6 +33,7 @@ description: ¶
 * _La colazione dei campioni_ — Kurt Vonnegut
 * _Quando siete felici, fateci caso_ — Kurt Vonnegut ☞[{Podcasts}](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/111---diretto--e-lui-dice-che-non--un-difetto-e24ec0l)
 * _L'ispettore generale - Il matrimonio - I giocatori_ — Nikolaj Gogol’
+* _Delitto e castigo_ — Fëdor Dostoevskij
 &nbsp;
 
 <span style="color:red">*2022 (dal primo all'ultimo)*</span>
