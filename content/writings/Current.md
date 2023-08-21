@@ -7,6 +7,31 @@ date: 2023-06-29
 ---
 ---
 
+*Avrò già ascoltato 100 volte "Ride Alone Again" di LYOD oggi. Sono ipnotizzata da quelle note. Stamattina ci ho corso per 40 minuti, e fatto gli esercizi per 20 sempre con lei. È la sua giornata. Ma non è una novità, mi capita spesso di avere la canzone della giornata. La musica è la cosa più bella che esista.*
+
+*
+...
+I won't Ride Alone Again
+Leave it all behind
+Tomorrow will be our friend
+I won't Ride Alone Again
+I won't Ride Alone Again
+I won't Ride Alone Again
+I won't Ride Alone Again
+...
+(In my mind
+In my mind
+In my!
+In my mind
+In my mind
+In my!
+In my mind
+In my mind)*
+
+<span style="color:red">*— 21 agosto 2023*</span>
+
+---
+
 <span style="text-decoration:underline">C'è un bambino che piange</span>
 
 &nbsp;
