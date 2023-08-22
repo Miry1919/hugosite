@@ -7,7 +7,7 @@ date: 2023-06-29
 ---
 ---
 
-*La luna è meravigliosa stasera, nitida come non l'avevo mai vista. O sarà la mia gioia pura a renderla così sincera, non è nemmeno mezza, ma è tutto, è luce riflessa, un riferimento. Le stelle io le ho, sopra e dentro, e il domani, lo sento profondamente, è amico, davvero. Sono giorni caldissimi, oggi siamo arrivati a 37 gradi centigradi in questo posto inutile nell'universo, ma il mio. E grazie a Dio un ingegnere un giorno ha detto, sai che c'è io il condizionatore lo invento, chissà. E chissà se ora sa che io vivo tranquilla, da sola, nella mia casetta, e studio, con 27 gradi centigradi, dieci in meno dell'esterno. Mi perdo tra la programmazione e la matematica, le infrastrutture di rete e la vita. Amo Mario, lui non mi vuole lasciare andare, a parte per il mare. Sono sere preziose, dentro le viscere dell'incantesimo del tempo.*
+*La luna è meravigliosa stasera, nitida come non l'avevo mai vista. O sarà la mia gioia pura a renderla così sincera, non è nemmeno mezza ma è tutto, è luce riflessa, un riferimento. Le stelle io le ho, sopra e dentro, e il domani, lo sento profondamente, è amico, davvero. Sono giorni caldissimi, oggi siamo arrivati a 37 gradi centigradi in questo posto inutile nell'universo, ma il mio. E grazie a Dio un ingegnere un giorno ha detto, sai che c'è io il condizionatore lo invento, chissà. E chissà se ora sa che io vivo tranquilla, da sola, nella mia casetta, e studio, con 27 gradi centigradi, dieci in meno dell'esterno. Mi perdo tra la programmazione e la matematica, le infrastrutture di rete e la vita. Amo Mario, lui non mi vuole lasciare andare, a parte per il mare. Sono sere preziose, dentro le viscere dell'incantesimo del tempo.*
 
 <span style="color:red">*— 22 agosto 2023*</span>
 
