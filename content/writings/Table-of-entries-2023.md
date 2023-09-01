@@ -1,7 +1,7 @@
 ---
 title: Table of Entries
 description: 2023
-date: 2023-06-30
+date: 2023-09-01
 ---
 
      Summer  |   Jul   |   Aug   |   Sep   
