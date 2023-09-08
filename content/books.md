@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-No, sono in pausa causa esami.
+* _Don Chisciotte della Mancia_ — Miguel de Cervantes
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _Don Chisciotte della Mancia_ — Miguel de Cervantes
 * _La metamorfosi e tutti i racconti pubblicati in vita_ – Franz Kafka
 * _Guerra e pace_ – Lev Tolstoj
 
