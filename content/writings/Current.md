@@ -7,6 +7,12 @@ date: 2023-08-30
 ---
 ---
 
+*Dopo aver scritto alla zoccola che la vedo se va da sola a scuola, non si è più permessa, si è fatta accompagnare e prendere per tutta la prima settimana. Benissimo ahaha. Ma è davvero così difficile capire che io godo tantissimo se fa l'invalida? So proud. Fatti accompagnare dal papino mi raccomando, che sennò hai paura di me, vero, mi dimentico sempre che sono un mostro gigante al quale sorridono tutti, pure quelli senza denti, non mi resistono. Ahahahaha.......ahaha... Oggi un dipendente della BMW è appunto passato dicendomi "che costanza", per gli allenamenti. No, ma per la (in)giustizia italiana sono finti, e da anni io vado sulle colline solamente per quell'ippopotamo femmina vecchio, demente e inguardabile (ormai mi fa schifo vederla e quando passa mi metto le mani sugli occhi; un giorno l'ho intravista in balcone e ho coperto subito gli occhi). Scusatemi per l'offesa ippopotami, scusatemi. Nessuno, può nemmeno immaginare cosa succederà tra poco di bellissimo, neanche io, promesso.*
+
+<span style="color:red">*— 15 settembre 2023*</span>
+
+---
+
 *Oggi sono stata tutto il giorno al Salone del Camper, a Parma. Sarà la quinta volta che ci vado coi miei, è sempre molto bella, piena di gente di tutti i tipi, di cani di tutti i tipi, e ovviamente di camper di tutti i tipi, van, furgonati e accessori annessi. Si capisce sempre tanto parlando con le persone, osservando, e anche in questa circostanza è valso come al solito. Devo fare due precisazioni. Uno, quando ho scritto "inverno", nell'inserimento di venerdì 8 settembre (mattina), intendevo autunno + inverno + primavera, ma si sa, non esistono più le mezze stagioni, o meglio, esiste solo un'estate che si protrae infinitamente e basta. Due, ieri la piscina all'aperto di Via Caviaga (Snam) ha aperto per l'ultimo giorno della stagione, quindi contando che di sabato o di domenica non ci vado nemmeno se mi pagano, ho sfruttato al massimo, senza saperlo, esattamente l'ultimo giorno disponibile. Che precisione! Strano eh. Miriana precisa e puntuale: mai. Con precisione, miss precisetti saluta di cuore. Memento audere semper.*
 
 <span style="color:red">*— 11 settembre 2023*</span>
