@@ -26,7 +26,7 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #112 (22•5•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #112 (18•9•2023) <span style="color:orange">⚡️ New!</span>
 
     ☞[Quante cose son successe nella mia pausa](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/112--Quante-cose-son-successe-nella-mia-pausa-e29f51a)
     
