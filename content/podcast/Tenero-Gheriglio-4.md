@@ -26,7 +26,35 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #111 (22•5•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #112 (22•5•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Quante cose son successe nella mia pausa](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/112--Quante-cose-son-successe-nella-mia-pausa-e29f51a)
+    
+    Riprende Tenero Gheriglio, puntata 112, seconda metà della 4ª stagione. Parlo della WWDC del 5 giugno (sistemi operativi e Vision Pro), dell'ultimo evento Apple del 12 settembre (iPhone 15, 15 Plus, 15 Pro, 15 Pro Max e Apple Watch Serie 9, Ultra 2) con tutte le novità: titanio, peso, usb-c, action button, 1, 2000, 3000 nit, RAM, batteria, chip 3 nanometri. Aggiungo anche qualcosa sui videogiochi, sulle letture, uno spoiler sul nuovo monitor, una recensione su Apple Podcasts. Ci vediamo nel VideoPodcast della prossima settimana, buoni aggiornamenti software!
+
+    • [Le Mille e una Novella (2ª stagione)](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-2/)
+    
+    • Post Instagram (dal più recente):
+    
+    → [After workout](https://www.instagram.com/p/CxS6lVptoAW/?igshid=MzRlODBiNWFlZA==)
+    
+    → [Pizza](https://www.instagram.com/p/CwsSMt9tut7/?igshid=MzRlODBiNWFlZA==)
+    
+    → [Borgo di Zivido](https://www.instagram.com/p/CwNgOW0t6M5/?igshid=MzRlODBiNWFlZA==)
+    
+    → [Mare](https://www.instagram.com/p/Cvz73t7N_zK/?igshid=MzRlODBiNWFlZA==)
+    
+    → [Windsurf reel](https://www.instagram.com/reel/CvsCAZqtMXl/?igshid=MzRlODBiNWFlZA==)
+    
+    → [Tennis 2](https://www.instagram.com/p/CuemRV5NrUc/?igshid=MzRlODBiNWFlZA==)
+    
+    → [Tennis 1](https://www.instagram.com/p/Ctl0FaVtcY6/?igshid=MzRlODBiNWFlZA==)
+    
+    → [Libreria](https://www.instagram.com/p/Cs6hbdUtBKy/?igshid=MzRlODBiNWFlZA==)
+    
+---
+
+* Puntata #111 (22•5•2023)
 
     ☞[È diretto, e lui dice che non è un difetto](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/111---diretto--e-lui-dice-che-non--un-difetto-e24ec0l)
     
