@@ -142,11 +142,7 @@ Nella pagina attuale trovi la stagione 1, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-<span style="color:blue">Trailer • La Novella di Natale ★</span>
-
-{{< youtube RU3OZjAnR0c >}}
-    
-&nbsp;
+<span style="color:blue">☞[<span style="color:blue">Trailer • La Novella di Natale ★</span>](https://podcasters.spotify.com/pod/show/miriana-novella16/episodes/Trailer--La-Novella-di-Natale-e29i9hh)</span>
 
 *Ogni stagione conterrà 10 storie da 3 minuti, quindi ogni stagione durerà 10 settimane, però non si sa quando uscirà un'altra stagione...*
 
