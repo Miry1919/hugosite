@@ -27,8 +27,10 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-Prossima puntata, puntata ١٠ (dieci): venerdì 22 settembre 2023.
+<span style="color:blue">☞ [١٠ Introduzione, seconda stagione ☾ • 22/09/2023](https://podcasters.spotify.com/pod/dashboard/episode/e29k4e1)</span>
+
+*Servirebbe una seconda introduzione di riflessione, giusto per accertarsi di sapere cosa vogliamo fare. Ricominciare non è mai facile. È come rituffarsi nell’acqua e ricordarsi che si galleggia, e poi provare ad avanzare, con l’attrito dell’acqua che si oppone. Ma alla fine è semplice, basta iniziare e poi si scivola: se si parte e si pazienta si arriva dovunque. Non si deve pretendere di chiedere continuamente dove stiamo andando, non stiamo andando da nessuna parte. Il cuore ci salva da un’esistenza fredda e senza meta. Però dobbiamo avere cuore, se non abbiamo cuore ci sembrerà inutile il dolore, senza senso l’aspettare. È giusto non sapere la destinazione ma il viaggio deve avere l’ambizione di arrivarci, alla destinazione, perché per capirci qualcosa dobbiamo sperare ci siano cose grandi, lì avanti; ma grandi davvero, sempre più grandi di quello che può essere grande, sempre più belle di quello che può essere bello.*
+
+*Se non mi sono spiegata bene, vi siete persi, e tutto questo non c’azzecca niente, bene; volevo farci smarrire per poi farci ritrovare il percorso, e se non troviamo il percorso sarà il percorso a trovare noi! Quante volte si dice “non avrei mai immaginato sarebbe andata così”, in positivo o in negativo cambia poco. Non scegliamo del tutto noi, non credete? È probabile non lo crediate, ma forse sarebbe presuntuoso ammettere di avere pieno controllo. Una vita non ha controllo da quando nasce a quando muore, se ce l’avesse non morirebbe. E la chiamiamo vita ma potremmo chiamarla in qualsiasi altro modo, di fatto non sappiamo veramente cos’è. Un flusso inarrestabile, come questo in cui siamo finiti anche io e te, e chiunque abbia ascoltato. Ci sentiamo presto, altre storie racconteranno la vita, o questa cosa che chiamiamo vita e non sappiamo perché. Grazie.*
 
 ---
-
-<script async src="https://widget.spreaker.com/widgets.js"></script>

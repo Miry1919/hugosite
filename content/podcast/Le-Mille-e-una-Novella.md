@@ -96,7 +96,7 @@ Nella pagina attuale trovi la stagione 1, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-<span style="color:blue">٣ I denti, la scala mobile, le scatolette di tonno • 07/10/2022
+<span style="color:blue">٣ I denti, la scala mobile, le scatolette di tonno • 07/10/2022</span>
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/51500523" data-resource="episode_id=51500523" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "٣ I denti, la scala mobile, le scatolette di tonno" on Spreaker.</a>
 
@@ -132,7 +132,7 @@ Nella pagina attuale trovi la stagione 1, invece la stagione 2 la trovi [qui](ht
 
 ---
 
-<span style="color:blue">٠ Introduzione, prima stagione ☾</span> <span style="color:orange">
+<span style="color:blue">٠ Introduzione, prima stagione ☾ • 16/09/2022</span>
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/51282693" data-resource="episode_id=51282693" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "٠ Introduzione, prima stagione ☾" on Spreaker.</a>
 
