@@ -26,7 +26,29 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #112 (18•9•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #113 (24•9•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Li prendo un attimo, che son qua sotto e sono pesantissimi](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/113--Li-prendo-un-attimo--che-son-qua-sotto-e-sono-pesantissimi-e29n6ou)
+    
+    {{< youtube -oxsKT-Kn2o >}}
+    
+    &nbsp;
+    
+    Puntata 113, pubblicata in anticipo a sorpresa. Dopo avervi aggiornato su alcune questioni personali di salute, e avervi ricordato dell'uscita della seconda stagione di ☞["Le Mille e una Novella"](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-2/), parto a tutta per farvi vedere le mie nuove custodie per iPhone Max e iPhone mini, le confronto con quelle vecchie, aggiungo il ricordo di una corsa sotto la pioggia, poi mostro le nuove scarpe da corsa, dell'abbigliamento Adidas, il mio nuovo cinturino intrecciato rosso per il mio Apple Watch Ultra facendo una guida per la misura da acquistare, gli altri cinturini che sto continuando a usare per allenarmi, per nuotare, per il mare, infine vi parlo di Double Tap, del drop test iPhone 14 Pro vs iPhone 15 Pro, delle mie nuotate, e dei libri nel finale.
+    
+    • [Corsa bagnata, corsa fortunata [Instagram Stories (without editing) – 21/07/2023]](https://youtu.be/Ox3JGzTe4BI?si=OJD7FGl5cbLsyOJj)
+    
+    • [5 km in "vasca lunga"](https://www.instagram.com/p/Cw8Yo29thxs/?igshid=MzRlODBiNWFlZA==)
+    
+    • [Reel Instagram "Snoopy & braided loop"](https://www.instagram.com/reel/CxdB6YxILpQ/?igshid=MzRlODBiNWFlZA==))
+    
+    • [Post Instagram "monitor spoiler"](https://www.instagram.com/p/CxVYTGkNB8X/?igshid=MzRlODBiNWFlZA==)
+    
+    • [Drop Test iPhone 15 Pro vs iPhone 14 Pro](https://youtu.be/9qOLjKzc-kQ?si=3ETKvuKesiYLKHmA)
+    
+---
+
+* Puntata #112 (18•9•2023)
 
     ☞[Quante cose son successe nella mia pausa](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/112--Quante-cose-son-successe-nella-mia-pausa-e29f51a)
     
