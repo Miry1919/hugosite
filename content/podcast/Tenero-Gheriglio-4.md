@@ -40,7 +40,7 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
     
     • [5 km in "vasca lunga"](https://www.instagram.com/p/Cw8Yo29thxs/?igshid=MzRlODBiNWFlZA==)
     
-    • [Reel Instagram "Snoopy & braided loop"](https://www.instagram.com/reel/CxdB6YxILpQ/?igshid=MzRlODBiNWFlZA==))
+    • [Reel Instagram "Snoopy & braided loop"](https://www.instagram.com/reel/CxdB6YxILpQ/?igshid=MzRlODBiNWFlZA==)
     
     • [Post Instagram "monitor spoiler"](https://www.instagram.com/p/CxVYTGkNB8X/?igshid=MzRlODBiNWFlZA==)
     
