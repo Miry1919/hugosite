@@ -9,9 +9,9 @@ date: 2023-08-30
 
 *Stamattina come al solito allenamento perfetto, ho anche trovato un carrello con addirittura un euro dentro (non i soliti 50 cent che ho sempre trovato, che generosità!), l'ho portato a posto sempre correndo per intascarmelo, è sempre allenante, poi ho accompagnato un'anziana dolcissima sulle strisce pedonali, povera, aspettava e sembrava persa nell'universo; ed è già uscito Tenero Gheriglio.*
 
-    {{< youtube -oxsKT-Kn2o >}}
+{{< youtube -oxsKT-Kn2o >}}
     
-    &nbsp;
+&nbsp;
 
 <span style="color:red">*— 24 settembre 2023*</span>
 
