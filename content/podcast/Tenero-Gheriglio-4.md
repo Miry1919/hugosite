@@ -26,7 +26,22 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #113 (24•9•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #114 (2•10•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Ho fatto tutta una ricerca](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/114--Ho-fatto-tutta-una-ricerca-e2a28hv)
+    
+    Puntata 114, dedicata al mio nuovo monitor ☞[LG UltraFine 4k 24"](https://www.lg.com/it/monitor/lg-24md4kl-b). Vi lascerei all'ascolto.
+
+    EDIT. Ovviamente intendevo MacBook 14", non 13".
+    
+    • [Post Instagram Monitor](https://www.instagram.com/p/Cx5aH3ZtQHy/?igshid=MzRlODBiNWFlZA==)
+    
+    • [Sito francese su cui ho comprato il monitor](https://www.ldlc.com/it-it/), ma dove purtroppo non è più disponibile.
+    
+---
+
+
+* Puntata #113 (24•9•2023)
 
     ☞[Li prendo un attimo, che son qua sotto e sono pesantissimi](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/113--Li-prendo-un-attimo--che-son-qua-sotto-e-sono-pesantissimi-e29n6ou)
     
