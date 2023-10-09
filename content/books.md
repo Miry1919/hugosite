@@ -31,7 +31,7 @@ description: ¶
 * _La tentazione di esistere_ — Emil Mihai Cioran ☞[{Quotes}](https://miry1919.github.io/hugosite/quote/la-tentazione-di-esistere/) & ☞[{Podcasts (1)}](https://spotifyanchor-web.app.link/e/wrVvn6c2rzb), ☞[{Podcasts (2)}](https://spotifyanchor-web.app.link/e/NqVxDDJhPzb)
 * _La colazione dei campioni_ — Kurt Vonnegut
 * _Quando siete felici, fateci caso_ — Kurt Vonnegut ☞[{Podcasts}](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/111---diretto--e-lui-dice-che-non--un-difetto-e24ec0l)
-* _L'ispettore generale - Il matrimonio - I giocatori_ — Nikolaj Gogol’
+* _L'ispettore generale - Il matrimonio - I giocatori_ — Nikolaj Gogol’ ☞[{Podcasts}](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/115--Se-unanima--buona-e-grande--e-ha-un-cuore--allora-pu-ridere-davvero-e2abj8b)
 * _Delitto e castigo_ — Fëdor Dostoevskij
 &nbsp;
 
