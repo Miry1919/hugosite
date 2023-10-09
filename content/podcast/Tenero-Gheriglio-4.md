@@ -26,7 +26,33 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #114 (2•10•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #115 (9•10•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Se un'anima è buona e grande, e ha un cuore, allora può ridere davvero](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/115--Se-unanima--buona-e-grande--e-ha-un-cuore--allora-pu-ridere-davvero-e2abj8b)
+    
+    Nella puntata 115 faccio una cosa che non avevo mai fatto prima: leggo cinque pagine de "L'ispettore generale" di Nikolaj Gogol’, pagine di cui avevo dimenticato il contenuto, per poi commentarle in diretta. Nella parte finale consiglio due serie tv, un documentario, un bellissimo sito per immergersi nel deep sea; leggo due tweet o insomma due post su x.com.
+    
+    • [Books](https://miry1919.github.io/hugosite/books/)
+    
+    • Su Apple TV+:
+    
+    → [The Morning Show 3](https://tv.apple.com/it/show/the-morning-show/)
+    
+    → [Prehistoric Planet 2](https://tv.apple.com/it/show/prehistoric-planet/)
+    
+    → [Physical 3](https://tv.apple.com/it/show/physical/)
+    
+    • [The Deep Sea](https://neal.fun/deep-sea/)
+    
+    • x.com:
+    
+    → [Tweet 1](https://x.com/miry1919/status/1709685150668173795?s=46&t=gtI9HWN1ziKClnoNUf4LJA)
+    
+    → [Tweet 2](https://x.com/miry1919/status/1707821024987783203?s=46&t=gtI9HWN1ziKClnoNUf4LJA)
+    
+---
+
+* Puntata #114 (2•10•2023)
 
     ☞[Ho fatto tutta una ricerca](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/114--Ho-fatto-tutta-una-ricerca-e2a28hv)
     
