@@ -7,7 +7,9 @@ date: 2023-08-30
 ---
 ---
 
-*Chi sarà mai la vampira della puntata 13 di ☞[Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-2/)? Davvero è impossibile capirlo ahahah.*
+*Chi sarà mai la vampira della puntata 13 di ☞[Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-2/)? Davvero è impossibile capirlo ahaha.*
+
+<span style="color:red">*— 13 ottobre 2023*</span>
 
 ---
 
