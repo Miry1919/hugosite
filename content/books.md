@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Don Chisciotte della Mancia_ — Miguel de Cervantes
+* _La metamorfosi e tutti i racconti pubblicati in vita_ – Franz Kafka
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _La metamorfosi e tutti i racconti pubblicati in vita_ – Franz Kafka
 * _Guerra e pace_ – Lev Tolstoj
 
 &nbsp;
@@ -33,6 +32,7 @@ description: ¶
 * _Quando siete felici, fateci caso_ — Kurt Vonnegut ☞[{Podcasts}](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/111---diretto--e-lui-dice-che-non--un-difetto-e24ec0l)
 * _L'ispettore generale - Il matrimonio - I giocatori_ — Nikolaj Gogol’ ☞[{Podcasts}](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/115--Se-unanima--buona-e-grande--e-ha-un-cuore--allora-pu-ridere-davvero-e2abj8b)
 * _Delitto e castigo_ — Fëdor Dostoevskij
+* _Don Chisciotte della Mancia_ — Miguel de Cervantes
 &nbsp;
 
 <span style="color:red">*2022 (dal primo all'ultimo)*</span>
