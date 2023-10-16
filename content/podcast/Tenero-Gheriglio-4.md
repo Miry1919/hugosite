@@ -26,7 +26,21 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #115 (9•10•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #116 (16•10•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Aspetto un attimino, mi ripiglio, e poi posso agire con lo stretching](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/116--Aspetto-un-attimino--mi-ripiglio--e-poi-posso-agire-con-lo-stretching-e2al7p5)
+    
+    Nella puntata centosedici, un po’ su di giri, tra rumor iPaddosi e notizie inaspettate da parte degli operatori telefonici, arriviamo a parlare delle zone blu, della longevità, non prima di avervi aggiornato sui miei allenamenti, sugli attrezzi che utilizzo, sul perché dell’importanza di come mangio.
+    
+    • [Modem Router](https://amzn.eu/d/96ouaMf) nuovo che ho preso
+    
+    • [Tappetino da esterno](https://www.decathlon.it/p/tappetino-fitness-indoor-e-outdoor-120x58cm/_/R-p-311431), che costa 15€ (non 20€)
+    
+    • [Video YouTube “Le zone blu e il segreto della longevità”](https://youtu.be/0Hye48XafsM?si=xfTSONHLCHWVpSuf) di Stefano Vendrame
+    
+---
+
+* Puntata #115 (9•10•2023)
 
     ☞[Se un'anima è buona e grande, e ha un cuore, allora può ridere davvero](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/115--Se-unanima--buona-e-grande--e-ha-un-cuore--allora-pu-ridere-davvero-e2abj8b)
     
