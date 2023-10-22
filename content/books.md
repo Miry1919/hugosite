@@ -5,13 +5,13 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _La metamorfosi e tutti i racconti pubblicati in vita_ – Franz Kafka
+* _Guerra e pace_ – Lev Tolstoj
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _Guerra e pace_ – Lev Tolstoj
+No, farò una pausa causa esami.
 
 &nbsp;
 
@@ -33,6 +33,7 @@ description: ¶
 * _L'ispettore generale - Il matrimonio - I giocatori_ — Nikolaj Gogol’ ☞[{Podcasts}](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/115--Se-unanima--buona-e-grande--e-ha-un-cuore--allora-pu-ridere-davvero-e2abj8b)
 * _Delitto e castigo_ — Fëdor Dostoevskij
 * _Don Chisciotte della Mancia_ — Miguel de Cervantes
+* _La metamorfosi e tutti i racconti pubblicati in vita_ – Franz Kafka
 &nbsp;
 
 <span style="color:red">*2022 (dal primo all'ultimo)*</span>
