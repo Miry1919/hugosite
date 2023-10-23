@@ -26,7 +26,17 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #116 (16•10•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #117 (23•10•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Tutto quello che ho fatto è stato così particolare che mi ha segnata](https://spotifyanchor-web.app.link/e/Cm0kBMlu8Db)
+    
+    Centodiciassettesima puntata! Dopo aver parlato di “Super Mario Bros Wonder” e della mia cronologia Nintendo, passo a qualche rumor Apple. Poi parlo dell’infelice (per ora) istallazione della fibra ottica a casa. Infine vi aggiorno sui libri che ho finito (“La metamorfosi e tutti i racconti pubblicati in vita” di Franz Kafka) e che sto iniziando (“Guerra e pace” di Lev Tolstoj), e vi ricordo l’esistenza e la progressione del mio secondo podcast ☞[“Le Mille e una Novella”](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-2/).
+    
+    • [Donazione libera su Satispay](https://miry1919.github.io/hugosite/donors/)
+    
+---
+
+* Puntata #116 (16•10•2023)
 
     ☞[Aspetto un attimino, mi ripiglio, e poi posso agire con lo stretching](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/116--Aspetto-un-attimino--mi-ripiglio--e-poi-posso-agire-con-lo-stretching-e2al7p5)
     
