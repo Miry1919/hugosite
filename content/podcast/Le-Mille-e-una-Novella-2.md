@@ -27,7 +27,7 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-<span style="color:blue">☞ [<span style="color:blue">١٥ Mezzi molesti • 27/10/2023</span>]()</span> <span style="color:orange">⚡️ New!</span>
+<span style="color:blue">☞ [<span style="color:blue">١٥ Mezzi molesti • 27/10/2023</span>](https://spotifyanchor-web.app.link/e/pLl8k777eEb)</span> <span style="color:orange">⚡️ New!</span>
 
 *Molte volte uscendo dal capolinea della metropolitana perdo la coincidenza, ed essendo che l'autobus è appena andato via, mi metto a camminare fino al liceo di Via Martiri di Cefalonia, per poi salire sull'autobus successivo e andare a casa. E non lo faccio perché mi piaccia particolarmente quel luogo, ma dritto per dritto si arriva precisamente in quel punto prima dell'arrivo dell'autobus successivo. È poco più di un quarto d'ora di camminata, che quando fa freddo serve anche per non congelare stando fermi impalati in fermata. Fare questo però ha senso solo quando non si è in orari inavvicinabili, come tra le 13 e le 14, perché a quell'ora continuano a uscire gli studenti, che riempiono fino a scoppiare i mezzi pubblici. Martedì mattina, al ritorno, ho fatto il grave errore di pensare che a metà dell'ora critica non ci sarebbero stati problemi, ma non è andata così; entro nell'autobus per miracolo, spingendo un pochino, tra l'altro la camminata mi ha abbastanza accaldata: sembra far freddo ma invece ti sei coperto troppo perché in realtà non fa freddo, è questo il nuovo mondo.*
 
