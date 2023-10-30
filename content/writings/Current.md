@@ -7,7 +7,7 @@ date: 2023-08-30
 ---
 ---
 
-*La puntata 118 di ☞[Tenero Gheriglio](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-4/) appena uscita mi ha fatto capire che quella zoccolona viscida ha fatto come i truffatori che ti chiamano sul telefono fisso: non ha registrato una serie di "sì" per confermare l'accettazione di un contratto, ma ha registrato un video falsissimo per farmi andare a vedere il manicomio (sempre il tribunale ahaha). Mi fa sempre più schifo, ogni minuto che passa. Stamattina è andata da sola in macchina, che puttana. Comunque avrebbe dovuto continuare a farlo sempre, o almeno dal 9 maggio scorso, ma dettagli.*
+*La puntata 118 di ☞[Tenero Gheriglio](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-4/) appena uscita mi ha fatto capire che quella zoccolona viscida ha fatto come i truffatori che ti chiamano sul telefono fisso: non ha registrato una serie di "sì" per confermare l'accettazione di un contratto, ma ha registrato un video falsissimo per farmi andare a vedere il manicomio (sempre il tribunale ahaha), il concetto è lo stesso. Mi fa sempre più schifo, ogni minuto che passa. Stamattina è andata da sola in macchina, che puttana. Comunque avrebbe dovuto continuare a farlo sempre, o almeno dal 9 maggio scorso, ma dettagli, non sia mai ragioni, sia una persona di valore. Che orrore di vacca.*
 
 <span style="color:red">*— 30 ottobre 2023*</span>
 
