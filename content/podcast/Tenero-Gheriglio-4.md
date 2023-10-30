@@ -26,7 +26,17 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #117 (23•10•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #118 (30•10•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[“Come possiamo fare, noi, per fare quello che dobbiamo fare?”](https://spotifyanchor-web.app.link/e/klXkoAYakEb)
+    
+    Puntata 118! Dopo aver finalmente capito cosa potrebbe avere in mente Apple, vi racconto un altro capitolo dell'infinita storia sulla fibra ottica da montare a casa mia, tentativi di truffa inclusi. Tra dolcetti e scherzetti arriviamo nel finale, in cui mi stupisco dell'articolo linkato qui sotto, con protagonista un Apple Watch leggendario.
+    
+    • [L'Apple Watch Ultra leggendario](https://9to5mac.com/2023/10/23/apple-watch-ultra-user-recovers-it-from-a-lake/)
+    
+---
+
+* Puntata #117 (23•10•2023)
 
     ☞[Tutto quello che ho fatto è stato così particolare che mi ha segnata](https://spotifyanchor-web.app.link/e/Cm0kBMlu8Db)
     
