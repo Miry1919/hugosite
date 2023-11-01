@@ -1,7 +1,7 @@
 ---
 title: Table of Entries
 description: 2023
-date: 2023-09-01
+date: 2023-11-01
 ---
 
      Autumn  |   Oct   |   Nov   |   Dec   
