@@ -7,6 +7,12 @@ date: 2023-10-31
 ---
 ---
 
+*Certo che studiare con ☞[You Sex Thing](https://youtu.be/YUY9Y9RFiHY?si=XywC8s3otJAYoXwK) degli Hot Chocolate è chic. Mi è partita per sbaglio, Siri a volte non capisce cosa le dico e fa di testa sua: alla fine scopro canzoni che davvero mi piacciono ahaha! Oggi Tenero Gheriglio salta un giro, domani ho un esame. Ieri mi sono allenata da sola, e non si può dire che stia male da sola, anzi, è stato meraviglioso, c'era un sole pazzesco, dopo la pioggia fortissima della notte sapeva avessi bisogno del sole per l'allenamento e ha provveduto. Poi è arrivata una coccinella, si è messa sulla kettlebell tra una serie e un'altra, proprio mentre la stavo usando, infatti per non rischiare di farle male l'ho dovuta far sloggiare delicatamente ahaha. Ma non è finita, più tardi rispetto alla coccinella, sempre durante gli esercizi alle colline, è arrivato un ragnetto piccolissimo e si è messo sul dorso della mia mano, e durante la corsa ho trovato un carrello con 50 cent ed era parecchio che non ne trovavo. Sempre durante la corsa ho incrociato due signori, presumibilmente marito e moglie, che becco spesso appunto quando corro, e allora gli ho detto "abbiamo quasi gli stessi orari potrei aggregarmi". Dietro alle colline a fine corsa c'era anche una signora a fare degli allunghi, la capisco, è una strada poco trafficata, soprattutto nel fine settimana: io uso via dell'Unione Europea per gli scatti di corsa, o per fare un po' di palleggi col pallone da calcio, o un po' di passaggi con Mario. L'abbiamo fatto appunto sabato mattina, prima di mangiare insieme, si stava benissimo anche in quel caso. Torno a finire con lo studio.*
+
+<span style="color:red">*— 6 novembre 2023*</span>
+
+---
+
 *Stamattina finalmente sono riandata in piscina, ho fatto sempre 4000 metri in meno di un'ora e mezza, e nelle solite modalità; quando sono uscita dall'acqua avevo di nuovo una meravigliosa nausea da stanchezza. Tutto in regola ahaha. La puntata 16 di ☞[Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-2/) è online: tra la 14 per la vampira, e la 16 per il figlio porcone, sta diventando un podcast su una setta di pedofili o depravati, inquietante ahahah! La verità verrà a galla – come direbbe Mahmood, la verità viene sempre a galla come la merda. Loro poi facilitano il lavoro, sono dei merdoni allucinanti, non servono aiutanti. I'm proud.*
 
 <span style="color:red">*— 3 novembre 2023*</span>
