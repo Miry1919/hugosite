@@ -26,7 +26,16 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #118 (30•10•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #119 (13•11•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Le sorprese non finiscono qui](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/119--Le-sorprese-non-finiscono-qui-e2bsh6g)
+    
+    Puntata 119! Dopo l'assenza della scorsa settimana recuperiamo parlando della linea di processori M3, dei computer aggiornati da Apple, del finale – pieno di sorprese – della storia della fibra ottica FTTH, dei videogiochi per la Nintendo Switch con cui sto giocando e con cui giocherò prestissimo (Super Mario RPG), di alcuni progetti VideoPodcastosi per il futuro.
+    
+---
+
+
+* Puntata #118 (30•10•2023)
 
     ☞[“Come possiamo fare, noi, per fare quello che dobbiamo fare?”](https://spotifyanchor-web.app.link/e/klXkoAYakEb)
     
