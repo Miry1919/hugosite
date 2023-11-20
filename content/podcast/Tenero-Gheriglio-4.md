@@ -32,9 +32,9 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
     
     Puntata centoventi. Dopo avervi detto le mie prime impressioni su “Super Mario RPG”, vi parlo di varie faccende orbitanti attorno a “Mario Kart 8 Deluxe” e “Mario Kart Super Circuit”, poi spiego la mia passione per la guida, e per le BMW che avevo fin da piccola, in barba al sessismo, agli standard. Inoltre ragioniamo insieme sulle ultime brutte notizie di cronaca, sul ruolo effettivo della scuola, della famiglia. Infine mi stupisco della grande copertura del 5G nella mia zona, dei nuovi pensieri che ho fatto, di come sto meglio di mesi fa. In coda la canzone “Stargazing” di Kygo & Justin Jesso (☞[official video](https://youtu.be/hEdvvTF5js4?si=cHX6gIf64g0bKNIx)).
     
-    • [Writings](https://miry1919.github.io/hugosite/writings/⁠)
+    • [Writings](https://miry1919.github.io/hugosite/writings/)
     
-    • [Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-2/⁠)
+    • [Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-2/)
     
 ---
 
