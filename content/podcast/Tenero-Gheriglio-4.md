@@ -26,7 +26,15 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #120 (20•11•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #121 (27•11•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[È un sogno che si sta realizzando](https://spotifyanchor-web.app.link/e/Tr9sfYgE4Eb)
+    
+    Puntata palindroma 121. Dopo alcuni retroscena esilaranti, affronto per la prima volta un argomento importantissimo che mi ero un po' persa: l'acqua da bere. Mi collego quindi a varie sfaccettature dell'alimentazione, ricordando la regola dell'80/20, e altre filosofie concrete da tenere in considerazione. Poi vi parlo dell'acquisto del Black Friday, la ☞[GoPro HERO11 Black Mini](https://gopro.com/it/it/shop/cameras/hero11-black-mini/CHDHF-111-master.html), che ancora non mi è arrivata ma che mi farà divertire tantissimo, e di cui riparlerò a brevissimo.
+    
+---
+
+* Puntata #120 (20•11•2023)
 
     ☞[A 10 anni a me piacevano le BMW](https://podcasters.spotify.com/pod/show/miriana-novella7/episodes/120--A-10-anni-a-me-piacevano-le-BMW-e2c5pla)
     
