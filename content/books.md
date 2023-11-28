@@ -11,7 +11,10 @@ description: ¶
 
 #### <span style="color:red">Leggerò a breve</span>
 
-No, farò una pausa causa esami.
+* _Lacrime e santi_ — Emil Mihai Cioran
+* _Al culmine della disperazione_ — Emil Mihai Cioran
+* _La caduta nel tempo_ — Emil Mihai Cioran
+* _L'inconveniente di essere nati_ — Emil Mihai Cioran
 
 &nbsp;
 
