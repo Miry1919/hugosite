@@ -26,7 +26,27 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #121 (27•11•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #122 (4•12•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Però poi ci proverò tantissimo forte e sarà emozionante](https://spotifyanchor-web.app.link/e/efDM8HBggFb)
+    
+    Puntata centoventidue. Dopo aver constatato che stavolta l'acqua non mi è rimasta nelle orecchie, in modo anomalo come la volta precedente, vi parlo della nebbia, che quest'anno non c'è (ancora!) stata, del cielo limpido dell'ultimo allenamento all'aperto, della neve che negli ultimi anni era mancata all'appello. Poi vi parlo nuovamente della GoPro, degli accessori con cui la porterò dietro quando andrò in montagna (ragione per cui la prossima settimana non ci sarà una puntata e ritornerò il 18 dicembre), delle mie ambizioni più profonde. Infine vi aggiorno sulla sfida in corso Miriana vs Mario Kart Super Circuit (LOL), invitandovi a giocare con qualsiasi cosa voi vogliate.
+    
+    &nbsp;
+    
+    • Accessori che ho preso per la GoPro:
+    
+    → [Pettorina](https://gopro.com/it/it/shop/mounts-accessories/chesty/AGCHM-001.html)
+    
+    → [Attacco bastoncino sci, bici, windsurf](https://gopro.com/it/it/shop/mounts-accessories/handlebar-seatpost-pole-mount/AGTSM-001.html)
+    
+    &nbsp;
+
+    • ["Silo" su Apple TV+](https://tv.apple.com/it/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice)
+
+---
+
+* Puntata #121 (27•11•2023)
 
     ☞[È un sogno che si sta realizzando](https://spotifyanchor-web.app.link/e/Tr9sfYgE4Eb)
     
