@@ -27,7 +27,7 @@ Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](ht
 
 ---
 
-<span style="color:blue">☞ [<span style="color:blue">١٩ Il finalessandra • 24/11/2023</span>](https://podcasters.spotify.com/pod/show/miriana-novella16/episodes/Il-finalessandra-e2cc070)</span> <span style="color:orange">⚡️ New!</span>
+<span style="color:blue">☞ [<span style="color:blue">١٩ Il finalessandra • 24/11/2023</span>](https://podcasters.spotify.com/pod/show/miriana-novella16/episodes/Il-finalessandra-e2cc070)</span>
 
 *È tornata, proprio in tempo per il finale: in realtà non se n'era mai andata. Come faccio a perdonarla ogni volta non lo sa più nessuno, nemmeno lei. Si vergogna per avermi succhiato il sangue, si vergogna di tutto. Non ho ancora scoperto se sa andare in bicicletta, di sicuro non sa sciare, invece io tra poco riandrò a sciare. Di chi sto parlando? C'è scritto nel titolo. So che non si capisce niente lo stesso, l'ascoltatore deve perdonarmi, sono un po' su di giri, è tornata, lei è tornata. Ardnassela, (h)ard nas se la. No, il suo nome al contrario non vuol dire molto, un NAS di hard disk se la... svigna! Sto dando i numeri, anzi i byte. La aspettavo, da tanto, non arrivava mai, non la volevo mai, e poi mi è passata affianco e ho capito che è tornata. Ieri sera ho rivisto il film che le avevo regalato per ultimo, quello con la A; sul biglietto le avevo scritto mi manchi. Mi manchi. Quando le cose smettono ci mancano, ma quando fanno male non le vorremmo mai più. La curiosità adesso è immensa, la riabbraccerò davvero? Sì.*
 
