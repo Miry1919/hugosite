@@ -11,6 +11,8 @@ date: 2023-10-31
 
 {{< youtube 6kQpcKpL9tU >}}
 
+&nbsp;
+
 <span style="color:red">*— 12 dicembre 2023*</span>
 
 ---
