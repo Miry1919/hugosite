@@ -7,6 +7,10 @@ date: 2023-10-31
 ---
 ---
 
+*EDIT. Ho cambiato il link di "Other Lover", non trovavo l'ultima versione. Ha tramontato e la luna è spettacolare, sottilissima, nuova.*
+
+&nbsp;
+
 *Stamattina mi sono allenata e il sole era bellissimo, ora sto facendo stretching. Non ho visto la sua macchina, ma di venerdì raramente l'ho vista: è un giorno in cui il marito è particolarmente geloso. A meno che non sia andata a piedi con la prof. Rossi! Ho fatto una cosa per lei, e allora gliela lascio qui, con un bacino (aiuto Pierfi mi uccide di nuovo). Le parole rosse sono ovviamente dei link, a 9 delle canzoni che sto scoprendo e ascoltando in questi giorni.*
 
 &nbsp;
@@ -17,7 +21,7 @@ date: 2023-10-31
 You're a [Different Kind Of Beautiful](https://youtu.be/b-BYf-BpC3Y?si=iUTf_a5orGQuFu6v),
 &nbsp;
 
-Not just my [Other Lover](https://youtu.be/jV8Ob78OI80?si=c_2h8pBf_kGnajMX).
+Not just my [Other Lover](https://youtu.be/2wN-3Mc0d7A?si=A02hFvdSvbcpjH_p).
 
 &nbsp;
 
