@@ -26,7 +26,19 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #122 (4•12•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #123 (18•12•2023) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Mi riconosco abbastanza](https://spotifyanchor-web.app.link/e/JJv0YnjvDFb)
+    
+    {{< youtube  okUvXUdt_KI >}}
+    
+    &nbsp;
+    
+    Nel finale della stagione 4, puntata 123, creo un VideoPodcast con più visuali (aiuto che fatica ahaha). Parlo della GoPro e di come ho girato il video della sciata della scorsa settimana (è questo ☞[Ski with me](https://youtu.be/6kQpcKpL9tU)), dei videogiochi, e dei gadget che ho preso sul ☞[My Nintendo store](https://store.nintendo.it/it/my-nintendo/my-nintendo-rewards), e infine, come sempre, dei libri.
+
+---
+
+* Puntata #122 (4•12•2023)
 
     ☞[Però poi ci proverò tantissimo forte e sarà emozionante](https://spotifyanchor-web.app.link/e/efDM8HBggFb)
     
