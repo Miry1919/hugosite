@@ -37,7 +37,7 @@ No, sono in pausa causa esami.
 * _Delitto e castigo_ — Fëdor Dostoevskij
 * _Don Chisciotte della Mancia_ — Miguel de Cervantes
 * _La metamorfosi e tutti i racconti pubblicati in vita_ – Franz Kafka
-* _Guerra e pace_ – Lev Tolstoj
+* _Guerra e pace_ – Lev Tolstoj ☞[{Podcasts}](https://youtu.be/okUvXUdt_KI?si=g3fdcOBxlb8ZRsRP)
 &nbsp;
 
 <span style="color:red">*2022 (dal primo all'ultimo)*</span>
