@@ -5,7 +5,7 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Guerra e pace_ – Lev Tolstoj
+No, sono in pausa causa esami.
 
 &nbsp;
 
@@ -37,6 +37,7 @@ description: ¶
 * _Delitto e castigo_ — Fëdor Dostoevskij
 * _Don Chisciotte della Mancia_ — Miguel de Cervantes
 * _La metamorfosi e tutti i racconti pubblicati in vita_ – Franz Kafka
+* _Guerra e pace_ – Lev Tolstoj
 &nbsp;
 
 <span style="color:red">*2022 (dal primo all'ultimo)*</span>
