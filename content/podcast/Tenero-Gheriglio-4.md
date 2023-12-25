@@ -26,7 +26,29 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
-* Puntata #123 (18•12•2023) <span style="color:orange">⚡️ New!</span>
+* Puntata #124 (25•12•2023) <span style="color:blue">BONUS</span>
+
+    ☞[Le Mille e una Novella 2, prima parte](https://spotifyanchor-web.app.link/e/43f4LfHqOFb)
+    
+    Come prima puntata BONUS 124 natalizia ripercorriamo la prima parte della seconda stagione di “Le Mille e una Novella”. Buon Natale!
+    
+    >   Indice dei contenuti
+
+    >>   ١٠ Introduzione, seconda stagione ☾
+    
+    >>   ١١ Il peluche, la premiazione
+    
+    >>   ١٢ La gomma, la collega G.
+    
+    >>   ١٣ La mia vampira
+    
+    >>   ١٤ Violazione della privacy
+
+    >   I testi delle storie possono essere letti parola per parola, si trovano ☞[qui](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-2/).
+    
+---
+
+* Puntata #123 (18•12•2023)
 
     ☞[Mi riconosco abbastanza](https://spotifyanchor-web.app.link/e/JJv0YnjvDFb)
     
