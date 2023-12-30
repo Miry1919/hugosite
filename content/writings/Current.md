@@ -7,7 +7,7 @@ date: 2023-10-31
 ---
 ---
 
-*Siamo quasi al termine di questo 2023, gli ultimi due allenamenti li ho vissuti da sola e sulle colline ero nella pace più assoluta. Il tempo nuvoloso dona sempre quella sorta di tranquillità, dove tutto scorre lento, in pace. La nebbia quest'anno ci sarà stata 3 giorni in tutto, è molto strano, ma non mi dispiace affatto. Ieri sera ho creato di nuovo una poesia con alcuni dei titoli delle canzoni che sto ascoltando in questo momento, poi era mezzanotte e ho rimandato a stamattina. È sempre per lei, e forse non la merita, ma il mio cuore è sempre buono, non cambia.*
+*Siamo quasi al termine di questo 2023, gli ultimi due allenamenti li ho vissuti da sola e sulle colline ero nella pace più assoluta. Il tempo nuvoloso dona sempre quella sorta di tranquillità, dove tutto scorre lento, in pace. La nebbia quest'anno ci sarà stata 3 giorni in tutto, è molto strano, ma non mi dispiace affatto. Ieri sera ho creato di nuovo una poesia con alcuni dei titoli delle canzoni che sto ascoltando in questo momento, poi era mezzanotte e ho rimandato la pubblicazione a stamattina. È sempre per lei, e forse non la merita, ma il mio cuore è sempre buono, non cambia.*
 
 
 &nbsp;
