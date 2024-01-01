@@ -2,7 +2,10 @@
 title: Music
 description: ♫
 ---
-Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultimi anni:
+Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultimi anni.
+&nbsp;
+
+Annuali:
 
 * [2015-2016](https://music.apple.com/it/playlist/my-2015-2016/pl.b4bf1a93707c44f89aa794dc2888e844)
 * [2016-2017](https://music.apple.com/it/playlist/my-2016-2017/pl.u-RRbVVE7FZv4gro?l)
@@ -12,10 +15,15 @@ Queste sono le playlist delle canzoni che ho ripetutamente ascoltato negli ultim
 * [2021](https://music.apple.com/it/playlist/my-2021/pl.u-ZmbllxWIZoBPk9?l)
 * [2022](https://music.apple.com/it/playlist/my-2022/pl.u-Ymb0045Uq9vbM1?l)
 * [2023](https://music.apple.com/it/playlist/my-2023/pl.u-BNA664VFYm7Xa5?l)
+* [2024](https://music.apple.com/it/playlist/my-2024/pl.u-RRbVYrVCZv4gro?l)
+&nbsp;
+
+A tema:
+
 * [Background](https://music.apple.com/it/playlist/background/pl.b05fb95eaae8419b8bc2201594355ee0?l)
 * [Her](https://music.apple.com/it/playlist/her/pl.u-Ldbqqeqt5e4m0R) <span style="color:red">♡</span>
+* [Natale '21](https://music.apple.com/it/playlist/natale-21/pl.u-PDb44lZCJ9qVro?l)
 * [Mirianaerobics](https://music.apple.com/it/playlist/mirianaerobics/pl.u-Ymb00Bycq9vbM1?l)
-* [Natale '21](https://music.apple.com/it/playlist/natale-21/pl.u-PDb44lZCJ9qVro?l=en)
 
 &nbsp;
 

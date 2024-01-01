@@ -26,6 +26,28 @@ Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](ht
 
 ---
 
+* Puntata #125 (1•1•2024) <span style="color:blue">BONUS</span>
+
+    ☞[Le Mille e una Novella 2, seconda parte](https://spotifyanchor-web.app.link/e/Qlv1Py12ZFb)
+    
+    Come seconda puntata BONUS 125 natalizia ripercorriamo la seconda parte della seconda stagione di “Le Mille e una Novella”. Buon 2024!
+    
+    >   Indice dei contenuti
+
+    >>   ١٥ Mezzi molesti
+    
+    >>   ١٦ Giorgio Seganos
+    
+    >>   ١٧ La domenica si mangia e basta
+    
+    >>   ١٨ Sgombri che sgombrano
+    
+    >>   ١٩ Il finalessandra
+
+    >   I testi delle storie possono essere letti parola per parola, si trovano ☞[qui](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-2/).
+    
+---
+
 * Puntata #124 (25•12•2023) <span style="color:blue">BONUS</span>
 
     ☞[Le Mille e una Novella 2, prima parte](https://spotifyanchor-web.app.link/e/43f4LfHqOFb)
