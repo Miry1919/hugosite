@@ -18,7 +18,12 @@ Ascoltalo:
 ---
 ---
 
-Nella pagina attuale trovi la stagione 4, invece la stagione 3 la trovi [qui](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-3/), la stagione 2 [qui](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-2/), e la stagione 1 [qui](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/).
+Nella pagina attuale trovi la stagione 4, invece per le altre stagioni segui i link:
+
+* [stagione 5](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-5/)
+* [stagione 3](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-3/)
+* [stagione 2](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-2/)
+* [stagione 1](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio/)
 
 ---
 
