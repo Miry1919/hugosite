@@ -31,7 +31,7 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #126 (1•1•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #126 (19•2•2024) <span style="color:orange">⚡️ New!</span>
 
     ☞[Al giudizio finale verranno pesate soltanto le lacrime](https://spotifyanchor-web.app.link/e/l8ynINn4jHb)
     
