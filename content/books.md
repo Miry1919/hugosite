@@ -5,19 +5,22 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Lacrime e santi_ — Emil Mihai Cioran
+* _Al culmine della disperazione_ — Emil Mihai Cioran
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _Al culmine della disperazione_ — Emil Mihai Cioran
 * _La caduta nel tempo_ — Emil Mihai Cioran
 * _L'inconveniente di essere nati_ — Emil Mihai Cioran
 
 &nbsp;
 
 #### <span style="color:red">Ho letto e consiglio</span>
+
+<span style="color:red">*2024 (dal primo all'ultimo)*</span>
+
+* _Lacrime e santi_ — Emil Mihai Cioran ☞[{Podcasts}](https://spotifyanchor-web.app.link/e/l8ynINn4jHb)
 
 <span style="color:red">*2023 (dal primo all'ultimo)*</span>
 
