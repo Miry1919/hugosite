@@ -38,9 +38,13 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
     Centoventisettesima puntata. Ripartiamo da Cioran, analizzando il suo modo di pensare, di scrivere, ed estraendo da "Lacrime e santi" altre ispiranti citazioni. Poi passiamo alla mia scrivania, che si è aggiornata, tramite un particolare tragitto, con alcuni accessori brillanti, ma visto che due misteriosi oggetti sono ancora mancanti, ne avremo le foto e finiremo il discorso, nei prossimi appuntamenti.
     
     • [La scorsa configurazione della scrivania](https://www.instagram.com/p/Cx5aH3ZtQHy/?igsh=anN6dmxidXU1ZTM0)
+    
     • [MagicBridge Twelve South](https://www.twelvesouth.com/products/magicbridge)
+    
     • [Tappetino DELTAHUB](https://deltahub.io/en-eu/products/minimalistic-desk-pad?variant=43649765376166)
+    
     • [Orbitkey Nest](https://www.orbitkey.eu/products/orbitkey-nest)
+    
     • [Desk Shelf Woodcessories](https://en.woodcessories.com/products/monitor-riser-walnut)
 
 ---
