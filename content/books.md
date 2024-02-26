@@ -20,7 +20,7 @@ description: ¶
 
 <span style="color:red">*2024 (dal primo all'ultimo)*</span>
 
-* _Lacrime e santi_ — Emil Mihai Cioran ☞[{Podcasts}](https://spotifyanchor-web.app.link/e/l8ynINn4jHb)
+* _Lacrime e santi_ — Emil Mihai Cioran ☞[{Podcasts (1)}](https://spotifyanchor-web.app.link/e/l8ynINn4jHb), ☞[{Podcasts (2)}](https://spotifyanchor-web.app.link/e/9EmWTNzGvHb)
 
 <span style="color:red">*2023 (dal primo all'ultimo)*</span>
 
