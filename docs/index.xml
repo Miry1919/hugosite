@@ -6,10 +6,19 @@
     <description>Recent content in Home on hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://miry1919.github.io/hugosite/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Current</title>
+      <link>https://miry1919.github.io/hugosite/writings/current/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://miry1919.github.io/hugosite/writings/current/</guid>
+      <description>Coming soon! </description>
+    </item>
     
     <item>
       <title>Tenero Gheriglio</title>
@@ -31,11 +40,11 @@
     </item>
     
     <item>
-      <title>Current</title>
-      <link>https://miry1919.github.io/hugosite/writings/current/</link>
+      <title>Archive 4.0</title>
+      <link>https://miry1919.github.io/hugosite/writings/archive-4-0/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://miry1919.github.io/hugosite/writings/current/</guid>
+      <guid>https://miry1919.github.io/hugosite/writings/archive-4-0/</guid>
       <description>Non ho scritto della pubblicazione di Tenero Gheriglio di lunedì, ma c&amp;rsquo;è da stare sempre a ripeterlo? La puntata 127 ha riportato il resto delle citazioni di &amp;ldquo;Lacrime e santi&amp;rdquo;: è stato impressionante vedere come la pensa Cioran, perché con lui non riesco a non essere d&amp;rsquo;accordo su tutto. Che sia anch&amp;rsquo;io nichilista? Di certo, ma sarò anche altro, non ridurrei il mio modo di pensare a una definizione. Chiunque dovrebbe ascoltare le puntate 126 e 127, e pure tutte le altre; non ho mai trovato, prima di buttarmi in questo progetto immenso, una voce dolce che ti racconta cose così.</description>
     </item>
     
