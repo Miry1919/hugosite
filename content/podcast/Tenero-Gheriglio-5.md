@@ -37,7 +37,7 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
     
     Puntata 128! Dopo aver dovuto rimandare ancora la pubblicazione delle foto della scrivania rinnovata, sempre a causa dei due misteriosi oggetti mancanti (in arrivo per certo durante questa settimana), parlo dei miei auricolari Powerbeats Pro in fin di vita, che stanno per essere sostituiti dai Beats Fit Pro, di come fare per personalizzare i tasti funzione delle tastiere, della soddisfazione a cui sono arrivata finalmente con le mie due tastiere estese, specificando l'uso simultaneo del Touch ID e dell'Apple Watch per il Mac. Poi racconto che sto vendendo il mio iPad Pro 12.9" del 2018 in vista degli iPad in uscita a breve, e una mia specifica questione personale, sul caffè, le bevande, e via dicendo; infine tramite la scoperta dell'insonnia di Cioran, che di notte scrive "Al culmine della disperazione", arrivo a consigliarvi una serie tv.
     
-    • ["Still Up" su Apple TV+](https://tv.apple.com/it/show/still-up/)
+    • ["Still Up" su Apple TV+](https://tv.apple.com/it/show/still-up/umc.cmc.4sn9yh0gys8gpb0yei0h443a1)
 
 ---
 
