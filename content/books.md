@@ -13,6 +13,8 @@ description: ¶
 
 * _La caduta nel tempo_ — Emil Mihai Cioran
 * _L'inconveniente di essere nati_ — Emil Mihai Cioran
+* _Il principe_ — Niccolò Machiavelli
+* _Il conte di Montecristo_ — Alexandre Dumas
 
 &nbsp;
 
