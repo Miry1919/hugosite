@@ -31,7 +31,23 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #128 (4•3•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #129 (18•3•2024) <span style="color:orange">⚡️ New!</span>
+
+    ☞[La vita è breve e ha bisogno di qualità](https://spotifyanchor-web.app.link/e/0SU0SKvx4Hb)
+    
+    Puntata 129 di Tenero Gheriglio. Dopo le scuse per la settimana di assenza, vi ribadisco che è finalmente online il post Instagram con la nuova configurazione della scrivania. Poi parlo della mia esperienza del passaggio dagli auricolari Powerbeats Pro ai Beats Fit Pro, dell'utilizzo della riduzione del rumore durante gli allenamenti. Infine ricapitolando la situazione Apple, tra MacBook Air M3 già usciti, e iPad Pro e Air non ancora svelati, vi racconto meglio della vendita del mio vecchio iPad Pro 12.9" 2018, e dell'acquisto di un nuovo iPad Pro 11" 2021 (che non sarà quello definitivo), con tutte le caratteristiche in comparazione, e una precisazione sull'Apple Pencil.
+    
+    • [La nuova configurazione della scrivania](https://www.instagram.com/p/C4VxqN9ioNR/?igsh=MXdybWR2Ym1tMWRicA==)
+    
+    • [Powerbeats Pro](https://www.beatsbydre.com/it/earbuds/powerbeats-pro/MY582/black)
+    
+    • [Beats Fit Pro](https://www.beatsbydre.com/it/earbuds/beats-fit-pro)
+    
+    • [Vetro temperato ESR](https://amzn.eu/d/0WYDshU)
+    
+---
+
+* Puntata #128 (4•3•2024)
 
     ☞[Son proprio una cosa che fa deprimere i bar](https://spotifyanchor-web.app.link/e/SYCY92UiHHb)
     
