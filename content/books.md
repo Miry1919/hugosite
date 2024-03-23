@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _La caduta nel tempo_ — Emil Mihai Cioran
+* _L'inconveniente di essere nati_ — Emil Mihai Cioran
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _L'inconveniente di essere nati_ — Emil Mihai Cioran
 * _Il principe_ — Niccolò Machiavelli
 * _Il conte di Montecristo_ — Alexandre Dumas
 
@@ -23,6 +22,7 @@ description: ¶
 
 * _Lacrime e santi_ — Emil Mihai Cioran ☞[{Podcasts (1)}](https://spotifyanchor-web.app.link/e/l8ynINn4jHb), ☞[{Podcasts (2)}](https://spotifyanchor-web.app.link/e/9EmWTNzGvHb)
 * _Al culmine della disperazione_ — Emil Mihai Cioran
+* _La caduta nel tempo_ — Emil Mihai Cioran
 
 <span style="color:red">*2023 (dal primo all'ultimo)*</span>
 
