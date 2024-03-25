@@ -31,7 +31,17 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #129 (18•3•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #130 (25•3•2024) <span style="color:orange">⚡️ New!</span>
+
+    ☞[In mezzo a quei paralitici al volante](https://spotifyanchor-web.app.link/e/t4siDZP9fIb)
+    
+    La puntata 130 si apre con dei follow-up sull'iPad, coi rumor sul vetro lucido e opaco degli iPad OLED, coi nit e la luminosità. Poi riporta una piccola ma bella scoperta che ho fatto di recente tramite un video su YouTube (link qui sotto); e racconta di come i Beats Fit Pro non abbiano realmente nemmeno quel difetto che avevo pensato avessero nella scorsa puntata, del perché si trattasse semplicemente di abitudine, con un appunto sulle macchine elettriche, silenziose al di là di qualsiasi utilizzo degli auricolari. Infine arriva ai libri di Cioran, riconsigliandoveli tutti, "Lacrime e santi", "Al culmine della disperazione", "La caduta nel tempo", "L'inconveniente di essere nati", riflettendo anche sull'uso della macchina in contrapposizione all'uso delle gambe.
+    
+    • [Video su YouTube di "Byte Review"](https://youtu.be/tzJhwqiNCCc?si=cay4AYishU4iSXJa)
+    
+---
+
+* Puntata #129 (18•3•2024)
 
     ☞[La vita è breve e ha bisogno di qualità](https://spotifyanchor-web.app.link/e/0SU0SKvx4Hb)
     
