@@ -31,7 +31,15 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #130 (25•3•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #131 (1•4•2024) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Fa lo squat per fare la pipì](https://spotifyanchor-web.app.link/e/otZpJ1rQrIb)
+    
+    La puntata 131 festiva di Tenero Gheriglio è stata registrata in un posto diverso dal solito. Allora vi parlo dell’insolito setup di registrazione, dello slittamento dei nuovi iPad, dell’annuncio della WWDC 2024, della mia interpretazione dell’evoluzione dell’intelligenza artificiale, di come Siri debba recuperare terreno nei confronti di sistemi come quello di Google, e di ChatGPT, che sono più avanzati. Infine vi svelo dove mi trovo, e vi racconto la storia speciale che ha coinvolto la mia cagnolina, Briciola.
+    
+---
+
+* Puntata #130 (25•3•2024)
 
     ☞[In mezzo a quei paralitici al volante](https://spotifyanchor-web.app.link/e/t4siDZP9fIb)
     
