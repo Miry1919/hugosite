@@ -13,6 +13,8 @@ description: ¶
 
 * _Il principe_ — Niccolò Machiavelli
 * _Il conte di Montecristo_ — Alexandre Dumas
+* _La brevità della vita_ — Seneca
+* _Il Piccolo Principe_ — Antoine De Saint-Exupéry
 
 &nbsp;
 

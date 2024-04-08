@@ -31,7 +31,31 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #131 (1•4•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #132 (8•4•2024) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Insomma, com'è la neve sopra?](https://spotifyanchor-web.app.link/e/KSPRawfkDIb)
+    
+    132ª puntata di Tenero Gheriglio, registrata di nuovo in camper, col microfono in mano, rigorosamente. Dopo avervi raccontato dei miei giri sulla Costiera Amalfitana e sull'isola di Capri, tra le risate e l'emozione, riparlo finalmente di alimentazione, in particolare della frequenza, del numero dei pasti, e infine dei formaggi.
+
+    &nbsp;
+    
+    • Post Instagram::
+    
+    → [Positano](https://www.instagram.com/p/C5SuCnUCMiA/?igsh=MXQxM2xnd3pjdzVxOQ==)
+    
+    → [Capri](https://www.instagram.com/p/C5bT6ZmibuS/?igsh=MWVuOGswMnpuM2lvbw==)
+    
+    &nbsp;
+    
+    • Video YouTube di Stefano Vendrame:
+
+    → ["Tempi, frequenza e numero dei pasti"](https://youtu.be/FmtL3FlAj54?si=_JAGTfGd3VqXk5Lh)
+        
+    → ["Fa bene o fa male il formaggio?"](https://youtu.be/aH9ZPI5RIrk?si=tltxcUHjOe5id7u8)
+    
+---
+
+* Puntata #131 (1•4•2024)
 
     ☞[Fa lo squat per fare la pipì](https://spotifyanchor-web.app.link/e/otZpJ1rQrIb)
     
