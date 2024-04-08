@@ -39,7 +39,7 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
     &nbsp;
     
-    • Post Instagram::
+    • Post Instagram:
     
     → [Positano](https://www.instagram.com/p/C5SuCnUCMiA/?igsh=MXQxM2xnd3pjdzVxOQ==)
     
