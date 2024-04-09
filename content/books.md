@@ -15,6 +15,8 @@ description: ¶
 * _Il conte di Montecristo_ — Alexandre Dumas
 * _La brevità della vita_ — Seneca
 * _Il Piccolo Principe_ — Antoine De Saint-Exupéry
+* _La ricreazione è finita_ — Dario Ferrari
+* _L'amore rubato_ — Dacia Maraini
 
 &nbsp;
 
