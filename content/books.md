@@ -5,18 +5,17 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _L'inconveniente di essere nati_ — Emil Mihai Cioran
+* _La ricreazione è finita_ — Dario Ferrari
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
 * _Il principe_ — Niccolò Machiavelli
-* _Il conte di Montecristo_ — Alexandre Dumas
-* _La brevità della vita_ — Seneca
-* _Il Piccolo Principe_ — Antoine De Saint-Exupéry
-* _La ricreazione è finita_ — Dario Ferrari
 * _L'amore rubato_ — Dacia Maraini
+* _Il Piccolo Principe_ — Antoine De Saint-Exupéry
+* _La brevità della vita_ — Seneca
+* _Il conte di Montecristo_ — Alexandre Dumas
 
 &nbsp;
 
@@ -27,6 +26,7 @@ description: ¶
 * _Lacrime e santi_ — Emil Mihai Cioran ☞[{Podcasts (1)}](https://spotifyanchor-web.app.link/e/l8ynINn4jHb), ☞[{Podcasts (2)}](https://spotifyanchor-web.app.link/e/9EmWTNzGvHb)
 * _Al culmine della disperazione_ — Emil Mihai Cioran
 * _La caduta nel tempo_ — Emil Mihai Cioran
+* _L'inconveniente di essere nati_ — Emil Mihai Cioran
 
 <span style="color:red">*2023 (dal primo all'ultimo)*</span>
 
