@@ -31,7 +31,17 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #132 (8•4•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #133 (22•4•2024) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Odio l'università](https://spotifyanchor-web.app.link/e/dZpO2bSy0Ib)
+    
+    Puntata 133! Dopo l'assenza della scorsa settimana, riprendo a registrare col solito setup: parto con il nuovo ☞[Humane Ai Pin](https://humane.com), che banalmente mi fa ritornare in mente l'Apple Vision Pro; proseguo parlando delle mie letture, avendo da poco terminato "L'inconveniente di essere nati" di E. M. Cioran, che mi è rimasto nel cuore, e iniziato "La ricreazione è finita" di D. Ferrari, con la sua critica all'ambiente accademico; concludo con un discorso sulla colazione, riportando come organizzo la mia, e come potreste migliorare la vostra, rendendola più proteica, sostanziosa e nutriente, tramite lo yogurt greco, il pane integrale, la soia, l'avena, la frutta secca, essiccata e quella fresca.
+
+    • [Books](https://miry1919.github.io/hugosite/books/)
+    
+---
+
+* Puntata #132 (8•4•2024)
 
     ☞[Insomma, com'è la neve sopra?](https://spotifyanchor-web.app.link/e/KSPRawfkDIb)
     
