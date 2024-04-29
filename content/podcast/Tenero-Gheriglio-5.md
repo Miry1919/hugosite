@@ -31,7 +31,17 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #133 (22•4•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #134 (29•4•2024) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Se non aggiungo qualche sport ogni tanto non sono io](https://spotifyanchor-web.app.link/e/XngTrXbbcJb)
+    
+    Puntata centotrentaquattro: non è un VideoPodcast, ma è bella lo stesso (!?). Inizio raccontandovi quali sono le due attività sportive acquatiche che avrò la fortuna di poter fare a breve: surf sull'onda artificiale all'Idroscalo, rafting o hydrospeed sul Sesia. Continuo parlando del mio privilegio di poter essere sempre molto eclettica nell'ambito sportivo, poi faccio alcune precisazioni sull'argomento riguardante l'alimentazione trattato nella scorsa puntata (non scaldare troppo il miele, quale frutta secca comprare), aggiungendo come comportarsi col sale e con lo zucchero bianco. Concludo con l'annuncio dell'evento Apple del 7 maggio, e con la lettura di un pezzettino del libro che sto leggendo.
+
+    • [Sesia Rafting](https://www.sesiarafting.it/it)
+    
+---
+
+* Puntata #133 (22•4•2024)
 
     ☞[Odio l'università](https://spotifyanchor-web.app.link/e/dZpO2bSy0Ib)
     
