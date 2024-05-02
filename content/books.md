@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _La ricreazione è finita_ — Dario Ferrari
+* _Il principe_ — Niccolò Machiavelli
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _Il principe_ — Niccolò Machiavelli
 * _L'amore rubato_ — Dacia Maraini
 * _Il Piccolo Principe_ — Antoine De Saint-Exupéry
 * _La brevità della vita_ — Seneca
@@ -27,6 +26,7 @@ description: ¶
 * _Al culmine della disperazione_ — Emil Mihai Cioran
 * _La caduta nel tempo_ — Emil Mihai Cioran
 * _L'inconveniente di essere nati_ — Emil Mihai Cioran
+* _La ricreazione è finita_ — Dario Ferrari
 
 <span style="color:red">*2023 (dal primo all'ultimo)*</span>
 
