@@ -5,7 +5,7 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Il principe_ — Niccolò Machiavelli
+* _Il Principe_ — Niccolò Machiavelli
 
 &nbsp;
 
