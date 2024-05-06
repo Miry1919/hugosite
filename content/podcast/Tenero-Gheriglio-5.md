@@ -31,7 +31,19 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #134 (29•4•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #135 (6•5•2024) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Zoppetta malaticcia](https://spotifyanchor-web.app.link/e/HDfzBTxNnJb)
+    
+    Puntata 135 di Tenero Gheriglio. Inizio raccontandovi com'è andata col surf sull'onda statica all'Idroscalo, analizzando molto bene tutti i risvolti della questione; proseguo parlando dei videogiochi che sto completando e di quelli che sto attendendo (Paper Mario: Il Portale Millenario), e poi consigliandovi una nuova serie tv e il libro che ho terminato da poco: "La ricreazione è finita" di Dario Ferrari; concludo dicendo due parole sul ☞[Rabbit R1](https://www.rabbit.tech) e augurandovi un buon evento Apple.
+
+    • [Post Instagram "Surf all'Idroscalo"](https://www.instagram.com/p/C6juGmHCdLl/?igsh=MWFxeDFoOXB1dGp0aA==)
+    
+    • ["Shantaram" su Apple TV+](https://tv.apple.com/it/show/shantaram/umc.cmc.atxsrive40xli3zh3uxjimut)
+    
+---
+
+* Puntata #134 (29•4•2024)
 
     ☞[Se non aggiungo qualche sport ogni tanto non sono io](https://spotifyanchor-web.app.link/e/XngTrXbbcJb)
     
