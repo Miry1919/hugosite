@@ -11,10 +11,11 @@ description: ¶
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _L'amore rubato_ — Dacia Maraini
+* _Trappole alimentari. Cosa è andato storto nella nostra dieta e come rimediare_ — Stefano Vendrame
+* _Il conte di Montecristo_ — Alexandre Dumas
 * _Il Piccolo Principe_ — Antoine De Saint-Exupéry
 * _La brevità della vita_ — Seneca
-* _Il conte di Montecristo_ — Alexandre Dumas
+* _L'amore rubato_ — Dacia Maraini
 
 &nbsp;
 
