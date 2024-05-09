@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Il Principe_ — Niccolò Machiavelli
+* _Trappole alimentari. Cosa è andato storto nella nostra dieta e come rimediare_ — Stefano Vendrame
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _Trappole alimentari. Cosa è andato storto nella nostra dieta e come rimediare_ — Stefano Vendrame
 * _L'amore rubato_ — Dacia Maraini
 * _Il Piccolo Principe_ — Antoine De Saint-Exupéry
 * _La brevità della vita_ — Seneca
@@ -28,6 +27,7 @@ description: ¶
 * _La caduta nel tempo_ — Emil Mihai Cioran
 * _L'inconveniente di essere nati_ — Emil Mihai Cioran
 * _La ricreazione è finita_ — Dario Ferrari
+* _Il Principe_ — Niccolò Machiavelli
 
 <span style="color:red">*2023 (dal primo all'ultimo)*</span>
 
