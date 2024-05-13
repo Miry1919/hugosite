@@ -31,7 +31,15 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #135 (6•5•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #136 (13•5•2024) <span style="color:orange">⚡️ New!</span>
+
+    ☞["Un coso gigante OLED bellissimo"](https://spotifyanchor-web.app.link/e/kQzxR9RpzJb)
+    
+    136ª puntata! Inizio capendo che se anche poi non ho potuto fare hydrospeed prima o poi andrò a farlo, ragionando su cosa mi ha fatto imparare l'infortunio. Quindi finisco per parlare per quasi tutta la puntata dell'evento Apple sugli iPad Air M2 e sugli iPad Pro M4, che attendevamo da tanto tempo, analizzando le caratteristiche tecniche dei nuovi dispositivi e dei nuovi accessori (Apple Pencil Pro, Magic Keyboard, Smart Folio), riepilogando un po' tutti gli step avvenuti nel passato, ed esponendo i motivi per cui mi sono innamorata dell'iPad Pro 13" e finirò per prendere quello, augurandoci che la WWDC 2024 apporti grossi cambiamenti in iPadOS 18, o in qualche modo si arrivi a sfruttare il processore M4 di questo bellissimo iPad.
+    
+---
+
+* Puntata #135 (6•5•2024)
 
     ☞[Zoppetta malaticcia](https://spotifyanchor-web.app.link/e/HDfzBTxNnJb)
     
