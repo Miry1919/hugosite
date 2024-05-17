@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Trappole alimentari. Cosa è andato storto nella nostra dieta e come rimediare_ — Stefano Vendrame
+* _L'amore rubato_ — Dacia Maraini
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _L'amore rubato_ — Dacia Maraini
 * _Il Piccolo Principe_ — Antoine De Saint-Exupéry
 * _La brevità della vita_ — Seneca
 * _Il conte di Montecristo_ — Alexandre Dumas
@@ -28,6 +27,7 @@ description: ¶
 * _L'inconveniente di essere nati_ — Emil Mihai Cioran
 * _La ricreazione è finita_ — Dario Ferrari
 * _Il Principe_ — Niccolò Machiavelli
+* _Trappole alimentari. Cosa è andato storto nella nostra dieta e come rimediare_ — Stefano Vendrame
 
 <span style="color:red">*2023 (dal primo all'ultimo)*</span>
 
