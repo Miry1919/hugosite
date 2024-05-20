@@ -31,7 +31,19 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #136 (13•5•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #137 (20•5•2024) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Ma guarda questa, sta snob](https://spotifyanchor-web.app.link/e/JQ9IBhd2KJb)
+    
+    La puntata 137 si intromette, irrompendo prima del VideoPodcast finale pre pausa estiva. Riprendo a parlare dei nuovi iPad, con alcuni follow-up, e dopo essere passata dall'Apple Store di Piazza del Liberty a Milano (tecnologia Tandem OLED, luminosità di picco SDR/HDR, finitura nano-texture, M4 con 9/10 core, 8/16 GB di RAM, cornici). Vi spiego che finalmente sono riuscita a riprendere con gli allenamenti (droganti), e che ho continuato a leggere e concluso due libri, "Il Principe" di N. Machiavelli, e "Trappole alimentari" di S. Vendrame: finisco parlandone per bene.
+
+    • [Presentazione del libro "Trappole alimentari"](https://youtu.be/zWBPoQLn_ms?si=a0l2n6Pwkb_y5S86)
+    
+    • [Stefano Vendrame a "Quante Storie"](https://www.raiplay.it/video/2024/04/Quante-storie---Puntata-del-03052024-7eca16be-cd55-482a-a854-fe4ab2369363.html?wt_mc=2.app.cpy.raiplay_prg_Quantestorie.&wt)
+    
+---
+
+* Puntata #136 (13•5•2024)
 
     ☞["Un coso gigante OLED bellissimo"](https://spotifyanchor-web.app.link/e/kQzxR9RpzJb)
     
