@@ -7,7 +7,7 @@ date: 2024-04-30
 ---
 ---
 
-*Cambio di programma. Il VideoPodcast lo registro domani mattina, tra poco esco per vedermi con Mario e pranzare insieme: non avremmo avuto modo di vederci in altri punti del fine settimana a causa dei suoi turni. Ieri sera ho dimenticato di dire che da lunedì a giovedì, nei viaggi per andare e tornare dal PoliMi, ho letto "L'amore rubato" di Dacia Maraini, una storia per ogni viaggio (sono otto in totale). Che libro, con ogni storia mi ha lasciata disgustata, svuotata dentro... Parlerò delle prossime letture nel VideoPodcast, per questa piccola parentesi è tutto.*
+*Cambio di programma. Il VideoPodcast lo registro domani mattina, tra poco esco per vedermi con Mario e pranzare insieme a lui: non avremmo avuto modo di vederci in altri punti del fine settimana a causa dei suoi turni. Ieri sera ho dimenticato di dire che da lunedì a giovedì, nei viaggi per andare e tornare dal PoliMi, ho letto "L'amore rubato" di Dacia Maraini, una storia per ogni viaggio, sono otto in totale. Che libro, con ogni storia mi ha lasciata disgustata, svuotata dentro... Parlerò delle prossime letture nel VideoPodcast, per questa piccola parentesi è tutto.*
 
 <span style="color:red">*— 25 maggio 2024*</span>
 
