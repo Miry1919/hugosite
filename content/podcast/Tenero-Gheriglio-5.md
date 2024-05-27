@@ -31,10 +31,36 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #137 (20•5•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #138 (27•5•2024) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Buona WWDC](https://spotifyanchor-web.app.link/e/eH6JnhuEWJb)
+    
+    {{< youtube  ue6755sXQmY >}}
+    
+    &nbsp;
+    
+    Puntata 138, cioè VideoPodcast 12.
+    
+    Parto parlando dell'occasione che ho sfruttato per effettuare il passaggio dal mio iPhone 14 Pro Max a un iPhone 15 Pro Max nuovo, analizzando le caratteristiche migliorate che ho così acquisito, e precisando gli accessori in uso (☞[vetro temperato ESR](https://www.amazon.it/dp/B0CMTPF3PG), cover in silicone originale colorazione "Guava").
+
+    Poi racconto di aver provato anche l'Apple Pencil Pro nel giro all'Apple Store della settimana precedente, di aver preso una smart folio "Deep Navy" su eBay (a 47,5€ con spedizione) per il mio iPad Pro 11" 2021 temporaneo.
+
+    Proseguo coi libri, mostrandoli tutti ripartendo da quelli che non erano rientrati nel VideoPodcast 11, soffermandomi maggiormente su "Trappole alimentari" di Stefano Vendrame, e "L'amore rubato" di Dacia Maraini, l'ultimo che ho letto e che mi ha colpita moltissimo, e infine vi anticipo quali saranno le mie prossime letture, ragionando sul perché ho abbandonato l'uso del Kindle.
+
+    Continuo facendovi vedere alcuni gadget Nintendo (li trovate ☞[qui](https://store.nintendo.it/it/my-nintendo/my-nintendo-rewards)), e scartando i due giochi nuovi per la Nintendo Switch che quindi ho preso, "Kirby e la terra perduta" e "Pikmin 4" (a 37€ ciascuno).
+
+    Concludo aggiornandovi sui Beats Fit Pro, e sul mio ditino del piede, che alla fine s'era rotto a tutti gli effetti.
+
+    Fa da sfondo la radio lo-fi ☞["Kiroku Radio"](https://youtube.com/@kirokuradio3929?si=uRKqc0Fm8FoRFWcN).
+
+    Buona WWDC, buona estate, ci risentiamo il 16 settembre 2024 con la puntata 139 di Tenero Gheriglio.
+    
+---
+
+* Puntata #137 (20•5•2024)
 
     ☞[Ma guarda questa, sta snob](https://spotifyanchor-web.app.link/e/JQ9IBhd2KJb)
-    
+
     La puntata 137 si intromette, irrompendo prima del VideoPodcast finale pre pausa estiva. Riprendo a parlare dei nuovi iPad, con alcuni follow-up, e dopo essere passata dall'Apple Store di Piazza del Liberty a Milano (tecnologia Tandem OLED, luminosità di picco SDR/HDR, finitura nano-texture, M4 con 9/10 core, 8/16 GB di RAM, cornici). Vi spiego che finalmente sono riuscita a riprendere con gli allenamenti (droganti), e che ho continuato a leggere e concluso due libri, "Il Principe" di N. Machiavelli, e "Trappole alimentari" di S. Vendrame: finisco parlandone per bene.
 
     • [Presentazione del libro "Trappole alimentari"](https://youtu.be/zWBPoQLn_ms?si=a0l2n6Pwkb_y5S86)
