@@ -43,7 +43,7 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
     
     Parto parlando dell'occasione che ho sfruttato per effettuare il passaggio dal mio iPhone 14 Pro Max a un iPhone 15 Pro Max nuovo, analizzando le caratteristiche migliorate che ho così acquisito, e precisando gli accessori in uso (☞[vetro temperato ESR](https://www.amazon.it/dp/B0CMTPF3PG), cover in silicone originale colorazione "Guava").
 
-    Poi racconto di aver provato anche l'Apple Pencil Pro nel giro all'Apple Store della settimana precedente, di aver preso una smart folio "Deep Navy" su eBay (a 47,5€ con spedizione) per il mio iPad Pro 11" 2021 temporaneo.
+    Poi racconto di aver provato anche l'Apple Pencil Pro nel giro all'Apple Store della settimana precedente, di aver preso una Smart Folio "Deep Navy" su eBay (a 47,5€ con spedizione) per il mio iPad Pro 11" 2021 temporaneo.
 
     Proseguo coi libri, mostrandoli tutti ripartendo da quelli che non erano rientrati nel VideoPodcast 11, soffermandomi maggiormente su "Trappole alimentari" di Stefano Vendrame, e "L'amore rubato" di Dacia Maraini, l'ultimo che ho letto e che mi ha colpita moltissimo, e infine vi anticipo quali saranno le mie prossime letture, ragionando sul perché ho abbandonato l'uso del Kindle.
 
