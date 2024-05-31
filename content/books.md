@@ -5,7 +5,7 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _La brevità della vita_ — Seneca
+No, sono in pausa causa esami.
 
 &nbsp;
 
@@ -28,6 +28,7 @@ description: ¶
 * _Trappole alimentari. Cosa è andato storto nella nostra dieta e come rimediare_ — Stefano Vendrame
 * _L'amore rubato_ — Dacia Maraini
 * _Il Piccolo Principe_ — Antoine De Saint-Exupéry
+* _La brevità della vita_ — Seneca
 
 <span style="color:red">*2023 (dal primo all'ultimo)*</span>
 
