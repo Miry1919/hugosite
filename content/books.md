@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-No, sono in pausa causa esami.
+* _Il conte di Montecristo_ — Alexandre Dumas
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _Il conte di Montecristo_ — Alexandre Dumas
 * _Non lasciarmi_ — Kazuo Ishiguro
 * _Qualcosa, là fuori_ — Bruno Arpaia
 * _Il fuoco interiore. Il sistema immunitario e l'origine delle malattie_ — Alberto Mantovani
