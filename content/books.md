@@ -5,7 +5,7 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Il conte di Montecristo_ — Alexandre Dumas
+No, sono in pausa causa esami.
 
 &nbsp;
 
@@ -33,6 +33,7 @@ description: ¶
 * _L'amore rubato_ — Dacia Maraini
 * _Il Piccolo Principe_ — Antoine De Saint-Exupéry
 * _La brevità della vita_ — Seneca
+* _Il conte di Montecristo_ — Alexandre Dumas
 
 <span style="color:red">*2023 (dal primo all'ultimo)*</span>
 
