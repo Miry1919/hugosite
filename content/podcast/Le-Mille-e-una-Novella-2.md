@@ -1,7 +1,7 @@
 ---
 title: "Le Mille e una Novella"
 description: Season 2, 2023
-date: 2022-07-19
+date: 2023-02-21
 ---
 
 <div align="center">È il mio secondo podcast. Finalmente l'ho fatto partire.</div>
@@ -19,7 +19,10 @@ date: 2022-07-19
 ---
 ---
 
-Nella pagina attuale trovi la stagione 2, invece la stagione 1 la trovi [qui](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/).
+Nella pagina attuale trovi la stagione 2, invece per le altre stagioni segui i link:
+
+* [stagione 3](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-3/)
+* [stagione 1](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella/)
 
 ---
 

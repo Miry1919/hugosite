@@ -1,7 +1,7 @@
 ---
 title: Tenero Gheriglio
 description: Season 5, 2024
-date: 2024-02-19
+date: 2024-08-26
 ---
 <div align="center">
 In questo podcast parlo di tutto. Ogni lunedì alle h. 19:00 esce una nuova puntata. Operativo da metà febbraio a metà maggio e da metà settembre a metà dicembre.
