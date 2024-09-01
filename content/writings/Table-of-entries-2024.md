@@ -1,7 +1,7 @@
 ---
 title: Table of Entries
 description: 2024
-date: 2024-07-01
+date: 2024-09-01
 ---
 
      Summer  |   Jul   |   Aug   |   Sep   
