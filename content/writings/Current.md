@@ -12,6 +12,4 @@ date: 2024-08-31
 <span style="color:red">*— 7 settembre 2024*</span>
 
 ---
-
----
 ---
