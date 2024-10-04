@@ -12,7 +12,7 @@ date: 2024-08-25
 
 &nbsp;
 
-<div align="center">Terza stagione da venerdì 4 ottobre a venerdì 6 dicembre 2024.</div>
+<div align="center">Terza stagione da venerdì 11 ottobre a venerdì 13 dicembre 2024.</div>
 
 <div align="center">Appuntamento ogni venerdì alle h. 19:00.</div>
 
