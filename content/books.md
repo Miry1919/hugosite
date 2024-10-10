@@ -13,6 +13,7 @@ description: ¶
 
 * _Come si sbriciola un biscotto?_ — Joe Schwarcz
 * _Storia della bambina perduta. L'amica geniale (volume quarto)_ — Elena Ferrante
+* _Tutta la vita che resta_ — Roberta Recchia
 * _The Tender Bar. Il bar delle grandi speranze_ — J. R. Moehringer
 * _I miserabili_ — Victor Hugo
 
