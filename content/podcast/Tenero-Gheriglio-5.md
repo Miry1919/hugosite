@@ -31,7 +31,31 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #138 (27•5•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #139 (14•10•2024) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Delle *nuovissime* AirPods Max](https://spotifyanchor-web.app.link/e/hwPYLg20GNb)
+
+    La puntata 139 arriva con un ritardo di quattro settimane, a causa del fatto che mi è venuta la polmonite. Ripartendo da dove eravamo rimasti, ripercorriamo le novità della Worldwide Developers Conference (WWDC) del 10 giugno, e dell'evento Apple del 9 settembre, quindi dei nuovi iPhone 16, 16 Plus, Pro e Pro Max, dei nuovi Apple Watch Serie 10 e Ultra 2 nella colorazione nera, dei nuovi AirPods 4 con e senza cancellazione del rumore, dell'aggiornamento software per gli AirPods Pro 2 (Conversation Awareness ecc.). Inoltre vi racconto che sto finalmente acquistando l'iPad Pro 13" M4, che ha raggiunto il prezzo che speravo, spiegandovi quali accessori ho acquistato, dove, come, perché. Libri nuovi che ho letto, videogiochi nuovi con cui ho giocato, e la triste storia della mia GoPro a brevissimo su questa rete!
+
+    &nbsp;
+
+    • ["Le Mille e una Novella", stagione 3](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-3/)
+    
+    &nbsp;
+    
+    • Su eBay (non è uno sponsor, solo un hint):
+
+    → [iPad Pro 13" M4 256 GB Wi-Fi] (https://www.ebay.it/itm/326249936496?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=BtjESvYYRsi&sssrc=4429486&ssuid=6yuShmhbRYy&var=&widget_ver=artemis&media=COPY)
+    
+    → [iPad Pro 13" M4 256 GB Wi-Fi + Cellular] (https://www.ebay.it/itm/226274171102?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=BtjESvYYRsi&sssrc=4429486&ssuid=6yuShmhbRYy&var=&widget_ver=artemis&media=COPY)
+    
+    &nbsp;
+    
+    • [Vetri temperati ESR su Amazon](https://amzn.eu/d/eTXCFL2)
+    
+---
+
+* Puntata #138 (27•5•2024)
 
     ☞[Buona WWDC](https://spotifyanchor-web.app.link/e/eH6JnhuEWJb)
     
