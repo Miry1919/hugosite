@@ -30,6 +30,10 @@ Nella pagina attuale trovi la stagione 3, invece per le altre stagioni segui i l
 
 ---
 
-<span style="color:orange">Coming soon! ⚡️</span>
+<span style="color:blue">☞ [<span style="color:blue">٢٠ Introduzione, terza stagione ☾ • 18/10/2024</span>](https://spotifyanchor-web.app.link/e/aARNQDGENNb)</span> <span style="color:orange">⚡️ New!</span>
+
+*Un proverbio tedesco dice, "La terza volta è quella buona", e noi siamo arrivati alla terza stagione di "Le Mille e una Novella"... si tratta di una buona novella! Ho tanto da raccontare, è sempre più grande questa mia necessità di immortalare il mio destino tramite le parole. E devo ammettere che questo destino è spesso crudele, ultimamente mi ha portato tante sfortune, un dito fratturato per surfare, una polmonite bilaterale giusto perché stavo di nuovo benissimo, ero felice, e non era possibile... Voglio nuotare, correre e vivere ancora pienamente, si può? Sì, lo chiedo a te, destino insolente, vuoi smettere di infierire? Già la vita è difficile, soprattutto se scegli sempre di dare tutto, di superarti in ogni occasione, di donarti e di non risparmiarti mai con le persone. Ti ci metti pure tu, con questi sgambetti, con questi schiaffi gratuiti?*
+
+*La terza volta è quella buona, lo sento. Questo podcast stavolta riceverà una stagione più evoluta e consapevole, più bella, banalmente. E se anche Briciola, la mia cagnolina, è venuta a mancare qualche mese fa, e mi manca da morire, tutti coloro che dall'alto, dal basso, da lontano o da vicino, ascolteranno le mie storie, mi riempiranno il cuore di entusiasmo. Un giorno "Le Mille e una Novella" conoscerà più persone e luoghi, deve ancora crescere, esplorare la sua individualità, innalzare la sua anima lavorando sulla sua interiorità. Sembra avere buoni progetti, puri intenti, e quindi non restano molti altri dettagli. Le puntate di questa terza stagione verranno create come sempre di volta in volta, seguendo il flusso degli eventi e riesumando sul momento preziosi ricordi, e verranno pubblicate ogni venerdì alle ore 19:00, fino al 20 dicembre 2024. A presto, un abbraccio.*
 
 ---
