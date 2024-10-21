@@ -36,7 +36,7 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
     ☞[E poi si è rotta la GoPro](https://spotifyanchor-web.app.link/e/KUpA9NnCSNb)
 
-    Puntata 140. Inizio parlando della scarsa utilità della trascrizione delle puntate di Apple Podcasts, del lancio dell’iPad mini (A17 Pro), di quale iPad Pro ho preso (Cellular), di cosa ho fatto subito quando venerdì mi è arrivato, delle caratteristiche più belle e di come mi sto trovando per ora. Continuo raccontandovi la storia della mia GoPro Hero 11 Black Mini, che riguarda anche altre due GoPro… Concludo consigliandovi un gioco bellissimo, Monument Valley, che sta per arrivare il capitolo 3.
+    Puntata 140. Inizio parlando della scarsa utilità della trascrizione delle puntate di Apple Podcasts, del lancio dell’iPad mini (A17 Pro), di quale iPad Pro ho preso (Cellular), di cosa ho fatto subito quando venerdì mi è arrivato, delle caratteristiche più belle e di come mi sto trovando per ora. Continuo raccontandovi la storia della mia GoPro Hero 11 Black Mini, che riguarda anche altre due GoPro… Concludo consigliandovi un gioco bellissimo, Monument Valley, che sta per arrivare al capitolo 3.
 
     • [iPad Pro 13" M4 256 GB Wi-Fi + Cellular](https://www.ebay.it/itm/226274171102?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=BtjESvYYRsi&sssrc=4429486&ssuid=6yuShmhbRYy&var=&widget_ver=artemis&media=COPY)
 
