@@ -31,8 +31,19 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
+* Puntata #141 (28•10•2024) <span style="color:orange">⚡️ New!</span>
 
-* Puntata #140 (21•10•2024) <span style="color:orange">⚡️ New!</span>
+    ☞[Questo batuffolo rosa cerca di conquistare il mondo](https://spotifyanchor-web.app.link/e/NcXTZRtd4Nb)
+
+    La centoquarantunesima puntata inizia con qualche aggiornamento su Apple (nuovi Mac in arrivo), col mio test del jelly scrolling con l'iPad mini (A17 Pro), e con altri racconti sulla mia esperienza con l'iPad Pro 13" M4 (eSIM 5G, Apple Pencil Pro, prova gaming). Tra coccinelle giganti e cimici (si dice «con la coda dell'occhio»!), dopo un'utile scoperta, ci tuffiamo nei videogiochi: "Paper Mario: Il Portale Millenario", "The Legend of Zelda: Echoes of Wisdom", e "Mario & Luigi: Fraternauti alla carica", in uscita il 7 novembre, che ho preordinato. I libri rislittano, ci vediamo presto.
+
+    • [Sito per il test del "jelly scrolling"](https://www.testufo.com/scanskew)
+
+    • ["Le Mille e una Novella"](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-3/)
+    
+---
+
+* Puntata #140 (21•10•2024) 
 
     ☞[E poi si è rotta la GoPro](https://spotifyanchor-web.app.link/e/KUpA9NnCSNb)
 
