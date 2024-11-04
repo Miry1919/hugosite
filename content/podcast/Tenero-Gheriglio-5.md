@@ -31,7 +31,27 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #141 (28•10•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #142 (4•11•2024) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Vedete la mia nebbia fuori dalla finestra?](https://spotifyanchor-web.app.link/e/UL4rzGsOfOb)
+    
+    {{< youtube  Wb13VoV1pWU >}}
+    
+    &nbsp;
+
+    La puntata 142, cioè il VideoPodcast 13, parte con alcune dinamiche di vita, con i nuovi Mac, con Apple Intelligence; continua col mostrarvi il mio nuovo iPad e gli accessori, il caricatore americano con adattatore italiano, una presa smart, un nuovo cinturino per l'Apple Watch, due controller universali bellissimi; e infine conclude coi libri: "Il Piccolo Principe", "La brevità della vita", "Il conte di Montecristo", "Non lasciarmi", "Qualcosa, là fuori", "Il fuoco interiore", "Il cucchiaino scomparso e altre storie della tavola periodica degli elementi", "Come si sbriciola un biscotto?", "Storia della bambina perduta. L’amica geniale (volume quarto)".
+
+    • [Apple Intelligence](https://www.apple.com/it/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/)
+
+    • [Meross Matter Presa Smart](https://www.amazon.it/dp/B0C4LHP7G3?)
+    
+    • Perfezionamento estetico scrivania, [post Instagram](https://www.instagram.com/p/DB6FjY-irDA/?igsh=eXNyOGdmZm9sc3h5)
+        
+    • [Controller 8BitDo SN30 pro (special editions)](https://www.8bitdo.com/sn30-pro-g-classic-or-sn30-pro-sn/)
+    
+---
+
+* Puntata #141 (28•10•2024)
 
     ☞[Questo batuffolo rosa cerca di conquistare il mondo](https://spotifyanchor-web.app.link/e/NcXTZRtd4Nb)
 
