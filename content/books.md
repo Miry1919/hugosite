@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Storia della bambina perduta. L'amica geniale (volume quarto)_ — Elena Ferrante
+* _Tutta la vita che resta_ — Roberta Recchia
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _Tutta la vita che resta_ — Roberta Recchia
 * _The Tender Bar. Il bar delle grandi speranze_ — J. R. Moehringer
 * _I miserabili_ — Victor Hugo
 
@@ -37,6 +36,7 @@ description: ¶
 * _Il fuoco interiore. Il sistema immunitario e l'origine delle malattie_ — Alberto Mantovani
 * _Il cucchiaino scomparso e altre storie della tavola periodica degli elementi_ — Sam Kean
 * _Come si sbriciola un biscotto?_ — Joe Schwarcz
+* _Storia della bambina perduta. L'amica geniale (volume quarto)_ — Elena Ferrante
 
 <span style="color:red">*2023 (dal primo all'ultimo)*</span>
 
