@@ -31,7 +31,17 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #142 (4•11•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #143 (11•11•2024) <span style="color:orange">⚡️ New!</span>
+
+    ☞[I giudici sono sempre stati dei grandissimi creduloni](https://spotifyanchor-web.app.link/e/9FH1vZprrOb)
+
+    Puntata 143. Dopo due precisazioni sulla puntata 142 (15 cm di circonferenza!), proseguiamo con un follow-up sulla RAM minima dei Mac, con un parere su alcuni videogiochi, e con le offerte del "Single's Day" (GoPro, Magic Keyboard...). Infine parliamo di nuovo dei libri, riepilogando e approfondendo cosa era stato detto nella puntata precedente, includendo soprattutto "Il conte di Montecristo" di Alexandre Dumas, "Il fuoco interiore. Il sistema immunitario e l'origine delle malattie " di Alberto Mantovani, "Il cucchiaino scomparso e altre storie della tavola periodica degli elementi" di Sam Kean, "Come si sbriciola un biscotto?" di Joe Schwarcz, e "Storia della bambina perduta", il quarto volume de "L'amica geniale", di Elena Ferrante.
+
+    • ["Books" sul mio sito](https://miry1919.github.io/hugosite/books/)
+    
+---
+
+* Puntata #142 (4•11•2024)
 
     ☞[Vedete la mia nebbia fuori dalla finestra?](https://spotifyanchor-web.app.link/e/UL4rzGsOfOb)
     
