@@ -31,7 +31,27 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #143 (11•11•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #144 (18•11•2024) <span style="color:orange">⚡️ New!</span>
+
+    ☞[I giudici sono sempre stati dei grandissimi creduloni](https://spotifycreators-web.app.link/e/3DJivE0aDOb)
+
+    Puntata 144! Dopo avervi aggiornato sul videogioco e sul libro del momento, vi parlo della mia nuova GoPro Hero 13 Black, e Magic Keyboard per l’iPad Pro 13” M4. Infine faccio un lungo discorso sul perché non hanno mai portato macOS sull’iPad.
+
+    • [Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-3/)
+    
+    • [Pokemon TCG Pocket (trading card game)](https://apps.apple.com/it/app/pok%C3%A9mon-tcg-pocket/id6479970832?l=en-GB)
+    
+    • [Animal Crossing: Pocket Camp C (complete)](https://apps.apple.com/it/app/animal-crossing-pocket-camp-c/id6547834967?l=en-GB)
+    
+    • Video riguardanti “macOS su iPad”:
+    
+    ⭢ [The real reason](https://youtu.be/6YVyNy1Scf0?si=YFzWOmUGV2Q4NQSr)
+    
+    ⭢ [Why it’s a good thing](https://youtu.be/saYUN2MKRC8?si=L16w7AZ4NJM1Y_2z)
+    
+---
+
+* Puntata #143 (11•11•2024)
 
     ☞[I giudici sono sempre stati dei grandissimi creduloni](https://spotifyanchor-web.app.link/e/9FH1vZprrOb)
 
