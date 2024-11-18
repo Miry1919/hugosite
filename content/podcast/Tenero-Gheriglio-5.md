@@ -33,7 +33,7 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 * Puntata #144 (18•11•2024) <span style="color:orange">⚡️ New!</span>
 
-    ☞[I giudici sono sempre stati dei grandissimi creduloni](https://spotifycreators-web.app.link/e/3DJivE0aDOb)
+    ☞[Va beh, lo sapevamo](https://spotifycreators-web.app.link/e/3DJivE0aDOb)
 
     Puntata 144! Dopo avervi aggiornato sul videogioco e sul libro del momento, vi parlo della mia nuova GoPro Hero 13 Black, e Magic Keyboard per l’iPad Pro 13” M4. Infine faccio un lungo discorso sul perché non hanno mai portato macOS sull’iPad.
 
