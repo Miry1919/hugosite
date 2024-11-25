@@ -31,7 +31,19 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #144 (18•11•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #145 (25•11•2024) <span style="color:orange">⚡️ New!</span>
+
+    ☞["I found some web results"](https://spotifycreators-web.app.link/e/JgHcaYfNOOb)
+
+    La puntata 145, che non è un VideoPodcast e si scusa motivando la sua scelta, inizia con un discorso su Apple Intelligence – che ho finalmente provato su macOS –, agganciandosi al recente video di MKBHD, appunto su Apple Intelligence; continua con una bella funzione di watchOS, e il mio uso dell’Apple Watch in piscina, e nella vita, come compagno di allenamenti e alleato per la salute; termina consigliandovi un video sul consumo di bevande, soprattutto gassate, negli Stati Uniti, che ne abusano a tal punto da non bere proprio più l’acqua.
+
+    • [Video di MKBHD su Apple Intelligence](https://youtu.be/haDjmBT9tu4?si=6PTtNOsszlmByZV3)
+    
+    • [Video sulle bevande negli USA](https://youtu.be/XJyJiOw-lS8?si=ht0OAhRkhd6IPQR0)
+    
+---
+
+* Puntata #144 (18•11•2024)
 
     ☞[Va beh, lo sapevamo](https://spotifycreators-web.app.link/e/3DJivE0aDOb)
 
