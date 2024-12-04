@@ -12,6 +12,7 @@ description: ¶
 #### <span style="color:red">Leggerò a breve</span>
 
 * _L'insostenibile leggerezza dell'essere_ — Milan Kundera
+* _Almanacco Digitaliano 2024_ — Franco Solerio
 * _I miserabili_ — Victor Hugo
 
 &nbsp;
