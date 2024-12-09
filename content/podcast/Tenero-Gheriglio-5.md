@@ -31,7 +31,21 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #145 (25•11•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #146 (9•12•2024) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Ogni lettore legge un libro diverso](https://spotifycreators-web.app.link/e/8vBqIcm2bPb)
+    
+    La puntata 146, che non è un VideoPodcast e si scusa ancora dichiarando di chi è la colpa, inizia commentando i retroscena di “Le Mille e una Novella”, di cui sono molto orgogliosa, e continua parlando delle mie letture e delle filosofie connesse all’atto della lettura, includendo “Tutta la vita che resta” di Roberta Recchia, “The Tender Bar” di J. R. Moehringer. Termina con un racconto sul podcast “Digitalia” (e un ringraziamento), che ha preso da poco anche le sembianze di un libro, “Almanacco Digitaliano 2024”.
+    
+    • [Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-3/)
+
+    • [Books](https://miry1919.github.io/hugosite/books/)
+    
+    • [Digitalia 750-751](https://digitalia.fm/2024/11/)
+    
+---
+
+* Puntata #145 (25•11•2024)
 
     ☞["I found some web results"](https://spotifycreators-web.app.link/e/JgHcaYfNOOb)
 
