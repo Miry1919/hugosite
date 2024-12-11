@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _The Tender Bar. Il bar delle grandi speranze_ — J. R. Moehringer
+* _Almanacco Digitaliano 2024_ — Franco Solerio
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _Almanacco Digitaliano 2024_ — Franco Solerio
 * _L'insostenibile leggerezza dell'essere_ — Milan Kundera
 * _I miserabili_ — Victor Hugo
 
@@ -39,6 +38,7 @@ description: ¶
 * _Come si sbriciola un biscotto?_ — Joe Schwarcz
 * _Storia della bambina perduta. L'amica geniale (volume quarto)_ — Elena Ferrante
 * _Tutta la vita che resta_ — Roberta Recchia
+* _The Tender Bar. Il bar delle grandi speranze_ — J. R. Moehringer
 
 <span style="color:red">*2023 (dal primo all'ultimo)*</span>
 
