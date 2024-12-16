@@ -5,7 +5,7 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Almanacco Digitaliano 2024_ — Franco Solerio
+* _Almanacco Digitaliano 2024_ — F. Solerio, M. De Santo, G. Cupini, M. Di Maio, F. Facconi
 
 &nbsp;
 

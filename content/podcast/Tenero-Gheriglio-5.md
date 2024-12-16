@@ -31,7 +31,29 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #146 (9•12•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #147 (16•12•2024) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Troppo entusiasmo oggi](https://spotifycreators-web.app.link/e/lPYyxcmvnPb)
+    
+    {{< youtube  Wc7p3ivbUdg >}}
+    
+    &nbsp;
+
+    Puntata 147, cioè VideoPodcast 14 (non 15!). Inizio parlandovi della mia prima gara di nuoto Master, e inoltre vi mostro qual è il misterioso oggettino per "registrare diversamente" di cui vi avevo accennato nella scorsa puntata. Poi finalmente tiro fuori gli acquisti dell'11/11, la Magic Keyboard, e la GoPro Hero 13 Black, di cui vi faccio vedere anche due mount comprati precedentemente. Continuo con i libri, "Tutta la vita che resta", "The Tender Bar", "Almanacco Digitaliano 2024", "L'insostenibile leggerezza dell'essere", "I miserabili", e poi con i videogiochi, vecchi e nuovi, "Captain Toad: Treasure Tracker", "Sonic X Shadow Generations". Chiudo con una valanga di gadget Nintendo e accennandovi cosa si cela alle mie spalle. Buon Natale, buon 2025, ci risentiamo il 17 febbraio 2025 con la stagione 6 di Tenero Gheriglio! P.S. In realtà, come da tradizione, prima ci saranno due puntate BONUS che racchiuderanno "Le Mille e una Novella".
+
+    • [RØDE SmartLav+ Microfono Lavalier](https://amzn.eu/d/4OihDwY)
+
+    • [GoPro 3-Way 2.0](https://gopro.com/it/it/shop/mounts-accessories/3-way-2.0/AFAEM-002.html?)
+    
+    • [Flymount Aero-40](https://flymount.com/aero-40-action-camera-mount/)
+    
+    • [Premi "My Nintendo"](https://store.nintendo.it/it/my-nintendo/my-nintendo-rewards)
+    
+    • [Astuccio di Super Mario](https://store.nintendo.it/it/astuccio-di-super-mario-000000000010014445)
+
+---
+
+* Puntata #146 (9•12•2024)
 
     ☞[Ogni lettore legge un libro diverso](https://spotifycreators-web.app.link/e/8vBqIcm2bPb)
     
