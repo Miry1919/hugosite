@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Almanacco Digitaliano 2024_ — F. Solerio, M. De Santo, G. Cupini, M. Di Maio, F. Facconi
+* _L'insostenibile leggerezza dell'essere_ — Milan Kundera
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _L'insostenibile leggerezza dell'essere_ — Milan Kundera
 * _I miserabili_ — Victor Hugo
 
 &nbsp;
@@ -39,6 +38,7 @@ description: ¶
 * _Storia della bambina perduta. L'amica geniale (volume quarto)_ — Elena Ferrante
 * _Tutta la vita che resta_ — Roberta Recchia
 * _The Tender Bar. Il bar delle grandi speranze_ — J. R. Moehringer
+* _Almanacco Digitaliano 2024_ — F. Solerio, M. De Santo, G. Cupini, M. Di Maio, F. Facconi
 
 <span style="color:red">*2023 (dal primo all'ultimo)*</span>
 
