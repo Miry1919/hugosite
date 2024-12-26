@@ -5,7 +5,7 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _L'insostenibile leggerezza dell'essere_ — Milan Kundera
+No, sono in pausa causa esami.
 
 &nbsp;
 
@@ -39,6 +39,7 @@ description: ¶
 * _Tutta la vita che resta_ — Roberta Recchia
 * _The Tender Bar. Il bar delle grandi speranze_ — J. R. Moehringer
 * _Almanacco Digitaliano 2024_ — F. Solerio, M. De Santo, G. Cupini, M. Di Maio, F. Facconi
+* _L'insostenibile leggerezza dell'essere_ — Milan Kundera
 
 <span style="color:red">*2023 (dal primo all'ultimo)*</span>
 
