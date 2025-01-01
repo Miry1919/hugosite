@@ -1,7 +1,7 @@
 ---
 title: Table of Entries
 description: 2024
-date: 2024-11-01
+date: 2024-12-30
 ---
 
      Autumn  |   Oct   |   Nov   |   Dec   
@@ -38,7 +38,7 @@ date: 2024-11-01
        30    |    x    |         |    x  
        31    |         |         |        
      ------- | ------- | ------- | ------- 
-       tot   |    3    |    3    |      
+       tot   |    3    |    3    |    2 
 
 &nbsp;
 
