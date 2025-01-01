@@ -1,6 +1,6 @@
 ---
 title: Current
-description: Gen-Feb 2025
+description: Jan-Feb 2025
 date: 2024-12-31
 ---
 
