@@ -31,7 +31,29 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #147 (16•12•2024) <span style="color:orange">⚡️ New!</span>
+* Puntata #148 (27•1•2025) <span style="color:blue">BONUS</span> <span style="color:orange">⚡️ New!</span>
+
+    ☞[Le Mille e una Novella 3, prima parte](https://spotifycreators-web.app.link/e/D7TVQonUuQb)
+    
+    Come prima puntata BONUS 148 ripercorriamo la prima parte della terza stagione di “Le Mille e una Novella”.
+    
+    >   Indice dei contenuti
+
+    >>   ٢٠ Introduzione, terza stagione ☾
+    
+    >>   ٢١ I carrelli della spesa, le due coppie di cagnolini
+    
+    >>   ٢٢ Singolari passatempi di bambini e cagnolini
+    
+    >>   ٢٣ Polmonite, parte uno
+    
+    >>   ٢٤ Polmonite, parte due
+
+    >   I testi delle storie possono essere letti parola per parola, si trovano ☞[qui](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-3/).
+    
+---
+
+* Puntata #147 (16•12•2024)
 
     ☞[Troppo entusiasmo oggi](https://spotifycreators-web.app.link/e/lPYyxcmvnPb)
     
