@@ -1,7 +1,7 @@
 ---
 title: Tenero Gheriglio
 description: Season 5, 2024
-date: 2024-08-26
+date: 2025-02-03
 ---
 <div align="center">
 In questo podcast parlo di tutto. Ogni lunedì alle h. 19:00 esce una nuova puntata. Operativo da metà febbraio a metà maggio e da metà settembre a metà dicembre.
@@ -20,6 +20,7 @@ Ascoltalo:
 
 Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i link:
 
+* [stagione 6](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-6/)
 * [stagione 4](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-4/)
 * [stagione 3](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-3/)
 * [stagione 2](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-2/)
@@ -31,11 +32,33 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #148 (27•1•2025) <span style="color:blue">BONUS</span> <span style="color:orange">⚡️ New!</span>
+* Puntata #149 (3•2•2025) <span style="color:blue">BONUS</span> <span style="color:orange">⚡️ New!</span>
+
+    ☞[Le Mille e una Novella 3, seconda parte](https://spotifycreators-web.app.link/e/nF7jthQwGQb)
+    
+    Come prima puntata BONUS 149 ripercorriamo la seconda parte della terza stagione di “Le Mille e una Novella”. A presto per la sesta stagione di Tenero Gheriglio!
+    
+    >   Indice dei contenuti
+
+    >>   ٢٥ Polmonite, parte tre
+    
+    >>   ٢٦ Polmonite, parte quattro
+    
+    >>   ٢٧ Polmonite, parte cinque
+    
+    >>   ٢٨ Le spese processuali
+    
+    >>   ٢٩ La prima gara di nuoto Master
+
+    >   I testi delle storie possono essere letti parola per parola, si trovano ☞[qui](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-3/).
+    
+---
+
+* Puntata #148 (27•1•2025) <span style="color:blue">BONUS</span>
 
     ☞[Le Mille e una Novella 3, prima parte](https://spotifycreators-web.app.link/e/D7TVQonUuQb)
     
-    Come prima puntata BONUS 148 ripercorriamo la prima parte della terza stagione di “Le Mille e una Novella”.
+    Come prima puntata BONUS 148 ripercorriamo la prima parte della terza stagione di “Le Mille e una Novella”. A presto!
     
     >   Indice dei contenuti
 
