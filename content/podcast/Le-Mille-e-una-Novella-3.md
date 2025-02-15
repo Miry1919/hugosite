@@ -1,7 +1,7 @@
 ---
 title: "Le Mille e una Novella"
 description: Season 3, 2024
-date: 2024-08-25
+date: 2025-02-14
 ---
 
 <div align="center">È il mio secondo podcast. Finalmente l'ho fatto partire.</div>

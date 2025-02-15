@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-No, sono in pausa causa esami.
+* _Ultima fermata Gaza. La guerra senza fine tra Israele e Palestina_ — Noam Chomsky, Ilan Pappé
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _Ultima fermata Gaza. La guerra senza fine tra Israele e Palestina_ — Noam Chomsky, Ilan Pappé
 * _Impara a dire di no. L'arte di stabilire dei confini e trasformare la nostra vita_ — Nedra Glover Tawwab
 * _I miserabili_ — Victor Hugo
 
