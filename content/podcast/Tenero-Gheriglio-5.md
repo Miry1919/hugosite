@@ -32,7 +32,7 @@ Nella pagina attuale trovi la stagione 5, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #149 (3•2•2025) <span style="color:blue">BONUS</span> <span style="color:orange">⚡️ New!</span>
+* Puntata #149 (3•2•2025) <span style="color:blue">BONUS</span>
 
     ☞[Le Mille e una Novella 3, seconda parte](https://spotifycreators-web.app.link/e/nF7jthQwGQb)
     
