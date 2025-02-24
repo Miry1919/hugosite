@@ -32,7 +32,22 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #150 (17•2•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #151 (24•2•2025) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Anche Putin vuole la pace](https://spotifycreators-web.app.link/e/gknEGagPfRb)
+    
+    Nella puntata 151 vi porto un po’ nella mia ultima gara, e in generale nella disciplina del nuoto agonistico e master, poi parlo di nuovo dei giochi per la Nintendo Switch, e cose annesse, dell’annuncio dell’iPhone 16e, dei Powerbeats Pro 2. Infine vi riporto le mie tristi sensazioni riguardanti l’ultimo libro appena letto: "Ultima fermata Gaza. La guerra senza fine tra Israele e Palestina" di Noam Chomsky e Ilan Pappé.
+    
+    • Post Instagram:
+    
+    → [Alla gara di nuoto](https://www.instagram.com/p/DGa-gdMi3GI/?img_index=1)
+    
+    → [I miei giochi della Nintendo Switch](https://www.instagram.com/p/DGVTOM0iTIX/) 
+
+---
+
+
+* Puntata #150 (17•2•2025)
 
     ☞[Sono troppo vecchia](https://spotifycreators-web.app.link/e/HM7R1Es23Qb)
     
