@@ -32,7 +32,27 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #151 (24•2•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #152 (3•3•2025) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Sarà che un po’ di suspance, ogni tanto, fa bene](https://spotifycreators-web.app.link/e/F1XpTWqrrRb)
+    
+    Nella puntata 152 parlo dello "Humane Ai Pin", del "Pokémon Day" e della storia della mia relazione con Pokémon, poi accenno al libro che sto leggendo, di cui riparlerò per esteso, e infine faccio una carrellata delle serie tv che ho potuto vedere, che sto vedendo, e che vedrò a breve.
+    
+    • ["Pokémon Day" video update](https://youtu.be/W7FTkUFU7nw?si=oUjkZHFGOcMvCYXd)
+    
+    • Serie tv:
+    
+    → [Sul Conte di Montecristo](https://www.raiplay.it/programmi/ilcontedimontecristo)
+    
+    → [Su Oriana Fallaci](https://www.raiplay.it/programmi/missfallaci)
+    
+    → ["Silo" (Season 2) su Apple TV+](https://tv.apple.com/it/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice)
+    
+    → ["Severance" (Season 2) su Apple TV+](https://tv.apple.com/it/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx)
+    
+---
+
+* Puntata #151 (24•2•2025)
 
     ☞[Anche Putin vuole la pace](https://spotifycreators-web.app.link/e/gknEGagPfRb)
     
