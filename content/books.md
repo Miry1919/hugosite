@@ -5,13 +5,13 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Impara a dire di no. L'arte di stabilire dei confini e trasformare la nostra vita_ — Nedra Glover Tawwab
+* _I miserabili_ — Victor Hugo
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _I miserabili_ — Victor Hugo
+Non ho ancora scelto...
 
 &nbsp;
 
@@ -20,6 +20,7 @@ description: ¶
 <span style="color:red">*2025 (dal primo all'ultimo)*</span>
 
 * _Ultima fermata Gaza. La guerra senza fine tra Israele e Palestina_ — Noam Chomsky, Ilan Pappé
+* _Impara a dire di no. L'arte di stabilire dei confini e trasformare la nostra vita_ — Nedra Glover Tawwab
 
 <span style="color:red">*2024 (dal primo all'ultimo)*</span>
 
