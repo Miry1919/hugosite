@@ -12,6 +12,4 @@ date: 2025-03-02
 <span style="color:red">*— 9 marzo 2025*</span>
 
 ---
-
----
 ---
