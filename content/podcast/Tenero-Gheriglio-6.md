@@ -32,7 +32,15 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #152 (3•3•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #153 (10•3•2025) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Sapete che ho una malattia](https://spotifycreators-web.app.link/e/ioGWZZESCRb)
+    
+    La puntata 153 di Tenero Gheriglio è passionalmente tech. Inizio col fare un'annotazione alla puntata 152, proseguo con gli annunci Apple della settimana scorsa: iPad Air M3, iPad base A16, MacBook Air M4, Mac Studio M3 Ultra e M4 Max. Poi finalmente vi svelo il mio acquisto, raccontandovi tutto il percorso mentale sottostante che ho fatto, di come si posiziona tra le cose che già possiedo, a che prezzo e dove l'ho preso, quale modello e colore ho scelto, e perché gli accessori ce li avevo già. Niente spoiler, buon ascolto!
+    
+---
+
+* Puntata #152 (3•3•2025)
 
     ☞[Sarà che un po’ di suspance, ogni tanto, fa bene](https://spotifycreators-web.app.link/e/F1XpTWqrrRb)
     
