@@ -32,7 +32,15 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #153 (10•3•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #154 (17•3•2025) <span style="color:orange">⚡️ New!</span>
+
+    ☞["Il posto più lontano, spesso, è il nostro interno"](https://open.spotify.com/episode/3mbyW6Y2CwHFATUdRGEdvz?si=Ct1FRLrUQH-RVLr0zSpIJA)
+    
+    Nella puntata 154 parto parlando dei libri, quindi di "Impara a dire di no. L’arte di stabilire dei confini e trasformare la nostra vita" di Nedra Glover Tawwab, per essere più consapevoli nelle nostre scelte di vita, nelle nostre relazioni con le persone, e dare la giusta importanza allo smartphone e a noi stessi, e poi de "I miserabili" di Victor Hugo, che mi ha fatto capire ancora una volta quanto amo i classici rispetto ai saggi e a tutti gli altri libri. Poi parlo della notizia sulla nuova Siri rimandata, dell’uscita della nuova GoPro MAX. Infine concludo il discorso sull’iPad mini (A17 Pro) iniziato la scorsa settimana, con tutto ciò che l’ingresso di questo dispositivo, tra gli altri, ha comportato nel passato, in quel caso nelle vesti di iPad mini 6th gen, e nel presente.
+    
+---
+
+* Puntata #153 (10•3•2025)
 
     ☞[Sapete che ho una malattia](https://spotifycreators-web.app.link/e/ioGWZZESCRb)
     
