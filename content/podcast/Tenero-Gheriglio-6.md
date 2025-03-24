@@ -32,7 +32,17 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #154 (17•3•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #155 (24•3•2025) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Donne, dove siete finite!](https://spotifycreators-web.app.link/e/orgY7eih0Rb)
+    
+    La puntata 155 si apre con le scuse per il ritardo della scorsa settimana, condite da un discorso a cui tengo molto, sulla sensibilità, l’equità, il rispetto reciproco. Poi continua commentando l’update delle AirPods Max con la porta USB-C, rinnovando la mia felicità nel leggere “I miserabili”, raccontando della puntata 85 di Tenero Gheriglio che tempo fa è stata cancellata. Infine termina con un’anticipazione sull’organizzazione del podcast nelle prossime settimane.
+    
+    • [AirPods Max update](https://www.apple.com/newsroom/2025/03/lossless-audio-and-ultra-low-latency-audio-come-to-airpods-max/)
+        
+---
+
+* Puntata #154 (17•3•2025)
 
     ☞["Il posto più lontano, spesso, è il nostro interno"](https://spotifycreators-web.app.link/e/HkWdwYDIORb)
     
