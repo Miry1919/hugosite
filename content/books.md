@@ -11,7 +11,8 @@ description: ¶
 
 #### <span style="color:red">Leggerò a breve</span>
 
-Non ho ancora scelto...
+* _I demoni_ — Fëdor Dostoevskij
+* _Memorie da una casa di morti_ — Fëdor Dostoevskij
 
 &nbsp;
 
