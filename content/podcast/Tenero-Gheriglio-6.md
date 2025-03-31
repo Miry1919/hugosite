@@ -32,7 +32,27 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #155 (24•3•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #156 (31•3•2025) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Nella mia vecchiaia andrò a venderli](https://spotifycreators-web.app.link/e/V1TwttqQbSb)
+    
+    Puntata 156! Parto con qualche notizia tech, WWDC 2025 (Worldwide Developers Conference 2025), Nintendo Switch 2 Direct, per continuare con la mia nuova postazione/libreria IKEA, spiegandovi, non senza divagazioni sulla mia vita (LOL), com’è partito il progetto e come si è protratto fino a realizzarsi.
+    
+    • [Nuova postazione/libreria](https://www.instagram.com/reel/DHyN_YxCxjZ/?utm_source=ig_web_copy_link)
+    
+    • [Libreria "BILLY" IKEA](https://www.ikea.com/it/it/p/billy-libreria-bianco-30263844/)
+    
+    • [Piano "SPILDRA" IKEA](https://www.ikea.com/it/it/p/spildra-elemento-top-per-contenitore-bianco-30331697/)
+    
+    • ["Desk Laptop Stand" Native Union](https://www.nativeunion.com/products/desk-laptop-stand)
+    
+    • [Tappetino Mars Gaming](https://amzn.eu/d/8mFBekV)
+    
+    • [Mouse Logitech Signature M650](https://amzn.eu/d/15rmDcB)
+        
+---
+
+* Puntata #155 (24•3•2025)
 
     ☞[Donne, dove siete finite!](https://spotifycreators-web.app.link/e/orgY7eih0Rb)
     
