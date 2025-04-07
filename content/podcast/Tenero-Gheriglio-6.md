@@ -32,7 +32,19 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #156 (31•3•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #157 (7•4•2025) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Peach sulla moto](https://spotifycreators-web.app.link/e/nvqiATJqnSb)
+    
+    {{< youtube  5KsKO8lZcS8 >}}
+    
+    &nbsp;
+
+    La puntata 157, ossia il VideoPodcast 15 di Tenero Gheriglio, inizia col nuoto, con le gare appena fatte, e il mio nuovo costume da gara Jaked. Continua con la mia nuova esperienza col longboard, con lo scooter. Finisce col mostrarvi l'iPad mini A17 Pro e una nuova Smart Folio, cose Pokémon, accessori per la scrivania, libri, videogiochi, e chi più ne ha più ne metta. Al Direct della Nintendo Switch 2 ho solo accennato, ne riparlerò la prossima settimana. Buon ascolto/visione!
+    
+---
+
+* Puntata #156 (31•3•2025)
 
     ☞[Nella mia vecchiaia andrò a venderli](https://spotifycreators-web.app.link/e/V1TwttqQbSb)
     
