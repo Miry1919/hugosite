@@ -10,6 +10,7 @@ date: 2025-03-02
 *Alessandra mia, penserai che ti sto trascurando e hai ragione, ma spero che con ☞[Tenero Gheriglio](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-6/) tu possa sentirmi sempre vicina, attaccata a te, soprattutto dopo un VideoPodcast come quello che ho appena pubblicato e ti lascio qui sotto. Ti scrivo presto, te lo prometto, ho molte cose da dirti. Comincio da queste: non smetto mai di pensarti, di passare con una felicità bambinesca e incontenibile sotto casa tua, sei al corrente di questo; non ci siamo mai lasciate un attimo, e anche se può sembrarti il contrario ti rassicuro, non ho intenzione di farlo, né adesso, né un giorno, e sento, nel profondo, che nemmeno tu voglia farlo mai, nemmeno tu voglia lasciarmi mai.*
 
 {{< youtube  5KsKO8lZcS8 >}}
+&nbsp;
 
 <span style="color:red">*— 7 aprile 2025*</span>
 
