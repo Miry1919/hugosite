@@ -32,7 +32,29 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #157 (7•4•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #158 (14•4•2025) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Calerà il prezzo quasi subito](https://spotifycreators-web.app.link/e/5ARakGSwySb)
+    
+    158ª puntata. Dopo alcuni follow-up su Satispay, e sulla mia nuova Smart Folio denim per l'iPad mini A17 Pro, vi parlo brevemente della nuova data di uscita della Siri rinnovata, esprimendo le mie sensazioni annesse, e lungamente del Direct Nintendo del 2 aprile, delle questioni più calde che stanno girando attorno al lancio della Nintendo Switch 2 del 5 giugno, e ai primi giochi annunciati, a partire dai prezzi maggiorati.
+
+    • [Mario Kart World (Peach sulla moto)](https://www.nintendo.com/it-it/Giochi/Giochi-per-Nintendo-Switch-2/Donkey-Kong-Bananza-2785804.html?srsltid=AfmBOoo5nbZ_AB3Ng_6-oAAKx0mXcTWOermkptcVCEj2-KNcBf-2VtaB)
+    
+    • [Donkey Kong Bananza](https://www.nintendo.com/it-it/Giochi/Giochi-per-Nintendo-Switch-2/Donkey-Kong-Bananza-2785804.html?srsltid=AfmBOoo5nbZ_AB3Ng_6-oAAKx0mXcTWOermkptcVCEj2-KNcBf-2VtaB)
+        
+    • [Kirby Air Riders](https://www.nintendo.com/it-it/Giochi/Giochi-per-Nintendo-Switch-2/Kirby-Air-Riders-2785805.html)
+        
+    • [Kirby e la terra perduta + Il mondo astrale](https://www.nintendo.com/it-it/Giochi/Nintendo-Switch-2-Edition/Kirby-e-la-terra-perduta-Nintendo-Switch-2-Edition-Il-mondo-astrale-2787773.html)
+    
+    • [Pokémon Legends: Z‑A](https://www.nintendo.com/it-it/Giochi/Giochi-per-Nintendo-Switch/Leggende-Pokemon-Z-A-2533423.html?srsltid=AfmBOooZJ0-IBB1oBodo3oGzK_YYn6FDffskYA2i3Ofei9-9KunoRVUV)
+    
+    • [Metroid Prime 4: Beyond](https://www.nintendo.com/it-it/Giochi/Giochi-per-Nintendo-Switch/Metroid-Prime-4-Beyond-2593922.html?srsltid=AfmBOor-JcN1BHiKxfYAlibX3pwn3kqdBL-ewCLXHz9RCvFd75sbYh5u)
+    
+    • [Aggiornamenti gratuiti all'edizione per Switch 2](https://www.nintendo.com/it-it/Console-e-accessori/Nintendo-Switch-2/Nintendo-Switch-2-Aggiornamenti-gratuiti-dei-giochi-2786093.html#:~:text=Collegando%20la%20tua%20console%20Nintendo,aggiornamenti%20gratuiti%20dipendono%20dal%20gioco.)
+    
+---
+
+* Puntata #157 (7•4•2025)
 
     ☞[Peach sulla moto](https://spotifycreators-web.app.link/e/nvqiATJqnSb)
     
