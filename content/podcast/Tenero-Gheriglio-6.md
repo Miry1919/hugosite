@@ -38,7 +38,7 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
     
     158ª puntata. Dopo alcuni follow-up su Satispay, e sulla mia nuova Smart Folio denim per l'iPad mini A17 Pro, vi parlo brevemente della nuova data di uscita della Siri rinnovata, esprimendo le mie sensazioni annesse, e lungamente del Direct Nintendo del 2 aprile, delle questioni più calde che stanno girando attorno al lancio della Nintendo Switch 2 del 5 giugno, e ai primi giochi annunciati, a partire dai prezzi maggiorati.
 
-    • [Mario Kart World (Peach sulla moto)](https://www.nintendo.com/it-it/Giochi/Giochi-per-Nintendo-Switch-2/Donkey-Kong-Bananza-2785804.html?srsltid=AfmBOoo5nbZ_AB3Ng_6-oAAKx0mXcTWOermkptcVCEj2-KNcBf-2VtaB)
+    • [Mario Kart World (Peach sulla moto)](https://www.nintendo.com/it-it/Giochi/Giochi-per-Nintendo-Switch-2/Mario-Kart-World-2790000.html)
     
     • [Donkey Kong Bananza](https://www.nintendo.com/it-it/Giochi/Giochi-per-Nintendo-Switch-2/Donkey-Kong-Bananza-2785804.html?srsltid=AfmBOoo5nbZ_AB3Ng_6-oAAKx0mXcTWOermkptcVCEj2-KNcBf-2VtaB)
         
