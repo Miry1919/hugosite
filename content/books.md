@@ -5,14 +5,13 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _I miserabili_ — Victor Hugo
+* _Memorie da una casa di morti_ — Fëdor Dostoevskij
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
 * _I demoni_ — Fëdor Dostoevskij
-* _Memorie da una casa di morti_ — Fëdor Dostoevskij
 
 &nbsp;
 
@@ -22,6 +21,7 @@ description: ¶
 
 * _Ultima fermata Gaza. La guerra senza fine tra Israele e Palestina_ — Noam Chomsky, Ilan Pappé
 * _Impara a dire di no. L'arte di stabilire dei confini e trasformare la nostra vita_ — Nedra Glover Tawwab
+* _I miserabili_ — Victor Hugo
 
 <span style="color:red">*2024 (dal primo all'ultimo)*</span>
 
