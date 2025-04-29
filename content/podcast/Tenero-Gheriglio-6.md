@@ -32,7 +32,25 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #158 (14•4•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #159 (29•4•2025) <span style="color:orange">⚡️ New!</span>
+
+    ☞[È passato un pescatore](https://spotifycreators-web.app.link/e/78iVbyyBXSb)
+    
+    {{< youtube  LD7-9JGXf3M >}}
+    
+    &nbsp;
+    
+    La puntata 159 esce in ritardo ma è innovativa, porta Tenero Gheriglio sul mare per la prima volta. Parlo dei libri, del mio viaggio, e come al solito anche di molto altro. Buona visione!
+    
+    • Post Instagram:
+    
+    → [Matera](https://www.instagram.com/p/DIoX9_HioIK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+    
+    → [Napoli](https://www.instagram.com/p/DI3rDGVChFO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+    
+---
+
+* Puntata #158 (14•4•2025)
 
     ☞[Calerà il prezzo quasi subito](https://spotifycreators-web.app.link/e/5ARakGSwySb)
     
