@@ -32,7 +32,15 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #159 (29•4•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #160 (5•5•2025) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Sto ragionando su questo divertimento che sto avendo](https://spotifycreators-web.app.link/e/5hWdlVOL7Sb)
+    
+    La puntata centosessanta partendo dal meteo vi riparla del mio viaggio, del VideoPodcast della scorsa settimana, del dietro le quinte, di cosa è andato male e di cosa è andato bene, di cosa migliorerò in video del genere: le considerazioni su Tenero Gheriglio non mancano mai, siamo sempre in un automiglioramento attivo. Successivamente rispiega la questione delle puntate modificate, e poi parla dei libri, quindi de "I miserabili" di Victor Hugo, e di "Memorie da una casa di morti" di Fedör Dostoevskij, e infine delle mie gare di nuoto del pomeriggio del 4 maggio (sempre a Lodi, ma in vasca lunga), con altri pensieri sulla mia carriera agonistica di molti e di alcuni anni fa, in relazione alla nuova carriera master.
+    
+---
+
+* Puntata #159 (29•4•2025)
 
     ☞[È passato un pescatore](https://spotifycreators-web.app.link/e/78iVbyyBXSb)
     
