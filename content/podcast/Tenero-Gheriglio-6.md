@@ -32,6 +32,10 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
+<span style="color:blue">Per mancanza di argomenti Tenero Gheriglio salta la puntata del 12/05/25 e ritorna il 19/05/25! A presto. Grazie.</span>
+
+---
+
 * Puntata #160 (5•5•2025) <span style="color:orange">⚡️ New!</span>
 
     ☞[Sto ragionando su questo divertimento che sto avendo](https://spotifycreators-web.app.link/e/5hWdlVOL7Sb)
