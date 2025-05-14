@@ -12,6 +12,8 @@ description: ¶
 #### <span style="color:red">Leggerò a breve</span>
 
 * _I demoni_ — Fëdor Dostoevskij
+* _La portalettere_ — Francesca Giannone
+* _Tasmania_ — Paolo Giordano
 
 &nbsp;
 
