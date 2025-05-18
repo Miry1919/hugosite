@@ -5,7 +5,7 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Memorie da una casa di morti_ — Fëdor Dostoevskij
+No, sono in pausa causa esami.
 
 &nbsp;
 
@@ -24,6 +24,7 @@ description: ¶
 * _Ultima fermata Gaza. La guerra senza fine tra Israele e Palestina_ — Noam Chomsky, Ilan Pappé
 * _Impara a dire di no. L'arte di stabilire dei confini e trasformare la nostra vita_ — Nedra Glover Tawwab
 * _I miserabili_ — Victor Hugo
+* _Memorie da una casa di morti_ — Fëdor Dostoevskij
 
 <span style="color:red">*2024 (dal primo all'ultimo)*</span>
 
