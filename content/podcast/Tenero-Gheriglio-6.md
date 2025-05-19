@@ -32,11 +32,19 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-<span style="color:blue">Per mancanza di argomenti Tenero Gheriglio salta la puntata del 12/05/25 e ritorna il 19/05/25! A presto. Grazie.</span>
+* Puntata #161 (19•5•2025) <span style="color:orange">⚡️ New!</span>
 
+    ☞[Comincio a ordinare una bara in sconto](https://spotifycreators-web.app.link/e/Hueb323avTb)
+    
+    Nella puntata 161 compio ventotto anni raccontandovi tutti i retroscena del mio regalo, il nuovo cinturino Pride Edition 2025 per il mio Apple Watch Ultra. Poi vi svelo cosa è successo, di molto triste, alla mia piantina; di come è proseguito il tutto. Infine concludo il discorso sul libro “Memorie da una casa di morti” di Fëdor Dostoevskij.
+
+    • [Post Instagram Cinturino/Piantina](https://www.instagram.com/p/DJ1fbCeiLCC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+    
+    • [Cinturino Sport Pride Edition 2025](https://www.apple.com/it/newsroom/2025/05/apple-introduces-the-2025-pride-collection/)
+    
 ---
 
-* Puntata #160 (5•5•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #160 (5•5•2025)
 
     ☞[Sto ragionando su questo divertimento che sto avendo](https://spotifycreators-web.app.link/e/5hWdlVOL7Sb)
     
