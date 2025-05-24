@@ -14,6 +14,8 @@ No, sono in pausa causa esami.
 * _I demoni_ — Fëdor Dostoevskij
 * _La portalettere_ — Francesca Giannone
 * _Tasmania_ — Paolo Giordano
+* _L'arte della guerra_ — Tzu Sun
+* _L'idiota_ — Fëdor Dostoevskij
 
 &nbsp;
 
