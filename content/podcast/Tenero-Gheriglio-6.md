@@ -32,6 +32,10 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
+<span style="color:blue">Durante i prossimi giorni devo riunire ancora alcune cose che vi vorrei mostrare nel VideoPodcast, quindi il 26 maggio non uscirà nessuna nuova puntata di Tenero Gheriglio, ma ci sentiamo e ci vediamo lunedì 2 giugno per il gran finale! L'attesa verrà ripagata. Una buona settimana a tutti, grazie. Ciao.</span>
+
+---
+
 * Puntata #161 (19•5•2025) <span style="color:orange">⚡️ New!</span>
 
     ☞[Comincio a ordinare una bara in sconto](https://spotifycreators-web.app.link/e/Hueb323avTb)
