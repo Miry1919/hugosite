@@ -18,6 +18,11 @@ No, sono in pausa causa esami.
 * _L'idiota_ — Fëdor Dostoevskij
 * _Jurassic Park_ — Michael Crichton
 * _Buddha vivente, Cristo vivente_ — Thich Nhat Hanh
+* _Figlia del temporale_ — Valentina D'Urbano
+* _Dimmi di te_ — Chiara Gamberale
+* _L'Agnese va a morire_ — Renata Viganò
+* _Sottoterra. Cronache dai mille bunker della guerra ucraina_ — Luciana Coluccello
+* _La memoria rende liberi. La vita interrotta di una bambina nella Shoah_ — Enrico Mentana, Liliana Segre
 
 &nbsp;
 
