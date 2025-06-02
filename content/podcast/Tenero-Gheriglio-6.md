@@ -32,11 +32,31 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-<span style="color:blue">Durante i prossimi giorni devo riunire ancora alcune cose che vi vorrei mostrare nel VideoPodcast, quindi il 26 maggio non uscirà nessuna nuova puntata di Tenero Gheriglio, ma ci sentiamo e ci vediamo lunedì 2 giugno per il gran finale! L'attesa verrà ripagata. Una buona settimana a tutti, grazie. Ciao.</span>
+<span style="color:blue">Prossima puntata: lunedì 15 settembre 2025.</span>
 
 ---
 
-* Puntata #161 (19•5•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #162 (2•6•2025) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Al posto della bara ho preordinato Donkey Kong Bananza](https://spotifycreators-web.app.link/e/DQegCncnSTb)
+    
+    {{< youtube  k1-794DdyZc >}}
+    
+    &nbsp;
+    
+    Puntata 162, VideoPodcast 17! Dopo avervi fatto vedere le ultime medaglie conquistate alle gare di nuoto, vi mostro il cinturino Sport Pride Edition 2025, rifacendovi vedere tutti gli altri che possiedo, poi vi mostro la mia nuova cover per l'iPhone, spiegando perché l'ho cambiata. Passo poi ai tantissimi libri che ho comprato e che non vedo l'ora di leggere. Infine vi parlo dei videogiochi e vi faccio vedere un po' di gadget Nintendo, un nuovo peluche. Ci risentiamo il 15 settembre 2025, una buona estate a tutti. Grazie di cuore.
+    
+    • [Cover OtterBox Core Series per iPhone](https://amzn.eu/d/4EraB4X)
+    
+    • [Borraccia Garzanti "Io leggo."](https://amzn.eu/d/dHasWVs)
+    
+    • [Sezione Books sul mio sito](https://miry1919.github.io/hugosite/books/)
+    
+    • [My Nintendo Store rewards](https://store.nintendo.it/it/my-nintendo/my-nintendo-rewards)
+    
+---
+
+* Puntata #161 (19•5•2025)
 
     ☞[Comincio a ordinare una bara in sconto](https://spotifycreators-web.app.link/e/Hueb323avTb)
     
