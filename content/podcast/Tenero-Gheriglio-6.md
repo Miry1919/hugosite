@@ -36,7 +36,7 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #162 (2•6•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #162 (2•6•2025)
 
     ☞[Al posto della bara ho preordinato Donkey Kong Bananza](https://spotifycreators-web.app.link/e/DQegCncnSTb)
     
