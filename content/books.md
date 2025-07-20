@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-No, sono in pausa causa esami.
+* _I demoni_ — Fëdor Dostoevskij
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _I demoni_ — Fëdor Dostoevskij
 * _La portalettere_ — Francesca Giannone
 * _Tasmania_ — Paolo Giordano
 * _L'arte della guerra_ — Sun Tzu
