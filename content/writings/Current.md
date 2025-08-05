@@ -7,7 +7,7 @@ date: 2025-06-30
 ---
 ---
 
-<div align="center">Coming soon!</div>
+<div align="center">Coming (probably).</div>
 
 ---
 ---
