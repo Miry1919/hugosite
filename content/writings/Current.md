@@ -7,6 +7,8 @@ date: 2025-06-30
 ---
 ---
 
+*Alessandra mi raccomando: clicca sull'ingranaggio, e imposta la qualità 4K (2160p). Ti scrivo presto, lo so lo so... manco da troppo tempo. Ti voglio un bene infinito.*
+
 {{< youtube  DK8OZmRlNKM >}}
 
 &nbsp;
