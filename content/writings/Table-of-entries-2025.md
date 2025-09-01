@@ -1,7 +1,7 @@
 ---
 title: Table of Entries
 description: 2025
-date: 2025-07-01
+date: 2025-09-01
 ---
 
      Summer  |   Jul   |   Aug   |   Sep   
@@ -38,7 +38,7 @@ date: 2025-07-01
        30    |         |         |       
        31    |         |         |        
      ------- | ------- | ------- | ------- 
-       tot   |    0    |         |     
+       tot   |    0    |    4    |     
 
 &nbsp;
 
