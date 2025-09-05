@@ -1,7 +1,7 @@
 ---
 title: Tenero Gheriglio
 description: Season 4, 2023
-date: 2023-02-20
+date: 2025-09-01
 ---
 <div align="center">
 In questo podcast parlo di tutto. Ogni lunedì alle h. 19:00 esce una nuova puntata. Operativo da metà febbraio a metà maggio e da metà settembre a metà dicembre.
