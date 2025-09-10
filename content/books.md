@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-No, sono in pausa causa esami.
+* _La portalettere_ — Francesca Giannone
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _La portalettere_ — Francesca Giannone
 * _Tasmania_ — Paolo Giordano
 * _L'arte della guerra_ — Sun Tzu
 * _L'idiota_ — Fëdor Dostoevskij
