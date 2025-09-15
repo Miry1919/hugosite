@@ -32,7 +32,7 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #163 (15•9•2025)
+* Puntata #163 (15•9•2025) <span style="color:orange">⚡️ New!</span>
 
     ☞[Vuoi che Miriana non impazzisca a vedere una piscina?](https://open.spotify.com/show/24f5MsvxdWNjtOpSjC3aZx)
     
