@@ -32,8 +32,26 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-<span style="color:blue">Prossima puntata: lunedì 15 settembre 2025.</span>
+* Puntata #163 (15•9•2025)
 
+    ☞[Vuoi che Miriana non impazzisca a vedere una piscina?](https://open.spotify.com/show/24f5MsvxdWNjtOpSjC3aZx)
+    
+    La puntata 163 inizia con i ricordi dell'incubo di un anno fa, in cui la polmonite ci aveva fatto ritardare l'appuntamento; continua con precisazioni e filosofie, riflessioni e bacchettate. Lo sport non manca mai, così come non mancano mai le foto, i video, i post... la vecchiaia. Una puntata per ricominciare con tanta ironia e tanta emozione.
+    
+    • Post su Instagram:
+    
+    → [Video del wakeboard](https://www.instagram.com/reel/DLGEOU8Cj-2/?igsh=MXRoc3k3M204d2p3dQ==)
+    
+    → [Video in piscina](https://www.instagram.com/reel/DNA_5zZiBtl/?igsh=YzhhZTgxdnJ0eDQ0)
+    
+    → [Foto in piscina](https://www.instagram.com/p/DNI9phUiRUr/?igsh=MWN1aHV6NnZnOG1ybA==)
+    
+    → [Foto al lago, ecc.](https://www.instagram.com/p/DNTbmFgCp7-/?igsh=NnJ2end4cDBsZjY=)
+    
+    • [Video su YouTube del windsurf](https://youtu.be/DK8OZmRlNKM)
+    
+    • ["Le Mille e una Novella", Season 4](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-4/)
+    
 ---
 
 * Puntata #162 (2•6•2025)
