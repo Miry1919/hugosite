@@ -32,9 +32,19 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #163 (15•9•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #164 (22•9•2025) <span style="color:orange">⚡️ New!</span>
 
-    ☞[Vuoi che Miriana non impazzisca a vedere una piscina?](https://open.spotify.com/show/24f5MsvxdWNjtOpSjC3aZx)
+    ☞[È stato un qualcosa per avvicinarsi al futuro](https://spotifycreators-web.app.link/e/bMBvj7v4QWb)
+    
+    164ª puntata. Puntata tech, parlo della WWDC 2025 del 9 giugno, e dell'ultimo evento Apple del 9 settembre 2025, quindi di tutti i nuovi OS 26 usciti il 15 settembre (iOS 26, iPadOS 26, watchOS 26, macOS 26 Tahoe), e di tutti i nuovi dispositivi presentati: iPhone 17, Air, 17 Pro, 17 Pro Max, Apple Watch SE 3, Serie 11, Ultra 3. Inserisco sempre la mia prospettiva personale, divagando nella mia vita con dettagli divertenti.
+
+    • [iPhone Air Durability Test](https://youtu.be/sQ56ve39l2I?si=O3jCkTzBizFNu5PU)
+    
+---
+
+* Puntata #163 (15•9•2025)
+
+    ☞["Vuoi che Miriana non impazzisca a vedere una piscina?"](https://spotifycreators-web.app.link/e/Yw6vyoBnFWb)
     
     La puntata 163 inizia con i ricordi dell'incubo di un anno fa, in cui la polmonite ci aveva fatto ritardare l'appuntamento; continua con precisazioni e filosofie, riflessioni e bacchettate. Lo sport non manca mai, così come non mancano mai le foto, i video, i post... la vecchiaia. Una puntata per ricominciare con tanta ironia e tanta emozione.
     
