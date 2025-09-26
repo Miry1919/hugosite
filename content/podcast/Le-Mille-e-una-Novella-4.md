@@ -31,6 +31,10 @@ Nella pagina attuale trovi la stagione 4, invece per le altre stagioni segui i l
 
 ---
 
-<span style="color:blue">Prossima puntata: venerdì 26 settembre 2025.</span>
+<span style="color:blue">☞ [<span style="color:blue"> ٣٠ Introduzione, quarta stagione ☾ • 26/09/2025</span>](https://spotifycreators-web.app.link/e/cmPehcKVYWb)</span> <span style="color:orange">⚡️ New!</span>
+
+*La quarta stagione di "Le Mille e una Novella" sta per cominciare, ancora una volta imprimerò la mia vita nelle parole, e le parole voleranno distinguendosi, impadronendosi della scena. Se atterreranno diverse o immutate non lo so, ma saranno sempre autentiche. Tante volte credo che impegnarmi non mi abbia ripagata, non avrei mai dovuto provare a organizzarmi per ottimizzare ogni aspetto di me... Quasi nessuno riconosce i miei sforzi. Viviamo in un mondo in cui contano solo i soldi, quindi devi lavorare il prima possibile, ottenere un lavoro con un ottimo stipendio, e finisce lì. Se poi non curi il tuo fisico nessuno deve permettersi di fartelo notare! Trovo che questo "body positive" sia un inno alla devastazione: dipingersi le unghie non sarà mai più importante di prendersi cura del proprio pensiero, dei propri organi, e dei propri muscoli.*
+
+*Sapete bene che non sarò mai il prodotto ideale di questa società, mi ribello a tutto quello che è sfacciatamente stupido, curo cosa mangio, non passo le giornate col didietro incollato a quella dannata sedia, approfondisco ogni argomento interessante, e pratico, che mi si presenta davanti nella quotidianità, non mi fermo alle apparenze, ho dei sogni smisurati, vorrei scuotere l'universo. Non ce la farò? Non importa, ma non sarò mai quella persona chiusa nei vizi, una fumatrice, una persona senza ambizioni di perfezione. Fate pure come volete, ma io non diventerò mai quell'elemento facile della collettività, che subisce questo schifoso meccanismo di guerre per soldi e potere. Il mio potere resterà sempre quello di apparire senza trucco, di vivere consapevolmente, analizzando sempre tutto di me, e impegnandomi a evolvere. Non c'è umiliazione più grande di vivere senza farlo veramente.*
 
 ---
