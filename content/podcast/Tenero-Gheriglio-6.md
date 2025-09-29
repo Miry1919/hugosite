@@ -34,7 +34,7 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 * Puntata #165 (29•9•2025) <span style="color:orange">⚡️ New!</span>
 
-    ☞[Mangio molto di più di alcuni uomini](https://spotifycreators-web.app.link/e/bMBvj7v4QWb)
+    ☞[Mangio molto di più di alcuni uomini](https://spotifycreators-web.app.link/e/4r7bqCWV3Wb)
     
     165ª puntata. Dopo avervi raccontato come procedono i miei allenamenti misti, la mia alimentazione e integrazione – con delle simpatiche curiosità sulla versione femminile della storia –, alla riscoperta dell'acquaticità e dell'organizzazione dei pasti, passo finalmente al recap della mia esperienza con la Nintendo Switch 2, parlando di tutti i giochi che ho acquistato, usato, finito, e preordinato.
 
