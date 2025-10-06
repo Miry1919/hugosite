@@ -32,7 +32,19 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #165 (29•9•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #166 (6•10•2025) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Mamma mia, ma questo è leggerissimo](https://spotifycreators-web.app.link/e/PTiCHIHgfXb)
+    
+    La puntata 166 parte con alcune dinamiche di vita e piccoli disastri, per poi riportare delle notizie (in inglese!) su astronauti e incidenti aerei. Continua con la mia esperienza con tutti i tipi di AirPods, e in particolare dei miei AirPods 4 con ANC (acquistati a luglio), analizzando i pareri che girano sui nuovi AirPods Pro 3. Infine racconta di come sono arrivata a vendere i miei iPhone 15 Pro Max e 12 mini, per acquistare l'iPhone Air a un prezzo più ragionevole.
+    
+    • ["Le Mille e una Novella"](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-4/)
+    
+    • [iPhone Air su eBay](https://ebay.us/m/G2Dm4L)
+
+---
+
+* Puntata #165 (29•9•2025)
 
     ☞[Mangio molto di più di alcuni uomini](https://spotifycreators-web.app.link/e/4r7bqCWV3Wb)
     
