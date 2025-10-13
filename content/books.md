@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _La portalettere_ — Francesca Giannone
+* _Tasmania_ — Paolo Giordano
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _Tasmania_ — Paolo Giordano
 * _L'arte della guerra_ — Sun Tzu
 * _L'idiota_ — Fëdor Dostoevskij
 * _Jurassic Park_ — Michael Crichton
@@ -33,6 +32,7 @@ description: ¶
 * _I miserabili_ — Victor Hugo
 * _Memorie da una casa di morti_ — Fëdor Dostoevskij
 * _I demoni_ — Fëdor Dostoevskij
+* _La portalettere_ — Francesca Giannone
 
 <span style="color:red">*2024 (dal primo all'ultimo)*</span>
 
