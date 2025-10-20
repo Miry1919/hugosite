@@ -38,9 +38,10 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
     
     La puntata 167 esce dopo una settimana di assenza e rimanda ancora il VideoPodcast, ma come sempre è molto sentita. Vi parlo dello scooter nuovo, e ancora del mio Phone Air ripercorrendo tutta la storia degli iPhone che ho posseduto, esponendo altre riflessioni su display, pesi, custodie, prezzi. Poi passo a qualche notizia tech, e ai videogiochi per la Nintendo Switch 2.
     
-    • [iPhone Air su eBay](https://ebay.us/m/G2Dm4L)
-    
+        
     • [Post Instagram del mio nuovo scooter](https://www.instagram.com/p/DP6nFcmDJz2)
+    
+    • [iPhone Air su eBay](https://ebay.us/m/G2Dm4L)
     
     • [Preordine Mario Tennis Fever](https://ebay.us/m/D31fvM)
     
