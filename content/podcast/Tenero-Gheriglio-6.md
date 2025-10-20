@@ -36,7 +36,7 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
     ☞[Il mio scooter femmina Dory è meraviglioso](https://spotifycreators-web.app.link/e/vI1VO3rMCXb)
     
-    La puntata 167 esce dopo una settimana di assenza e rimanda ancora il VideoPodcast, ma come sempre è molto sentita. Vi parlo dello scooter nuovo, e ancora del mio Phone Air ripercorrendo tutta la storia degli iPhone che ho posseduto, esponendo altre riflessioni su display, pesi, custodie, prezzi. Poi passo a qualche notizia tech, e ai videogiochi per la Nintendo Switch 2.
+    La puntata 167 esce dopo una settimana di assenza e rimanda ancora il VideoPodcast, ma come sempre è molto sentita. Vi parlo dello scooter nuovo, e ancora del mio iPhone Air ripercorrendo tutta la storia degli iPhone che ho posseduto, esponendo altre riflessioni su display, pesi, custodie, prezzi. Poi passo a qualche notizia tech, e ai videogiochi per la Nintendo Switch 2.
     
         
     • [Post Instagram del mio nuovo scooter](https://www.instagram.com/p/DP6nFcmDJz2)
