@@ -31,14 +31,25 @@ Nella pagina attuale trovi la stagione 4, invece per le altre stagioni segui i l
 
 ---
 
-<span style="color:blue">☞ [<span style="color:blue"> ٣٣ Filippo Seganos • 17/10/2025</span>](https://spotifycreators-web.app.link/e/1i1TXWHNxXb)</span> <span style="color:orange">⚡️ New!</span>
+<span style="color:blue">☞ [<span style="color:blue"> ٣٤ Il brigadiere Bellini • 24/10/2025</span>](https://spotifycreators-web.app.link/e/aHRqJSLqJXb)</span> <span style="color:orange">⚡️ New!</span>
+
+*Lettera ad A. R.:*
+
+*Spesso hai peccato di presunzione, dimostrando superficialità e ignoranza, oggi vorrei raccontarti di quella volta in cui ci sei cascata in modo così clamoroso da ferirmi nel profondo; non l'ho fatto per tutto questo tempo, forse per non colpirti nel centro del petto, ma è arrivato il momento. Partirei con qualcosa di secondario per farti entrare nell'argomento. Sai che per te l'Apple Watch si chiama "iWatch", non credo tu abbia mai provato a pronunciarlo seriamente, altrimenti ti saresti accorta che "AIUUUOOOCH" è veramente inascoltabile. E no, non sono l'unica a indossarlo ogni giorno, ci sono più di 100 milioni di Apple Watch attivi al momento, è lo smartwatch più venduto al mondo, quindi non avresti potuto riconoscermi senza vedermi in volto solo perché indossavo un Apple Watch.*
+
+*Ti chiederai cosa mi ha ferita, ecco mi ha ferita che tu pensassi che il Brigadiere Bellini, alla quale hai recitato il copione scritto da tuo marito, obbligata da tuo marito, fosse di un grado incredibilmente alto. Te ne sei uscita che quella maledetta ignorante del Brigadiere Bellini fosse qualcosa di più di una donna delle pulizie di un appartamento comune, quando per dirla tutta sa solo sporcare il mondo con la sua ignoranza intanto che sogna di pulire lo schifo dei criminali come tuo marito. Ero di più alto grado io come Pilota Ufficiale dell'Aeronautica che il Brigadiere Bellini, che è poco più di un appuntato dei Carabinieri, e non può nemmeno ambire a diventare Maresciallo. Te l'avrà detto tuo marito e tu chiaramente ci hai creduto a occhi chiusi. Per farti capire una volta per tutte, con vanto e ignoranza hai confuso il Brigadiere con il Generale di Brigata. I gradi dei Carabinieri sono: Ufficiali Generali, Ufficiali Superiori, Ufficiali Inferiori, Ufficiali Subalterni, Ispettori (Marescialli), Sovrintendenti (Brigadieri), Appuntati; tu hai portato il Brigadiere Bellini dal penultimo grado al primo! Avrai ritrovato la tua capacità di distinguere le bufale dalla verità? Lo spero tanto.*
+
+*Con affetto, Miriana.*
+
+---
+
+<span style="color:blue">☞ [<span style="color:blue"> ٣٣ Filippo Seganos • 17/10/2025</span>](https://spotifycreators-web.app.link/e/1i1TXWHNxXb)</span>
 
 *Cretini si nasce, non si diventa, e Filippo Seganos ne è la prova vivente. Dai, si fa per dire: è il vecchio più decrepito che io abbia mai incontrato. Come qualsiasi fermo esponente del patriarcato è gelosissimo e possessivo con sua moglie, ma sua moglie, per la sua gioia, è innamorata da circa 13 anni di una giovane bellissima, che le vuole tantissimo bene. Ogni volta che la ragazza della quale è innamorata sua moglie passeggia sotto casa, Filippo Seganos si imbestialisce, chiude tutte le tende murandosi vivo, e invece, nel frattempo, la moglie spalanca la tenda della sua stanza per il passaggio della sua fiamma.*
 
 *Ma c'è stato un giorno in cui Filippo Seganos si è veramente superato, la giovane ragazza per la quale sua moglie impazzisce stava banalmente camminando sul marciapiede davanti all'ingresso del suo box, e allora Filippo Seganos dovendo entrare nel box, con la macchina e sua moglie seduta sul posto del passeggero, pensa bene di fare un giro ulteriore attorno al palazzo, sperando che al suo ritorno la ragazza sia andata via, per negare alla moglie di guardare la ragazza... Peccato che nell'esatto istante dell'inizio del suo tentativo di fuga, la moglie si volta verso la ragazza e la guarda intensamente, e lo stesso fa la ragazza, perché è sempre affascinata da quella donna: si trattengono in questo sguardo infinito. Le due si ricordano indelebilmente ogni sguardo intenso che il marito ha provato a sottrargli, amandosi sempre più incondizionatamente a distanza, deridendo quel mostro in carne e ossa. Cretini si nasce, non si diventa, e Filippo Seganos ne è la prova morente.*
 
 ---
-
 
 <span style="color:blue">☞ [<span style="color:blue"> ٣٢ Cani e parrucchini • 10/10/2025</span>](https://spotifycreators-web.app.link/e/0jO8PfybmXb)</span>
 
