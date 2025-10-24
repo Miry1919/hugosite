@@ -31,7 +31,7 @@ Nella pagina attuale trovi la stagione 4, invece per le altre stagioni segui i l
 
 ---
 
-<span style="color:blue">☞ [<span style="color:blue"> ٣٤ Il brigadiere Bellini • 24/10/2025</span>](https://spotifycreators-web.app.link/e/aHRqJSLqJXb)</span> <span style="color:orange">⚡️ New!</span>
+<span style="color:blue">☞ [<span style="color:blue"> ٣٤ Il Brigadiere Bellini • 24/10/2025</span>](https://spotifycreators-web.app.link/e/aHRqJSLqJXb)</span> <span style="color:orange">⚡️ New!</span>
 
 *Lettera ad A. R.:*
 
