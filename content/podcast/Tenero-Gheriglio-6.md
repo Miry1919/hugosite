@@ -41,8 +41,6 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
     &nbsp;
     
     Puntata 168, cioè VideoPodcast 18. Inizio parlandovi delle nuove scarpe da corsa Adidas, della tuta impermeabile Spidi per il mio scooter, poi vi mostro il bellissimo iPhone Air, con la custodia originale, gli AirPods 4 con la custodia ESR MagSafe. Inoltre vi trasmetto l'entusiasmo per la mia Nintendo Switch 2 e per i giochi che ho avuto per adesso, e di quelli che arriveranno, raccontando anche una storia specifica che fa capire quanto sono Geek, Nerd, o banalmente fuori di testa. Infine è la volta dei libri, vecchi e nuovi, e dei saluti finali con DK!
-        
-    • [Versione Video su YouTube](https://youtu.be/VYrWFEeCyfk)
     
     • [Custodia ESR MagSafe per AirPods 4](https://amzn.eu/d/2wmXzoM)
     
