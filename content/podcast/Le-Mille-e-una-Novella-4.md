@@ -31,7 +31,13 @@ Nella pagina attuale trovi la stagione 4, invece per le altre stagioni segui i l
 
 ---
 
-<span style="color:blue">☞ [<span style="color:blue"> ٣٤ Il Brigadiere Bellini • 24/10/2025</span>](https://spotifycreators-web.app.link/e/aHRqJSLqJXb)</span> <span style="color:orange">⚡️ New!</span>
+<span style="color:blue">☞ [<span style="color:blue"> ٣٥ Filippo Seganos alla riscossa • 31/10/2025</span>](https://spotifycreators-web.app.link/e/3P5UPhC6UXb)</span> <span style="color:orange">⚡️ New!</span>
+
+*Filippo Seganos prova quindi a chiudere la tenda nella camera della moglie, e a spalancare le tende di ogni finestra del resto della casa, cercando di opporsi alla legge della natura da lui scelta in precedenza, ovvero il suo costante deperimento fisico e mentale. Ci riesce? Che domande! Impreca alla finestra, si contorce, ma niente: la ragazza intuisce i suoi stravolgimenti, e se la ride così bene da pensare che poi in fondo questo cretino di nascita non sia poi così antipatico. Nella vita di Filippo Seganos nulla è come avrebbe voluto, il figlio è quello che è ma soprattutto quello che non è, la moglie non se lo caga minimamente, ha sempre finto di essere colto ma a malapena sa l'italiano, le tabelline le ha dimenticate dopo la 5ª elementare, la laurea l'ha comprata in sconto al mercatino dell'usato, ed era così in sconto che se te la prendevi e te la portavi a casa ti davano pure dei soldi e ti dicevano "Auguri!". Tutto felice ha sempre pensato di essere perfetto, di avere potere, fama, un'intelligenza fuori dal comune... D'altronde è così intelligente da essersi creato la bara in anticipo, rimanendo ogni giorno il più fermo possibile, in modo da sperimentare anzitempo anche la putrefazione del suo corpo post mortem. Che poi, tra due giorni è la sua festa, la festa dei morti. Ma se si travestisse per Halloween, i bambini si divertirebbero o morirebbero sul colpo? Secondo me se incontrasse ogni persona vivente, nel giro di pochissimo sulla Terra regnerebbe il silenzio, ogni persona da lui incrociata perirebbe. Io mi sono salvata giusto perché mi s'è mostrato gradualmente. Sua moglie che deve rivederlo ogni mattina dovrebbe prendere un premio, come persona più coraggiosa al mondo. Vogliamo risolvere il cambiamento climatico velocemente? Basta che tutti incontrino Filippo Seganos per qualche secondo, anzi, basterebbe filmarlo e mandarlo a ogni essere umano cosciente. La morte dilagherebbe istantaneamente, la Terra riprenderebbe i suoi spazi, ma l'odore della putrefazione degli otto miliardi di corpi senza vita raggiungerebbe altri pianeti in maniera così forte da innescare un vero e proprio domino cosmico, gli altri universi accuserebbero il colpo. Le avventure distruttive e devastanti del mostro Filippo Seganos non finiscono qui.*
+
+---
+
+<span style="color:blue">☞ [<span style="color:blue"> ٣٤ Il Brigadiere Bellini • 24/10/2025</span>](https://spotifycreators-web.app.link/e/aHRqJSLqJXb)</span>
 
 *Lettera ad A. R.:*
 
