@@ -32,7 +32,15 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #168 (28•10•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #169 (8•11•2025) <span style="color:orange">⚡️ New!</span>
+
+    ☞[I demoni ce li hanno tutti](https://creators.spotify.com/pod/profile/miriana-novella7/episodes/169--I-demoni-ce-li-hanno-tutti-e3ambho)
+        
+    Una puntata 169, in ritardo e in anticipo, contemporaneamente. Vi racconto dei videogiochi per Nintendo Switch 2 – "Cyberpunk 2077: Ultimate Edition", "Pokémon Legends: Z‑A", "Yakuza 0 Director's Cut", "Persona 3 Reload" –, di alcuni update per "Animal Crossing: New Horizons" e "Pikmin 4", di un nuovo progettino – una bellissima vetrina per le mie medaglie –, delle gare di nuoto che mi aspettano, dei libri "I demoni", "La portalettere", "Tasmania", "L’arte della guerra", "L’idiota”.
+    
+---
+
+* Puntata #168 (28•10•2025)
 
     ☞[Cosa può andare storto? Boh... Tutto!](https://spotifycreators-web.app.link/e/iAmeVfn7PXb)
     
