@@ -12,7 +12,7 @@ date: 2025-09-04
 
 &nbsp;
 
-<div align="center">Quarta stagione dal 26 settembre al 28 novembre 2025.</div>
+<div align="center">Quarta stagione dal 26 settembre al 12 dicembre 2025.</div>
 
 <div align="center">Appuntamento ogni venerdì alle h. 19:00.</div>
 
