@@ -32,7 +32,19 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #169 (8•11•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #170 (14•11•2025) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Sono a un centimetro dall'acqua](https://creators.spotify.com/pod/profile/miriana-novella7/episodes/170--Sono-a-un-centimetro-dallacqua-e3aveh7)
+    
+    {{< youtube  lD9jHJiVN6o >}}
+    
+    &nbsp;
+        
+    La puntata 170, VideoPodcast 19, porta Tenero Gheriglio sul mare una seconda volta. Parlo delle GoPro, della nuova GoPro Max 2, dei miei capelli, nuovamente dei giochi per la Nintendo Switch 2, delle ATP Finals, perdendomi tra i vari Alex e Alexander e via dicendo, salutando un ascoltatore, e divagando con qualsiasi altra faccenda di vita, divertendomi, e spero, divertendovi.
+    
+---
+
+* Puntata #169 (8•11•2025)
 
     ☞[I demoni ce li hanno tutti](https://creators.spotify.com/pod/profile/miriana-novella7/episodes/169--I-demoni-ce-li-hanno-tutti-e3ambho)
         
