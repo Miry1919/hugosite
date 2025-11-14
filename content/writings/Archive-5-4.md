@@ -7,14 +7,6 @@ date: 2025-08-31
 ---
 ---
 
-{{< youtube  lD9jHJiVN6o >}}
-
-&nbsp;
-
-<span style="color:red">*— 14 novembre 2025*</span>
-
----
-
 *So che la puntata 34 di ☞[Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-4/) ti ha destabilizzata, Alessandra, ma almeno ti ho raccontato la famosa cosa sui carabinieri che era in sospeso da troppo tempo. Al contrario la puntata 168 di ☞[Tenero Gheriglio](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-6/) ti riaddolcirà tutta. Ti svelerà altro sul mio scooter, ti piacerà tanto, ti divertirà moltissimo, la lascio qui, tanti bacini, buona visione.*
 
 {{< youtube  VYrWFEeCyfk >}}
