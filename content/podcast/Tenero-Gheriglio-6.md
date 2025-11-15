@@ -77,8 +77,6 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
     
     • [iPhone Air su eBay](https://ebay.us/m/G2Dm4L)
     
-    • [Preordine Mario Tennis Fever](https://ebay.us/m/D31fvM)
-    
 ---
 
 * Puntata #166 (6•10•2025)
