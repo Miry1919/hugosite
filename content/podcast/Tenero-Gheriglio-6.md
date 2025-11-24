@@ -32,7 +32,19 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #170 (14•11•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #171 (24•11•2025) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Mi sto trasformando definitivamente in un delfino](https://spotifycreators-web.app.link/e/MjCLx48WyYb)
+        
+    Nella puntata 171 ritorniamo ai nostri standard, con molta gioia ed energia vi parlo di come è terminato il viaggio a Salerno, di alcune castronerie, da correggere, che avevo detto, delle mie gare di nuoto appena disputate, con tutto quello che ho fatto per arrivarci preparata, accennando anche un acquisto fatto per il Black Friday.
+    
+    • ["Le Mille e una Novella"](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-4/)
+    
+    • [Bose QuietComfort Ultra a 245€](https://amzn.eu/d/gn7P55d)
+    
+---
+
+* Puntata #170 (14•11•2025)
 
     ☞[Sono a un centimetro dall'acqua](https://creators.spotify.com/pod/profile/miriana-novella7/episodes/170--Sono-a-un-centimetro-dallacqua-e3aveh7)
     
