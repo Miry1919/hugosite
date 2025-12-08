@@ -32,7 +32,19 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #171 (24•11•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #172 (8•12•2025) <span style="color:orange">⚡️ New!</span>
+
+    ☞["Un interruttore può migliorarti la vita"](https://spotifycreators-web.app.link/e/SKf6ToGcWYb)
+        
+    La puntata 172 parte parlandovi finalmente della mia vetrina per le medaglie, e le coppe, di altri giochi per la Nintendo Switch 2, Kirby Air Riders, Hades II, Split Fiction, Metroid Prime 4: Beyond. Poi continua col racconto di un piccolo hack che ultimamente mi ha cambiato la vita, e termina con la storia infinita delle mie cuffie Bose QuietComfort Ultra (2ª Gen).
+    
+    • [Post Instagram Vetrina](https://www.instagram.com/p/DSAISExjEOz/)
+    
+    • [Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-4/)
+    
+---
+
+* Puntata #171 (24•11•2025)
 
     ☞[Mi sto trasformando definitivamente in un delfino](https://spotifycreators-web.app.link/e/MjCLx48WyYb)
         
