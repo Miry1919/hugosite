@@ -11,8 +11,8 @@ description: ¶
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _Jurassic Park_ — Michael Crichton
 * _Buddha vivente, Cristo vivente_ — Thich Nhat Hanh
+* _Jurassic Park_ — Michael Crichton
 * _Figlia del temporale_ — Valentina D'Urbano
 * _Dimmi di te_ — Chiara Gamberale
 * _L'Agnese va a morire_ — Renata Viganò
