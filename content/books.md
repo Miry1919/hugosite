@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _L'idiota_ — Fëdor Dostoevskij
+* _Buddha vivente, Cristo vivente_ — Thich Nhat Hanh
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _Buddha vivente, Cristo vivente_ — Thich Nhat Hanh
 * _Jurassic Park_ — Michael Crichton
 * _Figlia del temporale_ — Valentina D'Urbano
 * _Dimmi di te_ — Chiara Gamberale
@@ -36,6 +35,7 @@ description: ¶
 * _La portalettere_ — Francesca Giannone
 * _Tasmania_ — Paolo Giordano
 * _L'arte della guerra_ — Sun Tzu
+* _L'idiota_ — Fëdor Dostoevskij
 
 <span style="color:red">*2024 (dal primo all'ultimo)*</span>
 
