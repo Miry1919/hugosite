@@ -32,7 +32,19 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #172 (8•12•2025) <span style="color:orange">⚡️ New!</span>
+* Puntata #173 (15•12•2025) <span style="color:orange">⚡️ New!</span>
+
+    ☞[TG edizione straordinaria](https://spotifycreators-web.app.link/e/NQHPRYYm7Yb)
+        
+    La 173 è una puntata brevissima, e rimanda il VideoPodcast al 5 gennaio 2026 perché la conduttrice deve partire... Vi aggiorna sulle gare, sul da farsi, e vi augura buone feste, buon Natale. Grazie, a presto, ciao!
+    
+    • [Books](https://miry1919.github.io/hugosite/books/)
+        
+    • [Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-4/)
+    
+---
+
+* Puntata #172 (8•12•2025)
 
     ☞["Un interruttore può migliorarti la vita"](https://spotifycreators-web.app.link/e/SKf6ToGcWYb)
         
