@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Buddha vivente, Cristo vivente_ — Thich Nhat Hanh
+* _Jurassic Park_ — Michael Crichton
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _Jurassic Park_ — Michael Crichton
 * _Figlia del temporale_ — Valentina D'Urbano
 * _Dimmi di te_ — Chiara Gamberale
 * _L'Agnese va a morire_ — Renata Viganò
@@ -36,6 +35,7 @@ description: ¶
 * _Tasmania_ — Paolo Giordano
 * _L'arte della guerra_ — Sun Tzu
 * _L'idiota_ — Fëdor Dostoevskij
+* _Buddha vivente, Cristo vivente_ — Thich Nhat Hanh
 
 <span style="color:red">*2024 (dal primo all'ultimo)*</span>
 
