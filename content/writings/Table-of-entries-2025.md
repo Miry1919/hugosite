@@ -1,7 +1,7 @@
 ---
 title: Table of Entries
 description: 2025
-date: 2025-11-08
+date: 2025-12-30
 ---
 
      Autumn  |   Oct   |   Nov   |   Dec   
@@ -38,7 +38,7 @@ date: 2025-11-08
        30    |         |         |      
        31    |         |         |        
      ------- | ------- | ------- | ------- 
-       tot   |    3    |    4    |      
+       tot   |    3    |    4    |    4 
 
 &nbsp;
 
