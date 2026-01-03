@@ -5,7 +5,7 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-Sono in pausa.
+No, sono in pausa.
 
 &nbsp;
 
