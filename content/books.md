@@ -5,7 +5,7 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Jurassic Park_ — Michael Crichton
+Sono in pausa.
 
 &nbsp;
 
@@ -36,6 +36,7 @@ description: ¶
 * _L'arte della guerra_ — Sun Tzu
 * _L'idiota_ — Fëdor Dostoevskij
 * _Buddha vivente, Cristo vivente_ — Thich Nhat Hanh
+* _Jurassic Park_ — Michael Crichton
 
 <span style="color:red">*2024 (dal primo all'ultimo)*</span>
 
