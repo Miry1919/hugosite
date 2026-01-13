@@ -38,7 +38,7 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
         
     Un finale di stagione solo audio, ma come sempre a cuore aperto. Vi parlo delle nuove cuffie per registrare, delle gare disputate, delle medaglie conquistate, delle gare future, dei retroscena, dei videogiochi, dei libri, dei nostri futuri appuntamenti. Ci rivediamo il 23 febbraio con la stagione 7 di Tenero Gheriglio. Grazie, vi abbraccio.
     
-    • Post Instagram
+    • Post Instagram:
     
     → [50 m dorso + stile](https://www.instagram.com/p/DSzjpUUjJ_C/?igsh=MW1saWZ5MXd2ZTM1Ng==)
     
