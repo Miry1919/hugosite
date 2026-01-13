@@ -32,7 +32,23 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #174 (5•1•2026) <span style="color:blue">BONUS</span> <span style="color:orange">⚡️ New!</span>
+* Puntata #175 (13•1•2026) <span style="color:blue">BONUS</span> <span style="color:orange">⚡️ New!</span>
+
+    ☞[Una gara tira l'altra](https://spotifycreators-web.app.link/e/L0n8aAuVTZb)
+        
+    Un finale di stagione solo audio, ma come sempre a cuore aperto. Vi parlo delle nuove cuffie per registrare, delle gare disputate, delle medaglie conquistate, delle gare future, dei retroscena, dei videogiochi, dei libri, dei nostri futuri appuntamenti. Ci rivediamo il 23 febbraio con la stagione 7 di Tenero Gheriglio. Grazie, vi abbraccio.
+    
+    • Post Instagram:
+    
+    → [50 m dorso + stile](https://www.instagram.com/p/DSzjpUUjJ_C/?igsh=MW1saWZ5MXd2ZTM1Ng==)
+    
+    → [200 m delfino](https://www.instagram.com/p/DSf7oL2jPAk/?igsh=djJybGp1dWhmNmUw)
+
+    • [Books](https://miry1919.github.io/hugosite/books/)
+    
+---
+
+* Puntata #174 (5•1•2026)
 
     ☞[Le Mille e una Novella 4](https://spotifycreators-web.app.link/e/jweqVpfDGZb)
         
