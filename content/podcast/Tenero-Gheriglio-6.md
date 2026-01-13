@@ -32,7 +32,7 @@ Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #175 (13•1•2026) <span style="color:blue">BONUS</span> <span style="color:orange">⚡️ New!</span>
+* Puntata #175 (13•1•2026) <span style="color:orange">⚡️ New!</span>
 
     ☞[Una gara tira l'altra](https://spotifycreators-web.app.link/e/L0n8aAuVTZb)
         
