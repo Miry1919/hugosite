@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-No, sono in pausa.
+* _Figlia del temporale_ — Valentina D'Urbano
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _Figlia del temporale_ — Valentina D'Urbano
 * _Dimmi di te_ — Chiara Gamberale
 * _L'Agnese va a morire_ — Renata Viganò
 * _Sottoterra. Cronache dai mille bunker della guerra ucraina_ — Luciana Coluccello
