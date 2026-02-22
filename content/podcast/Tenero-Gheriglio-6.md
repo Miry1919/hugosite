@@ -20,6 +20,7 @@ Ascoltalo:
 
 Nella pagina attuale trovi la stagione 6, invece per le altre stagioni segui i link:
 
+* [stagione 7](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-7/)
 * [stagione 5](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-5/)
 * [stagione 4](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-4/)
 * [stagione 3](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-3/)
