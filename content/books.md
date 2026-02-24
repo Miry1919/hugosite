@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Dimmi di te_ — Chiara Gamberale
+* _L'Agnese va a morire_ — Renata Viganò
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _L'Agnese va a morire_ — Renata Viganò
 * _Sottoterra. Cronache dai mille bunker della guerra ucraina_ — Luciana Coluccello
 * _La memoria rende liberi. La vita interrotta di una bambina nella Shoah_ — Enrico Mentana, Liliana Segre
 * _La vita a volte capita_ — Lorenzo Marone
@@ -25,6 +24,7 @@ description: ¶
 <span style="color:red">*2026 (dal primo all'ultimo)*</span>
 
 * _Figlia del temporale_ — Valentina D'Urbano
+* _Dimmi di te_ — Chiara Gamberale
 
 <span style="color:red">*2025 (dal primo all'ultimo)*</span>
 
