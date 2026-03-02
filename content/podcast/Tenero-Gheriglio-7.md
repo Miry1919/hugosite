@@ -33,6 +33,6 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 
 ---
 
-<span style="color:blue">Prossima puntata: 2 marzo 2026.</span>
+<span style="color:blue">Prossima puntata: 3 marzo 2026.</span>
 
 ---
