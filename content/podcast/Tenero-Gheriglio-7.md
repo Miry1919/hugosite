@@ -33,6 +33,10 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 
 ---
 
-<span style="color:blue">Prossima puntata: 3 marzo 2026.</span>
+* Puntata #176 (3•3•2026)
+
+    ☞[Pixelatissima](https://spotifycreators-web.app.link/e/ViAThgIfd1b)
+        
+    La puntata 176 è la prima della stagione 7 di Tenero Gheriglio. Si parla come sempre di tutto, della vita, di Apple, dei libri che leggo, dei videogiochi a cui gioco, con l’entusiasmo alto per l’arrivo di "Pokémon Pokopia" e "Tomodachi Life: Una vita da sogno”.
 
 ---
