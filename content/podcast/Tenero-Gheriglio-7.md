@@ -33,7 +33,7 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #176 (3•3•2026)
+* Puntata #176 (3•3•2026) <span style="color:orange">⚡️ New!</span>
 
     ☞[Pixelatissima](https://spotifycreators-web.app.link/e/ViAThgIfd1b)
         
