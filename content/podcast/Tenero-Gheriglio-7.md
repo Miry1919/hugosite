@@ -37,7 +37,7 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 
     ☞[Studio Display XDR](https://spotifycreators-web.app.link/e/3Cl1M1yIm1b)
         
-    La puntata 177 tratta gli annunci Apple del 2, 3, 4 marzo 2026: iPhone 17e, iPad Air M4, MacBook Air M5, MacBook Pro M5, M5 Pro, M5 Max, Studio Display, Studio Display XDR, MacBook Neo. Rimanda ancora di una settimana il VP che per molteplici ragioni sarà ancora più ricca ed entusiasmante.
+    La puntata 177 tratta gli annunci Apple del 2, 3, 4 marzo 2026: iPhone 17e, iPad Air M4, MacBook Air M5, MacBook Pro M5, M5 Pro, M5 Max, Studio Display, Studio Display XDR, MacBook Neo. Rimanda ancora di una settimana il VP che per molteplici ragioni sarà ancora più ricco ed entusiasmante.
 
 ---
 
