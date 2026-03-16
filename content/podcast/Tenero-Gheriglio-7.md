@@ -33,7 +33,19 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #177 (9•3•2026) <span style="color:orange">⚡️ New!</span>
+* Puntata #178 (16•3•2026) <span style="color:orange">⚡️ New!</span>
+
+    ☞[L'acqua di mare è salata come le lacrime](https://spotifycreators-web.app.link/e/Jk4FbR9My1b)
+    
+    {{< youtube  0EKaCNDqJDc >}}
+    
+    &nbsp;
+        
+    Puntata 178, ossia VideoPodcast 20. Parto dalle gare e dalle medaglie; continuo con qualche correzione e precisazione riguardante gli annunci Apple commentati nella scorsa puntata (MacBook Neo, Studio Display XDR), dopo essere anche passata dall'Apple Store; procedo con i videogiochi per la Nintendo Switch 2 e i gadget del My Nintendo Store. Concludo mostrandovi le cuffie Bose e i libri.
+    
+---
+
+* Puntata #177 (9•3•2026)
 
     ☞[Studio Display XDR](https://spotifycreators-web.app.link/e/3Cl1M1yIm1b)
         
