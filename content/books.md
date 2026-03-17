@@ -11,6 +11,7 @@ description: ¶
 
 #### <span style="color:red">Leggerò a breve</span>
 
+* _Forse sei già felice e non lo sai_ — Paolo Borzacchiello
 * _Sottoterra. Cronache dai mille bunker della guerra ucraina_ — Luciana Coluccello
 * _La memoria rende liberi. La vita interrotta di una bambina nella Shoah_ — Enrico Mentana, Liliana Segre
 * _La vita a volte capita_ — Lorenzo Marone
