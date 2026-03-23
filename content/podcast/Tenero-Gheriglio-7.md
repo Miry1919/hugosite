@@ -33,6 +33,10 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 
 ---
 
+<span style="color:blue">Per motivi organizzativi le puntate di Tenero Gheriglio di oggi (23 marzo) e di lunedì prossimo (30 marzo) si condenseranno in un'unica puntata che uscirà non appena sarà pronta sabato 28 marzo.</span>
+
+---
+
 * Puntata #178 (16•3•2026) <span style="color:orange">⚡️ New!</span>
 
     ☞[L'acqua di mare è salata come le lacrime](https://spotifycreators-web.app.link/e/Jk4FbR9My1b)
