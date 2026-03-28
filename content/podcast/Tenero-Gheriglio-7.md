@@ -33,7 +33,7 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 
 ---
 
-<span style="color:blue">Per motivi organizzativi le puntate di Tenero Gheriglio di lunedì 23 marzo e di lunedì 30 marzo si condenseranno in un'unica puntata che uscirà non appena sarà pronta sabato 28 marzo. A presto!</span>
+<span style="color:blue">Per motivi organizzativi le puntate di Tenero Gheriglio di lunedì 23 marzo e di lunedì 30 marzo si condenseranno in un'unica puntata che uscirà non appena sarà pronta ~~sabato 28 marzo~~ giovedì 2 aprile. A presto!</span>
 
 ---
 
