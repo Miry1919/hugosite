@@ -37,7 +37,17 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #178 (16•3•2026) <span style="color:orange">⚡️ New!</span>
+* Puntata #179 (2•4•2026) <span style="color:orange">⚡️ New!</span>
+
+    ☞[La fortuna aiuta gli audaci](https://spotifycreators-web.app.link/e/V2Pq1GpN01b)
+    
+    La puntata 179 arriva con tanta calma ma sempre con tanta dolcezza. Vi racconto delle gare di nuoto, del film appena visto "The Super Mario Galaxy Movie", dei videogiochi, degli Amiibo; poi parlo dell’annuncio delle AirPods Max 2, cogliendo l’occasione per riparlare delle mie Bose QuietComfort Ultra (2ª Gen), e infine dell’annuncio della WWDC 2026 che presumibilmente porterà delle novità nell’ambito AI.
+
+    • [Super Mario Bros. Wonder: Tutti al Parco Bellabel (Pacchetto Upgrade](https://www.instant-gaming.com/en/21867-buy-super-mario-bros-wonder-nintendo-switch-2-edition-meetup-in-bellabel-park-upgrade-pack-switch-2-nintendo-eshop/)
+    
+---
+
+* Puntata #178 (16•3•2026)
 
     ☞[L'acqua di mare è salata come le lacrime](https://spotifycreators-web.app.link/e/Jk4FbR9My1b)
     
