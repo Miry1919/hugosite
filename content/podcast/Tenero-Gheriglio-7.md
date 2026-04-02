@@ -43,7 +43,7 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
     
     La puntata 179 arriva con tanta calma ma sempre con tanta dolcezza. Vi racconto delle gare di nuoto, del film appena visto "The Super Mario Galaxy Movie", dei videogiochi, degli Amiibo; poi parlo dell’annuncio delle AirPods Max 2, cogliendo l’occasione per riparlare delle mie Bose QuietComfort Ultra (2ª Gen), e infine dell’annuncio della WWDC 2026 che presumibilmente porterà delle novità nell’ambito AI.
 
-    • [Super Mario Bros. Wonder: Tutti al Parco Bellabel (Pacchetto Upgrade](https://www.instant-gaming.com/en/21867-buy-super-mario-bros-wonder-nintendo-switch-2-edition-meetup-in-bellabel-park-upgrade-pack-switch-2-nintendo-eshop/)
+    • [Super Mario Bros. Wonder: Tutti al Parco Bellabel (Pacchetto Upgrade)](https://www.instant-gaming.com/en/21867-buy-super-mario-bros-wonder-nintendo-switch-2-edition-meetup-in-bellabel-park-upgrade-pack-switch-2-nintendo-eshop/)
     
 ---
 
