@@ -33,10 +33,6 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 
 ---
 
-<span style="color:blue">Per motivi organizzativi le puntate di Tenero Gheriglio di lunedì 23 marzo e di lunedì 30 marzo si condenseranno in un'unica puntata che uscirà non appena sarà pronta ~~sabato 28 marzo~~ giovedì 2 aprile. A presto!</span>
-
----
-
 * Puntata #179 (2•4•2026) <span style="color:orange">⚡️ New!</span>
 
     ☞[La fortuna aiuta gli audaci](https://spotifycreators-web.app.link/e/V2Pq1GpN01b)
