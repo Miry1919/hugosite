@@ -35,7 +35,7 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 
 * Puntata #180 (13•4•2026) <span style="color:orange">⚡️ New!</span>
 
-    ☞[Sono solo stupidi](https://creators.spotify.com/pod/profile/miriana-novella7/episodes/180--Sono-solo-stupidi-e3hrhtm)
+    ☞[Sono solo stupidi](https://spotifycreators-web.app.link/e/kl26kwpOj2b)
     
     La puntata 180 riporta TG alla regolarità. Analizza il libro "Forse sei già felice e non lo sai" di Paolo Borzacchiello, senza dimenticare un aggiornamento sulle gare.
     
