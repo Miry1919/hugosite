@@ -33,7 +33,15 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #180 (13•4•2026) <span style="color:orange">⚡️ New!</span>
+* Puntata #181 (20•4•2026) <span style="color:orange">⚡️ New!</span>
+
+    ☞["La Terra non ha bisogno di noi"](https://spotifycreators-web.app.link/e/i3XSHhaNu2b)
+    
+    La 181ª puntata inizia con qualche appunto sulla precedente, sulla vostra collaborazione, sui prezzi dello Studio Display XDR (ldlc.com), con qualche movimento di HomePod dietro le quinte. Poi procede parlando dei nuovi videogiochi per Nintendo Switch 2, e infine del libro "Jurassic Park" di Michael Crichton, con un ampio ragionamento sul cambiamento climatico leggendo tre pagine del libro inerenti, facendo anche riferimento al libro "Qualcosa, là fuori" di Bruno Arpaia («Che ne sa Bruno Arpaia!» cit.) letto in precedenza, e tentando di capire se come al solito la verità sta nel mezzo, non nell'estremizzazione umanocentrica di Greta Thunberg.
+    
+---
+
+* Puntata #180 (13•4•2026)
 
     ☞[Sono solo stupidi](https://spotifycreators-web.app.link/e/kl26kwpOj2b)
     
