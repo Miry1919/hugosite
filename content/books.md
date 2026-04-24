@@ -5,12 +5,13 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Sottoterra. Cronache dai mille bunker della guerra ucraina_ — Luciana Coluccello
+No, sono in pausa.
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
+* _Sottoterra. Cronache dai mille bunker della guerra ucraina_ — Luciana Coluccello
 * _La memoria rende liberi. La vita interrotta di una bambina nella Shoah_ — Enrico Mentana, Liliana Segre
 * _La vita a volte capita_ — Lorenzo Marone
 * _Il cognome delle donne_ — Aurora Tamigio
