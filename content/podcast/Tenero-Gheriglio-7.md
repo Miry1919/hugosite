@@ -33,7 +33,15 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 
 ---
 
-* Puntata #181 (20•4•2026) <span style="color:orange">⚡️ New!</span>
+* Puntata #182 (4•5•2026) <span style="color:orange">⚡️ New!</span>
+
+    ☞[A meno di clausole scritte in piccolo](https://spotifycreators-web.app.link/e/qLV7ci8TR2b)
+    
+    La 182ª puntata esce in anticipo e in ritardo come al solito. Parlo del piccolo infortunio alla spalla, traendo qualche utile insegnamento, poi vi racconto della vendita degli HomePod che, come da titolo, è legale a meno di clausole scritte in piccolo.
+    
+---
+
+* Puntata #181 (20•4•2026)
 
     ☞["La Terra non ha bisogno di noi"](https://spotifycreators-web.app.link/e/i3XSHhaNu2b)
     
