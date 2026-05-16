@@ -69,7 +69,9 @@ All that was then
 
 Will be there still
 
-I'll let it pass And hold my tongue
+I'll let it pass
+
+And hold my tongue
 
 And you will think
 
