@@ -44,6 +44,7 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
     La puntata 183, ossia il VideoPodcast 21, è talmente lunga da valere doppio. Parte raccontando della situazione spalla/scapola, di gare e di medaglie, per poi continuare con accessori tech/nerd, controller, videogiochi, e una riflessione sull'ignoranza di chi pensa che questi siano solo per bambini, condividendo un video esaustivo al riguardo. Infine termina svelando una grossa "One More Thing".
     
     • [Portacartucce Elago](https://amzn.eu/d/06oyCERg)
+    
     • [Ti dicono che sei TROPPO VECCHIO per i videogiochi? Fagli vedere questo](https://youtu.be/tnQs_a2f28A?is=Zuy9N-cn6x8xvJAh)
     
 ---
