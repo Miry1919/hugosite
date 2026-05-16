@@ -11,13 +11,17 @@ date: 2026-05-01
 
 &nbsp;
 
-I know you think that I shouldn't still love you,
+I know you think that
 
-I'll tell you that.
+I shouldn't still love you,
 
-But if I didn't say it, well I'd still have felt it
+Or tell you that.
 
-where's the sense in that?
+But if I didn't say it,
+
+Well, I'd still have felt it
+
+Where's the sense in that?
 
 &nbsp;
 
@@ -27,7 +31,7 @@ Or return to where we were
 
 &nbsp;
 
-Well I will go down with this ship
+But I will go down with this ship
 
 And I won't put my hands up and surrender
 
@@ -39,7 +43,7 @@ I'm in love and always will be
 
 I know I left too much mess and
 
-destruction to come back again
+Destruction to come back again
 
 And I caused nothing but trouble
 
@@ -47,11 +51,11 @@ I understand if you can't talk to me again
 
 And if you live by the rules of "it's over"
 
-then I'm sure that that makes sense
+Then I'm sure that that makes sense
 
 &nbsp;
 
-Well I will go down with this ship
+But I will go down with this ship
 
 And I won't put my hands up and surrender
 
@@ -63,9 +67,9 @@ I'm in love and always will be
 
 And when we meet
 
-I'm sure we will
+Which I'm sure we will
 
-All that was then
+All that was there
 
 Will be there still
 
@@ -79,7 +83,7 @@ That I've moved on...
 
 &nbsp;
 
-Well I will go down with this ship
+I will go down with this ship
 
 And I won't put my hands up and surrender
 
@@ -99,7 +103,7 @@ I'm in love and always will be
 
 &nbsp;
 
-Well I will go down with this ship
+I will go down with this ship
 
 And I won't put my hands up and surrender
 
