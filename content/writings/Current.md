@@ -93,7 +93,7 @@ I'm in love and always will be
 
 &nbsp;
 
-Well I will go down with this ship
+I will go down with this ship
 
 And I won't put my hands up and surrender
 
