@@ -17,6 +17,7 @@ Annuali:
 * [2023](https://music.apple.com/it/playlist/my-2023/pl.u-BNA664VFYm7Xa5?l)
 * [2024](https://music.apple.com/it/playlist/my-2024/pl.u-RRbVYrVCZv4gro?l)
 * [2025](https://music.apple.com/it/playlist/my-2025/pl.u-BNA6vpeFYm7Xa5?l)
+* [2026](https://music.apple.com/it/playlist/my-2026/pl.u-BNA6vkNCYm7Xa5?l)
 &nbsp;
 
 A tema:
