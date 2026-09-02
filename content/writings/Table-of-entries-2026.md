@@ -1,7 +1,7 @@
 ---
 title: Table of Entries
 description: 2026
-date: 2026-07-02
+date: 2026-09-02
 ---
 
      Summer  |   Jul   |   Aug   |   Sep   
@@ -38,7 +38,7 @@ date: 2026-07-02
        30    |    x    |    x    |       
        31    |         |         |        
      ------- | ------- | ------- | ------- 
-       tot   |    1    |         |     
+       tot   |    1    |    1    |     
 
 &nbsp;
 
