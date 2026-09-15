@@ -32,7 +32,9 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 <iframe src="https://embed.podcasts.apple.com/us/podcast/tenero-gheriglio/id1500412560?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
 ---
+<span style="color:blue">Prossima puntata: 21 settembre 2026.</span>
 
+---
 * Puntata #183 (16•5•2026) <span style="color:orange">⚡️ New!</span>
 
     ☞[Il gioco fa parte della vita](https://spotifycreators-web.app.link/e/CthWYAdXb3b)
