@@ -32,10 +32,17 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 <iframe src="https://embed.podcasts.apple.com/us/podcast/tenero-gheriglio/id1500412560?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
 ---
-<span style="color:blue">Prossima puntata: 21 settembre 2026.</span>
+* Puntata #184 (21•9•2026) <span style="color:orange">⚡️ New!</span>
+
+    ☞[L'ho caricato nella Panda e l'ho portato a casa](https://spotifycreators-web.app.link/e/xaB7e0VrC6b)    
+    La puntata 184 è il rientro in grande stile di Tenero Gheriglio che aspettavamo. Inizia riprendendo dalle mie gare di nuoto, interpellando anche quella del 20 settembre appena disputata. Si chiude con una grossa rivelazione nell'ambito Apple, ripercorrendo i passaggi dal cambio di MacBook (Pro M5), per arrivare a condividere l'entusiasmo prodotto dalla decisione che ho intrapreso (Studio Display XDR).
+    
+    • [Post Instagram Piacenza](https://www.instagram.com/p/DYzLtTCjKdJ/?img_index=1)
+    
+    • [Post Instagram Italiani](https://www.instagram.com/p/DbN7lHwjCEF/?img_index=1)   
 
 ---
-* Puntata #183 (16•5•2026) <span style="color:orange">⚡️ New!</span>
+* Puntata #183 (16•5•2026)
 
     ☞[Il gioco fa parte della vita](https://spotifycreators-web.app.link/e/CthWYAdXb3b)
     
