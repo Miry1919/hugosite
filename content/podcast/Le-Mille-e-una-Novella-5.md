@@ -1,7 +1,7 @@
 ---
 title: "Le Mille e una Novella"
 description: Season 5022026
-date: 2026-9-23
+date: 2026-9-22
 ---
 
 <div align="center">È il mio secondo podcast. Finalmente l'ho fatto partire.</div>
