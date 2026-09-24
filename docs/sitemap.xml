@@ -4,7 +4,17 @@
   
   <url>
     <loc>https://miry1919.github.io/hugosite/</loc>
-    <lastmod>2026-09-02T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://miry1919.github.io/hugosite/podcast/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-7/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -30,16 +40,6 @@
   <url>
     <loc>https://miry1919.github.io/hugosite/writings/archive-6-2/</loc>
     <lastmod>2026-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://miry1919.github.io/hugosite/podcast/</loc>
-    <lastmod>2026-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-7/</loc>
-    <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -545,6 +545,10 @@
   
   <url>
     <loc>https://miry1919.github.io/hugosite/quote/la-tentazione-di-esistere/</loc>
+  </url>
+  
+  <url>
+    <loc>https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-5/</loc>
   </url>
   
   <url>

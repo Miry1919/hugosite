@@ -1,7 +1,8 @@
 ---
 title: Tenero Gheriglio
 description: Season 7, 2026
-date: 2026-02-22
+date: 2026-09-24
+
 ---
 <div align="center">
 In questo podcast parlo di tutto. Ogni lunedì alle h. 19:00 esce una nuova puntata. Operativo da metà febbraio a metà maggio e da metà settembre a metà dicembre.
