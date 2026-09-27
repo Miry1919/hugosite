@@ -1,6 +1,6 @@
 ---
 title: "Le Mille e una Novella"
-description: Season 5
+description: Season 5, 2026
 date: 2026-09-22
 ---
 
