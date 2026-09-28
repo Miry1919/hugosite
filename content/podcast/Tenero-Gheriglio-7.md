@@ -33,9 +33,33 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 <iframe src="https://embed.podcasts.apple.com/us/podcast/tenero-gheriglio/id1500412560?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
 ---
-* Puntata #184 (21•9•2026) <span style="color:orange">⚡️ New!</span>
+* Puntata #185 (28•9•2026) <span style="color:orange">⚡️ New!</span>
 
-    ☞[L'ho caricato nella Panda e l'ho portato a casa](https://spotifycreators-web.app.link/e/xaB7e0VrC6b)    
+    ☞[Il miracolo di esserci arrivata](https://spotifycreators-web.app.link/e/6uvUoWPVN6b)
+    
+    {{< youtube  NyWnLIEseMg >}}
+    
+    &nbsp;
+        
+    La puntata 185, ossia il VideoPodcast 22, è finalmente online. Parlo del mio nuovo Studio Display XDR, e di come sono arrivata a sceglierlo tramite accurati calcoli sul valore economico, riparto dalla WWDC 2026, passando per gli aumenti di prezzo, il nuovo CEO John Ternus, e l'evento Apple del 9 settembre. Vi racconto poi del nuoto, dei campionati europei, rianalizzando un'ultima volta l'infortunio alla spalla, spiegando cosa mi ha insegnato, e vi svelo qual è la mia nuova squadra di nuoto (e la palestra!). Infine parlo dei videogiochi e dei gadget Nintendo (Direct di giugno e di settembre), degli adattatori che hanno reso la Switch 2 la console perfetta per lo Studio Display XDR.
+    
+    • [Le Mille e una Novella, quinta stagione](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-5/)
+
+    • [Petizione Siri AI](https://siri4eu.com/#sign)
+
+    • [Post Instagram Europei](https://www.instagram.com/p/DcqGL0zDP3X/?stkn=MWlkb2x3cWZwazI5NA==)
+
+       • Adattatori per collegare la Nintendo Switch 2 allo Studio Display XDR:
+
+    → [Da HDMI a DisplayPort](https://amzn.eu/d/0cCgAyW9)
+
+    → [Da DisplayPort a USB-C (bidirezionale)](https://amzn.eu/d/02ZUIh98)
+
+----
+- Puntata #184 (21•9•2026)
+
+    ☞[L'ho caricato nella Panda e l'ho portato a casa](https://spotifycreators-web.app.link/e/xaB7e0VrC6b)
+
     La puntata 184 è il rientro in grande stile di Tenero Gheriglio che aspettavamo. Inizia riprendendo dalle mie gare di nuoto, interpellando anche quella del 20 settembre appena disputata. Si chiude con una grossa rivelazione nell'ambito Apple, ripercorrendo i passaggi dal cambio di MacBook (Pro M5), per arrivare a condividere l'entusiasmo prodotto dalla decisione che ho intrapreso (Studio Display XDR).
     
     • [Post Instagram Piacenza](https://www.instagram.com/p/DYzLtTCjKdJ/?img_index=1)
