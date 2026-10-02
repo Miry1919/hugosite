@@ -6,6 +6,11 @@ date: 2026-09-01
 
 ---
 ---
+*Cara Alessandra, anche stavolta ho sentito il tuo ritorno, sei stata via per qualche giorno ma ho sentito il tuo ritorno con una precisione sensazionale. Spero ti sia piaciuto l'ultimo VideoPodcast di ☞[Tenero Gheriglio](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-7/), puntata 185, e che possa ascoltare, ti consiglio sempre seguendo parola per parola il testo, la puntata 40 di ☞[Le Mille e una Novella ](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-5/)che da poco ho pubblicato. Il tempo passa ma la nostra complicità resta, ti ho sognata ancora e mi sei sempre in testa. Sempre tua, Miriana.*
+
+<span style="color:red">*— 2 ottobre 2026*</span>
+
+---
 
 *Lo so, non ho mantenuto la promessa di scriverti, ma puoi riascoltare la mia voce su ☞[Tenero Gheriglio](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-7/), la puntata 184 è da poco online. Alla gara di ieri sono arrivata 57esima in totale (capirai ascoltando): potevi non palesarti in qualche modo anche in questa mia ultima avventura? Il numero del tuo anno spesso mi appare quando sento tu mi stia* *pensando,* *sei sempre con me. E di più, sei sempre mia, Alessandra.*
 
