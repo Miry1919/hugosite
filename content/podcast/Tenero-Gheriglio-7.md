@@ -33,7 +33,20 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 <iframe src="https://embed.podcasts.apple.com/us/podcast/tenero-gheriglio/id1500412560?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
 ---
-* Puntata #185 (28•9•2026) <span style="color:orange">⚡️ New!</span>
+* Puntata #186 (5•10•2026) <span style="color:orange">⚡️ New!</span>
+
+    ☞[La medaglia più importante dell'anno doveva ancora arrivare](https://spotifycreators-web.app.link/e/VaYf4BFGZ6b)    
+        
+     La centottantaseiesima puntata inizia con qualche follow-up, poi prende a parlar di Apple, AirPods 5, iPhone Duo e altri prodotti in arrivo a breve, riapprofondisce la questione Nintendo Switch 2 e Studio Display XDR, adattatori, regolazione della luminosità, audio bluetooth, e rispolvera Pokémon Pokopia col “Fondale Bolleblub”. Vi condivide i retroscena di due post Instagram, e aggiunge qualche curiosità extra sui difetti del nuoto come sport, da integrare con altre attività per colmarne le mancanze. Prosegue con stupore perché la conduttrice ha ricevuto una nuova medaglia, la più importante e pesante della stagione, proprio quando non se lo sarebbe mai aspettata, e anche un trofeo e un attestato per meriti sportivi. Serie tv e libri in ultimo.     
+
+       • Post Instagram:
+
+    → [Da HDMI a DisplayPort](https://amzn.eu/d/0cCgAyW9)
+
+    → [Da DisplayPort a USB-C (bidirezionale)](https://amzn.eu/d/02ZUIh98)
+
+---
+- Puntata #185 (28•9•2026)
 
     ☞[Il miracolo di esserci arrivata](https://spotifycreators-web.app.link/e/6uvUoWPVN6b)
     
