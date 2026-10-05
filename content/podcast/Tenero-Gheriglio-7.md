@@ -41,9 +41,9 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 
        • Post Instagram:
 
-    → [Da HDMI a DisplayPort](https://amzn.eu/d/0cCgAyW9)
+    → [Bagni Misteriosi](https://www.instagram.com/p/DddxNDEjNfz/?img_index=1)
 
-    → [Da DisplayPort a USB-C (bidirezionale)](https://amzn.eu/d/02ZUIh98)
+    → [Check fisico a sorpresa](https://www.instagram.com/p/DeFNoOUDFfu/?img_index=1)
 
 ---
 - Puntata #185 (28•9•2026)
