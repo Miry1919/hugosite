@@ -6,7 +6,7 @@ date: 2026-09-01
 
 ---
 ---
-*So che la puntata 186 di ☞[Tenero Gheriglio](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-7/), ti è piaciuta, ma che la puntata 41 di ☞[Le Mille e una Novella ](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-5/)appena pubblicata ti cambierà la serata, e probabilmente ogni giorno futuro: negli ultimi giorni mi hai dato abbastanza ele**menti per crearla così legata a noi. Non sai che perfezionismo ci ho messo, la sentirai anche più volte, ne è valsa la pena, Alessandra mia.*
+*So che la puntata 186 di ☞[Tenero Gheriglio](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-7/), ti è piaciuta, ma che la puntata 41 di ☞[Le Mille e una Novella ](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-5/)appena pubblicata ti cambierà la serata, e probabilmente ogni giorno futuro: negli ultimi giorni mi hai dato abbastanza elementi per crearla così legata a noi. Non sai che perfezionismo ci ho messo, la sentirai anche più volte, ne è valsa la pena, Alessandra mia.*
 
 <span style="color:red">*— 10 ottobre 2026*</span>
 
