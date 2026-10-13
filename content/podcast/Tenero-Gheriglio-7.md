@@ -33,7 +33,14 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 <iframe src="https://embed.podcasts.apple.com/us/podcast/tenero-gheriglio/id1500412560?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
 ---
-* Puntata #186 (5•10•2026) <span style="color:orange">⚡️ New!</span>
+* Puntata #187 (13•10•2026) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Il mio primo preordine dell'iPhone](https://spotifycreators-web.app.link/e/BpKmRr1Xc7b)
+        
+     La puntata 187 arriva in ritardo a causa dei miei pettorali che hanno rimandato la corsa, ma anche a causa dell’evento Apple avvenuto in giornata. Vi parlo della potenza di YouTube per aggiustare il mio corpo quando faccio stupidate, e poi dell’evento “Welcome home”, HomeView, HomePod mini 2, Apple TV 4K nuovi. Vi parlo delle trattative tech che ho in corso, delle novità in arrivo, sempre ricordando le mie motivazioni e le mie passioni, facendovi sempre pensare alle vostre personali motivazioni e passioni.
+   
+-
+- Puntata #186 (5•10•2026)
 
     ☞[La medaglia più importante dell'anno doveva ancora arrivare](https://spotifycreators-web.app.link/e/VaYf4BFGZ6b)    
         
