@@ -38,12 +38,12 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
     ☞[Il mio primo preordine dell'iPhone](https://spotifycreators-web.app.link/e/BpKmRr1Xc7b)
         
      La puntata 187 arriva in ritardo a causa dei miei pettorali che hanno rimandato la corsa, ma anche a causa dell’evento Apple avvenuto in giornata. Vi parlo della potenza di YouTube per aggiustare il mio corpo quando faccio stupidate, e poi dell’evento “Welcome home”, HomeView, HomePod mini 2, Apple TV 4K nuovi. Vi parlo delle trattative tech che ho in corso, delle novità in arrivo, sempre ricordando le mie motivazioni e le mie passioni, facendovi sempre pensare alle vostre personali motivazioni e passioni.
-   
--
-- Puntata #186 (5•10•2026)
 
-    ☞[La medaglia più importante dell'anno doveva ancora arrivare](https://spotifycreators-web.app.link/e/VaYf4BFGZ6b)    
-        
+-        --
+* Puntata #186 (5•10•2026)
+
+    ☞[La medaglia più importante dell'anno doveva ancora arrivare](https://spotifycreators-web.app.link/e/jpPkFs1Xc7b)
+
      La centottantaseiesima puntata inizia con qualche follow-up, poi prende a parlar di Apple, AirPods 5, iPhone Duo e altri prodotti in arrivo a breve, riapprofondisce la questione Nintendo Switch 2 e Studio Display XDR, adattatori, regolazione della luminosità, audio bluetooth, e rispolvera Pokémon Pokopia col “Fondale Bolleblub”. Vi condivide i retroscena di due post Instagram, e aggiunge qualche curiosità extra sui difetti del nuoto come sport, da integrare con altre attività per colmarne le mancanze. Prosegue con stupore perché la conduttrice ha ricevuto una nuova medaglia, la più importante e pesante della stagione, proprio quando non se lo sarebbe mai aspettata, e anche un trofeo e un attestato per meriti sportivi. Serie tv e libri in ultimo.     
 
        • Post Instagram:
