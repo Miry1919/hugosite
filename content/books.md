@@ -6,6 +6,7 @@ description: ¶
 #### <span style="color:red">Sto leggendo</span>
 
 * _La vita a volte capita_ — Lorenzo Marone
+
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
