@@ -5,13 +5,11 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _La memoria rende liberi. La vita interrotta di una bambina nella Shoah_ — Enrico Mentana, Liliana Segre
-
+* _La vita a volte capita_ — Lorenzo Marone
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* _La vita a volte capita_ — Lorenzo Marone
 * _Il cognome delle donne_ — Aurora Tamigio
 * _Ragazzi di vita_ — Pier Paolo Pasolini
 
@@ -26,6 +24,7 @@ description: ¶
 * _L'Agnese va a morire_ — Renata Viganò
 * _Forse sei già felice e non lo sai_ — Paolo Borzacchiello
 - _Sottoterra. Cronache dai mille bunker della guerra ucraina_ — Luciana Coluccello
+* _La memoria rende liberi. La vita interrotta di una bambina nella Shoah_ — Enrico Mentana, Liliana Segre
 
 <span style="color:red">*2025 (dal primo all'ultimo)*</span>
 
