@@ -33,7 +33,16 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 <iframe src="https://embed.podcasts.apple.com/us/podcast/tenero-gheriglio/id1500412560?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
 ---
-* Puntata #187 (13•10•2026) <span style="color:orange">⚡️ New!</span>
+* Puntata #188 (20•10•2026) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Metto le armi giù in portineria](https://spotifycreators-web.app.link/e/l86XvFmbo7b)
+        
+    La puntata 188 arriva in ritardo ma agguerritissima. Vi racconto cosa mi è successo per rimandare la registrazione, con un ragionamento sul dolore, il pianto, la gelosia, l’assurdo degli uomini. Poi passo al sodo, o meglio al Duo, condividendo con voi la mia esperienza di preordine su Amazon, e tutte le dinamiche che ruotano attorno a questo mio tecnologico aggiornamento di vita, che pregiudicherà ogni aspettativa futura.
+
+    • Video [“You Ordered the iPhone Duo? You Have No Idea What’s Coming!”](https://youtu.be/-zR9OfeDRXA?si=6bdPjp5h_p4HdEhb)
+
+----
+- Puntata #187 (13•10•2026)
 
     ☞[Il mio primo preordine dell'iPhone](https://spotifycreators-web.app.link/e/BpKmRr1Xc7b)
         
