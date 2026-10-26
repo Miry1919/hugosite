@@ -33,7 +33,14 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 <iframe src="https://embed.podcasts.apple.com/us/podcast/tenero-gheriglio/id1500412560?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
 ---
-* Puntata #188 (20•10•2026) <span style="color:orange">⚡️ New!</span>
+* Puntata #189 (26•10•2026) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Lo cullerò come un bambino](https://spotifycreators-web.app.link/e/Zxa243aDy7b)
+        
+    La puntata 189 si immerge completamente nel mio mondo tech, con iPad mini A20 Pro appena presentato, iPhone Duo appena disponibile, iPhone Air che fa buon viaggio, la eSim Vodafone che forse è solo stupida ma alla fine comunque versatile, la storia di Apple il relazione alla conduttrice, le valutazioni tecniche delle specifiche di ogni dispositivo, raggiungendo una conclusione ottima sul da farsi.    
+
+---
+* Puntata #188 (20•10•2026)
 
     ☞[Metto le armi giù in portineria](https://spotifycreators-web.app.link/e/l86XvFmbo7b)
         
