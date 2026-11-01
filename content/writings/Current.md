@@ -6,7 +6,7 @@ date: 2026-09-01
 
 ---
 ---
-*Stai seguendo tutti i miei movimenti e tutte le puntate di ☞[Tenero Gheriglio](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-7/) e non ti perderai di certo quella appena pubblicata di ☞[Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-5/). Buon Halloween Alessandra, non è uno scherzetto, ho solamente dolcetti per te.*
+*Stai seguendo tutti i miei movimenti e tutte le puntate di ☞[Tenero Gheriglio](https://miry1919.github.io/hugosite/podcast/tenero-gheriglio-7/), e non ti perderai di certo quella appena pubblicata di ☞[Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-5/). Buon Halloween Alessandra, non è uno scherzetto, ho solamente dolcetti per te.*
 
 *<span style="color:red">— 31 ottobre 2026*</span>
 
