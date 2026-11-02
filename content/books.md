@@ -6,8 +6,8 @@ description: ¶
 #### <span style="color:red">Sto leggendo</span>
 
 * _Il cognome delle donne_ — Aurora Tamigio
-&nbsp;
 
+&nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
