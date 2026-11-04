@@ -1,7 +1,7 @@
 ---
 title: Table of Entries
 description: 2026
-date: 2026-09-02
+date: 2026-11-04
 ---
      
      
