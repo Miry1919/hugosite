@@ -33,16 +33,16 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 <iframe src="https://embed.podcasts.apple.com/us/podcast/tenero-gheriglio/id1500412560?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
 ---
-* Puntata #191 (9•11•2026) <span style="color:orange">⚡️ New!</span>ciao
+* Puntata #191 (9•11•2026) <span style="color:orange">⚡️ New!</span>
 
     ☞[Un sogno che non pensavo nemmeno di avere](https://creators.spotify.com/pod/profile/miriana-novella7/episodes/191--Un-sogno-che-non-sapevo-nemmeno-di-avere-e3s3h80)
         
     La puntata 191 prosegue il discorso su iPhone Duo (prova dell’Apple Pencil USB-C, consigli per la pulizia del Nanotexture), iPad mini A20 Pro, MacBook Pro PROLED XDR lasciato in sospeso nella scorsa puntata, servendosi ancora solo e unicamente della magia dell’audio. Ma in principio vi aggiorna sull’andamento dei miei allenamenti, vi racconta dell’evento Arena a cui ho potuto partecipare l’8 novembre, con l’atleta olimpico Massimiliano Rosolino che stimo tantissimo anche come persona.
 
-  • [Post Instagram Evento Arena](https://www.instagram.com/p/DffFHfiDJrK)
+     • [Post Instagram Evento Arena](https://www.instagram.com/p/DffFHfiDJrK)
 
--
-- Puntata #190 (2•11•2026)
+---
+* Puntata #190 (2•11•2026)
 
     ☞[Adoro questo iPhone Duo](https://creators.spotify.com/pod/profile/miriana-novella7/episodes/190--Adoro-questo-iPhone-Duo-e3rk2me)
         
