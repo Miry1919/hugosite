@@ -44,7 +44,7 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 ---
 * Puntata #190 (2•11•2026)
 
-    ☞[Adoro questo iPhone Duo](https://creators.spotify.com/pod/profile/miriana-novella7/episodes/190--Adoro-questo-iPhone-Duo-e3rk2me)
+    ☞["Adoro questo iPhone Duo"](https://creators.spotify.com/pod/profile/miriana-novella7/episodes/190--Adoro-questo-iPhone-Duo-e3rk2me)
         
     La puntata 190 parte con un aggiornamento sui videogiochi, sui libri, per poi trattare di Apple, dell’annuncio dei nuovi MacBook Pro con display PROLED XDR, e condividendo in tutto e per tutto la prima settimana di esperienza nell’utilizzo del mio iPhone Duo, con la custodia Folio con supporto, e tutta la passione che ci metto, alla ricerca della verità e contro ogni invidioso di cattivo gusto.
 
