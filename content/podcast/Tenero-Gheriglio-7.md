@@ -35,7 +35,7 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 ---
 * Puntata #191 (9•11•2026) <span style="color:orange">⚡️ New!</span>
 
-    ☞[Un sogno che non pensavo nemmeno di avere](https://creators.spotify.com/pod/profile/miriana-novella7/episodes/191--Un-sogno-che-non-sapevo-nemmeno-di-avere-e3s3h80)
+    ☞[Un sogno che non sapevo nemmeno di avere](https://creators.spotify.com/pod/profile/miriana-novella7/episodes/191--Un-sogno-che-non-sapevo-nemmeno-di-avere-e3s3h80)
         
     La puntata 191 prosegue il discorso su iPhone Duo (prova dell’Apple Pencil USB-C, consigli per la pulizia del Nanotexture), iPad mini A20 Pro, MacBook Pro PROLED XDR lasciato in sospeso nella scorsa puntata, servendosi ancora solo e unicamente della magia dell’audio. Ma in principio vi aggiorna sull’andamento dei miei allenamenti, vi racconta dell’evento Arena a cui ho potuto partecipare l’8 novembre, con l’atleta olimpico Massimiliano Rosolino che stimo tantissimo anche come persona.
 
