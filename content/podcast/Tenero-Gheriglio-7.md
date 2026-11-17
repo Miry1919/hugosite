@@ -32,8 +32,20 @@ Nella pagina attuale trovi la stagione 7, invece per le altre stagioni segui i l
 
 <iframe src="https://embed.podcasts.apple.com/us/podcast/tenero-gheriglio/id1500412560?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 660px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; background-color: transparent;"></iframe>
 
+
 ---
-* Puntata #191 (9•11•2026) <span style="color:orange">⚡️ New!</span>
+* Puntata #192 (17•11•2026) <span style="color:orange">⚡️ New!</span>
+
+    ☞[Ci giocano sulla paura della gente](https://creators.spotify.com/pod/profile/miriana-novella7/episodes/192--Ci-giocano-sulla-paura-della-gente-e3sil8i)
+        
+  La puntata 192 esce in ritardo ma agguerritissima, parlo del mio nuovo HomePod mini 2, ripercorrendo la mia storia con gli HomePod, dei nuovi videogiochi, dei nuovi libri, e infine di iPhone Duo concludendo il discorso con l’assicurazione Apple Care+, che si trasforma in una lezione generale di economia, e con altre condivisioni sulla mia esperienza con questo nuovo dispositivo.    
+
+     • [Gli altri iPhone diventano allungatissimi usando l’iPhone Duo](https://www.instagram.com/reel/DfClf5gx0ob/?psln=MWJiY2R6d2d6MGF4cg==)
+
+  • [I Love The iPhone Duo and I Don't Care if You Don't](https://youtu.be/Mj1W0uXXMmQ?is=v9ngSh0E4gFtmxG1)
+
+---
+* Puntata #191 (9•11•2026)
 
     ☞[Un sogno che non sapevo nemmeno di avere](https://creators.spotify.com/pod/profile/miriana-novella7/episodes/191--Un-sogno-che-non-sapevo-nemmeno-di-avere-e3s3h80)
         
