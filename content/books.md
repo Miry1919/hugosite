@@ -12,11 +12,11 @@ description: ¶
 #### <span style="color:red">Leggerò a breve</span>
 
 * *Il nuoto di Massimiliano Rosolino* — Massimiliano Rosolino
-- Ragazzi di vita_ — Pier Paolo Pasolini
+- *Ragazzi di vita* — Pier Paolo Pasolini
 - *Shantaram* — Gregory David Roberts
 - *Le notti bianche: La cronaca di Pietroburgo* — Fëdor Dostoevskij
 - *Ricordi dal sottosuolo* — Fëdor Dostoevskij
-- *La morte di Ivan Il'ic *— Lev Tolstoj
+- *La morte di Ivan Il'ic* — Lev Tolstoj
 - *La confessione* — Lev Tolstoj
 - *I tre moschettieri* — Alexandre Dumas
 - *Vent'anni dopo* — Alexandre Dumas
