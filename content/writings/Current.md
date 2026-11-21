@@ -5,7 +5,7 @@ date: 2026-11-03
 ---
 ---
 ---
-*Avrai seguito la storia delle piastrelle sul famoso posto segretissimo, il canale Telegram, e sarai svenuta con la puntata 47 di ☞[Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-5/) da poco pubblicata. Che regalo sono state tutte queste puntate? Te ne avevo fatte quattro e ora con "Ipnotizzata che tu fossi ipnotizzata" siamo a cinque. Rifarei questo viaggio con te mille altre volte.*
+*Avrai seguito la storia delle piastrelle sul famoso posto segretissimo, il ☞[canale Telegram](https://t.me/miry1919), cliccando su "Preview channel" (per Pierfi), e sarai svenuta con la puntata 47 di ☞[Le Mille e una Novella](https://miry1919.github.io/hugosite/podcast/le-mille-e-una-novella-5/) da poco pubblicata. Che regalo sono state tutte queste puntate? Te ne avevo fatte quattro e ora con "Ipnotizzata che tu fossi ipnotizzata" siamo a cinque. Rifarei questo viaggio con te mille altre volte.*
 
 *<span style="color:red">— 21 novembre 2026*</span>
 
