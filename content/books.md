@@ -5,13 +5,12 @@ description: ¶
 
 #### <span style="color:red">Sto leggendo</span>
 
-* _Il cognome delle donne_ — Aurora Tamigio
+* *Il nuoto di Massimiliano Rosolino* — Massimiliano Rosolino
 
 &nbsp;
 
 #### <span style="color:red">Leggerò a breve</span>
 
-* *Il nuoto di Massimiliano Rosolino* — Massimiliano Rosolino
 - *Ragazzi di vita* — Pier Paolo Pasolini
 - *Shantaram* — Gregory David Roberts
 - *Le notti bianche: La cronaca di Pietroburgo* — Fëdor Dostoevskij
@@ -35,6 +34,7 @@ description: ¶
 - _Sottoterra. Cronache dai mille bunker della guerra ucraina_ — Luciana Coluccello
 * _La memoria rende liberi. La vita interrotta di una bambina nella Shoah_ — Enrico Mentana, Liliana Segre
 * _La vita a volte capita_ — Lorenzo Marone
+- _Il cognome delle donne_ — Aurora Tamigio
 
 <span style="color:red">*2025 (dal primo all'ultimo)*</span>
 
